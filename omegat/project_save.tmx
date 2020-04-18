@@ -8,8 +8,16 @@
       <tuv lang="en">
         <seg>Languages</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T040548Z" creationid="hp" creationdate="20200418T040548Z">
-        <seg>语言Languages</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T040903Z" creationid="hp" creationdate="20200418T040548Z">
+        <seg>语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can either enter the source and target languages by hand or use the drop down menus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T040917Z" creationid="hp" creationdate="20200418T040917Z">
+        <seg>您可以手动输入或者通过下拉菜单选择原文与译文语言。.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
