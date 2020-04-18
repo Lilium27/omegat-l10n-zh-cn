@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -210,6 +210,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074442Z" creationid="hp" creationdate="20200418T074442Z">
         <seg> &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; 的所有内容映射到本地 OmegaT 项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An OmegaT project is a folder containing files and subfolders.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T144237Z" creationid="Liliu" creationdate="20200418T144237Z">
+        <seg>OmegaT 项目是一个文件夹，其中包含若干文件和子文件夹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -863,6 +871,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the files to be translated are parts of a tree structure (as in a website), you need only specify the top-level subfolder and OmegaT will maintain the entire contents, while keeping the tree structure intact.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T144451Z" creationid="Liliu" creationdate="20200418T144451Z">
+        <seg>如果待翻译文件是树形结构的一部分（比如像网站中），您只需指定顶级子文件夹，OmegaT 将维护整个内容，同时维持树形结构不变。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the original document was LTR, the display direction of the target document must be changed manually to RTL in its viewing application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070542Z" creationid="hp" creationdate="20200418T070542Z">
@@ -1476,6 +1492,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073807Z" creationid="hp" creationdate="20200418T073807Z">
         <seg>请注意，在翻译期间，OmegaT 只修改两个文件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that the structure of the source subfolder may take any form you like.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T144352Z" creationid="Liliu" creationdate="20200418T144352Z">
+        <seg>注意：source 子文件夹的结构可以按照您的喜好采用任何形式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2228,6 +2252,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The source subfolder contains files to be translated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T144301Z" creationid="Liliu" creationdate="20200418T144301Z">
+        <seg>source 子文件夹包含待翻译文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The status bar displays work-flow related messages at the bottom of the main window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134739Z" creationid="Liliu" creationdate="20200418T134739Z">
@@ -2904,6 +2936,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T124549Z" creationid="DSS" creationdate="20200418T124549Z">
         <seg>按下&lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;可以添加新术语到词汇表，也可以复制现有的词汇表到项目文件夹的&lt;f1&gt;/glossary/&lt;/f1&gt; 子文件夹，OmegaT会自动在其中搜索单词。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add the files to it later.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T144319Z" creationid="Liliu" creationdate="20200418T144319Z">
+        <seg>之后您可以将文件添加到其中。</seg>
       </tuv>
     </tu>
     <tu>
