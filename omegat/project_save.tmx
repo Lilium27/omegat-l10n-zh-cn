@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -690,6 +690,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051706Z" creationid="hp" creationdate="20200418T051706Z">
         <seg>在这里你可以选择不同的子文件夹，例如包含原文文件的子文件夹、译文文件的子文件夹等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How To...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T131647Z" creationid="Liliu" creationdate="20200418T131647Z">
+        <seg>指南</seg>
       </tuv>
     </tu>
     <tu>
