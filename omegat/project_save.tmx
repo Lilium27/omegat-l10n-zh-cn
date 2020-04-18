@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T140547Z" creationid="Liliu" creationdate="20200418T140547Z">
+        <seg>注释</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy the documents, you need the translation memory for, into the source folder of the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072501Z" creationid="hp" creationdate="20200418T072501Z">
@@ -1444,6 +1452,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134511Z" creationid="Liliu" creationdate="20200418T134511Z">
         <seg>注意：遇到非独特句段，标记会显示为 &lt;l0&gt;&lt;segment nnnn +yy more&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T140543Z" creationid="Liliu" creationdate="20200418T140543Z">
+        <seg>备注</seg>
       </tuv>
     </tu>
     <tu>
