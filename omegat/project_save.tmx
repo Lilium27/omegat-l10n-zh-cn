@@ -48,8 +48,8 @@
       <tuv lang="en">
         <seg>If the Auto-propagation check box is not checked, the segments with alternative translations are left untranslated until the user has decided which translation is to be used.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041741Z" creationid="hp" creationdate="20200418T041741Z">
-        <seg>来纠正。如果未勾选自动传播复选框，则含有替代译文的片段会保持未译状态直到用户决定使用哪种译文。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041935Z" creationid="hp" creationdate="20200418T041741Z">
+        <seg>如果未勾选自动传播复选框，则含有替代译文的片段会保持未译状态直到用户决定使用哪种译文。</seg>
       </tuv>
     </tu>
     <tu>
@@ -88,8 +88,8 @@
       <tuv lang="en">
         <seg>Mistranslated segments can of course be corrected later manually using &lt;g0&gt;Create Alternative Translation&lt;/g0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041722Z" creationid="hp" creationdate="20200418T041722Z">
-        <seg>当然，错译片段之后可以手动用</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041921Z" creationid="hp" creationdate="20200418T041722Z">
+        <seg>当然，错译片段之后可以手动纠正。</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,6 +106,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041535Z" creationid="hp" creationdate="20200418T041535Z">
         <seg>项目属性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove Tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041940Z" creationid="hp" creationdate="20200418T041940Z">
+        <seg>删除标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -146,6 +154,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041323Z" creationid="hp" creationdate="20200418T041323Z">
         <seg>会显示所选语言所对应的分词器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When enabled, all the formatting tags are removed from source segments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T042039Z" creationid="hp" creationdate="20200418T042039Z">
+        <seg>启用后，将从原文片段中移除所有格式化标签。</seg>
       </tuv>
     </tu>
     <tu>
