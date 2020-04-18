@@ -745,7 +745,7 @@
       <tuv lang="en">
         <seg>Glossary</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T135716Z" creationid="Liliu" creationdate="20200418T135716Z">
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T140429Z" creationid="Liliu" creationdate="20200418T135716Z">
         <seg>词汇表</seg>
       </tuv>
     </tu>
@@ -2150,8 +2150,8 @@
       <tuv lang="en">
         <seg>The source segment in the example below was “&lt;e0&gt;Context menu command&lt;/e0&gt;”, as in the Fuzzy Matches example above, and the terms shown were found in the glossaries, available (Microsoft's Term collection and Slovenian Linux User group Glossary).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T140333Z" creationid="Liliu" creationdate="20200418T140017Z">
-        <seg>如同之前的模糊匹配举例，下方举例中的源语句段为“&lt;e0&gt;Context menu command&lt;/e0&gt;”，显示的术语能够在词汇表中找到 the terms shown were found in the glossaries, available (Microsoft's Term collection and Slovenian Linux User group Glossary).</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T140535Z" creationid="Liliu" creationdate="20200418T140017Z">
+        <seg>如同之前的模糊匹配举例，下方举例中的源语句段为“&lt;e0&gt;Context menu command&lt;/e0&gt;”，显示的术语能够在可用词汇表中找到（Microsoft 名词集和斯洛文尼亚 Linux 用户组词汇表）。</seg>
       </tuv>
     </tu>
     <tu>
