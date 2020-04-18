@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, in OmegaT tags, product names that must be left in the LTR source language, place holders in localization files, and numbers in text.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T145509Z" creationid="hp" creationdate="20200418T145401Z">
+        <seg>例如，在  OmegaT 的标签中, product names that must be left in the LTR source language, place holders in localization files, and numbers in text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Frequently validate tags (see Tag validation) and produce translated documents (see below and Menu) at regular intervals to make it easier to catch any problems that arise.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070350Z" creationid="hp" creationdate="20200418T070350Z">
@@ -1106,8 +1114,8 @@
       <tuv lang="en">
         <seg>In cases like these it becomes necessary to switch to RTL mode, so that the RTL (in fact bidirectional) text is displayed correctly.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070213Z" creationid="hp" creationdate="20200418T070213Z">
-        <seg>例如，在 OmegaT 标签中、必须维持使用从左向右的原文语言的产品名称、本地化文件中的占位符、以及文本中的数字。在这类情况下，必须转换为从右向左模式，以正确显示从右向左（实际上是双向）文本。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T145519Z" creationid="hp" creationdate="20200418T070213Z">
+        <seg>在这类情况下，必须转换为从右向左模式，以正确显示从右向左（实际上是双向）文本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1122,8 +1130,8 @@
       <tuv lang="en">
         <seg>In many cases, however, it is necessary to embed LTR text in RTL text.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070117Z" creationid="hp" creationdate="20200418T065946Z">
-        <seg>然而在许多情况下，必须在从右向左文本中嵌入从左向右文本。。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T145406Z" creationid="hp" creationdate="20200418T065946Z">
+        <seg>然而在许多情况下，必须在从右向左文本中嵌入从左向右文本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1242,8 +1250,8 @@
       <tuv lang="en">
         <seg>It can also be used in all the input fields found in &lt;a7&gt;OmegaT&lt;/a7&gt; - in the search window, for segmentation rules etc.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T145154Z" creationid="hp" creationdate="20200418T065734Z">
-        <seg>中出现的所有输入字段中使用——搜索窗口中、分割规则等。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T145304Z" creationid="hp" creationdate="20200418T065734Z">
+        <seg>它也适用于在所有的输入字段中使用——搜索窗口中、分割规则等。</seg>
       </tuv>
     </tu>
     <tu>
