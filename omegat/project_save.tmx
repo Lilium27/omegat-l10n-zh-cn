@@ -2844,6 +2844,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can browse through notes using &lt;g0&gt;GoTo → Next Note&lt;/g0&gt; and &lt;g1&gt;GoTo → Previous Note&lt;/g1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T141056Z" creationid="Liliu" creationdate="20200418T141056Z">
+        <seg>您可以通过选择 &lt;g0&gt;转到 → 下一个注释&lt;/g0&gt; 和 &lt;g1&gt;转到 → 上一个注释&lt;/g1&gt; 进行浏览。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can change the position of any pane or even undock it to a separate window by clicking and dragging the pane by its name.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134229Z" creationid="Liliu" creationdate="20200418T134229Z">
