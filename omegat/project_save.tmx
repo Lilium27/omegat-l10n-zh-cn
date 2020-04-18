@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2582,8 +2582,8 @@
       <tuv lang="en">
         <seg>To create a project-specific set of file filters, click on the &lt;g0&gt;File filter ... &lt;/g0&gt;button, then activate &lt;g1&gt;Enable project specific filters&lt;/g1&gt; check box in the window that opens.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T064603Z" creationid="hp" creationdate="20200418T064320Z">
-        <seg>为创建具体项目的分割规则集，点击 &lt;g0&gt;文件过滤器... &lt;/g0&gt;按钮，然后点击激活 &lt;g1&gt;选中项目具体文件过滤器&lt;/g1&gt;当前窗口中的复选框.</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T144341Z" creationid="hp" creationdate="20200418T064320Z">
+        <seg>为创建具体项目的分割规则集，点击 &lt;g0&gt;文件过滤器... &lt;/g0&gt;按钮，然后激活 &lt;g1&gt;启用项目具体文件过滤器&lt;/g1&gt;当前窗口的复选框.</seg>
       </tuv>
     </tu>
     <tu>
