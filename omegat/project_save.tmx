@@ -1723,6 +1723,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T143524Z" creationid="Liliu" creationdate="20200418T143524Z">
+        <seg>项目文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project parameters must be changed by the project manager.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120922Z" creationid="DSS" creationdate="20200418T120922Z">
