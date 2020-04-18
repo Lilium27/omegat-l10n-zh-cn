@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2382,8 +2382,8 @@
       <tuv lang="en">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041553Z" creationid="hp" creationdate="20200418T041553Z">
-        <seg>此对话框可通过选择</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T143202Z" creationid="hp" creationdate="20200418T041553Z">
+        <seg>此对话框可通过选择&lt;g1&gt;项目&lt;/g1&gt; &lt;g2&gt;属性...&lt;/g2&gt; </seg>
       </tuv>
     </tu>
     <tu>
