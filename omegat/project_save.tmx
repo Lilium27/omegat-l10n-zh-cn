@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionary</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T143117Z" creationid="Liliu" creationdate="20200418T143117Z">
+        <seg>词典</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Disconnect from the network before opening the project,</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120957Z" creationid="DSS" creationdate="20200418T120957Z">
@@ -731,6 +739,14 @@
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134644Z" creationid="Liliu" creationdate="20200418T134644Z">
         <seg>
 从实际角度看，最为重要的一对数字是第二对：它告诉您迄今为已完成的工作量，以及和总工作量或第二个数字之间的关系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T143111Z" creationid="Liliu" creationdate="20200418T143111Z">
+        <seg>模糊匹配</seg>
       </tuv>
     </tu>
     <tu>
@@ -1328,6 +1344,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine Translation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T143120Z" creationid="Liliu" creationdate="20200418T143120Z">
+        <seg>机器翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Main Window - counters</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134705Z" creationid="Liliu" creationdate="20200418T134705Z">
@@ -1380,6 +1404,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065740Z" creationid="hp" creationdate="20200418T065740Z">
         <seg>在片段中混合从右向左和从左向右字符串</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Multiple Translations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T143126Z" creationid="Liliu" creationdate="20200418T143126Z">
+        <seg>多重译文</seg>
       </tuv>
     </tu>
     <tu>
