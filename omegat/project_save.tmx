@@ -1853,8 +1853,8 @@
       <tuv lang="en">
         <seg>Some of the file formats, specialized for translation work, for instance PO, allow the inclusion of comments.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T142007Z" creationid="Liliu" creationdate="20200418T142007Z">
-        <seg>一些翻译工作中的特殊文件类型，如 PO 文件，允许添加注。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T142013Z" creationid="Liliu" creationdate="20200418T142007Z">
+        <seg>一些翻译工作中的特殊文件类型，如 PO 文件，允许添加注释。</seg>
       </tuv>
     </tu>
     <tu>
