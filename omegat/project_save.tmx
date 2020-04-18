@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Depending on the pane status, different signs can appear at its top right corner:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134233Z" creationid="Liliu" creationdate="20200418T134233Z">
+        <seg>根据窗格的状态，其右上角会显示不同的符号：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Disconnect from the network before opening the project,</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120957Z" creationid="DSS" creationdate="20200418T120957Z">
@@ -522,6 +530,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070547Z" creationid="hp" creationdate="20200418T070547Z">
         <seg>每种输出格式都有专门的方法来处理从右向左显示；查看相关的应用程序手册来了解详情。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134417Z" creationid="Liliu" creationdate="20200418T134417Z">
+        <seg>编辑器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editor pane: If an OmegaT project file (&lt;f0&gt;omegat.project&lt;/f0&gt;) is dropped on this pane, the corresponding project will be opened, closing first any opened project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134350Z" creationid="Liliu" creationdate="20200418T134350Z">
+        <seg>编辑器窗格：如果拖动 OmegaT 项目文件（&lt;f0&gt;omegat.project&lt;/f0&gt;） 到此窗格，相应的项目将会打开，在此之前会关闭已打开的项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -678,10 +702,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fuzzy Matches pane: Dropped &lt;f0&gt;.tmx&lt;/f0&gt; files will be copied to the &lt;f1&gt;tm&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134409Z" creationid="Liliu" creationdate="20200418T134409Z">
+        <seg>模糊匹配窗格：拖进去的 &lt;f0&gt;.tmx&lt;/f0&gt; 文件会复制到 &lt;f1&gt;tm&lt;/f1&gt; 文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Generate the translated file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123824Z" creationid="DSS" creationdate="20200418T123824Z">
         <seg>生成译文文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary pane: Dropped files with known glossary extensions (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) will be copied to the &lt;f2&gt;glossary&lt;/f2&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134413Z" creationid="Liliu" creationdate="20200418T134413Z">
+        <seg>词汇表窗格：拖入的带有已知词汇表扩展名（&lt;f0&gt;.txt&lt;/f0&gt;、 &lt;f1&gt;.tab&lt;/f1&gt;等）的文件将会复制到 &lt;f2&gt;glossary&lt;/f2&gt; 文件夹中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -818,6 +858,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070952Z" creationid="hp" creationdate="20200418T070952Z">
         <seg>如果您认为丢失了翻译数据，那么可以使用以下步骤将项目恢复到最近保存的状态，通常是大约 10 分钟以内：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you can not see all the panes (be it opened or minimized), pressing &lt;g0&gt; Options &gt; Restore Main Window &lt;/g0&gt;will restore them to the state, defined in the installation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134238Z" creationid="Liliu" creationdate="20200418T134238Z">
+        <seg>如果无法看到所有窗格（已打开或最小化），按下 &lt;g0&gt; 选项 &gt; 恢复主窗口 &lt;/g0&gt;将其恢复为安装时定义的状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1074,6 +1122,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T124638Z" creationid="DSS" creationdate="20200418T124638Z">
         <seg>常常需要在源文本和翻译中搜索单词和短语，需要时请按下 &lt;k0&gt;Ctrl+F&lt;/k0&gt; 打开&lt;g1&gt;文本搜索&lt;g1&gt;对话框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is possible to drag and drop files to each pane, which will react accordingly.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134344Z" creationid="Liliu" creationdate="20200418T134344Z">
+        <seg>可以将文件拖放到各个窗格中，窗格会有所响应。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1385,6 +1441,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other dropped files will be copied to the &lt;f1&gt;source&lt;/f1&gt; folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134355Z" creationid="Liliu" creationdate="20200418T134355Z">
+        <seg>其他拖进去的文件会复制到  &lt;f1&gt;source&lt;/f1&gt; 文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other file formats</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075439Z" creationid="hp" creationdate="20200418T075439Z">
@@ -1405,6 +1469,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075029Z" creationid="hp" creationdate="20200418T075029Z">
         <seg>PDF 文件是一种特殊情况。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pane widgets</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134244Z" creationid="Liliu" creationdate="20200418T134244Z">
+        <seg>窗格部件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Panes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134219Z" creationid="Liliu" creationdate="20200418T134219Z">
+        <seg>窗格</seg>
       </tuv>
     </tu>
     <tu>
@@ -1569,6 +1649,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Should you lose track of your changes to the user interface, you can use &lt;g0&gt; Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134340Z" creationid="Liliu" creationdate="20200418T134340Z">
+        <seg>如果您忘记了对用户界面所做过的更改，随时都可以用 &lt;g0&gt; 选项 → 恢复主窗口&lt;/g0&gt; 回到原始布局状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Should you run into problems, post a message in the &lt;u0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; user group&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071445Z" creationid="hp" creationdate="20200418T071412Z">
@@ -1729,6 +1817,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The main window consists of several panes, the main menu and a status bar.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134224Z" creationid="Liliu" creationdate="20200418T134224Z">
+        <seg>主窗口由若干窗格、主菜单和状态栏组成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T124504Z" creationid="DSS" creationdate="20200418T124504Z">
@@ -1813,6 +1909,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041623Z" creationid="hp" creationdate="20200418T041623Z">
         <seg>分割规则设置只影响 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The separators between the panes can be dragged to resize panes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134331Z" creationid="Liliu" creationdate="20200418T134331Z">
+        <seg>可以拖动窗格之间的分隔线以调整窗格大小。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1909,6 +2013,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071544Z" creationid="hp" creationdate="20200418T071544Z">
         <seg>为了加快此进程，可以重用现有翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This applies also to the &lt;l2&gt;Project files&lt;/l2&gt; window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134359Z" creationid="Liliu" creationdate="20200418T134359Z">
+        <seg>这也适用于 &lt;l2&gt;Project files&lt;/l2&gt; 窗口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2281,6 +2393,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When this is done the panes display a tab at the top.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134321Z" creationid="Liliu" creationdate="20200418T134321Z">
+        <seg>如果这样操作，窗格将在顶部显示标签卡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When translating between RTL and LTR languages, correctly reading the tags from the source and entering them properly in the target may require the translator to toggle between LTR and RTL modes numerous times.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070333Z" creationid="hp" creationdate="20200418T070333Z">
@@ -2409,6 +2529,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can change the position of any pane or even undock it to a separate window by clicking and dragging the pane by its name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134229Z" creationid="Liliu" creationdate="20200418T134229Z">
+        <seg>您可以改变任何一个窗格的位置，甚至可以通过点击窗格的名称并拖动将其分离成独立的窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T124158Z" creationid="DSS" creationdate="20200418T124158Z">
@@ -2421,6 +2549,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T040917Z" creationid="hp" creationdate="20200418T040917Z">
         <seg>您可以手动输入或者通过下拉菜单选择原文与译文语言。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can overlap panes if desired.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134314Z" creationid="Liliu" creationdate="20200418T134314Z">
+        <seg>如果有需要，可以重叠窗格</seg>
       </tuv>
     </tu>
     <tu>
@@ -2553,6 +2689,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>maximizes the pane</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134258Z" creationid="Liliu" creationdate="20200418T134258Z">
+        <seg>最大化窗格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>minimizes the pane, so that only its name is shown at the bottom of the window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134249Z" creationid="Liliu" creationdate="20200418T134249Z">
+        <seg>最小化窗格，这样只有其名称显示在窗口底部</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>on the command line: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073322Z" creationid="hp" creationdate="20200418T073322Z">
@@ -2573,6 +2725,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T121510Z" creationid="DSS" creationdate="20200418T121510Z">
         <seg>或者借助&lt;c0&gt;--no-team&lt;/c0&gt; 选项用命令行打开项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>puts the pane back within the main window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134310Z" creationid="Liliu" creationdate="20200418T134310Z">
+        <seg>将窗格放回主窗口内</seg>
       </tuv>
     </tu>
     <tu>
@@ -2605,6 +2765,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074243Z" creationid="hp" creationdate="20200418T074243Z">
         <seg>存储库网址（repository url）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>restores the layout before the maximizing step</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134302Z" creationid="Liliu" creationdate="20200418T134302Z">
+        <seg>恢复最大化之前的布局</seg>
       </tuv>
     </tu>
     <tu>
@@ -2677,6 +2845,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075454Z" creationid="hp" creationdate="20200418T075454Z">
         <seg>对它进行翻译并创建译文 ODT 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>undocks the pane from the main window</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134306Z" creationid="Liliu" creationdate="20200418T134306Z">
+        <seg>将窗格从主窗口中分离出来</seg>
       </tuv>
     </tu>
     <tu>
