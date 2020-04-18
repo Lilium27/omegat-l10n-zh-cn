@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In many cases, however, it is necessary to embed LTR text in RTL text.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070117Z" creationid="hp" creationdate="20200418T065946Z">
+        <seg>然而在许多情况下，必须在从右向左文本中嵌入从左向右文本。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In some seldom cases the alternative, i.e. segmenting by paragraphs, may be preferred.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041638Z" creationid="hp" creationdate="20200418T041638Z">
@@ -514,6 +522,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051529Z" creationid="hp" creationdate="20200418T051453Z">
         <seg>在处理团队项目时，此窗口允许您定义远程文件夹和本地文件夹之间的映射（示例参见.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When writing purely RTL text, the default (LTR) view may be used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070056Z" creationid="hp" creationdate="20200418T065844Z">
+        <seg>在编写纯从右向左文本时，可以使用默认的（从左向右）视图。</seg>
       </tuv>
     </tu>
     <tu>
