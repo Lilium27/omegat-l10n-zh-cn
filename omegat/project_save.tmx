@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External Post-processing Command</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050117Z" creationid="hp" creationdate="20200418T050117Z">
+        <seg>外部后处理命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the Auto-propagation check box is not checked, the segments with alternative translations are left untranslated until the user has decided which translation is to be used.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041935Z" creationid="hp" creationdate="20200418T041741Z">
@@ -94,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-visible formatting (i.e., which doesn't appear as tags in the OmegaT editor) is retained in target documents.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050108Z" creationid="hp" creationdate="20200418T050108Z">
+        <seg>不可见的格式信息（即不会在 OmegaT 编辑器中显示为标签的那些）在译文文档中会得已保留。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Options</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041345Z" creationid="hp" creationdate="20200418T041345Z">
@@ -118,10 +134,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segmentation...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050151Z" creationid="hp" creationdate="20200418T050151Z">
+        <seg>片段分割...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The predominant way of segmenting the sources is the sentence-level segmenting, so this check box should in a normal case be left checked.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041635Z" creationid="hp" creationdate="20200418T041635Z">
         <seg> 处理原文文件的方式。语句级分割是分割原文的主要方式，所以正常情况下应该选中该复选框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The segmentation rules are generally valid across all the projects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050153Z" creationid="hp" creationdate="20200418T050153Z">
+        <seg>分割规则通常适用于所有项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,10 +166,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The user, however, may need to generate a set of rules, specific to the project in question.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050158Z" creationid="hp" creationdate="20200418T050158Z">
+        <seg>但是，用户可能需要生成一组所讨论项目专用的规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This area allows entering an external post-processing command (for instance, a script to rename files) that will be applied each time Create Translated Documents is used.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050131Z" creationid="hp" creationdate="20200418T050131Z">
+        <seg>此区域允许输入一个在每次使用“创建译文文档”之后都会应用的外部后处理命令（例如，用于重命名文件的脚本）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041553Z" creationid="hp" creationdate="20200418T041553Z">
         <seg>此对话框可通过选择</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This external command cannot include "pipes", etc., which is why calling a script is recommended.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050147Z" creationid="hp" creationdate="20200418T050147Z">
+        <seg>这个外部命令不能包含“管道”等，因此建议调用一个脚本。</seg>
       </tuv>
     </tu>
     <tu>
