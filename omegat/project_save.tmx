@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of file filters for a given project is stored as &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051303Z" creationid="hp" creationdate="20200418T051303Z">
+        <seg>&lt;e0&gt;提示:&lt;/e0&gt;给定项目的分割规则集保存为  &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of segmentation rules for a given project is stored as &lt;f1&gt;project/omegat/segmentation.conf.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050620Z" creationid="hp" creationdate="20200418T050620Z">
@@ -58,6 +66,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050117Z" creationid="hp" creationdate="20200418T050117Z">
         <seg>外部后处理命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Search...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051457Z" creationid="hp" creationdate="20200418T051457Z">
+        <seg>外部搜索...</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,10 +182,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Repository Mapping...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051307Z" creationid="hp" creationdate="20200418T051307Z">
+        <seg>存储库映射...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l1&gt;Segmentation Setup preferences&lt;/l1&gt; for more information on segmentation rules.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050533Z" creationid="hp" creationdate="20200418T050533Z">
         <seg>见 &lt;l1&gt;分割设置首选项&lt;/l1&gt;查询与细分规则相关的更多信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l3&gt;File Filters preferences&lt;/l3&gt; for more on the subject.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051217Z" creationid="hp" creationdate="20200418T051217Z">
+        <seg>见 &lt;l3&gt;文件过滤器首选项&lt;/l3&gt; 获取更多关于该主题的信息.</seg>
       </tuv>
     </tu>
     <tu>
@@ -298,6 +330,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T042039Z" creationid="hp" creationdate="20200418T042039Z">
         <seg>启用后，将从原文片段中移除所有格式化标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When working on a team project, this window allows you to define the mapping between remote folders and local folders (see examples &lt;l0&gt;here&lt;/l0&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051453Z" creationid="hp" creationdate="20200418T051453Z">
+        <seg>团队项目中，该窗口可将远程文件夹映射到本地(查看实例 &lt;l0&gt;这里&lt;/l0&gt;).</seg>
       </tuv>
     </tu>
     <tu>
