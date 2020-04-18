@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you need to reproduce text formatting (as well as other things such as drawings) in your translation, there are three ways to try:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075205Z" creationid="hp" creationdate="20200418T075205Z">
+        <seg>如果您需要在翻译中复现文本格式（以及其他东西，例如绘图），有三种方法可供尝试：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you only need textual information (and not formatting information), use the level 1 file that OmegaT has created.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072340Z" creationid="hp" creationdate="20200418T072340Z">
@@ -562,6 +570,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072311Z" creationid="hp" creationdate="20200418T072311Z">
         <seg>如果你想在 OmegaT 中使用这类文件作为参考译文，则必须对其进行修复，否则 OmegaT 将报错并无法加载它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075410Z" creationid="hp" creationdate="20200418T075410Z">
+        <seg>导入源文件到 &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;，将其保存为 ODG 文件，翻译，然后按需要导出为 PDF。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1038,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075336Z" creationid="hp" creationdate="20200418T075336Z">
+        <seg>参见 &lt;u0&gt;指南 - 用 Iceni Infix 和 OmegaT 翻译 PDF 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segmentation...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050151Z" creationid="hp" creationdate="20200418T050151Z">
@@ -1318,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They contain text formatting information, but such information cannot be reused by &lt;a0&gt;OmegaT&lt;/a0&gt; in order to create target files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075146Z" creationid="hp" creationdate="20200418T075146Z">
+        <seg>它们包含文本格式信息，但 &lt;a0&gt;OmegaT&lt;/a0&gt;在创建目标文件时，无法重用此类信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This TM gradually becomes filled during the translation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071544Z" creationid="hp" creationdate="20200418T071544Z">
@@ -1418,6 +1450,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041714Z" creationid="hp" creationdate="20200418T041714Z">
         <seg>这实际上会让它们回到“未译”状态，因为它们和记录在翻译记忆库中的片段不再匹配，虽然它们的原始翻译依然存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Thus, PDF files are handled as plain text files, and output files are plain text files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075200Z" creationid="hp" creationdate="20200418T075200Z">
+        <seg> 无法重用此类信息来创建译文文件。因此，PDF 作为纯文本文件处理，并且输出文件是纯文本文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1534,10 +1574,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075249Z" creationid="hp" creationdate="20200418T075249Z">
+        <seg>使用 &lt;a0&gt;OmegaT的&lt;/a0&gt; 的默认过滤器 （PDF输入），翻译， 创建译文文件（将会是纯文本文件），手动添加相关的格式和项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use an SVN or Git client to add the files to translate.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073652Z" creationid="hp" creationdate="20200418T073652Z">
         <seg>使用 SVN 或 Git 客户端添加要翻译的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the Iceni Infix filter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075304Z" creationid="hp" creationdate="20200418T075304Z">
+        <seg>使用 Iceni Infix 过滤器。</seg>
       </tuv>
     </tu>
     <tu>
