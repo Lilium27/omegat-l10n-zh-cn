@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -376,8 +376,8 @@
       <tuv lang="en">
         <seg>Clic on &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051828Z" creationid="hp" creationdate="20200418T051828Z">
-        <seg>点击 &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T144854Z" creationid="hp" creationdate="20200418T051828Z">
+        <seg>点击 &lt;g0&gt;排除模式...&lt;/g0&gt; 选择&lt;a1&gt;OmegaT&lt;/a1&gt;不会处理的文件或文件夹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -488,8 +488,8 @@
       <tuv lang="en">
         <seg>Defines the project-specific external search resources.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051657Z" creationid="hp" creationdate="20200418T051657Z">
-        <seg>定义具体项目的外部搜索资源Defines the project-specific external search resources.</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T144731Z" creationid="hp" creationdate="20200418T051657Z">
+        <seg>定义具体项目的外部搜索资源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -793,8 +793,8 @@
       <tuv lang="en">
         <seg>Here you can select different subfolders, for instance the subfolder with source files, subfolder for target files etc.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051706Z" creationid="hp" creationdate="20200418T051706Z">
-        <seg>在这里你可以选择不同的子文件夹，例如包含原文文件的子文件夹、译文文件的子文件夹等。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T144745Z" creationid="hp" creationdate="20200418T051706Z">
+        <seg>在这里您可以选择不同的子文件夹，例如包含原文文件的子文件夹、译文文件的子文件夹等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1098,8 +1098,8 @@
       <tuv lang="en">
         <seg>In case you decide to modify project folders, keep in mind that this will not move existing files from old folders to the new location.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051754Z" creationid="hp" creationdate="20200418T051754Z">
-        <seg>如果你决定修改项目的文件夹，要记住这并不会将现有文件从旧文件夹移动到新位置。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T144755Z" creationid="hp" creationdate="20200418T051754Z">
+        <seg>如果您决定修改项目的文件夹，要记住这并不会将现有文件从旧文件夹移动到新位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1474,8 +1474,8 @@
       <tuv lang="en">
         <seg>Note that in the menu &lt;g2&gt;Options-&gt;File Filters&lt;/g2&gt;, the global user filters are changed, not the project filters.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051110Z" creationid="hp" creationdate="20200418T051110Z">
-        <seg>注意在菜单中 &lt;g2&gt;选项-&gt;文件过滤器&lt;/g2&gt;, the global user filters are changed, not the project filters.</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T144643Z" creationid="hp" creationdate="20200418T051110Z">
+        <seg>注意在菜单中 &lt;g2&gt;选项-&gt;文件过滤器&lt;/g2&gt;中, 全局用户过滤器已更改，项目过滤器未更改。t</seg>
       </tuv>
     </tu>
     <tu>
@@ -1837,8 +1837,8 @@
       <tuv lang="en">
         <seg>See &lt;l3&gt;File Filters preferences&lt;/l3&gt; for more on the subject.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051217Z" creationid="hp" creationdate="20200418T051217Z">
-        <seg>见 &lt;l3&gt;文件过滤器首选项&lt;/l3&gt; 获取更多关于该主题的信息.</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T144709Z" creationid="hp" creationdate="20200418T051217Z">
+        <seg>请参阅 &lt;l3&gt;文件过滤器首选项&lt;/l3&gt; 获取更多关于该主题的信息.</seg>
       </tuv>
     </tu>
     <tu>
