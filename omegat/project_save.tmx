@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating a translation memory for selected documents</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072342Z" creationid="hp" creationdate="20200418T072342Z">
+        <seg>创建所选文档的翻译记忆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating translated RTL documents</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070532Z" creationid="hp" creationdate="20200418T070447Z">
@@ -206,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fixes are trivial operations and OmegaT assists troubleshooting with the related error message.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072313Z" creationid="hp" creationdate="20200418T072313Z">
+        <seg>修复是微小的操作，OmegaT 会用相关错误信息协助进行错误排除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Follow the indications given in Hints for tags management.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070347Z" creationid="hp" creationdate="20200418T070347Z">
@@ -238,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, OmegaT does not fully support imported level 2 tmx files (these store not only the translation, but also the formatting).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072237Z" creationid="hp" creationdate="20200418T072237Z">
+        <seg>但是，OmegaT 并不完全支持导入级别 2 的 tmx 文件（不仅存储翻译，还存储格式）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070806Z" creationid="hp" creationdate="20200418T070806Z">
@@ -250,6 +274,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071549Z" creationid="hp" creationdate="20200418T071549Z">
         <seg>翻译记忆库也可能包含参考译文：一个典型的例子是多国立法，例如欧盟的立法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If an error is found in such a file, OmegaT will indicate the position within the defective file at which the error is located.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072304Z" creationid="hp" creationdate="20200418T072304Z">
+        <seg>如果在这类文件中发现错误，OmegaT 将指示错误在问题文件中的位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -310,6 +342,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you only need textual information (and not formatting information), use the level 1 file that OmegaT has created.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072340Z" creationid="hp" creationdate="20200418T072340Z">
+        <seg>如果你只需要文本信息（而非格式化信息），请使用 OmegaT 创建的级别 1 文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you wish to use such files as reference translations in OmegaT, they must be repaired, or OmegaT will report an error and fail to load them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072311Z" creationid="hp" creationdate="20200418T072311Z">
+        <seg>如果你想在 OmegaT 中使用这类文件作为参考译文，则必须对其进行修复，否则 OmegaT 将报错并无法加载它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Importing and exporting translation memories</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072132Z" creationid="hp" creationdate="20200418T072132Z">
+        <seg>导入和导出翻译记忆库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In a similar fashion as above the user can create project-specific File filters, which will be stored together with the project and will be valid for the current project only.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051123Z" creationid="hp" creationdate="20200418T050912Z">
@@ -322,6 +378,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041719Z" creationid="hp" creationdate="20200418T041719Z">
         <seg>如果原文文档中包含非独特片段，自动传播翻译复选框为用户提供了下面两种自动翻译的可能性：如果勾选，则第一个被翻译的片段将假定为默认翻译，其译文文本在翻译过程中会自动用于后继命中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In case translators need to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072413Z" creationid="hp" creationdate="20200418T072413Z">
+        <seg>如果译者需要与别人分享他们的 TMX 而同时需要排除某些部分或者只要包含某些文件的翻译，那么分享完整的 </seg>
       </tuv>
     </tu>
     <tu>
@@ -438,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072252Z" creationid="hp" creationdate="20200418T072252Z">
+        <seg>级别 2 的 tmx 文件依然会被导入，在 OmegaT 中能看到其文本内容，但模糊匹配的质量会有所下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mac OS X users, note: use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; shortcut and &lt;e4&gt;not &lt;/e4&gt;cmd+Ctrl+O.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065738Z" creationid="hp" creationdate="20200418T065738Z">
@@ -506,6 +578,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070942Z" creationid="hp" creationdate="20200418T070942Z">
         <seg>OmegaT 在每次打开或者重新载入项目时也会将翻译记忆库备份到同一子目录下的 project_save.tmx.YEARMMDDHHNN.bak 文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT exports version 1.4 TMX files (both level 1 and level 2).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072329Z" creationid="hp" creationdate="20200418T072329Z">
+        <seg>OmegaT 导出版本 1.4 的 TMX 文件（级别 1 和级别 2 均有）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT follows very strict procedures when loading translation memory (tmx) files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072300Z" creationid="hp" creationdate="20200418T072300Z">
+        <seg>在加载翻译记忆库（tmx）文件时，OmegaT 遵循非常严格的流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT supports imported tmx versions 1.1-1.4b (both level 1 and level 2).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072146Z" creationid="hp" creationdate="20200418T072146Z">
+        <seg>OmegaT 支持导入 tmx 版本 1.1-1.4b（级别 1 和级别 2 都可）。这使得OmegaT 可以读取其他工具生成的翻译记忆库。</seg>
       </tuv>
     </tu>
     <tu>
@@ -614,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some tools are known to produce invalid tmx files under certain conditions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072307Z" creationid="hp" creationdate="20200418T072307Z">
+        <seg>已知一些工具会在某些条件下生成无效的 tmx 文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Take particular care when making changes to the files in &lt;l0&gt;/source&lt;/l0&gt; while in the middle of a project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071254Z" creationid="hp" creationdate="20200418T071219Z">
@@ -634,6 +738,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065626Z" creationid="hp" creationdate="20200418T065626Z">
         <seg> 中创建的译文文档的显示模式没有任何影响。译文文档的显示模式必须在通常用于显示或修改它的应用程序（诸如 Microsoft Word）中修改（详细信息请查看相关手册）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072335Z" creationid="hp" creationdate="20200418T072335Z">
+        <seg>级别 2 的导出不完全符合级别 2 标准高，但已足够接近并且在其他支持 TMX 级别 2 的翻译记忆工具中会生成正确的匹配。</seg>
       </tuv>
     </tu>
     <tu>
@@ -698,6 +810,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041553Z" creationid="hp" creationdate="20200418T041553Z">
         <seg>此对话框可通过选择</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This enables the translation memories produced by other tools to be read by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072202Z" creationid="hp" creationdate="20200418T072202Z">
+        <seg>这使得OmegaT 可以读取其他工具生成的翻译记忆库。&lt;片段 1183&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -926,6 +1046,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can ask the user group for advice if you have problems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072317Z" creationid="hp" creationdate="20200418T072317Z">
+        <seg>如果遇到问题，可以向用户组咨询。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can either enter the source and target languages by hand or use the drop down menus.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T040917Z" creationid="hp" creationdate="20200418T040917Z">
@@ -946,6 +1074,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065312Z" creationid="hp" creationdate="20200418T065312Z">
         <seg>你可以通过按 &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (注意是字母O而不是数字0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may even consider removing those that are not required any more, once you have used their contents to fill up the &lt;f0&gt;project-save.tmx&lt;/f0&gt; file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072129Z" creationid="hp" creationdate="20200418T072129Z">
+        <seg>一旦已经用其内容填充了 &lt;f0&gt;project-save.tmx&lt;/f0&gt; 文件，您可以考虑移除不需要的文件。 </seg>
       </tuv>
     </tu>
     <tu>
