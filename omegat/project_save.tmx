@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Defines the project-specific external search resources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051657Z" creationid="hp" creationdate="20200418T051657Z">
+        <seg>定义具体项目的外部搜索资源Defines the project-specific external search resources.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enable Sentence-level segmentation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041608Z" creationid="hp" creationdate="20200418T041608Z">
@@ -86,6 +94,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File locations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051700Z" creationid="hp" creationdate="20200418T051700Z">
+        <seg>文件位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Here you can select different subfolders, for instance the subfolder with source files, subfolder for target files etc.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051706Z" creationid="hp" creationdate="20200418T051706Z">
+        <seg>在这里你可以选择不同的子文件夹，例如包含原文文件的子文件夹、译文文件的子文件夹等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the Auto-propagation check box is not checked, the segments with alternative translations are left untranslated until the user has decided which translation is to be used.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041935Z" creationid="hp" creationdate="20200418T041741Z">
@@ -102,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you enter names of folders that do not exist yet, &lt;a0&gt;OmegaT&lt;/a0&gt; creates them for you.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051746Z" creationid="hp" creationdate="20200418T051746Z">
+        <seg>如果输入的文件夹名称尚不存在，&lt;a0&gt;OmegaT&lt;/a0&gt; 会为您创建新的文件夹.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In a similar fashion as above the user can create project-specific File filters, which will be stored together with the project and will be valid for the current project only.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051123Z" creationid="hp" creationdate="20200418T050912Z">
@@ -114,6 +146,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041719Z" creationid="hp" creationdate="20200418T041719Z">
         <seg>如果原文文档中包含非独特片段，自动传播翻译复选框为用户提供了下面两种自动翻译的可能性：如果勾选，则第一个被翻译的片段将假定为默认翻译，其译文文本在翻译过程中会自动用于后继命中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In case you decide to modify project folders, keep in mind that this will not move existing files from old folders to the new location.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051754Z" creationid="hp" creationdate="20200418T051754Z">
+        <seg>如果你决定修改项目的文件夹，要记住这并不会将现有文件从旧文件夹移动到新位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -336,8 +376,8 @@
       <tuv lang="en">
         <seg>When working on a team project, this window allows you to define the mapping between remote folders and local folders (see examples &lt;l0&gt;here&lt;/l0&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051453Z" creationid="hp" creationdate="20200418T051453Z">
-        <seg>团队项目中，该窗口可将远程文件夹映射到本地(查看实例 &lt;l0&gt;这里&lt;/l0&gt;).</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051529Z" creationid="hp" creationdate="20200418T051453Z">
+        <seg>在处理团队项目时，此窗口允许您定义远程文件夹和本地文件夹之间的映射（示例参见.</seg>
       </tuv>
     </tu>
     <tu>
