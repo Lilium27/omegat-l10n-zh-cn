@@ -1218,8 +1218,8 @@
       <tuv lang="en">
         <seg>In this case, the procedure is the same, but the project manager does not add files to the /source folder.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074211Z" creationid="hp" creationdate="20200418T074211Z">
-        <seg>在这种情况下，流程是一样的，但项目经理不往 /source 文件夹中添加文件。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T150939Z" creationid="hp" creationdate="20200418T074211Z">
+        <seg>在这种情况下，流程是一样的，但项目经理不向 /source 文件夹中添加文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1781,8 +1781,8 @@
       <tuv lang="en">
         <seg>Publish the new OmegaT project on the server (&lt;c0&gt;commit&lt;/c0&gt; with SVN, &lt;c1&gt;commit&lt;/c1&gt; followed by &lt;c2&gt;push&lt;/c2&gt; with Git).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073534Z" creationid="hp" creationdate="20200418T073534Z">
-        <seg>将新建立的 OmegaT 项目发布到服务器上 (在SVG上点击&lt;c0&gt;commit&lt;/c0&gt;  &lt;c1&gt;commit&lt;/c1&gt; 之前，在 Git 上执行&lt;c2&gt;push&lt;/c2&gt; 操作).</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T150838Z" creationid="hp" creationdate="20200418T073534Z">
+        <seg>将新建立的 OmegaT 项目发布到服务器上 (在SVG上点击&lt;c0&gt;commit&lt;/c0&gt;， &lt;c1&gt;commit&lt;/c1&gt; 之前，在 Git 上执行&lt;c2&gt;push&lt;/c2&gt; 操作).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1869,8 +1869,8 @@
       <tuv lang="en">
         <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075336Z" creationid="hp" creationdate="20200418T075336Z">
-        <seg>参见 &lt;u0&gt;指南 - 用 Iceni Infix 和 OmegaT 翻译 PDF 文件</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T151100Z" creationid="hp" creationdate="20200418T075336Z">
+        <seg>请参阅 &lt;u0&gt;指南 - 用 Iceni Infix 和 OmegaT 翻译 PDF 文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -2366,8 +2366,8 @@
       <tuv lang="en">
         <seg>These files won't be deleted automatically on the translator's side: you must ask them to delete the files manually.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073804Z" creationid="hp" creationdate="20200418T073804Z">
-        <seg>这些文件在译者侧不会自动删除：你必须让他们手工删除文件。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T150902Z" creationid="hp" creationdate="20200418T073804Z">
+        <seg>这些文件在译者侧不会自动删除：必须让他们手工删除文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2542,8 +2542,8 @@
       <tuv lang="en">
         <seg>Thus, PDF files are handled as plain text files, and output files are plain text files.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075200Z" creationid="hp" creationdate="20200418T075200Z">
-        <seg> 无法重用此类信息来创建译文文件。因此，PDF 作为纯文本文件处理，并且输出文件是纯文本文件。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T151044Z" creationid="hp" creationdate="20200418T075200Z">
+        <seg>因此，PDF 作为纯文本文件处理，并且输出文件是纯文本文件。</seg>
       </tuv>
     </tu>
     <tu>
