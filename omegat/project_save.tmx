@@ -2198,8 +2198,8 @@
       <tuv lang="en">
         <seg>The translator can add notes to the opened segment, for instance to come back later to the segment and redo the translation, check that alternative translations are correct or to ask colleagues for their opinion.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T140816Z" creationid="Liliu" creationdate="20200418T140816Z">
-        <seg>译员可以给打开的句段添加注释，比如之后返回该句段重新翻译，检查备选翻译是否正确，或者询问同事的意见。 </seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T141116Z" creationid="Liliu" creationdate="20200418T140816Z">
+        <seg>译员可以给打开的句段添加备注，比如之后返回该句段重新翻译，检查备选翻译是否正确，或者询问同事的意见。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -2846,8 +2846,8 @@
       <tuv lang="en">
         <seg>You can browse through notes using &lt;g0&gt;GoTo → Next Note&lt;/g0&gt; and &lt;g1&gt;GoTo → Previous Note&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T141056Z" creationid="Liliu" creationdate="20200418T141056Z">
-        <seg>您可以通过选择 &lt;g0&gt;转到 → 下一个注释&lt;/g0&gt; 和 &lt;g1&gt;转到 → 上一个注释&lt;/g1&gt; 进行浏览。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T141130Z" creationid="Liliu" creationdate="20200418T141056Z">
+        <seg>您可以通过选择 &lt;g0&gt;转到 → 下一条备注&lt;/g0&gt; 和 &lt;g1&gt;转到 → 上一条备注&lt;/g1&gt; 进行浏览。</seg>
       </tuv>
     </tu>
     <tu>
