@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do not hesitate to post in the language you feel the most familiar with.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071430Z" creationid="hp" creationdate="20200418T071430Z">
+        <seg>可以用您所最熟悉的语言发帖，无需犹豫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each output format has specific ways of dealing with RTL display; check the relevant application manuals for details.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070547Z" creationid="hp" creationdate="20200418T070547Z">
@@ -242,6 +250,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070542Z" creationid="hp" creationdate="20200418T070542Z">
         <seg>如果原始文档是从左向右的，译文文档的显示方向需要手工在查看它的应用程序中改为从右向左。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the source file is modified after you have begun translating, &lt;a1&gt;OmegaT&lt;/a1&gt; may be unable to find a segment that you have already translated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071339Z" creationid="hp" creationdate="20200418T071339Z">
+        <seg>如果在开始翻译后原文文件有所修改， &lt;a1&gt;OmegaT&lt;/a1&gt; 可能会找不到你已经翻译过的片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -518,10 +534,18 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Should you run into problems, post a message in the &lt;u0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; user group&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071445Z" creationid="hp" creationdate="20200418T071412Z">
+        <seg>如果碰到问题，可以在 &lt;u0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt;的用户组中发帖。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Take particular care when making changes to the files in &lt;l0&gt;/source&lt;/l0&gt; while in the middle of a project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071219Z" creationid="hp" creationdate="20200418T071219Z">
-        <seg>在项目中途对 </seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071254Z" creationid="hp" creationdate="20200418T071219Z">
+        <seg>在项目中途对文件更改要格外小心 </seg>
       </tuv>
     </tu>
     <tu>
@@ -682,6 +706,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071217Z" creationid="hp" creationdate="20200418T071217Z">
         <seg> 之前，请定期创建译文文件，并检查译文文件是否包含最新版本的翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use these Help texts to get started.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071345Z" creationid="hp" creationdate="20200418T071345Z">
+        <seg>借助这些帮助文字来起步。</seg>
       </tuv>
     </tu>
     <tu>
