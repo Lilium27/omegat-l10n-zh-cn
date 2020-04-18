@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -690,6 +690,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120913Z" creationid="DSS" creationdate="20200418T120913Z">
         <seg>必须先由项目经理删除文件，然后在本地删除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Files within the &lt;f7&gt;source&lt;/f7&gt; folder, whether translated or not, are then generated here, with the same hierarchy as present in the source subfolder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T145720Z" creationid="Liliu" creationdate="20200418T145720Z">
+        <seg>&lt;f7&gt;source&lt;/f7&gt; 文件夹下的文件，无论是否翻译，之后都会在此处生成， 与 source 子文件夹有着相同的层次结构。</seg>
       </tuv>
     </tu>
     <tu>
