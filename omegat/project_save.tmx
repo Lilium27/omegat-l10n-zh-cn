@@ -112,8 +112,8 @@
       <tuv lang="en">
         <seg>Creating translated RTL documents</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070447Z" creationid="hp" creationdate="20200418T070447Z">
-        <seg>创建从右到左的翻译文档Creating translated RTL documents</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070532Z" creationid="hp" creationdate="20200418T070447Z">
+        <seg>创建从右到左的译文文档</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,6 +122,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051657Z" creationid="hp" creationdate="20200418T051657Z">
         <seg>定义具体项目的外部搜索资源Defines the project-specific external search resources.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Each output format has specific ways of dealing with RTL display; check the relevant application manuals for details.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070547Z" creationid="hp" creationdate="20200418T070547Z">
+        <seg>每种输出格式都有专门的方法来处理从右向左显示；查看相关的应用程序手册来了解详情。</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For .docx files, a number of changes are however done automatically:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070551Z" creationid="hp" creationdate="20200418T070551Z">
+        <seg>不过，对于 .docx 文件会自动完成许多更改：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Frequently validate tags (see Tag validation) and produce translated documents (see below and Menu) at regular intervals to make it easier to catch any problems that arise.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070350Z" creationid="hp" creationdate="20200418T070350Z">
@@ -202,6 +218,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070344Z" creationid="hp" creationdate="20200418T070344Z">
         <seg>如果文档允许，强烈建议译者从原始文档中删除样式信息以在 OmegaT 的界面中尽可能少地显示标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the original document was LTR, the display direction of the target document must be changed manually to RTL in its viewing application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070542Z" creationid="hp" creationdate="20200418T070542Z">
+        <seg>如果原始文档是从左向右的，译文文档的显示方向需要手工在查看它的应用程序中改为从右向左。</seg>
       </tuv>
     </tu>
     <tu>
@@ -382,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paragraphs, sections and tables are set to bidi</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070556Z" creationid="hp" creationdate="20200418T070556Z">
+        <seg>段落、节和表被设为双向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project Properties</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041535Z" creationid="hp" creationdate="20200418T041535Z">
@@ -402,6 +434,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051307Z" creationid="hp" creationdate="20200418T051307Z">
         <seg>存储库映射...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Runs (text elements) are set to RTL</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070559Z" creationid="hp" creationdate="20200418T070559Z">
+        <seg>内容流（文本元素）被设为从右向左</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To avoid changing the target files display parameters each time the files are opened, it may be possible to change the source file display parameters such that such parameters are inherited by the target files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070610Z" creationid="hp" creationdate="20200418T070610Z">
+        <seg>为了避免每次打开译文文件都要更改其显示参数，可以更改原文文件的显示参数，以使译文文件继承此类参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To create a project-specific set of file filters, click on the &lt;g0&gt;File filter ... &lt;/g0&gt;button, then activate &lt;g1&gt;Enable project specific filters&lt;/g1&gt; check box in the window that opens.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T064603Z" creationid="hp" creationdate="20200418T064320Z">
@@ -594,6 +642,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T042039Z" creationid="hp" creationdate="20200418T042039Z">
         <seg>启用后，将从原文片段中移除所有格式化标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the translated document is created, its display direction will be the same as that of the original document.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070537Z" creationid="hp" creationdate="20200418T070537Z">
+        <seg>创建译文文档时，其显示方式将与原始文档相同。</seg>
       </tuv>
     </tu>
     <tu>
