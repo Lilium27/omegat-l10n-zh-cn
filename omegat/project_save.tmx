@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At the end of your translation, OmegaT exports three translation memories called &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; and &lt;f2&gt;omegat&lt;/f2&gt; to your project folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T124404Z" creationid="DSS" creationdate="20200418T124404Z">
+        <seg>在翻译结束后，OmegaT会导出名称分别为 &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; 和 &lt;f2&gt;omegat&lt;/f2&gt; 的三种翻译记忆文件到项目文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T122749Z" creationid="DSS" creationdate="20200418T122738Z">
@@ -818,6 +826,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072340Z" creationid="hp" creationdate="20200418T072340Z">
         <seg>如果你只需要文本信息（而非格式化信息），请使用 OmegaT 创建的级别 1 文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T124525Z" creationid="DSS" creationdate="20200418T124525Z">
+        <seg>如果您把这种翻译记忆文件放在项目的&lt;f6&gt;/tm/&lt;/f6&gt;子文件夹，则OmegaT会自动在其中搜索类似的片段（被称为“模糊匹配”）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1577,6 +1593,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T124440Z" creationid="DSS" creationdate="20200418T124440Z">
+        <seg>&lt;f3&gt;level1&lt;/f3&gt; 和&lt;f4&gt;level2&lt;/f4&gt; 翻译记忆可以共享给使用其他翻译工具的用户。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065321Z" creationid="hp" creationdate="20200418T065321Z">
@@ -1629,6 +1653,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072335Z" creationid="hp" creationdate="20200418T072335Z">
         <seg>级别 2 的导出不完全符合级别 2 标准高，但已足够接近并且在其他支持 TMX 级别 2 的翻译记忆工具中会生成正确的匹配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T124504Z" creationid="DSS" creationdate="20200418T124504Z">
+        <seg>名称为 &lt;f5&gt;omegat&lt;/f5&gt; 的翻译记忆可被OmegaT自身用于将来创建的项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2001,6 +2033,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To see a list of files in the project, open the &lt;g1&gt;Project Files&lt;/g1&gt; dialog by pressing &lt;k2&gt;Ctrl+L&lt;/k2&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T124338Z" creationid="DSS" creationdate="20200418T124338Z">
+        <seg>要查看项目中文件列表，请按下&lt;k2&gt;Ctrl+L&lt;/k2&gt;打开&lt;g1&gt;项目文件&lt;/g1&gt;对话框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To speed up this process, existing translations can be reused.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071547Z" creationid="hp" creationdate="20200418T071547Z">
@@ -2261,6 +2301,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070947Z" creationid="hp" creationdate="20200418T070947Z">
         <seg>其中 YEAR 是 4 位数年份、MM 是月份、DD 是月份内的日期、而 HH 与 NN 是保存上一份翻译记忆库时的小时和分钟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can add a new term to the glossary by pressing &lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;, or copy existing glossaries to the &lt;f1&gt;/glossary/&lt;/f1&gt; subfolder of your project folder, and OmegaT will automatically look up words in them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T124549Z" creationid="DSS" creationdate="20200418T124549Z">
+        <seg>按下&lt;k0&gt;Ctrl+Shift+G&lt;/k0&gt;可以添加新术语到词汇表，也可以复制现有的词汇表到项目文件夹的&lt;f1&gt;/glossary/&lt;/f1&gt; 子文件夹，OmegaT会自动在其中搜索单词。</seg>
       </tuv>
     </tu>
     <tu>
