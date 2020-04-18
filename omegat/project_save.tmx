@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An ignored file or folder:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051844Z" creationid="hp" creationdate="20200418T051844Z">
+        <seg> 要忽略的文件或文件夹。被忽略的文件或文件夹：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041716Z" creationid="hp" creationdate="20200418T041716Z">
@@ -50,6 +58,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041640Z" creationid="hp" creationdate="20200418T041640Z">
         <seg>更改此标志不会影响现有翻译记忆库中的片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clic on &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051828Z" creationid="hp" creationdate="20200418T051828Z">
+        <seg>点击 &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,6 +178,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041638Z" creationid="hp" creationdate="20200418T041638Z">
         <seg>在一些少见情况下，替代方案，即按段落分割，可能会更好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the Exclusion patterns dialog, it is possible to Add or Remove a pattern, or edit one by selecting a line and pressing F2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051954Z" creationid="hp" creationdate="20200418T051945Z">
+        <seg>在排除模式对话框中，可以添加或删除模式，也可以通过选定一行并按 F2 来编辑。可以按</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is possible to use wildcards, using the &lt;u0&gt;ant syntax&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T052034Z" creationid="hp" creationdate="20200418T052034Z">
+        <seg>允许使用It is possible to use wildcards, using the &lt;u0&gt;ant syntax&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -386,6 +418,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T040917Z" creationid="hp" creationdate="20200418T040917Z">
         <seg>您可以手动输入或者通过下拉菜单选择原文与译文语言。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>is not copied in /target folder during the translated files creation process.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051909Z" creationid="hp" creationdate="20200418T051909Z">
+        <seg>在译文文件创建过程中不会被复制到 /target 文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>is not displayed in the Editor pane,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051904Z" creationid="hp" creationdate="20200418T051851Z">
+        <seg>不会显示在编辑器窗格中、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>is not taken into account in statistics,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051900Z" creationid="hp" creationdate="20200418T051900Z">
+        <seg>不会纳入统计、</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
