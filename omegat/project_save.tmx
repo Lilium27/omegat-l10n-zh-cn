@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of segmentation rules for a given project is stored as &lt;f1&gt;project/omegat/segmentation.conf.&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050620Z" creationid="hp" creationdate="20200418T050620Z">
+        <seg>&lt;e0&gt;提示&lt;/e0&gt; 给定项目的分割规则集保存为  &lt;f1&gt;project/omegat/segmentation.conf.&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041716Z" creationid="hp" creationdate="20200418T041716Z">
@@ -50,6 +58,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050117Z" creationid="hp" creationdate="20200418T050117Z">
         <seg>外部后处理命令</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File Filters...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050625Z" creationid="hp" creationdate="20200418T050625Z">
+        <seg>文件过滤器...</seg>
       </tuv>
     </tu>
     <tu>
