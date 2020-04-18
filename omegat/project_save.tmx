@@ -1681,6 +1681,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The difference is thin: we call "Window" a window that can stay open next to the editor and interact with it, and "dialog" a window where you must select parameters before closing it and pursuing your translation activity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134102Z" creationid="Liliu" creationdate="20200418T134102Z">
+        <seg>二者之间的区别很小：我们将编辑器旁可以维持开启状态并与之交互的窗口称为“窗口”，将选择参数后才能关闭并继续翻译活动的窗口称为“对话框”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The display mode of the translated documents must be modified within the application (such as Microsoft Word) commonly used to display or modify them (check the relevant manuals for details).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065626Z" creationid="hp" creationdate="20200418T065626Z">
@@ -2357,6 +2365,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T125341Z" creationid="DSS" creationdate="20200418T125341Z">
         <seg>Windows 用户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows and dialogs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134058Z" creationid="Liliu" creationdate="20200418T134058Z">
+        <seg>窗口与对话框</seg>
       </tuv>
     </tu>
     <tu>
