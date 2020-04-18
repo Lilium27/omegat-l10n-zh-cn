@@ -134,10 +134,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l1&gt;Segmentation Setup preferences&lt;/l1&gt; for more information on segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050533Z" creationid="hp" creationdate="20200418T050533Z">
+        <seg>见 &lt;l1&gt;分割设置首选项&lt;/l1&gt;查询与细分规则相关的更多信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segmentation...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050151Z" creationid="hp" creationdate="20200418T050151Z">
         <seg>片段分割...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The new set of rules will be stored together with the project and will not interfere with the general set of segmentation rules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050328Z" creationid="hp" creationdate="20200418T050328Z">
+        <seg>新的规则集将与项目一起存储，不会干扰到通用的分割规则集。</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,10 +230,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To delete project specific segmentation rules, uncheck the check box.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050356Z" creationid="hp" creationdate="20200418T050356Z">
+        <seg>要删除项目专用的分割规则，取消勾选此复选框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tokenizers corresponding to the selected languages are displayed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041323Z" creationid="hp" creationdate="20200418T041323Z">
         <seg>会显示所选语言所对应的分词器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use this button to open a dialog, activate the check box &lt;g0&gt;Project specific segmentation rules&lt;/g0&gt;, then proceed to adjust the segmentation rules as desired.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050350Z" creationid="hp" creationdate="20200418T050319Z">
+        <seg>用此按钮打开对话框，激活复选框，然后根据需要继续调整分割规则。</seg>
       </tuv>
     </tu>
     <tu>
