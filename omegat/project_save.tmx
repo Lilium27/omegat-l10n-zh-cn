@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134615Z" creationid="Liliu" creationdate="20200418T134615Z">
+        <seg>默认情况下，如果用键盘而非鼠标的话，无法在原文句段中选择单词。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T064758Z" creationid="hp" creationdate="20200418T064758Z">
@@ -482,6 +490,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134233Z" creationid="Liliu" creationdate="20200418T134233Z">
         <seg>根据窗格的状态，其右上角会显示不同的符号：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Depending upon the preferred editing behavior, the editing field for the untranslated segment may be empty, contain the source text, or contain the translation of the string most similar to the one to be translated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134519Z" creationid="Liliu" creationdate="20200418T134519Z">
+        <seg>根据首选的编辑行为，未译句段的编辑区可能为空、包含原文文本或包含与此待译字符串最相似的字符串译文。</seg>
       </tuv>
     </tu>
     <tu>
@@ -926,6 +942,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;GoTo segment&lt;/e10&gt; and &lt;e11&gt;Add glossary entry&lt;/e11&gt; functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134555Z" creationid="Liliu" creationdate="20200418T134555Z">
+        <seg>如果在编辑器窗格上点击右键，会弹出一个菜单，提供 &lt;e0&gt; 剪切、复制、粘贴&lt;/e0&gt; （即与 &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; 和 &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt; 的作用相同）、 &lt;e10&gt;跳转到句段&lt;/e10&gt; 和 &lt;e11&gt;增加术语词条&lt;/e11&gt; 功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want the translation to be the same as the source, simply make the editing field empty by removing all the text (select all with &lt;k0&gt;Ctrl+A&lt;/k0&gt; and delete with &lt;k1&gt;Del&lt;/k1&gt;).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134531Z" creationid="Liliu" creationdate="20200418T134531Z">
+        <seg>如果您想要让译文与原文相同，只需删除编辑区中的所有文本（用 &lt;k0&gt;Ctrl+A&lt;/k0&gt; 选中所有内容并用 &lt;k1&gt;Del&lt;/k1&gt; 删除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you wish to use such files as reference translations in OmegaT, they must be repaired, or OmegaT will report an error and fail to load them.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072311Z" creationid="hp" creationdate="20200418T072311Z">
@@ -962,6 +994,15 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051123Z" creationid="hp" creationdate="20200418T050912Z">
         <seg>同上述操作相同，用户可为项目创建专用的分割规则，更改后的过滤器配置的副本会随同项目一起存储，且仅针对该项目有效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In addition, when the right click occurs on an opened segment, other options concerning &lt;e12&gt;Alternative translations&lt;/e12&gt; are proposed, for example to to jump to another instance of non-unique segments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134602Z" creationid="Liliu" creationdate="20200418T134602Z">
+        <seg>
+此外，如果是在打开的句段上点击右键，还会提供与 &lt;e12&gt;可替代翻译&lt;/e12&gt; 相关的其它选项，例如跳转到另一个非独特句段</seg>
       </tuv>
     </tu>
     <tu>
@@ -1038,6 +1079,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In that case, yy is the number of other occurrences of the segment in the project.&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134515Z" creationid="Liliu" creationdate="20200418T134515Z">
+        <seg>在此情况下，yy 是此句段在项目中其他地方出现的次数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In the &lt;g0&gt;Project&lt;/g0&gt; menu, select &lt;m1&gt;&lt;g2&gt;New...&lt;/g2&gt;&lt;/m1&gt; and type a name for your project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T122626Z" creationid="DSS" creationdate="20200418T122540Z">
@@ -1050,6 +1099,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051954Z" creationid="hp" creationdate="20200418T051945Z">
         <seg>在排除模式对话框中，可以添加或删除模式，也可以通过选定一行并按 F2 来编辑。可以按</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In the above case, the segments already translated are shown in yellow.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134438Z" creationid="Liliu" creationdate="20200418T134438Z">
+        <seg>在上述情况下，已翻译的句段以黄色显示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1134,10 +1191,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is possible to drag text from anywhere in the main window and to drop it within the segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134607Z" creationid="Liliu" creationdate="20200418T134607Z">
+        <seg>可以从主窗口的任何地方拖动文本并将其放入该句段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is possible to use wildcards, using the &lt;u0&gt;ant syntax&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065142Z" creationid="hp" creationdate="20200418T052034Z">
         <seg>允许使用通配符 &lt;u0&gt;ant syntax&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is the segment that is displayed in two parts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134450Z" creationid="Liliu" creationdate="20200418T134450Z">
+        <seg>该句段分为两部分显示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1318,6 +1391,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134511Z" creationid="Liliu" creationdate="20200418T134511Z">
+        <seg>注意：遇到非独特句段，标记会显示为 &lt;l0&gt;&lt;segment nnnn +yy more&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123654Z" creationid="DSS" creationdate="20200418T123654Z">
@@ -1354,6 +1435,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072833Z" creationid="hp" creationdate="20200418T072833Z">
         <seg>OmegaT 可连接 SVN 和 Git，这是两种常见的以开源许可提供的团队软件版本与修订控制系统（RCS）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is able to store translations that are identical to the source.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134537Z" creationid="Liliu" creationdate="20200418T134537Z">
+        <seg>OmegaT 能保存与原文完全相同的译文。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1429,6 +1518,14 @@
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123949Z" creationid="DSS" creationdate="20200418T123949Z">
         <seg>当您确定在翻译中没有标签错误后，按下&lt;k0&gt;Ctrl+D&lt;/k0&gt;则会在项目文件夹的&lt;f1&gt;/target/&lt;/f1&gt;子文件夹中生成目标文件。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One of the above segments is the current segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134443Z" creationid="Liliu" creationdate="20200418T134443Z">
+        <seg>上述句段的其中之一是当前句段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1573,6 +1670,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070559Z" creationid="hp" creationdate="20200418T070559Z">
         <seg>内容流（文本元素）被设为从右向左</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;e2&gt;Translation editing&lt;/e2&gt; for more details.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134551Z" creationid="Liliu" creationdate="20200418T134551Z">
+        <seg>参见 &lt;e2&gt;翻译编辑&lt;/e2&gt; 以获得更多信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1745,6 +1850,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Texted dragged from outside the target segment is copied, while text dragged from within the segment is moved.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134613Z" creationid="Liliu" creationdate="20200418T134613Z">
+        <seg>从译文片段之外拖来的文本会复制过来，而从片段内拖来的文本则会移动过来。
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f3&gt;level1&lt;/f3&gt; and &lt;f4&gt;level2&lt;/f4&gt; memories can be shared with users of other translation programs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T124440Z" creationid="DSS" creationdate="20200418T124440Z">
@@ -1757,6 +1871,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065321Z" creationid="hp" creationdate="20200418T065321Z">
         <seg> 有三种切换状态：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Editor pane displays the text of the partially translated document: the text already translated is displayed in translation while the untranslated text is displayed in the original language.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134426Z" creationid="Liliu" creationdate="20200418T134426Z">
+        <seg>编辑器窗格显示部分已翻译的文档文本：已翻译的文本会显示译文，同时未翻译的文本以原始语言显示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1781,6 +1903,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065626Z" creationid="hp" creationdate="20200418T065626Z">
         <seg> 中创建的译文文档的显示模式没有任何影响。译文文档的显示模式必须在通常用于显示或修改它的应用程序（诸如 Microsoft Word）中修改（详细信息请查看相关手册）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The displayed text is split into segments and you may scroll through the document and double-click on any segment to open and edit it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134434Z" creationid="Liliu" creationdate="20200418T134434Z">
+        <seg>所显示的文本会划分为句段，您可以在文档中滚动并双击任意句段将其打开并进行编辑。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1953,6 +2083,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The upper part is in the source language, in bold characters with a green background color, the lower part is the editing field, ended by a marker: the marker is &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt; where nnnn is a number of the segment in the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134500Z" creationid="Liliu" creationdate="20200418T134500Z">
+        <seg>上半部分以原语言显示，为带绿色背景色的粗体字符；下半部分是编辑区域，以标记结尾：标记格式为 &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt;， 其中 nnnn 是项目中的一些句段。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The user, however, may need to generate a set of rules, specific to the project in question.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050158Z" creationid="hp" creationdate="20200418T050158Z">
@@ -2089,10 +2227,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is useful for documents that contain trade marks, names or other proper nouns, or parts in a third language that do not require translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134541Z" creationid="Liliu" creationdate="20200418T134541Z">
+        <seg>这对于包含商标、名称或其他专有名词，或包含无需翻译的第三方语言句段的文档非常有帮助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is useful if you frequently use translation memories produced in the past, for example because they are on the same subject or for the same customer.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072004Z" creationid="hp" creationdate="20200418T072004Z">
         <seg>如果您经常使用过去生成的翻译记忆库，例如因为它们属于同一主题或者同一客户，则此功能非常有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is where you type and edit your translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134424Z" creationid="Liliu" creationdate="20200418T134424Z">
+        <seg>在此输入和编辑翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2329,6 +2483,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use the upper part as a reference and replace or modify the contents of the editing field with your translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134507Z" creationid="Liliu" creationdate="20200418T134507Z">
+        <seg>以上半部分为参照，并用您的翻译替换或修改编辑区内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use these Help texts to get started.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071345Z" creationid="hp" creationdate="20200418T071345Z">
@@ -2445,6 +2607,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072727Z" creationid="hp" creationdate="20200418T072715Z">
         <seg>退出项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you move to another segment, the translation is validated and stored.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134526Z" creationid="Liliu" creationdate="20200418T134526Z">
+        <seg>当前往另一个句段时，此译文会加以验证并保存。</seg>
       </tuv>
     </tu>
     <tu>
