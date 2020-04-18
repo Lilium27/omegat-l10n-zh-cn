@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is especially useful when dealing with texts where inline formatting is not really useful (e.g., OCRed PDF, bad converted .odt or .docx, etc.) In a normal case it should always be possible to open the target documents, as only inline tags are removed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T042143Z" creationid="hp" creationdate="20200418T042143Z">
+        <seg>这在处理内联格式并不真正有用的文本（如 OCRed PDF、转换不良的 .odt 或 .docx 等）时特别有用。正常情况下译文文档应当都能打开，因为只移除了内联标签。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will effectively return them to the "untranslated" status, as they will no longer match segments recorded in the project memory, even though their original translation is still there.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041714Z" creationid="hp" creationdate="20200418T041714Z">
