@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For a more comprehensive introduction see &lt;u0&gt;OmegaT for beginners&lt;/u0&gt; on the OmegaT web site.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T124715Z" creationid="DSS" creationdate="20200418T124715Z">
+        <seg>更全面的介绍请参阅Omegat网站上的&lt;u0&gt;OmegaT初学者入门&lt;/u0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075449Z" creationid="hp" creationdate="20200418T075449Z">
@@ -810,6 +818,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075437Z" creationid="hp" creationdate="20200418T075437Z">
         <seg>如果你有一个由扫描页面组成的 PDF 文件（此类文件有时被称为“死”PDF），你需要用 OCR（光学字符识别）程序识别文本并将其转换为 OmegaT 可以处理的格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users group.&lt;/u1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T124736Z" creationid="DSS" creationdate="20200418T124736Z">
+        <seg>如果您需要关于OmegaT某些方面的帮助，可随时加入&lt;u1&gt;OmegaT用户组。&lt;/u1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1018,6 +1034,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065727Z" creationid="hp" creationdate="20200418T065727Z">
         <seg>通过点击窗格并切换显示模式，它可以单独用于所有三个窗格（编辑器、模糊匹配和词汇表）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is often useful to search for words and phrases in the source text and in your translation, so press &lt;k0&gt;Ctrl+F&lt;/k0&gt; for the &lt;g1&gt;Text Search&lt;/g1&gt; dialog at any time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T124638Z" creationid="DSS" creationdate="20200418T124638Z">
+        <seg>常常需要在源文本和翻译中搜索单词和短语，需要时请按下 &lt;k0&gt;Ctrl+F&lt;/k0&gt; 打开&lt;g1&gt;文本搜索&lt;g1&gt;对话框。</seg>
       </tuv>
     </tu>
     <tu>
