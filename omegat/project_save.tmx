@@ -1106,8 +1106,8 @@
       <tuv lang="en">
         <seg>In case translators need to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T150429Z" creationid="hp" creationdate="20200418T072413Z">
-        <seg>如果译者需要与别人分享他们的 TMX 而同时需要排除某些部分或者只要包含某些文件的翻译，那么可分享完整的翻译记忆库文件。 </seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T150521Z" creationid="hp" creationdate="20200418T072413Z">
+        <seg>如果译者需要与别人分享他们的 TMX 而同时需要排除某些部分或者只要包含某些文件的翻译，那么可分享完整的翻译记忆库文件 &lt;f0&gt;项目名称-omegat.tmx&lt;/f0&gt; 。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -2606,8 +2606,8 @@
       <tuv lang="en">
         <seg>To check everything is as expected, you may press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to create the target documents and check their contents.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072659Z" creationid="hp" creationdate="20200418T072659Z">
-        <seg>为了检查，您需要使用 &lt;k2&gt;Ctrl+D&lt;/k2&gt; 来创建译文文档并检查其内容。 </seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T150550Z" creationid="hp" creationdate="20200418T072659Z">
+        <seg>为了检查，您需要使用 &lt;k2&gt;Ctrl+D&lt;/k2&gt; 创建译文文档并检查其内容。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -3206,8 +3206,8 @@
       <tuv lang="en">
         <seg>on the command line: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073322Z" creationid="hp" creationdate="20200418T073322Z">
-        <seg>命令行输入 &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T150805Z" creationid="hp" creationdate="20200418T073322Z">
+        <seg>在命令行中输入 &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
       </tuv>
     </tu>
     <tu>
