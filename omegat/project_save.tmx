@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Existing source files can be modified, but the commit operation must be carried out before an automatic save and before the project is reloaded or closed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120901Z" creationid="DSS" creationdate="20200418T120901Z">
+        <seg>可以修改现有的原文文件，但必须在自动保存之前以及项目被重新载入或关闭之前执行 commit 操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External Post-processing Command</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050117Z" creationid="hp" creationdate="20200418T050117Z">
@@ -1952,8 +1960,8 @@
       <tuv lang="en">
         <seg>copy the files to the &lt;f0&gt;/source&lt;/f0&gt; folder</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073658Z" creationid="hp" creationdate="20200418T073658Z">
-        <seg>将文件复制到原文文件夹...</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120640Z" creationid="hp" creationdate="20200418T073658Z">
+        <seg>将文件复制到 &lt;f0&gt;/source&lt;/f0&gt; 文件夹...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2168,8 +2176,8 @@
       <tuv lang="en">
         <seg>use &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Commit Source Files&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073729Z" creationid="hp" creationdate="20200418T073729Z">
-        <seg>使用 &lt;m0&gt; &lt;g1&gt;项目&lt;/g1&gt; &lt;g2&gt;提交源文件&lt;/g2&gt; &lt;/m0&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120816Z" creationid="hp" creationdate="20200418T073729Z">
+        <seg>使用 &lt;m0&gt; &lt;g1&gt;项目&lt;/g1&gt; &lt;g2&gt;提交原文文件&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
