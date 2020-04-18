@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T064758Z" creationid="hp" creationdate="20200418T064758Z">
+        <seg>默认情况下，对于从左向右（LTR）的语言的语言使用左对齐，而对于从右向左（RTL）的语言使用右对齐。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changing segmentation settings may cause some already translated segments to be split or merged.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041713Z" creationid="hp" creationdate="20200418T041713Z">
@@ -206,10 +214,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Justification of source and target segments depends upon the project languages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T064752Z" creationid="hp" creationdate="20200418T064752Z">
+        <seg>原文与译文片段的对齐方式取决于项目的语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T040903Z" creationid="hp" creationdate="20200418T040548Z">
         <seg>语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Manage Right-To-Left languages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T064744Z" creationid="hp" creationdate="20200418T064744Z">
+        <seg>驾驭从右向左的语言</seg>
       </tuv>
     </tu>
     <tu>
