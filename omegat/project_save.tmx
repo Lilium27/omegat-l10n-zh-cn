@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071951Z" creationid="hp" creationdate="20200418T071951Z">
+        <seg>默认情况下，/tm 文件夹位于项目的根文件夹下（例如 ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changing segmentation settings may cause some already translated segments to be split or merged.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041713Z" creationid="hp" creationdate="20200418T041713Z">
@@ -114,6 +122,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051828Z" creationid="hp" creationdate="20200418T051828Z">
         <seg>点击 &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072019Z" creationid="hp" creationdate="20200418T072019Z">
+        <seg>在硬盘上方便的位置为特定客户或者主题的翻译记忆库创建一个文件夹（“仓库文件夹”）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -350,6 +366,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this case, a useful procedure would be:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072008Z" creationid="hp" creationdate="20200418T072008Z">
+        <seg>在这种情况下，有用的流程可以是这样：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this case, place the translation memories you wish to use in the &lt;e0&gt;/tm&lt;/e0&gt; or &lt;e1&gt;/tm&lt;/e1&gt;/auto folder of your new project: in the former case you will get hits from these translation memories in the fuzzy matches viewer, and in the latter case these TMs will be used to pre-translate your source text.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071944Z" creationid="hp" creationdate="20200418T071944Z">
+        <seg>在这种情况下，将您需要的翻译记忆库文件放入/auto 文件夹中：前一种情况下，会在模糊匹配查看器中看到来自于这些翻译记忆库的匹配，而后一种情况下，这些翻译记忆库将用于对原文文本进行预翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initially, that is when the project is created, the main TM of the project, &lt;f0&gt;project_save.tmx&lt;/f0&gt; is empty.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071542Z" creationid="hp" creationdate="20200418T071542Z">
@@ -450,6 +482,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050108Z" creationid="hp" creationdate="20200418T050108Z">
         <seg>不可见的格式信息（即不会在 OmegaT 编辑器中显示为标签的那些）在译文文档中会得已保留。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072036Z" creationid="hp" creationdate="20200418T072036Z">
+        <seg>请注意，在打开项目时会解析 /tm 仓库中的所有 tmx 文件，因此将手头各种翻译记忆库全放进此文件夹可能会不必要地拖慢 OmegaT。</seg>
       </tuv>
     </tu>
     <tu>
@@ -566,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Should you wish to reuse a translation memory from a previous project (for example because the new project is similar to the previous project, or uses terminology which might have been used before), you can use these translation memories as "input translation memories", i.e. for import into your new project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071823Z" creationid="hp" creationdate="20200418T071823Z">
+        <seg>如果希望重用过往项目的翻译记忆库（例如，因为新项目与之前的项目类似，或者使用之前可能用过的术语），您可以将这些翻译记忆库用作“输入翻译记忆库”，即导入您的新项目中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Take particular care when making changes to the files in &lt;l0&gt;/source&lt;/l0&gt; while in the middle of a project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071254Z" creationid="hp" creationdate="20200418T071219Z">
@@ -666,6 +714,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T042143Z" creationid="hp" creationdate="20200418T042143Z">
         <seg>这在处理内联格式并不真正有用的文本（如 OCRed PDF、转换不良的 .odt 或 .docx 等）时特别有用。正常情况下译文文档应当都能打开，因为只移除了内联标签。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is useful if you frequently use translation memories produced in the past, for example because they are on the same subject or for the same customer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072004Z" creationid="hp" creationdate="20200418T072004Z">
+        <seg>如果您经常使用过去生成的翻译记忆库，例如因为它们属于同一主题或者同一客户，则此功能非常有用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -830,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you begin a new project on the same subject or for the same customer, navigate to the repository folder in the &lt;g0&gt;Project &gt; Properties &gt; Edit Project dialog&lt;/g0&gt; and select it as the translation memory folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072027Z" creationid="hp" creationdate="20200418T072027Z">
+        <seg>当您为同一主题或者同一客户开始新项目时，在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you create the target documents in an &lt;a0&gt;OmegaT&lt;/a0&gt; project, the translation memory of the project is output in the form of three files in the root folder of your &lt;a1&gt;OmegaT&lt;/a1&gt; project (see the above description).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071730Z" creationid="hp" creationdate="20200418T071555Z">
@@ -846,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Whenever you finish a project, copy one of the three "export" translation memory files from the root folder of the project to the repository folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072025Z" creationid="hp" creationdate="20200418T072025Z">
+        <seg>每当完成一个项目，将三份“导出”翻译记忆库文件之一从项目的根文件夹复制到仓库文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>YEAR is the 4-digit year, MM is the month, DD the day of the month, and HH and NN are the hours and minutes when the previous translation memory was saved.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070947Z" creationid="hp" creationdate="20200418T070947Z">
@@ -858,6 +930,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T040917Z" creationid="hp" creationdate="20200418T040917Z">
         <seg>您可以手动输入或者通过下拉菜单选择原文与译文语言。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can regard these three tmx files (&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) as an "export translation memory", i.e. as an export of your current project's content in bilingual form.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071810Z" creationid="hp" creationdate="20200418T071810Z">
+        <seg>你可以将这三份文件(&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) 视为“导出翻译记忆库”，即以双语形式导出的当前项目的内容。</seg>
       </tuv>
     </tu>
     <tu>
