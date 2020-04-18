@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123613Z" creationid="DSS" creationdate="20200418T123613Z">
+        <seg>在翻译过程中使用&lt;g4&gt;编辑&lt;/g4&gt;和&lt;g5&gt;前往&lt;/g5&gt;菜单可以执行多种有用的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Each output format has specific ways of dealing with RTL display; check the relevant application manuals for details.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070547Z" creationid="hp" creationdate="20200418T070547Z">
@@ -778,6 +786,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072311Z" creationid="hp" creationdate="20200418T072311Z">
         <seg>如果你想在 OmegaT 中使用这类文件作为参考译文，则必须对其进行修复，否则 OmegaT 将报错并无法加载它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If your source files are formatted files, e.g. Microsoft Word, LibreOffice Writer or HTML, OmegaT will convert the formatting into tags that surround the text that you translate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123642Z" creationid="DSS" creationdate="20200418T123642Z">
+        <seg>如果源文件是格式化文件，如Microsoft Word、LibreOffice Writer或HTML，OmegaT会把待译文本周围的格式转换为标签。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2022,6 +2038,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Validate your tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123417Z" creationid="DSS" creationdate="20200418T123417Z">
+        <seg>验证标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When enabled, all the formatting tags are removed from source segments.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T042039Z" creationid="hp" creationdate="20200418T042039Z">
@@ -2106,6 +2130,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072025Z" creationid="hp" creationdate="20200418T072025Z">
         <seg>每当完成一个项目，将三份“导出”翻译记忆库文件之一从项目的根文件夹复制到仓库文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123413Z" creationid="DSS" creationdate="20200418T123413Z">
+        <seg>当您想看看译文的最终格式时，按下&lt;k2&gt;Ctrl+D&lt;/k2&gt;会生成已译文档，它们在项目文件夹中的&lt;f3&gt;/target/&lt;/f3&gt;子文件夹。在翻译过程中使用编辑和前往菜单可以执行多种有用的功能。</seg>
       </tuv>
     </tu>
     <tu>
