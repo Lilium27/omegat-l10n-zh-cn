@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Few more things to remember</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123957Z" creationid="DSS" creationdate="20200418T123957Z">
+        <seg>其他一些需要记住的东西</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File Filters...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050625Z" creationid="hp" creationdate="20200418T050625Z">
@@ -674,6 +682,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070806Z" creationid="hp" creationdate="20200418T070806Z">
         <seg>然而，就像使用任何其他应用程序一样，使用 OmegaT时你需要预防数据丢失</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T124054Z" creationid="DSS" creationdate="20200418T124054Z">
+        <seg>如果某个文件无法加载到&lt;g0&gt;编辑器窗&lt;/g0&gt;格，那么该文件可能是OmegaT无法处理的格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1417,6 +1433,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;m1&gt;&lt;g2&gt;Options&lt;/g2&gt;&lt;g3&gt;Preferences...&lt;/g3&gt;&lt;g4&gt;File Filters&lt;/g4&gt;&lt;/m1&gt; for a list of file formats that OmegaT can handle.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T124149Z" creationid="DSS" creationdate="20200418T124149Z">
+        <seg>请参阅&lt;m1&gt;&lt;g2&gt;选项&lt;/g2&gt;&lt;g3&gt;首选项...&lt;/g3&gt;&lt;g4&gt;文件过滤器&lt;/g4&gt;&lt;/m1&gt;了解OmegaT能处理的文件格式列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;Howto - Translating PDF files with Iceni Infix and OmegaT&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075336Z" creationid="hp" creationdate="20200418T075336Z">
@@ -1969,6 +1993,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T124234Z" creationid="DSS" creationdate="20200418T124234Z">
+        <seg>要让自己想起项目的最初设置，请按下&lt;k0&gt;Ctrl+E&lt;/k0&gt;打开项目设置对话框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To speed up this process, existing translations can be reused.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071547Z" creationid="hp" creationdate="20200418T071547Z">
@@ -2237,6 +2269,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072317Z" creationid="hp" creationdate="20200418T072317Z">
         <seg>如果遇到问题，可以向用户组咨询。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T124158Z" creationid="DSS" creationdate="20200418T124158Z">
+        <seg>你可以为每个新任务创建一个新项目，并且任何时候都可以往往项目中添加新的原文文档。</seg>
       </tuv>
     </tu>
     <tu>
