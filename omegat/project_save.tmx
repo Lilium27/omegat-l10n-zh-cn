@@ -102,10 +102,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Adding new source files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120543Z" creationid="DSS" creationdate="20200418T120543Z">
+        <seg>添加新原文文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>All other files are read-only.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073814Z" creationid="hp" creationdate="20200418T073814Z">
         <seg>所有其他的文件都是只读的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All other files will be replaced by the files in the remote repository.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120536Z" creationid="DSS" creationdate="20200418T120536Z">
+        <seg>所有其他文件将被远程存储库中的文件替换。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1594,6 +1610,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073800Z" creationid="hp" creationdate="20200418T073800Z">
         <seg> &lt;e0&gt;删除文件&lt;/e0&gt;，请使用 SVN 或 Git 客户端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add a new source file:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120549Z" creationid="DSS" creationdate="20200418T120549Z">
+        <seg>要添加新的原文文件：</seg>
       </tuv>
     </tu>
     <tu>
