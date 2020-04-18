@@ -224,8 +224,8 @@
       <tuv lang="en">
         <seg>An ignored file or folder:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051844Z" creationid="hp" creationdate="20200418T051844Z">
-        <seg> 要忽略的文件或文件夹。被忽略的文件或文件夹：</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T144921Z" creationid="hp" creationdate="20200418T051844Z">
+        <seg>不被处理的文件或文件夹</seg>
       </tuv>
     </tu>
     <tu>
@@ -376,8 +376,8 @@
       <tuv lang="en">
         <seg>Clic on &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T144854Z" creationid="hp" creationdate="20200418T051828Z">
-        <seg>点击 &lt;g0&gt;排除模式...&lt;/g0&gt; 选择&lt;a1&gt;OmegaT&lt;/a1&gt;不会处理的文件或文件夹。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T144952Z" creationid="hp" creationdate="20200418T051828Z">
+        <seg>点击 &lt;g0&gt;排除...&lt;/g0&gt; 选择&lt;a1&gt;OmegaT&lt;/a1&gt;不会处理的文件或文件夹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1242,8 +1242,8 @@
       <tuv lang="en">
         <seg>It can also be used in all the input fields found in &lt;a7&gt;OmegaT&lt;/a7&gt; - in the search window, for segmentation rules etc.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065734Z" creationid="hp" creationdate="20200418T065734Z">
-        <seg> 中出现的所有输入字段中使用——搜索窗口中、分割规则等。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T145154Z" creationid="hp" creationdate="20200418T065734Z">
+        <seg>中出现的所有输入字段中使用——搜索窗口中、分割规则等。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1282,8 +1282,8 @@
       <tuv lang="en">
         <seg>It is possible to use wildcards, using the &lt;u0&gt;ant syntax&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065142Z" creationid="hp" creationdate="20200418T052034Z">
-        <seg>允许使用通配符 &lt;u0&gt;ant syntax&lt;/u0&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T145016Z" creationid="hp" creationdate="20200418T052034Z">
+        <seg>允许使用通配符 &lt;u0&gt;和 ant 语法&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2078,8 +2078,8 @@
       <tuv lang="en">
         <seg>The display mode of the translated documents must be modified within the application (such as Microsoft Word) commonly used to display or modify them (check the relevant manuals for details).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065626Z" creationid="hp" creationdate="20200418T065626Z">
-        <seg> 中创建的译文文档的显示模式没有任何影响。译文文档的显示模式必须在通常用于显示或修改它的应用程序（诸如 Microsoft Word）中修改（详细信息请查看相关手册）。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T145130Z" creationid="hp" creationdate="20200418T065626Z">
+        <seg>译文文档的显示模式必须在通常用于显示或修改它的应用程序（诸如 Microsoft Word）中修改（详细信息请查看相关手册）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3022,8 +3022,8 @@
       <tuv lang="en">
         <seg>You can toggle between different display modes by pressing &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (this is the letter O and not the numeral 0).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065312Z" creationid="hp" creationdate="20200418T065312Z">
-        <seg>你可以通过按 &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (注意是字母O而不是数字0).</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T145049Z" creationid="hp" creationdate="20200418T065312Z">
+        <seg>你可以通过按 &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (注意是字母O而不是数字0)实现模式切换。</seg>
       </tuv>
     </tu>
     <tu>
