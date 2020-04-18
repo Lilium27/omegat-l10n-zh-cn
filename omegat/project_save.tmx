@@ -857,8 +857,8 @@
       <tuv lang="en">
         <seg>If a given sentence has already been translated once, and translated correctly, there is no need for it to be retranslated.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071549Z" creationid="hp" creationdate="20200418T071549Z">
-        <seg>翻译记忆库也可能包含参考译文：一个典型的例子是多国立法，例如欧盟的立法。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T150102Z" creationid="hp" creationdate="20200418T071549Z">
+        <seg>如果给定语句已被翻译过一次，且翻译是正确的，则无需重新对其进行翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1234,8 +1234,8 @@
       <tuv lang="en">
         <seg>Initially, that is when the project is created, the main TM of the project, &lt;f0&gt;project_save.tmx&lt;/f0&gt; is empty.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071542Z" creationid="hp" creationdate="20200418T071542Z">
-        <seg>一开始，即项目创建时，项目的主翻译记忆库 </seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T145927Z" creationid="hp" creationdate="20200418T071542Z">
+        <seg>一开始，即项目创建时，项目的主翻译记忆库&lt;f0&gt;project_save.tmx&lt;/f0&gt;为空。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -2390,8 +2390,8 @@
       <tuv lang="en">
         <seg>This TM gradually becomes filled during the translation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071544Z" creationid="hp" creationdate="20200418T071544Z">
-        <seg>为了加快此进程，可以重用现有翻译。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T150039Z" creationid="hp" creationdate="20200418T071544Z">
+        <seg>在翻译过程中，翻译记忆库会逐渐丰富。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2662,8 +2662,8 @@
       <tuv lang="en">
         <seg>To speed up this process, existing translations can be reused.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071547Z" creationid="hp" creationdate="20200418T071547Z">
-        <seg>如果给定语句已被翻译过一次，且翻译是正确的，则无需重新对其进行翻译。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T150055Z" creationid="hp" creationdate="20200418T071547Z">
+        <seg>为了加快此进程，可以重用现有翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2886,8 +2886,8 @@
       <tuv lang="en">
         <seg>When you create the target documents in an &lt;a0&gt;OmegaT&lt;/a0&gt; project, the translation memory of the project is output in the form of three files in the root folder of your &lt;a1&gt;OmegaT&lt;/a1&gt; project (see the above description).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071730Z" creationid="hp" creationdate="20200418T071555Z">
-        <seg> 项目中创建译文文件时，项目的翻译记忆库将在根文件夹下输出为三份文件（见以上描述）</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T150116Z" creationid="hp" creationdate="20200418T071555Z">
+        <seg> 项目中创建译文文件时，项目的翻译记忆库将在根文件夹下输出为三份文件（见以上描述）。</seg>
       </tuv>
     </tu>
     <tu>
