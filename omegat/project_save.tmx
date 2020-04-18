@@ -2412,6 +2412,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This way the translator can be provided the context about the segment to be translated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T142824Z" creationid="Liliu" creationdate="20200418T142824Z">
+        <seg>这样译员可以获得待翻译句段的上下文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will effectively return them to the "untranslated" status, as they will no longer match segments recorded in the project memory, even though their original translation is still there.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041714Z" creationid="hp" creationdate="20200418T041714Z">
