@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065321Z" creationid="hp" creationdate="20200418T065321Z">
+        <seg> 有三种切换状态：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The new set of rules will be stored together with the project and will not interfere with the general set of segmentation rules.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050328Z" creationid="hp" creationdate="20200418T050328Z">
@@ -462,6 +470,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can toggle between different display modes by pressing &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (this is the letter O and not the numeral 0).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065312Z" creationid="hp" creationdate="20200418T065312Z">
+        <seg>你可以通过按 &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; (注意是字母O而不是数字0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>default justification, that is as defined by the language</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065326Z" creationid="hp" creationdate="20200418T065326Z">
+        <seg>默认对齐，由语言定义</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>is not copied in /target folder during the translated files creation process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051909Z" creationid="hp" creationdate="20200418T051909Z">
@@ -482,6 +506,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051900Z" creationid="hp" creationdate="20200418T051900Z">
         <seg>不会纳入统计、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>left justification</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065329Z" creationid="hp" creationdate="20200418T065329Z">
+        <seg>左对齐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>right justification</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065331Z" creationid="hp" creationdate="20200418T065331Z">
+        <seg>右对齐</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
