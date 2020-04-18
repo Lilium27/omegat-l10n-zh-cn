@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Important: &lt;/e0&gt;the supporting TMX must be renamed XX_YY.tmx, where XX_YY is the target language of the tmx, for instance to ZH_CN.tmx in the example above.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072943Z" creationid="hp" creationdate="20200418T072943Z">
+        <seg>&lt;e0&gt;重点： &lt;/e0&gt;辅助性的 TMX 必须重命名为 XX_YY.tmx，其中 XX_YY 是此 tmx 的译文语言，例如在上面的例子中是 ZH_CN.tmx。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A copy of the changed filters configuration will be stored with the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T064724Z" creationid="hp" creationdate="20200418T064724Z">
@@ -146,6 +154,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072504Z" creationid="hp" creationdate="20200418T072504Z">
         <seg>复制包含上述文档的翻译的翻译记忆库到新项目的 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy them to a safe place for future referrals.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072802Z" creationid="hp" creationdate="20200418T072802Z">
+        <seg>将它们复制到安全的地方备用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In case of OmegaT complete project folders - in other words the translation memories involved as well as source folders, project settings etc - are managed by the selected RCS.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072838Z" creationid="hp" creationdate="20200418T072838Z">
+        <seg>I在 OmegaT 的情况下，完整的项目文件夹——换句话说，设计的翻译记忆库和原文文件夹、项目设置等——均由选定 RCS 管理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In case there are non-unique segments in source documents, the Auto-propagation check box offers the user the following two possibilities as regards automatic translation: if checked, the first translated segment will be assumed as the default translation and its target text will be automatically used for later hits during the translation process.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041719Z" creationid="hp" creationdate="20200418T041719Z">
@@ -434,6 +458,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070213Z" creationid="hp" creationdate="20200418T070213Z">
         <seg>例如，在 OmegaT 标签中、必须维持使用从左向右的原文语言的产品名称、本地化文件中的占位符、以及文本中的数字。在这类情况下，必须转换为从右向左模式，以正确显示从右向左（实际上是双向）文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In cases where a team of translators is involved, translators will prefer to share common translation memories rather than distribute their local versions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072813Z" creationid="hp" creationdate="20200418T072813Z">
+        <seg>如果涉及翻译团队，译者们会首选共享公共翻译记忆库而不是发布他们的本地版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -474,6 +506,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071944Z" creationid="hp" creationdate="20200418T071944Z">
         <seg>在这种情况下，将您需要的翻译记忆库文件放入/auto 文件夹中：前一种情况下，会在模糊匹配查看器中看到来自于这些翻译记忆库的匹配，而后一种情况下，这些翻译记忆库将用于对原文文本进行预翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In this case, the NL-EN translation memory can serve as a go-between to help generate NL to ZH translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072856Z" creationid="hp" creationdate="20200418T072856Z">
+        <seg>在这种情况下，NL-EN 翻译记忆库可以作为一个中转来帮助生成 NL 到 ZH 的翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -630,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT interfaces to SVN and Git, two common team software versioning and revision control systems (RCS), available under an open source license.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072833Z" creationid="hp" creationdate="20200418T072833Z">
+        <seg>OmegaT 可连接 SVN 和 Git，这是两种常见的以开源许可提供的团队软件版本与修订控制系统（RCS）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT supports imported tmx versions 1.1-1.4b (both level 1 and level 2).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072146Z" creationid="hp" creationdate="20200418T072146Z">
@@ -726,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sharing translation memories</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072808Z" creationid="hp" creationdate="20200418T072808Z">
+        <seg>共享翻译记忆库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Should you run into problems, post a message in the &lt;u0&gt;&lt;a1&gt;OmegaT&lt;/a1&gt; user group&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071445Z" creationid="hp" creationdate="20200418T071412Z">
@@ -814,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project and TMX source languages should of course be identical - NL in our example.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072948Z" creationid="hp" creationdate="20200418T072948Z">
+        <seg>项目的原文语言和 TMX 的原文语言当然应当是相同的——在这个例子中是 NL。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The segmentation rules are generally valid across all the projects.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050153Z" creationid="hp" creationdate="20200418T050153Z">
@@ -830,10 +894,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The solution in our example is to copy the existing translation memory into the tm/tmx2source/ subfolder and rename it to ZH_CN.tmx to indicate the target language of the tmx.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072859Z" creationid="hp" creationdate="20200418T072859Z">
+        <seg>在这个例子中，解决方案是将已有的翻译记忆库复制到 tm/tmx2source/ 子文件夹中并将其重命名为 ZH_CN.tmx 来指示此 tmx 的译文语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translator will be shown English translations for source segments in Dutch and use them to create the Chinese translation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072904Z" creationid="hp" creationdate="20200418T072904Z">
+        <seg>这样荷兰语的原文片段会以英文翻译的形式显示给译者，译者就能用它们来创建中文翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The user, however, may need to generate a set of rules, specific to the project in question.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050158Z" creationid="hp" creationdate="20200418T050158Z">
         <seg>但是，用户可能需要生成一组所讨论项目专用的规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Then you need a translation in e.g. Chinese, but your translator does not understand Dutch; she, however, understands perfectly English.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072853Z" creationid="hp" creationdate="20200418T072853Z">
+        <seg>然后需要将其翻译为比如说中文，但其译者并不懂荷兰语，不过她精通英语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072848Z" creationid="hp" creationdate="20200418T072848Z">
+        <seg>某些情况下，你可能已经完成了一个项目，原文为比如说荷兰语，翻译为比如说英语。</seg>
       </tuv>
     </tu>
     <tu>
@@ -926,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To avoid reusing the project and thus possibly polluting future cases, delete the project folder or archive it away from your workplace.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072806Z" creationid="hp" creationdate="20200418T072806Z">
+        <seg>要避免因为重用该项目而污染未来案例的可能，请删除项目文件夹或将其或存档到工作区外的其他位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To check everything is as expected, you may press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to create the target documents and check their contents.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072659Z" creationid="hp" creationdate="20200418T072659Z">
@@ -1010,6 +1114,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065719Z" creationid="hp" creationdate="20200418T065719Z">
         <seg>使用 &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; 会改变文本的输入与显示方式.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using TMX with alternative language</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072846Z" creationid="hp" creationdate="20200418T072846Z">
+        <seg>在另一种语言上使用 TMX</seg>
       </tuv>
     </tu>
     <tu>
@@ -1230,10 +1342,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>see more in Chapter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072843Z" creationid="hp" creationdate="20200418T072843Z">
+        <seg>更多关于它们的信息，请参阅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>select the backup translation memory that is the most likely to contain the data you are looking for</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071158Z" creationid="hp" creationdate="20200418T071158Z">
         <seg>选择最有可能包含所需数据的翻译记忆库备份</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the TMX files in the main project folder (see above) now contain the translations in the selected language pair, for the files, you have copied into the source folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072755Z" creationid="hp" creationdate="20200418T072755Z">
+        <seg>主项目目录（见上文）中的 TMX 文件现在包含你复制到原文文件夹中的文件的所选语言对的翻译。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
