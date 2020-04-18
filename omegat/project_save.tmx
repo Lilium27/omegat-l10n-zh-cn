@@ -1152,6 +1152,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In this mode, "&lt;g1&gt;Cursor lock off&lt;/g1&gt;" is displayed at the bottom of the pane.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T135422Z" creationid="Liliu" creationdate="20200418T135422Z">
+        <seg>此模式下， “&lt;g1&gt;光标锁定&lt;/g1&gt;”显示在窗格底部。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initially, that is when the project is created, the main TM of the project, &lt;f0&gt;project_save.tmx&lt;/f0&gt; is empty.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071542Z" creationid="hp" creationdate="20200418T071542Z">
@@ -1621,8 +1629,8 @@
       <tuv lang="en">
         <seg>Pressing &lt;k0&gt;F2&lt;/k0&gt; key allows to move the cursor into the source segment (or anywhere in the editor) with the keyboard arrows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T135204Z" creationid="Liliu" creationdate="20200418T134635Z">
-        <seg>按下 &lt;k0&gt;F2&lt;/k0&gt; 键可以用键盘上的方向键将光标移入源语言句（或编辑器内的任何地方）。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T135216Z" creationid="Liliu" creationdate="20200418T134635Z">
+        <seg>按下 &lt;k0&gt;F2&lt;/k0&gt; 键可以用键盘上的方向键将光标移入源语言句段（或编辑器内的任何地方）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2408,6 +2416,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072659Z" creationid="hp" creationdate="20200418T072659Z">
         <seg>为了检查，您需要使用 &lt;k2&gt;Ctrl+D&lt;/k2&gt; 来创建译文文档并检查其内容。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To come back to the standard mode "&lt;g2&gt;Cursor lock on&lt;/g2&gt;", press &lt;k3&gt;F2&lt;/k3&gt; again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T135509Z" creationid="Liliu" creationdate="20200418T135509Z">
+        <seg>如果要返回标准模式“&lt;g2&gt;Cursor lock on&lt;/g2&gt;”, press &lt;k3&gt;F2&lt;/k3&gt; again.</seg>
       </tuv>
     </tu>
     <tu>
