@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a robust application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070718Z" creationid="hp" creationdate="20200418T070718Z">
-        <seg> 是健壮的应用程序。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T145649Z" creationid="hp" creationdate="20200418T070718Z">
+        <seg> &lt;a0&gt;OmegaT&lt;/a0&gt;是健壮的应用程序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -744,8 +744,8 @@
       <tuv lang="en">
         <seg>For example, in OmegaT tags, product names that must be left in the LTR source language, place holders in localization files, and numbers in text.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T145509Z" creationid="hp" creationdate="20200418T145401Z">
-        <seg>例如，在  OmegaT 的标签中, product names that must be left in the LTR source language, place holders in localization files, and numbers in text.</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T145544Z" creationid="hp" creationdate="20200418T145401Z">
+        <seg>例如，在 OmegaT 标签中，必须维持使用从左向右的原文语言的产品名称、本地化文件中的占位符、以及文本中的数字。</seg>
       </tuv>
     </tu>
     <tu>
@@ -841,8 +841,8 @@
       <tuv lang="en">
         <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070806Z" creationid="hp" creationdate="20200418T070806Z">
-        <seg>然而，就像使用任何其他应用程序一样，使用 OmegaT时你需要预防数据丢失</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T145705Z" creationid="hp" creationdate="20200418T070806Z">
+        <seg>然而，就像使用任何其他应用程序一样，使用 OmegaT 时您需要预防数据丢失</seg>
       </tuv>
     </tu>
     <tu>
@@ -2011,6 +2011,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Such modifications are possible in ODF files for example.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T145631Z" creationid="hp" creationdate="20200418T145631Z">
+        <seg>这种修改对诸如 ODF 等文件是可行的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Synchronised files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120248Z" creationid="DSS" creationdate="20200418T120248Z">
@@ -2726,8 +2734,8 @@
       <tuv lang="en">
         <seg>Until you are familiar with &lt;a0&gt;OmegaT&lt;/a0&gt;, create translated files at regular intervals and check that the translated file contains the latest version of your translation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071217Z" creationid="hp" creationdate="20200418T071217Z">
-        <seg> 之前，请定期创建译文文件，并检查译文文件是否包含最新版本的翻译。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T145824Z" creationid="hp" creationdate="20200418T071217Z">
+        <seg>在您熟练使用 OmegaT 之前，请定期创建译文文件，并检查译文文件是否包含最新版本的翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2902,8 +2910,8 @@
       <tuv lang="en">
         <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070925Z" creationid="hp" creationdate="20200418T070925Z">
-        <seg>当你翻译文档时， &lt;a2&gt;OmegaT&lt;/a2&gt;  将所有进度存储在项目的 翻译记忆库中&lt;l3&gt;project_save.tmx&lt;/l3&gt; 翻译记忆库位于项目的&lt;l4&gt;/omegat&lt;/l4&gt; 子文件夹中</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T145723Z" creationid="hp" creationdate="20200418T070925Z">
+        <seg>当翻译文档时， &lt;a2&gt;OmegaT&lt;/a2&gt;  将所有进度存储在项目的 翻译记忆库中&lt;l3&gt;project_save.tmx&lt;/l3&gt; 翻译记忆库位于项目的&lt;l4&gt;/omegat&lt;/l4&gt; 子文件夹中</seg>
       </tuv>
     </tu>
     <tu>
