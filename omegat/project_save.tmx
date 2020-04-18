@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -162,6 +162,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041716Z" creationid="hp" creationdate="20200418T041716Z">
         <seg>自动传播翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Automatic saving</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T112413Z" creationid="DSS" creationdate="20200418T112413Z">
+        <seg>自动保存Automatic saving</seg>
       </tuv>
     </tu>
     <tu>
@@ -362,6 +370,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041608Z" creationid="hp" creationdate="20200418T041608Z">
         <seg>启用语句级别分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Every 3 minutes (by default), the local project is synchronised with the remote repository so that the project manager or other translators can see and use translations added during that period.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T112425Z" creationid="DSS" creationdate="20200418T112425Z">
+        <seg>每隔 3 分钟（默认情况下），本地项目将与远程存储库进行同步，这样项目经理或其他译者就可以查看并使用在此期间添加的翻译。Every 3 minutes (by default), the local project is synchronised with the remote repository so that the project manager or other translators can see and use translations added during that period.</seg>
       </tuv>
     </tu>
     <tu>
@@ -990,6 +1006,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT team projects must first be &lt;l0&gt;set up&lt;/l0&gt; on a server.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T112303Z" creationid="DSS" creationdate="20200418T112303Z">
+        <seg>团队项目必须先在服务器上OmegaT team projects must first be &lt;l0&gt;set up&lt;/l0&gt; on a server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once the project has been opened, translation proceeds in the same way as for a non-team project, except the following points.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T112408Z" creationid="DSS" creationdate="20200418T112408Z">
+        <seg>一旦项目已经打开，翻译的进行方式与非团队项目相同，但以下几点除外。Once the project has been opened, translation proceeds in the same way as for a non-team project, except the following points.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once the project is set up on the server, the project manager can invite the translator to work on it in either of two different ways:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073824Z" creationid="hp" creationdate="20200418T073824Z">
@@ -1274,6 +1306,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074402Z" creationid="hp" creationdate="20200418T074402Z">
         <seg>包含规则优先于排除规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The interval of 3 minutes can be changed in &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Preferences&lt;/g3&gt; &lt;g4&gt;Saving and Output&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T112444Z" creationid="DSS" creationdate="20200418T112444Z">
+        <seg>3 分钟的间隔可以在The interval of 3 minutes can be changed in &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Preferences&lt;/g3&gt; &lt;g4&gt;Saving and Output&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1622,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To use a team project for the first time, follow the procedure provided by the project manager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T112356Z" creationid="DSS" creationdate="20200418T112356Z">
+        <seg>首次使用团队项目时，请按照项目经理所提供的流程进行操作。To use a team project for the first time, follow the procedure provided by the project manager.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tokenizers corresponding to the selected languages are displayed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041323Z" creationid="hp" creationdate="20200418T041323Z">
@@ -1658,6 +1706,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075249Z" creationid="hp" creationdate="20200418T075249Z">
         <seg>使用 &lt;a0&gt;OmegaT的&lt;/a0&gt; 的默认过滤器 （PDF输入），翻译， 创建译文文件（将会是纯文本文件），手动添加相关的格式和项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use a Team Project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T112128Z" creationid="DSS" creationdate="20200418T112128Z">
+        <seg>使用团队项目Use a Team Project</seg>
       </tuv>
     </tu>
     <tu>
