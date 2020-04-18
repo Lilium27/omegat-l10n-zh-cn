@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>At the top of that dialog, select your source file's language and the language that your translated file will be, and click &lt;g1&gt;OK&lt;/g1&gt; to continue.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T122749Z" creationid="DSS" creationdate="20200418T122738Z">
+        <seg>在该对话框顶部选择原文文件的语言和翻译后文件应有的语言，然后点击 &lt;g1&gt;OK&lt;/g1&gt; 继续。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-propagation of Translations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041716Z" creationid="hp" creationdate="20200418T041716Z">
@@ -322,6 +330,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051828Z" creationid="hp" creationdate="20200418T051828Z">
         <seg>点击 &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click on &lt;g1&gt;Copy Files to Source Folder...&lt;/g1&gt; to select your source files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123007Z" creationid="DSS" creationdate="20200418T123007Z">
+        <seg>点击&lt;g1&gt;导入源文件...&lt;/g1&gt;按钮选择源文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -686,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T122809Z" creationid="DSS" creationdate="20200418T122809Z">
+        <seg>如果对该对话框中的其他设置感兴趣，则随时都可以按 &lt;k0&gt;Ctrl+E&lt;/k0&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you believe that you have lost translation data, you can use the following procedure to restore the project to its most recently saved state, usually not older than approximately 10 minutes or so:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070952Z" creationid="hp" creationdate="20200418T070952Z">
@@ -1030,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Next, the &lt;g0&gt;Project Files&lt;/g0&gt; dialog opens.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T122919Z" creationid="DSS" creationdate="20200418T122919Z">
+        <seg>接着，&lt;g0&gt;项目文件&lt;/g0&gt;对话框出现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Non-visible formatting (i.e., which doesn't appear as tags in the OmegaT editor) is retained in target documents.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050108Z" creationid="hp" creationdate="20200418T050108Z">
@@ -1130,6 +1162,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T115955Z" creationid="DSS" creationdate="20200418T112303Z">
         <seg>团队项目必须先&lt;l0&gt;搭建&lt;/l0&gt; 在服务器上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123039Z" creationid="DSS" creationdate="20200418T123039Z">
+        <seg>OmegaT跟着会复制选择的文件到新建项目的&lt;f2&gt;/source/&lt;/f2&gt;子文件夹。</seg>
       </tuv>
     </tu>
     <tu>
