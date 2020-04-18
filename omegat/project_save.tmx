@@ -62,6 +62,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;p0&gt;Menu Project&lt;/p0&gt; &lt;s1&gt;New...&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T122457Z" creationid="DSS" creationdate="20200418T122457Z">
+        <seg>&lt;p0&gt;菜单项目&lt;/p0&gt; &lt;s1&gt;新建...&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;p0&gt;Project&lt;/p0&gt; &lt;s1&gt;Create / open new&lt;/s1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T122232Z" creationid="DSS" creationdate="20200418T122232Z">
+        <seg>&lt;p0&gt;项目t&lt;/p0&gt; &lt;s1&gt;新创建/打开&lt;/s1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T122403Z" creationid="DSS" creationdate="20200418T122403Z">
+        <seg>&lt;r0&gt;注意:&lt;/r0&gt; 在 Apple Mac 上，要使用 &lt;k1&gt;Command&lt;/k1&gt; 键代替 &lt;k2&gt;Control&lt;/k2&gt; 键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repositories&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074415Z" creationid="hp" creationdate="20200418T074409Z">
@@ -910,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Learn to use OmegaT in 5 minutes!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T122156Z" creationid="DSS" creationdate="20200418T122156Z">
+        <seg>五分钟内学会使用 OmegaT！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Level 2 tmx files will still be imported and their textual content can be seen in OmegaT, but the quality of fuzzy matches will be somewhat lower.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072252Z" creationid="hp" creationdate="20200418T072252Z">
@@ -1250,6 +1282,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073212Z" creationid="hp" creationdate="20200418T073212Z">
         <seg>建立团队项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set up a new project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T122235Z" creationid="DSS" creationdate="20200418T122235Z">
+        <seg>建立新项目</seg>
       </tuv>
     </tu>
     <tu>
