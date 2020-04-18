@@ -142,10 +142,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123132Z" creationid="DSS" creationdate="20200418T123132Z">
+        <seg>当&lt;g3&gt;编辑器&lt;/g3&gt;窗格中加载了源文件后，您可以关闭&lt;g4&gt;项目文件&lt;/g4&gt;对话框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T122725Z" creationid="DSS" creationdate="20200418T122725Z">
         <seg>为项目命名后，将会打开 &lt;g0&gt;创建新项目t&lt;/g0&gt;对话框。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After you have translated each segment, press &lt;k0&gt;Ctrl+U&lt;/k0&gt; to move to the next untranslated segment (or &lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt; to move to the next translated segment).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123336Z" creationid="DSS" creationdate="20200418T123336Z">
+        <seg>翻译一个片段后，按下&lt;k0&gt;Ctrl+U&lt;/k0&gt;将前往下一个未译片段（或使用&lt;k1&gt;Ctrl+Shift+U&lt;/k1&gt;前往下一个已译片段）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1166,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will present one segment at a time for you to translate.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123235Z" creationid="DSS" creationdate="20200418T123235Z">
+        <seg>OmegaT每次呈现一个片段供您翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123039Z" creationid="DSS" creationdate="20200418T123039Z">
@@ -1898,6 +1922,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075027Z" creationid="hp" creationdate="20200418T075027Z">
         <seg>翻译 PDF 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate the file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123136Z" creationid="DSS" creationdate="20200418T123136Z">
+        <seg>翻译文件</seg>
       </tuv>
     </tu>
     <tu>
