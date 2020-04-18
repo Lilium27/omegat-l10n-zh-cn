@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;repositories&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074415Z" creationid="hp" creationdate="20200418T074409Z">
+        <seg>.repositories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A copy of the changed filters configuration will be stored with the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T064724Z" creationid="hp" creationdate="20200418T064724Z">
@@ -90,6 +98,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073814Z" creationid="hp" creationdate="20200418T073814Z">
         <seg>所有其他的文件都是只读的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_All_OmegaT_team_projects/En-US_DE_project&lt;/f0&gt; are mapped to the local OmegaT project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074457Z" creationid="hp" creationdate="20200418T074457Z">
+        <seg> &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; 的所有内容映射到本地 OmegaT 项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the contents of &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; are mapped to the local OmegaT project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074442Z" creationid="hp" creationdate="20200418T074442Z">
+        <seg> &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; 的所有内容映射到本地 OmegaT 项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -314,6 +338,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041608Z" creationid="hp" creationdate="20200418T041608Z">
         <seg>启用语句级别分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example mappings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074404Z" creationid="hp" creationdate="20200418T074404Z">
+        <seg>示例映射</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Example: &lt;u0&gt;**/*.docx&lt;/u0&gt; to add all .docx files, wherever they are located in the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074358Z" creationid="hp" creationdate="20200418T074358Z">
+        <seg>示例如： &lt;u0&gt;**/*.docx&lt;/u0&gt;  添加所有 .docx 文件，无论它们位于项目中何处。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1134,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The inclusion rules take priority over the exclusion rules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074402Z" creationid="hp" creationdate="20200418T074402Z">
+        <seg>包含规则优先于排除规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072335Z" creationid="hp" creationdate="20200418T072335Z">
@@ -1178,6 +1226,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074014Z" creationid="hp" creationdate="20200418T074014Z">
         <seg>对网址的引用如下所示（此处为 Git 存储库）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074544Z" creationid="hp" creationdate="20200418T074544Z">
+        <seg>远程文件&lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/release/readme.txt&lt;/f0&gt; 映射到本地文件&lt;f1&gt;source/readme_tr.txt&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The remote file &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt; is mapped to the local file &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074523Z" creationid="hp" creationdate="20200418T074523Z">
+        <seg>远程文件 &lt;f0&gt;https://github.com/omegat-org/omegat/raw/master/src/org/omegat/Bundle.properties&lt;/f0&gt;映射到本地文件 &lt;f1&gt;source/Bundle.properties&lt;/f1&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1322,6 +1386,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072004Z" creationid="hp" creationdate="20200418T072004Z">
         <seg>如果您经常使用过去生成的翻译记忆库，例如因为它们属于同一主题或者同一客户，则此功能非常有用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This makes it possible to rename the file to be translated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074617Z" creationid="hp" creationdate="20200418T074617Z">
+        <seg>这样便可以重命名要翻译的文件。</seg>
       </tuv>
     </tu>
     <tu>
