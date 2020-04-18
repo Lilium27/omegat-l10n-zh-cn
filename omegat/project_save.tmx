@@ -6,10 +6,34 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>Bear in mind that changing the languages may render the currently used translation memories useless since their language pair may not longer match the new languages.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041315Z" creationid="hp" creationdate="20200418T041315Z">
+        <seg>请记住：更改语言可能会导致当前使用的翻译记忆库变得无用，因为其语言对可能与新语言不匹配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T040903Z" creationid="hp" creationdate="20200418T040548Z">
         <seg>语言</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041345Z" creationid="hp" creationdate="20200418T041345Z">
+        <seg>选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tokenizers corresponding to the selected languages are displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041323Z" creationid="hp" creationdate="20200418T041323Z">
+        <seg>会显示所选语言所对应的分词器。</seg>
       </tuv>
     </tu>
     <tu>
