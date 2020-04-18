@@ -743,6 +743,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T135716Z" creationid="Liliu" creationdate="20200418T135716Z">
+        <seg>词汇表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary pane: Dropped files with known glossary extensions (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) will be copied to the &lt;f2&gt;glossary&lt;/f2&gt; folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134413Z" creationid="Liliu" creationdate="20200418T134413Z">
@@ -1252,6 +1260,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073217Z" creationid="hp" creationdate="20200418T073217Z">
         <seg>因此，它应当由项目经理、项目负责人或本地化工程师来执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It shows translation of terms found in the current segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T135955Z" creationid="Liliu" creationdate="20200418T135955Z">
+        <seg>它会显示出现在当前句段中的词汇的翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1928,6 +1944,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134426Z" creationid="Liliu" creationdate="20200418T134426Z">
         <seg>编辑器窗格显示部分已翻译的文档文本：已翻译的文本会显示译文，同时未翻译的文本以原始语言显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T135931Z" creationid="Liliu" creationdate="20200418T135931Z">
+        <seg>词汇表窗格允许您访问在词汇表文件中建立的语言表达集和专业术语集。</seg>
       </tuv>
     </tu>
     <tu>
