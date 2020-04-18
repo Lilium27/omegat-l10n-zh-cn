@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A source sentence might look like:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123707Z" creationid="DSS" creationdate="20200418T123707Z">
+        <seg>源语言也许类似这样：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A team project can be opened and translated offline.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120928Z" creationid="DSS" creationdate="20200418T120928Z">
@@ -630,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Generate the translated file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123824Z" creationid="DSS" creationdate="20200418T123824Z">
+        <seg>生成译文文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Here you can select different subfolders, for instance the subfolder with source files, subfolder for target files etc.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051706Z" creationid="hp" creationdate="20200418T051706Z">
@@ -642,6 +658,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072237Z" creationid="hp" creationdate="20200418T072237Z">
         <seg>但是，OmegaT 并不完全支持导入级别 2 的 tmx 文件（不仅存储翻译，还存储格式）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123804Z" creationid="DSS" creationdate="20200418T123804Z">
+        <seg>无论如何当您输入了错误的格式标签，那么已译文件可能无法打开。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1142,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Often documents will also have tags that have nothing to do with formatting, but which are also important in the source files (and in the translated files).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123654Z" creationid="DSS" creationdate="20200418T123654Z">
+        <seg>经常文档都会含有无需处理的格式标签，但它们对源文件（和已译文件）也很重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT also backs up the translation memory to project_save.tmx.YEARMMDDHHNN.bak in the same subfolder each time a project is opened or reloaded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070942Z" creationid="hp" creationdate="20200418T070942Z">
@@ -1214,6 +1246,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123718Z" creationid="DSS" creationdate="20200418T123718Z">
+        <seg>但OmegaT会把该语句以下面的样式呈现：
+
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Once the project has been opened, translation proceeds in the same way as for a non-team project, except the following points.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T115540Z" creationid="DSS" creationdate="20200418T112408Z">
@@ -1226,6 +1268,15 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073824Z" creationid="hp" creationdate="20200418T073824Z">
         <seg>一旦项目在服务器上建立好之后，项目经理可以邀请译者在其上工作，两种方式任选其一：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once you have made certain that there are no tag errors in your translation, press &lt;k0&gt;Ctrl+D&lt;/k0&gt; to generate the target files, which will be created in the &lt;f1&gt;/target/&lt;/f1&gt; subfolder of your project folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123949Z" creationid="DSS" creationdate="20200418T123949Z">
+        <seg>当您确定在翻译中没有标签错误后，按下&lt;k0&gt;Ctrl+D&lt;/k0&gt;则会在项目文件夹的&lt;f1&gt;/target/&lt;/f1&gt;子文件夹中生成目标文件。
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -1646,6 +1697,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The tags in OmegaT are greyed, so they are easy to recognise.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123728Z" creationid="DSS" creationdate="20200418T123728Z">
+        <seg>OmegaT中的标记为灰色，因此很容易识别。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The translated files will then need to be converted back to the original format.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075446Z" creationid="hp" creationdate="20200418T075446Z">
@@ -1686,10 +1745,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Therefore, press &lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt; before you generate your translated files, to validate that your tags are correct.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123820Z" creationid="DSS" creationdate="20200418T123820Z">
+        <seg>因此，在生成已译文件前请按下&lt;k0&gt;Ctrl+Shift+V&lt;/k0&gt;以检验标签是否正确。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These files won't be deleted automatically on the translator's side: you must ask them to delete the files manually.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073804Z" creationid="hp" creationdate="20200418T073804Z">
         <seg>这些文件在译者侧不会自动删除：你必须让他们手工删除文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>They are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123742Z" creationid="DSS" creationdate="20200418T123742Z">
+        <seg>这些标签受到保护，这样您无法修改它们的内容，可以删除、手动输入或移动它们在目标语句中的位置。</seg>
       </tuv>
     </tu>
     <tu>
