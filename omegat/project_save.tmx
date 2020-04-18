@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1136,6 +1136,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the example below, the author of the PO file included a warning for the translator to check the length of the translation:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T143058Z" creationid="Liliu" creationdate="20200418T142841Z">
+        <seg>在下方的例子中，PO 文件的作者给译员设置了警告，以检查译文长度：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this case, a useful procedure would be:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072008Z" creationid="hp" creationdate="20200418T072008Z">
@@ -2102,8 +2110,8 @@
       <tuv lang="en">
         <seg>The project in the example is evidently finished, as all the unique segments have been translated.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T140025Z" creationid="Liliu" creationdate="20200418T134639Z">
-        <seg>举例中的项目已完成，所有独特句段已翻译完毕。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T142844Z" creationid="Liliu" creationdate="20200418T134639Z">
+        <seg>例子中的项目已完成，所有独特句段已翻译完毕。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2174,8 +2182,8 @@
       <tuv lang="en">
         <seg>The source segment in the example below was “&lt;e0&gt;Context menu command&lt;/e0&gt;”, as in the Fuzzy Matches example above, and the terms shown were found in the glossaries, available (Microsoft's Term collection and Slovenian Linux User group Glossary).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T140535Z" creationid="Liliu" creationdate="20200418T140017Z">
-        <seg>如同之前的模糊匹配举例，下方举例中的源语句段为“&lt;e0&gt;Context menu command&lt;/e0&gt;”，显示的术语能够在可用词汇表中找到（Microsoft 名词集和斯洛文尼亚 Linux 用户组词汇表）。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T142919Z" creationid="Liliu" creationdate="20200418T140017Z">
+        <seg>如同之前的模糊匹配例子，下方例子中的源语句段为“&lt;e0&gt;Context menu command&lt;/e0&gt;”，显示的术语能够在可用词汇表中找到（Microsoft 名词集和斯洛文尼亚 Linux 用户组词汇表）。</seg>
       </tuv>
     </tu>
     <tu>
