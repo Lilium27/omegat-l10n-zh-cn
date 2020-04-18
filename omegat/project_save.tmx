@@ -494,6 +494,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do you have a Java implementation compatible with Oracle's Java 8 JRE?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T125352Z" creationid="DSS" creationdate="20200418T125352Z">
+        <seg>是否有与 Oracle 的 Java 8 JRE 相兼容的 Java 实现?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Downloading the package</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T125344Z" creationid="DSS" creationdate="20200418T125344Z">
+        <seg>下载安装包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During translation, use the &lt;g4&gt;Edit&lt;/g4&gt; and &lt;g5&gt;Go To&lt;/g5&gt; menus to perform various useful functions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123613Z" creationid="DSS" creationdate="20200418T123613Z">
@@ -1018,6 +1034,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071542Z" creationid="hp" creationdate="20200418T071542Z">
         <seg>一开始，即项目创建时，项目的主翻译记忆库 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing and running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T125338Z" creationid="DSS" creationdate="20200418T125338Z">
+        <seg>安装和运行 &lt;a0&gt;OmegaT&lt;/a0&gt; </seg>
       </tuv>
     </tu>
     <tu>
@@ -2309,6 +2333,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123413Z" creationid="DSS" creationdate="20200418T123413Z">
         <seg>当您想看看译文的最终格式时，按下&lt;k2&gt;Ctrl+D&lt;/k2&gt;会生成已译文档，它们在项目文件夹中的&lt;f3&gt;/target/&lt;/f3&gt;子文件夹。在翻译过程中使用编辑和前往菜单可以执行多种有用的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows Users</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T125341Z" creationid="DSS" creationdate="20200418T125341Z">
+        <seg>Windows 用户</seg>
       </tuv>
     </tu>
     <tu>
