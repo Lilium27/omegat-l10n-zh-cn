@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073258Z" creationid="hp" creationdate="20200418T073258Z">
+        <seg>&lt;g0&gt;项目&lt;/g0&gt; &lt;g1&gt;新建项目...&lt;/g1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A copy of the changed filters configuration will be stored with the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T064724Z" creationid="hp" creationdate="20200418T064724Z">
@@ -62,10 +70,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add the new OmegaT project to the versioning system (&lt;c0&gt;add&lt;/c0&gt; with SVN and Git)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073403Z" creationid="hp" creationdate="20200418T073332Z">
+        <seg>将新建立的 OmegaT 项目添加到版本控制系统（对于 SVN 和 Git 都是</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An ignored file or folder:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051844Z" creationid="hp" creationdate="20200418T051844Z">
         <seg> 要忽略的文件或文件夹。被忽略的文件或文件夹：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As plenty of information about SVN and Git is easily available, we won't describe how they work here, but only how OmegaT works with them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073221Z" creationid="hp" creationdate="20200418T073221Z">
+        <seg>由于很容易获得大量关于 SVN 和 Git 的信息，在这里我们不描述它们如何工作，而只描述 OmegaT 如何使用它们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,6 +198,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073231Z" creationid="hp" creationdate="20200418T073231Z">
+        <seg>创建此存储库的本地副本（对 SVN 是 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a new, empty OmegaT project in the local repository.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073233Z" creationid="hp" creationdate="20200418T073233Z">
+        <seg>在本地存储库中建立一个新的、空的 OmegaT 项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a project, separate for other projects, in the desired language pair, with an appropriate name - note that the TMXs created will include this name.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072456Z" creationid="hp" creationdate="20200418T072456Z">
@@ -182,10 +222,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create an SVN or Git repository on a server that will be accessible by the translators.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073229Z" creationid="hp" creationdate="20200418T073229Z">
+        <seg>在服务器上创建一个译者可访问的 SVN 或 Git 存储库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creating a translation memory for selected documents</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072342Z" creationid="hp" creationdate="20200418T072342Z">
         <seg>创建所选文档的翻译记忆</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating an empty project on a server</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073227Z" creationid="hp" creationdate="20200418T073227Z">
+        <seg>在服务器上创建一个空项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -558,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It should thus be carried out by a project manager, a project leader or a localisation engineer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073217Z" creationid="hp" creationdate="20200418T073217Z">
+        <seg>因此，它应当由项目经理、项目负责人或本地化工程师来执行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Justification of source and target segments depends upon the project languages.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T064752Z" creationid="hp" creationdate="20200418T064752Z">
@@ -642,6 +706,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051110Z" creationid="hp" creationdate="20200418T051110Z">
         <seg>注意在菜单中 &lt;g2&gt;选项-&gt;文件过滤器&lt;/g2&gt;, the global user filters are changed, not the project filters.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that only one TMX for a given language pair is possible, so if several translation memories should be involved, you will need to merge them all into the XX_YY.tmx.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073203Z" creationid="hp" creationdate="20200418T073203Z">
+        <seg>注意对于给定语言对只能使用一个 TMX，因此如果涉及多个翻译记忆库，则需要将它们全部合并到 XX_YY.tmx 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: If the project was created with the command line in step 3, this step has already been done by the program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073349Z" creationid="hp" creationdate="20200418T073349Z">
+        <seg>注意：如果在第 3 步是用命令行创建的项目，则该步骤已由程序完成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -774,6 +854,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Set up a Team Project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073212Z" creationid="hp" creationdate="20200418T073212Z">
+        <seg>建立团队项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Setting up a team project requires some knowledge of servers and the SVN or Git versioning systems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073214Z" creationid="hp" creationdate="20200418T073214Z">
+        <seg>建立团队项目需要一些关于服务器和 SVN 或 Git 版本控制系统的知识。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Sharing translation memories</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072808Z" creationid="hp" creationdate="20200418T072808Z">
@@ -810,6 +906,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072506Z" creationid="hp" creationdate="20200418T072506Z">
         <seg>开启项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 1: Create an empty project on a server</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073224Z" creationid="hp" creationdate="20200418T073224Z">
+        <seg>第 1 步：在服务器上创建一个空项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -946,6 +1050,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050131Z" creationid="hp" creationdate="20200418T050131Z">
         <seg>此区域允许输入一个在每次使用“创建译文文档”之后都会应用的外部后处理命令（例如，用于重命名文件的脚本）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This can be done in two ways:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073235Z" creationid="hp" creationdate="20200418T073235Z">
+        <seg>有两种方式可以完成这一点：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1306,6 +1418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065329Z" creationid="hp" creationdate="20200418T065329Z">
         <seg>左对齐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>on the command line: &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073322Z" creationid="hp" creationdate="20200418T073322Z">
+        <seg>命令行输入 &lt;c0&gt;java -jar OmegaT.jar team init [lang1] [lang2]&lt;/c0&gt;</seg>
       </tuv>
     </tu>
     <tu>
