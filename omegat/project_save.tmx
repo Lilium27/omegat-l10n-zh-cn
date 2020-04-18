@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Note:&lt;/e0&gt; the above information applies only to PDF files with a text layer.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075432Z" creationid="hp" creationdate="20200418T075432Z">
+        <seg>&lt;e0&gt;注意：&lt;/e0&gt;以上信息仅适用于带有文本层的 PDF 文件。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;g0&gt;Project&lt;/g0&gt; &lt;g1&gt;New...&lt;/g1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073258Z" creationid="hp" creationdate="20200418T073258Z">
@@ -166,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before proceeding with such conversions, be sure to test all options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075503Z" creationid="hp" creationdate="20200418T075503Z">
+        <seg>在进行此类转换之前，请务必测试所有选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, left justification is used for Left-To-Right (LTR) languages and right justification for Right-To-Left (RTL) languages.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T064758Z" creationid="hp" creationdate="20200418T064758Z">
@@ -202,6 +218,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072618Z" creationid="hp" creationdate="20200418T072618Z">
         <seg>使用 &lt;k0&gt;Ctrl+T &lt;/k0&gt;检查可能的标签错误；使用 &lt;k1&gt;Ctrl+U&lt;/k1&gt;.检查未翻译片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check the &lt;u0&gt;OmegaT home page&lt;/u0&gt; for an up-to-date listing of auxiliary translation tools.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075537Z" creationid="hp" creationdate="20200418T075537Z">
+        <seg>查询 &lt;u0&gt;OmegaT 的首页&lt;/u0&gt; 来获取最新的辅助翻译工具列表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -382,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External tools can be used to convert files to supported formats.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075444Z" creationid="hp" creationdate="20200418T075444Z">
+        <seg>可以用外部工具将文件转换为支持的格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File Filters...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050625Z" creationid="hp" creationdate="20200418T050625Z">
@@ -418,6 +450,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070551Z" creationid="hp" creationdate="20200418T070551Z">
         <seg>不过，对于 .docx 文件会自动完成许多更改：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075449Z" creationid="hp" creationdate="20200418T075449Z">
+        <seg>例如，如果你拥有的是无法处理 ODT 的过时 Microsoft Word 版本，那么对于有着 DOC 扩展名的 Word 文件需要这样来回：</seg>
       </tuv>
     </tu>
     <tu>
@@ -546,6 +586,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051746Z" creationid="hp" creationdate="20200418T051746Z">
         <seg>如果输入的文件夹名称尚不存在，&lt;a0&gt;OmegaT&lt;/a0&gt; 会为您创建新的文件夹.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075437Z" creationid="hp" creationdate="20200418T075437Z">
+        <seg>如果你有一个由扫描页面组成的 PDF 文件（此类文件有时被称为“死”PDF），你需要用 OCR（光学字符识别）程序识别文本并将其转换为 OmegaT 可以处理的格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -958,6 +1006,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Other file formats</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075439Z" creationid="hp" creationdate="20200418T075439Z">
+        <seg>其它文件格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other plain text or formatted text file formats suitable for processing in OmegaT may also exist.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075442Z" creationid="hp" creationdate="20200418T075442Z">
+        <seg>还存在其他适合 OmegaT 处理的纯文本或格式化文本文件格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PDF files are a special case.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075029Z" creationid="hp" creationdate="20200418T075029Z">
@@ -1254,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The quality of formatting of the translated file will depend on the quality of the round-trip conversion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075501Z" creationid="hp" creationdate="20200418T075501Z">
+        <seg>译文文件的格式质量取决于来回转换的质量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The reference to the URL is specified as below (here to a Git repository):</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074014Z" creationid="hp" creationdate="20200418T074014Z">
@@ -1298,6 +1370,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072859Z" creationid="hp" creationdate="20200418T072859Z">
         <seg>在这个例子中，解决方案是将已有的翻译记忆库复制到 tm/tmx2source/ 子文件夹中并将其重命名为 ZH_CN.tmx 来指示此 tmx 的译文语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translated files will then need to be converted back to the original format.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075446Z" creationid="hp" creationdate="20200418T075446Z">
+        <seg>然后需要将译文文件转换回原始格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1798,6 +1878,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>import the file into ODF writer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075450Z" creationid="hp" creationdate="20200418T075450Z">
+        <seg>将文件导入到 ODF writer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>includes</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074330Z" creationid="hp" creationdate="20200418T074330Z">
@@ -1834,6 +1922,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065329Z" creationid="hp" creationdate="20200418T065329Z">
         <seg>左对齐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>load the target file in ODF writer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075455Z" creationid="hp" creationdate="20200418T075455Z">
+        <seg>在 ODF writer 中加载译文文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -1910,6 +2006,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>save the file as a DOC file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075457Z" creationid="hp" creationdate="20200418T075457Z">
+        <seg>将文件保存为 DOC 格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>save the file in ODT format</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075452Z" creationid="hp" creationdate="20200418T075452Z">
+        <seg>将文件保存为 ODT 格式保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>see more in Chapter</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072843Z" creationid="hp" creationdate="20200418T072843Z">
@@ -1946,6 +2058,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072755Z" creationid="hp" creationdate="20200418T072755Z">
         <seg>主项目目录（见上文）中的 TMX 文件现在包含你复制到原文文件夹中的文件的所选语言对的翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>translate it into the target ODT file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075454Z" creationid="hp" creationdate="20200418T075454Z">
+        <seg>对它进行翻译并创建译文 ODT 文件</seg>
       </tuv>
     </tu>
     <tu>
