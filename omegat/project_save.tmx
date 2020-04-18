@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>All other files are read-only.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073814Z" creationid="hp" creationdate="20200418T073814Z">
+        <seg>所有其他的文件都是只读的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An ignored file or folder:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051844Z" creationid="hp" creationdate="20200418T051844Z">
@@ -430,6 +438,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the translator attempts to modify them, they will go back to their original state whenever the project is opened, closed, saved or reloaded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073820Z" creationid="hp" creationdate="20200418T073820Z">
+        <seg>如果译者试图修改它们，则只要项目被打开、关闭、保存或重新载入，它们就会回复到原始状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you believe that you have lost translation data, you can use the following procedure to restore the project to its most recently saved state, usually not older than approximately 10 minutes or so:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070952Z" creationid="hp" creationdate="20200418T070952Z">
@@ -726,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that only two files are modified by OmegaT during translation:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073807Z" creationid="hp" creationdate="20200418T073807Z">
+        <seg>请注意，在翻译期间，OmegaT 只修改两个文件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: If the project was created with the command line in step 3, this step has already been done by the program.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073349Z" creationid="hp" creationdate="20200418T073349Z">
@@ -770,6 +794,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072146Z" creationid="hp" creationdate="20200418T072146Z">
         <seg>OmegaT 支持导入 tmx 版本 1.1-1.4b（级别 1 和级别 2 都可）。这使得OmegaT 可以读取其他工具生成的翻译记忆库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once the project is set up on the server, the project manager can invite the translator to work on it in either of two different ways:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073824Z" creationid="hp" creationdate="20200418T073824Z">
+        <seg>一旦项目在服务器上建立好之后，项目经理可以邀请译者在其上工作，两种方式任选其一：</seg>
       </tuv>
     </tu>
     <tu>
@@ -950,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Step 3: Send an invitation to the translator</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073822Z" creationid="hp" creationdate="20200418T073822Z">
+        <seg>第 3 步：向译者发送邀请</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Take particular care when making changes to the files in &lt;l0&gt;/source&lt;/l0&gt; while in the middle of a project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071254Z" creationid="hp" creationdate="20200418T071219Z">
@@ -1014,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The reference to the URL is specified as below (here to a Git repository):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074014Z" creationid="hp" creationdate="20200418T074014Z">
+        <seg>对网址的引用如下所示（此处为 Git 存储库）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The segmentation rules are generally valid across all the projects.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050153Z" creationid="hp" creationdate="20200418T050153Z">
@@ -1066,6 +1114,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072848Z" creationid="hp" creationdate="20200418T072848Z">
         <seg>某些情况下，你可能已经完成了一个项目，原文为比如说荷兰语，翻译为比如说英语。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These files won't be deleted automatically on the translator's side: you must ask them to delete the files manually.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073804Z" creationid="hp" creationdate="20200418T073804Z">
+        <seg>这些文件在译者侧不会自动删除：你必须让他们手工删除文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1154,6 +1210,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041714Z" creationid="hp" creationdate="20200418T041714Z">
         <seg>这实际上会让它们回到“未译”状态，因为它们和记录在翻译记忆库中的片段不再匹配，虽然它们的原始翻译依然存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To &lt;e0&gt;delete files&lt;/e0&gt;, use an SVN or Git client.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073800Z" creationid="hp" creationdate="20200418T073800Z">
+        <seg> &lt;e0&gt;删除文件&lt;/e0&gt;，请使用 SVN 或 Git 客户端。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add other resources (dictionaries, TMXs or glossaries), use an SVN or Git client.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073732Z" creationid="hp" creationdate="20200418T073732Z">
+        <seg>要添加其他资源（词典、TMX、或词汇表），请使用 SVN 或 Git 客户端。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1534,10 +1606,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>sending an &lt;f0&gt;omegat.project&lt;/f0&gt; file containing a reference to the URL and asking the translator to copy it into a dedicated folder and open it with OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074004Z" creationid="hp" creationdate="20200418T074004Z">
+        <seg>发送 &lt;f0&gt;omegat.project&lt;/f0&gt; 文件并要求译者将其复制到专用的文件夹中然后用 OmegaT 打开它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>sending the URL of the project and asking the translator to create a local copy with &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Download Team Project&lt;/g2&gt; &lt;/m0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073920Z" creationid="hp" creationdate="20200418T073826Z">
+        <seg>发送项目网址并要求译者用 &lt;g1&gt;项目&lt;/g1&gt; 中的&lt;g2&gt;下载团队项目&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>the TMX files in the main project folder (see above) now contain the translations in the selected language pair, for the files, you have copied into the source folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072755Z" creationid="hp" creationdate="20200418T072755Z">
         <seg>主项目目录（见上文）中的 TMX 文件现在包含你复制到原文文件夹中的文件的所选语言对的翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>use &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Commit Source Files&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073729Z" creationid="hp" creationdate="20200418T073729Z">
+        <seg>使用 &lt;m0&gt; &lt;g1&gt;项目&lt;/g1&gt; &lt;g2&gt;提交源文件&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
