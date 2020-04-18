@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; tags in RTL segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070322Z" creationid="hp" creationdate="20200418T070322Z">
+        <seg>从右向左片段中的 标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Hint:&lt;/e0&gt; the set of file filters for a given project is stored as &lt;f1&gt;project/omegat/filters.xml.&lt;/f1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051303Z" creationid="hp" creationdate="20200418T051303Z">
@@ -30,10 +38,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A hint: translating a plain text version of the text and adding the necessary style in the relevant application at a later stage may turn out to be less hassle.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070355Z" creationid="hp" creationdate="20200418T070355Z">
+        <seg>提示：翻译文本的纯文本版本并在稍后阶段在相关应用程序中添加必要的样式可能会不那么麻烦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An ignored file or folder:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051844Z" creationid="hp" creationdate="20200418T051844Z">
         <seg> 要忽略的文件或文件夹。被忽略的文件或文件夹：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As stated above, OmegaT tags are LTR strings.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070327Z" creationid="hp" creationdate="20200418T070327Z">
+        <seg>如上所述，OmegaT 标签是从左向右的字符串。</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating translated RTL documents</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070447Z" creationid="hp" creationdate="20200418T070447Z">
+        <seg>创建从右到左的翻译文档Creating translated RTL documents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Defines the project-specific external search resources.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051657Z" creationid="hp" creationdate="20200418T051657Z">
@@ -134,6 +166,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Follow the indications given in Hints for tags management.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070347Z" creationid="hp" creationdate="20200418T070347Z">
+        <seg>请遵循标签管理提示中给出的说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Frequently validate tags (see Tag validation) and produce translated documents (see below and Menu) at regular intervals to make it easier to catch any problems that arise.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070350Z" creationid="hp" creationdate="20200418T070350Z">
+        <seg>经常验证标签（参见标签验证）并定期生成译文文档（参见下文和菜单）可以更容易发现问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Here you can select different subfolders, for instance the subfolder with source files, subfolder for target files etc.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051706Z" creationid="hp" creationdate="20200418T051706Z">
@@ -146,6 +194,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041935Z" creationid="hp" creationdate="20200418T041741Z">
         <seg>如果未勾选自动传播复选框，则含有替代译文的片段会保持未译状态直到用户决定使用哪种译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the document allows, the translator is strongly encouraged to remove style information from the original document so that as few tags as possible appear in the OmegaT interface.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070344Z" creationid="hp" creationdate="20200418T070344Z">
+        <seg>如果文档允许，强烈建议译者从原始文档中删除样式信息以在 OmegaT 的界面中尽可能少地显示标签。</seg>
       </tuv>
     </tu>
     <tu>
@@ -186,6 +242,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051754Z" creationid="hp" creationdate="20200418T051754Z">
         <seg>如果你决定修改项目的文件夹，要记住这并不会将现有文件从旧文件夹移动到新位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In cases like these it becomes necessary to switch to RTL mode, so that the RTL (in fact bidirectional) text is displayed correctly.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070213Z" creationid="hp" creationdate="20200418T070213Z">
+        <seg>例如，在 OmegaT 标签中、必须维持使用从左向右的原文语言的产品名称、本地化文件中的占位符、以及文本中的数字。在这类情况下，必须转换为从右向左模式，以正确显示从右向左（实际上是双向）文本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -234,6 +298,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065142Z" creationid="hp" creationdate="20200418T052034Z">
         <seg>允许使用通配符 &lt;u0&gt;ant syntax&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It should be noted that when &lt;a0&gt;OmegaT&lt;/a0&gt; is in RTL mode, both source and target are displayed in RTL mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070247Z" creationid="hp" creationdate="20200418T070247Z">
+        <seg>注意，处于从右向左模式时，原文和译文都以从右向左模式显示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -446,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This means that if the source language is LTR and the target language is RTL, or vice versa, it may be necessary to toggle back and forth between RTL and LTR modes to view the source and enter the target easily in their respective modes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070258Z" creationid="hp" creationdate="20200418T070258Z">
+        <seg>这意味着如果原文语言是从左向右的而目标语言是从右向左的，或反之，就可能必须在从右向左和从左向右模式之间来回切换，以便在各自的模式下查看原文并输入译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will effectively return them to the "untranslated" status, as they will no longer match segments recorded in the project memory, even though their original translation is still there.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041714Z" creationid="hp" creationdate="20200418T041714Z">
@@ -514,6 +594,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T042039Z" creationid="hp" creationdate="20200418T042039Z">
         <seg>启用后，将从原文片段中移除所有格式化标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When translating between RTL and LTR languages, correctly reading the tags from the source and entering them properly in the target may require the translator to toggle between LTR and RTL modes numerous times.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070333Z" creationid="hp" creationdate="20200418T070333Z">
+        <seg>当在从右向左和从左向右的语言间进行翻译时，要正确地读取原文中的标签并在译文中正确输入它们可能需要译者在从左向右和从右向左模式之间多次切换。</seg>
       </tuv>
     </tu>
     <tu>
