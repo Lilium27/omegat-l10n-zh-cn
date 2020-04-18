@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check for possible Tag errors with &lt;k0&gt;Ctrl+T &lt;/k0&gt;and untranslated segments with &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072618Z" creationid="hp" creationdate="20200418T072618Z">
+        <seg>使用 &lt;k0&gt;Ctrl+T &lt;/k0&gt;检查可能的标签错误；使用 &lt;k1&gt;Ctrl+U&lt;/k1&gt;.检查未翻译片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clic on &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051828Z" creationid="hp" creationdate="20200418T051828Z">
@@ -126,10 +134,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy the documents, you need the translation memory for, into the source folder of the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072501Z" creationid="hp" creationdate="20200418T072501Z">
+        <seg>将需要翻译记忆的原文文档复制到项目的原文文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072504Z" creationid="hp" creationdate="20200418T072504Z">
+        <seg>复制包含上述文档的翻译的翻译记忆库到新项目的 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072019Z" creationid="hp" creationdate="20200418T072019Z">
         <seg>在硬盘上方便的位置为特定客户或者主题的翻译记忆库创建一个文件夹（“仓库文件夹”）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create a project, separate for other projects, in the desired language pair, with an appropriate name - note that the TMXs created will include this name.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072456Z" creationid="hp" creationdate="20200418T072456Z">
+        <seg>使用所需的语言对和合适的名称（注意：创建的 TMX 文件会包含此名称）创建一个与其他项目分开的项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -384,8 +416,8 @@
       <tuv lang="en">
         <seg>In case translators need to share their TMX bases while excluding some of their parts or including just translations of certain files, sharing the complete &lt;f0&gt;ProjectName-omegat.tmx&lt;/f0&gt; is out of question.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072413Z" creationid="hp" creationdate="20200418T072413Z">
-        <seg>如果译者需要与别人分享他们的 TMX 而同时需要排除某些部分或者只要包含某些文件的翻译，那么分享完整的 </seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072451Z" creationid="hp" creationdate="20200418T072413Z">
+        <seg>如果译者需要与别人分享他们的 TMX 而同时需要排除某些部分或者只要包含某些文件的翻译，那么可分享完整的翻译记忆库文件 </seg>
       </tuv>
     </tu>
     <tu>
@@ -718,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072506Z" creationid="hp" creationdate="20200418T072506Z">
+        <seg>开启项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Take particular care when making changes to the files in &lt;l0&gt;/source&lt;/l0&gt; while in the middle of a project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071254Z" creationid="hp" creationdate="20200418T071219Z">
@@ -738,6 +778,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065626Z" creationid="hp" creationdate="20200418T065626Z">
         <seg> 中创建的译文文档的显示模式没有任何影响。译文文档的显示模式必须在通常用于显示或修改它的应用程序（诸如 Microsoft Word）中修改（详细信息请查看相关手册）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following recipe is just one of the possibilities, but simple enough to follow and without any dangers for the assets.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072419Z" creationid="hp" creationdate="20200418T072419Z">
+        <seg>以下方案只是其中一种方法，不过足够简单、容易操作且没有危险性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -874,6 +922,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071207Z" creationid="hp" creationdate="20200418T071207Z">
         <seg>为避免丢失重要数据：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To check everything is as expected, you may press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to create the target documents and check their contents.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072659Z" creationid="hp" creationdate="20200418T072659Z">
+        <seg>为了检查，您需要使用 &lt;k2&gt;Ctrl+D&lt;/k2&gt; 来创建译文文档并检查其内容。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -1018,6 +1074,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071730Z" creationid="hp" creationdate="20200418T071555Z">
         <seg> 项目中创建译文文件时，项目的翻译记忆库将在根文件夹下输出为三份文件（见以上描述）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you exit the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072727Z" creationid="hp" creationdate="20200418T072715Z">
+        <seg>退出项目</seg>
       </tuv>
     </tu>
     <tu>
