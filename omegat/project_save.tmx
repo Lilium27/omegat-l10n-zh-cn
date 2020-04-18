@@ -1805,8 +1805,8 @@
       <tuv lang="en">
         <seg>See &lt;l1&gt;Segmentation Setup preferences&lt;/l1&gt; for more information on segmentation rules.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050533Z" creationid="hp" creationdate="20200418T050533Z">
-        <seg>见 &lt;l1&gt;分割设置首选项&lt;/l1&gt;查询与细分规则相关的更多信息</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T144143Z" creationid="hp" creationdate="20200418T050533Z">
+        <seg>请参阅 &lt;l1&gt;分割设置首选项&lt;/l1&gt;查询分割规则相关的更多信息</seg>
       </tuv>
     </tu>
     <tu>
@@ -2718,8 +2718,8 @@
       <tuv lang="en">
         <seg>Use this button to open a dialog, activate the check box &lt;g0&gt;Project specific segmentation rules&lt;/g0&gt;, then proceed to adjust the segmentation rules as desired.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050350Z" creationid="hp" creationdate="20200418T050319Z">
-        <seg>用此按钮打开对话框，激活复选框，然后根据需要继续调整分割规则。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T144031Z" creationid="hp" creationdate="20200418T050319Z">
+        <seg>用此按钮打开对话框，激活复选框 &lt;g0&gt;项目具体分割规则&lt;/g0&gt;然后根据需要调整分割规则。</seg>
       </tuv>
     </tu>
     <tu>
