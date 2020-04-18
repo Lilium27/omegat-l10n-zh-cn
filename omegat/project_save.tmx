@@ -208,8 +208,8 @@
       <tuv lang="en">
         <seg>It is possible to use wildcards, using the &lt;u0&gt;ant syntax&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T052034Z" creationid="hp" creationdate="20200418T052034Z">
-        <seg>允许使用It is possible to use wildcards, using the &lt;u0&gt;ant syntax&lt;/u0&gt;.</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065142Z" creationid="hp" creationdate="20200418T052034Z">
+        <seg>允许使用通配符 &lt;u0&gt;ant syntax&lt;/u0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
