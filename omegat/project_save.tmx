@@ -2422,8 +2422,8 @@
       <tuv lang="en">
         <seg>To come back to the standard mode "&lt;g2&gt;Cursor lock on&lt;/g2&gt;", press &lt;k3&gt;F2&lt;/k3&gt; again.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T135509Z" creationid="Liliu" creationdate="20200418T135509Z">
-        <seg>如果要返回标准模式“&lt;g2&gt;Cursor lock on&lt;/g2&gt;”, press &lt;k3&gt;F2&lt;/k3&gt; again.</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T135614Z" creationid="Liliu" creationdate="20200418T135509Z">
+        <seg>如果要返回标准模式“&lt;g2&gt;光标解锁&lt;/g2&gt;”，再次按下 &lt;k3&gt;F2&lt;/k3&gt; 键。</seg>
       </tuv>
     </tu>
     <tu>
