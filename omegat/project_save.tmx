@@ -1166,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Menus</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134031Z" creationid="Liliu" creationdate="20200418T134031Z">
+        <seg>菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mistranslated segments can of course be corrected later manually using &lt;g0&gt;Create Alternative Translation&lt;/g0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041921Z" creationid="hp" creationdate="20200418T041722Z">
