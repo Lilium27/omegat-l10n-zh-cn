@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a robust application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070718Z" creationid="hp" creationdate="20200418T070718Z">
+        <seg> 是健壮的应用程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; tags in RTL segments</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070322Z" creationid="hp" creationdate="20200418T070322Z">
@@ -202,6 +210,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051706Z" creationid="hp" creationdate="20200418T051706Z">
         <seg>在这里你可以选择不同的子文件夹，例如包含原文文件的子文件夹、译文文件的子文件夹等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070806Z" creationid="hp" creationdate="20200418T070806Z">
+        <seg>然而，就像使用任何其他应用程序一样，使用 OmegaT时你需要预防数据丢失</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +426,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070556Z" creationid="hp" creationdate="20200418T070556Z">
         <seg>段落、节和表被设为双向</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Prevent data loss</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070720Z" creationid="hp" creationdate="20200418T070720Z">
+        <seg>防止数据丢失</seg>
       </tuv>
     </tu>
     <tu>
@@ -674,6 +698,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070056Z" creationid="hp" creationdate="20200418T065844Z">
         <seg>在编写纯从右向左文本时，可以使用默认的（从左向右）视图。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070925Z" creationid="hp" creationdate="20200418T070925Z">
+        <seg>当你翻译文档时， &lt;a2&gt;OmegaT&lt;/a2&gt;  将所有进度存储在项目的 翻译记忆库中&lt;l3&gt;project_save.tmx&lt;/l3&gt; 翻译记忆库位于项目的&lt;l4&gt;/omegat&lt;/l4&gt; 子文件夹中</seg>
       </tuv>
     </tu>
     <tu>
