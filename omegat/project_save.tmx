@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A team project can be opened and translated offline.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120928Z" creationid="DSS" creationdate="20200418T120928Z">
+        <seg>团队项目可以离线打开并翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add patterns using wildcards (Apache Ant style): *, ?, **</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074301Z" creationid="hp" creationdate="20200418T074301Z">
@@ -122,6 +130,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120536Z" creationid="DSS" creationdate="20200418T120536Z">
         <seg>所有其他文件将被远程存储库中的文件替换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All the changes will be synchronised the next time a connection is available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120937Z" creationid="DSS" creationdate="20200418T120937Z">
+        <seg>所有更改将在下次连接可用时进行同步。</seg>
       </tuv>
     </tu>
     <tu>
@@ -218,6 +234,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071951Z" creationid="hp" creationdate="20200418T071951Z">
         <seg>默认情况下，/tm 文件夹位于项目的根文件夹下（例如 ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changing segmentation rules or file filters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120917Z" creationid="DSS" creationdate="20200418T120917Z">
+        <seg>更改片段分割规则或文件过滤器</seg>
       </tuv>
     </tu>
     <tu>
@@ -366,6 +390,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deleting source files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120907Z" creationid="DSS" creationdate="20200418T120907Z">
+        <seg>删除原文文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Disconnect from the network before opening the project,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120957Z" creationid="DSS" creationdate="20200418T120957Z">
+        <seg>在打开项目前断开网络连接，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not hesitate to post in the language you feel the most familiar with.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071430Z" creationid="hp" creationdate="20200418T071430Z">
@@ -466,6 +506,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051700Z" creationid="hp" creationdate="20200418T051700Z">
         <seg>文件位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Files must be deleted first by the project manager, and then locally.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120913Z" creationid="DSS" creationdate="20200418T120913Z">
+        <seg>必须先由项目经理删除文件，然后在本地删除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1110,6 +1158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project parameters must be changed by the project manager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120922Z" creationid="DSS" creationdate="20200418T120922Z">
+        <seg>项目参数必须由项目经理来更改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Publish the new OmegaT project on the server (&lt;c0&gt;commit&lt;/c0&gt; with SVN, &lt;c1&gt;commit&lt;/c1&gt; followed by &lt;c2&gt;push&lt;/c2&gt; with Git).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073534Z" creationid="hp" creationdate="20200418T073534Z">
@@ -1710,6 +1766,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To work offline:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120949Z" creationid="DSS" creationdate="20200418T120949Z">
+        <seg>离线工作：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tokenizers corresponding to the selected languages are displayed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041323Z" creationid="hp" creationdate="20200418T041323Z">
@@ -1902,6 +1966,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Working offline</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120925Z" creationid="DSS" creationdate="20200418T120925Z">
+        <seg>离线工作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>YEAR is the 4-digit year, MM is the month, DD the day of the month, and HH and NN are the hours and minutes when the previous translation memory was saved.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070947Z" creationid="hp" creationdate="20200418T070947Z">
@@ -2066,6 +2138,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071205Z" creationid="hp" creationdate="20200418T071205Z">
         <seg>打开项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>or open the project with the command line using the &lt;c0&gt;--no-team&lt;/c0&gt; option.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T121510Z" creationid="DSS" creationdate="20200418T121510Z">
+        <seg>或者借助&lt;c0&gt;--no-team&lt;/c0&gt; 选项用命令行打开项目。</seg>
       </tuv>
     </tu>
     <tu>
