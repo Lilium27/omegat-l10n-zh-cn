@@ -1621,8 +1621,8 @@
       <tuv lang="en">
         <seg>Pressing &lt;k0&gt;F2&lt;/k0&gt; key allows to move the cursor into the source segment (or anywhere in the editor) with the keyboard arrows.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134635Z" creationid="Liliu" creationdate="20200418T134635Z">
-        <seg>按下 &lt;k0&gt;F2&lt;/k0&gt; 键可以将光标移入源语言 allows to move the cursor into the source segment (or anywhere in the editor) with the keyboard arrows.</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T135204Z" creationid="Liliu" creationdate="20200418T134635Z">
+        <seg>按下 &lt;k0&gt;F2&lt;/k0&gt; 键可以用键盘上的方向键将光标移入源语言句（或编辑器内的任何地方）。</seg>
       </tuv>
     </tu>
     <tu>
