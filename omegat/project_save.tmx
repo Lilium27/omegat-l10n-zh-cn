@@ -3454,8 +3454,8 @@
       <tuv lang="en">
         <seg>To modify the position of one or more segments individually, select the segment(s) and press &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Move Up&lt;/g1&gt;) or &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Move Down&lt;/g3&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="qinxun" changedate="20200419T031134Z" creationid="qinxun" creationdate="20200419T031134Z">
-        <seg>要单独调整一个及以上的片段，选择这些片段，然后按&lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;上移&lt;/g1&gt;) or &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;下移&lt;/g3&gt;).</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052424Z" creationid="qinxun" creationdate="20200419T031134Z">
+        <seg>要单独调整一个及以上的句段，选择这些句段，然后按&lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;上移&lt;/g1&gt;) or &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;下移&lt;/g3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
@@ -3566,8 +3566,8 @@
       <tuv lang="en">
         <seg>Typing any text will open a &lt;g0&gt;Filter&lt;/g0&gt; field where parts of filenames can be entered.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="qinxun" changedate="20200419T033119Z" creationid="qinxun" creationdate="20200419T033119Z">
-        <seg>输入任何文本都会打开一个&lt;g0&gt;过滤器&lt;/g0&gt;，可以输入文件名片段。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052430Z" creationid="qinxun" creationdate="20200419T033119Z">
+        <seg>输入任何文本都会打开一个&lt;g0&gt;过滤器&lt;/g0&gt;，可以输入文件名句段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4326,8 +4326,8 @@
       <tuv lang="en">
         <seg>the total number of segments, the number of unique segments in the whole project, and the number of unique segments already translated are shown at the bottom</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="qinxun" changedate="20200419T033715Z" creationid="qinxun" creationdate="20200419T033715Z">
-        <seg>整个项目的片段总数、总独特片段数和已译独特片段数显示在底部</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052446Z" creationid="qinxun" creationdate="20200419T033715Z">
+        <seg>整个项目的句段总数、总独特句段数和已译独特句段数显示在底部</seg>
       </tuv>
     </tu>
     <tu>
