@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -248,8 +248,8 @@
       <tuv lang="en">
         <seg>All the changes will be synchronised the next time a connection is available.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120937Z" creationid="DSS" creationdate="20200418T120937Z">
-        <seg>所有更改将在下次连接可用时进行同步。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T035226Z" creationid="DSS" creationdate="20200418T120937Z">
+        <seg>所有更改将在下次连接可用时同步。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1810,8 +1810,8 @@
       <tuv lang="en">
         <seg>OmegaT team projects must first be &lt;l0&gt;set up&lt;/l0&gt; on a server.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T115955Z" creationid="DSS" creationdate="20200418T112303Z">
-        <seg>团队项目必须先&lt;l0&gt;搭建&lt;/l0&gt; 在服务器上。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T035026Z" creationid="DSS" creationdate="20200418T112303Z">
+        <seg>OmegaT 团队项目必须先&lt;l0&gt;搭建&lt;/l0&gt; 在服务器上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2462,8 +2462,8 @@
       <tuv lang="en">
         <seg>The interval of 3 minutes can be changed in &lt;l0&gt;&lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Preferences&lt;/g3&gt; &lt;g4&gt;Saving and Output&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T030919Z" creationid="DSS" creationdate="20200418T112444Z">
-        <seg>3 分钟的间隔可以在&lt;l0&gt;&lt;m1&gt; &lt;g2&gt;选项&lt;/g2&gt; &lt;g3&gt;首选项&lt;/g3&gt; &lt;g4&gt;保存和输出&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;中更改.</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T035101Z" creationid="DSS" creationdate="20200418T112444Z">
+        <seg>3 分钟的间隔可以在&lt;l0&gt;&lt;m1&gt; &lt;g2&gt;选项&lt;/g2&gt; &lt;g3&gt;首选项&lt;/g3&gt; &lt;g4&gt;保存和输出&lt;/g4&gt; &lt;/m1&gt;&lt;/l0&gt;中更改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3558,8 +3558,8 @@
       <tuv lang="en">
         <seg>copy the files to the &lt;f0&gt;/source&lt;/f0&gt; folder</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120640Z" creationid="hp" creationdate="20200418T073658Z">
-        <seg>将文件复制到 &lt;f0&gt;/source&lt;/f0&gt; 文件夹...</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T035131Z" creationid="hp" creationdate="20200418T073658Z">
+        <seg>将文件复制到 &lt;f0&gt;/source&lt;/f0&gt; 文件夹</seg>
       </tuv>
     </tu>
     <tu>
