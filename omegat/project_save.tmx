@@ -1097,8 +1097,8 @@
       <tuv lang="en">
         <seg>If you only need textual information (and not formatting information), use the level 1 file that OmegaT has created.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072340Z" creationid="hp" creationdate="20200418T072340Z">
-        <seg>如果你只需要文本信息（而非格式化信息），请使用 OmegaT 创建的级别 1 文件。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T034055Z" creationid="hp" creationdate="20200418T072340Z">
+        <seg>如果您只需要文本信息（而非格式化信息），请使用 OmegaT 创建的级别 1 文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3382,8 +3382,8 @@
       <tuv lang="en">
         <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T124158Z" creationid="DSS" creationdate="20200418T124158Z">
-        <seg>你可以为每个新任务创建一个新项目，并且任何时候都可以往往项目中添加新的原文文档。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T034059Z" creationid="DSS" creationdate="20200418T124158Z">
+        <seg>您可以为每个新任务创建一个新项目，并且任何时候都可以往往项目中添加新的原文文档。</seg>
       </tuv>
     </tu>
     <tu>
