@@ -1111,6 +1111,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If there's no file name displayed, the source is the internal project translation memory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052002Z" creationid="Liliu" creationdate="20200419T052002Z">
+        <seg>如果没有显示文件名，那么其来源是内部项目翻译记忆库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If they &lt;e0&gt;don't need&lt;/e0&gt; to stay immune from further changes, then remove the TMX from /tm/enforce.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T043556Z" creationid="Liliu" creationdate="20200419T043313Z">
@@ -2091,6 +2099,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Orphan segments (the match #2) describe segments in the default project translation memory that have no corresponding source segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052036Z" creationid="Liliu" creationdate="20200419T052036Z">
+        <seg>孤立句段（第二个匹配项）说明句段存在于默认项目翻译记忆库，但没有相对应的原文句段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other dropped files will be copied to the &lt;f1&gt;source&lt;/f1&gt; folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134355Z" creationid="Liliu" creationdate="20200418T134355Z">
@@ -2415,6 +2431,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071823Z" creationid="hp" creationdate="20200418T071823Z">
         <seg>如果希望重用过往项目的翻译记忆库（例如，因为新项目与之前的项目类似，或者使用之前可能用过的术语），您可以将这些翻译记忆库用作“输入翻译记忆库”，即导入您的新项目中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>So do the next two matches, and the match #4 is similar, but different.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T051854Z" creationid="Liliu" creationdate="20200419T051854Z">
+        <seg>接下来的两个匹配项亦是如此，而第四个匹配项相似但有所不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2764,6 +2788,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The line with the matching percentage also includes the name of the translation memory containing the match.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T051949Z" creationid="Liliu" creationdate="20200419T051949Z">
+        <seg>显示匹配度百分比的那一行还有包含此匹配项的翻译记忆库的名称。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The main window consists of several panes, the main menu and a status bar.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134224Z" creationid="Liliu" creationdate="20200418T134224Z">
@@ -2960,6 +2992,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T034200Z" creationid="DSS" creationdate="20200418T123728Z">
         <seg>OmegaT 中的标签为灰色，因此很容易识别。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The top match is 100%, because all words match.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T051845Z" creationid="Liliu" creationdate="20200419T051845Z">
+        <seg>最佳匹配项是 100%，因为所有单词都匹配上了。</seg>
       </tuv>
     </tu>
     <tu>
