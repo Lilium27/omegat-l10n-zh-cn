@@ -1368,6 +1368,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It also possible to change the position of a filename, by clicking on it and pressing &lt;e0&gt;Move ...&lt;/e0&gt; buttons.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T033232Z" creationid="qinxun" creationdate="20200419T033222Z">
+        <seg>也可以通过点击文件名并按下各个移动按钮来改变文件名的位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can also be used in all the input fields found in &lt;a7&gt;OmegaT&lt;/a7&gt; - in the search window, for segmentation rules etc.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T145304Z" creationid="hp" creationdate="20200418T065734Z">
@@ -1636,6 +1644,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T073349Z" creationid="hp" creationdate="20200418T073349Z">
         <seg>注意：如果在第 3 步是用命令行创建的项目，则该步骤已由程序完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: filenames (in first column) can be sorted alphabetically by clicking in the header.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T033228Z" creationid="qinxun" creationdate="20200419T033205Z">
+        <seg>注意：文件名（第一列）可以通过点击表头来按字母排序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1967,6 +1983,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T071540Z" creationid="hp" creationdate="20200418T071540Z">
         <seg>重用翻译记忆库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T033517Z" creationid="qinxun" creationdate="20200419T033517Z">
+        <seg>右键单击文件名会弹出一个窗口，可以打开原文文件和译文文件（如果有）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3360,6 +3384,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T071810Z" creationid="hp" creationdate="20200418T071810Z">
         <seg>你可以将这三份文件(&lt;f2&gt;-omegat.tmx&lt;/f2&gt;, &lt;f3&gt;-level1.tmx&lt;/f3&gt; and &lt;f4&gt;-level2.tmx&lt;/f4&gt;) 视为“导出翻译记忆库”，即以双语形式导出的当前项目的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select a file with &lt;k1&gt;Up&lt;/k1&gt; and &lt;k2&gt;Down&lt;/k2&gt; keys, and open it for translation by pressing &lt;k3&gt;Enter&lt;/k3&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T033149Z" creationid="qinxun" creationdate="20200419T033149Z">
+        <seg>可以用&lt;k1&gt;上&lt;/k1&gt;和&lt;k2&gt;下&lt;/k2&gt;方向键来选择文件，并按 &lt;k3&gt;Enter&lt;/k3&gt; 键打开，进行翻译。</seg>
       </tuv>
     </tu>
     <tu>
