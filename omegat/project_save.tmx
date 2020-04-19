@@ -2526,8 +2526,8 @@
       <tuv lang="en">
         <seg>This enables the translation memories produced by other tools to be read by OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T025809Z" creationid="hp" creationdate="20200418T072202Z">
-        <seg>这使得 OmegaT 可以读取其他工具生成的翻译记忆库。&lt;片段 1183&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T030438Z" creationid="hp" creationdate="20200418T072202Z">
+        <seg>这使得 OmegaT 可以读取其他工具生成的翻译记忆库。&lt;句段 1183&gt;</seg>
       </tuv>
     </tu>
     <tu>
