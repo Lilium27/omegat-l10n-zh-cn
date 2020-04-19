@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Activate the "Show hidden files" option to make it visible.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T050555Z" creationid="Liliu" creationdate="20200419T050555Z">
+        <seg>激活“显示隐藏文件”选项来使其可见。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add patterns using wildcards (Apache Ant style): *, ?, **</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074301Z" creationid="hp" creationdate="20200418T074301Z">
@@ -1372,6 +1380,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200419T025747Z" creationid="qinxun" creationdate="20200419T025747Z">
         <seg>在大多数情况下，&lt;g0&gt;平均得分&lt;/g0&gt;越低，则对齐效果越好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In some operating systems, this folder is not displayed by default.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T050531Z" creationid="Liliu" creationdate="20200419T050531Z">
+        <seg>在某些操作系统中，默认情况下不显示此文件夹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3800,6 +3816,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T040917Z" creationid="hp" creationdate="20200418T040917Z">
         <seg>您可以手动输入或者通过下拉菜单选择原文与译文语言。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can make changes to remote files (e.g. deleting a file) using this folder and a Git or SVN client.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T050519Z" creationid="Liliu" creationdate="20200419T050519Z">
+        <seg>您可以用此文件夹和 Git 或 SVN 客户端对远程文件进行更改（例如删除某个文件）。</seg>
       </tuv>
     </tu>
     <tu>
