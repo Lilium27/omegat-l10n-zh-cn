@@ -2828,10 +2828,34 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display &amp;active source segment in bold</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122810Z" creationid="DSS" creationdate="20200419T122810Z">
+        <seg>以粗体显示活跃原文片段(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display &amp;tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122650Z" creationid="DSS" creationdate="20200419T122650Z">
+        <seg>显示和标签(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display Source Segments</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110202Z" creationid="yangzy" creationdate="20200419T110202Z">
         <seg>显示原文片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display all &amp;source segments in bold</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122749Z" creationid="DSS" creationdate="20200419T122749Z">
+        <seg>以粗体显示所有原文片段(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3622,6 +3646,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External TMX Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122630Z" creationid="DSS" creationdate="20200419T122630Z">
+        <seg>外部 TMX 选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External tools can be used to convert files to supported formats.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075444Z" creationid="hp" creationdate="20200418T075444Z">
@@ -3947,6 +3979,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113939Z" creationid="Liliu" creationdate="20200419T113939Z">
         <seg>完整文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full text, including tags and numbers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122740Z" creationid="DSS" creationdate="20200419T122740Z">
+        <seg>全文，包括标签和数字</seg>
       </tuv>
     </tu>
     <tu>
@@ -5114,6 +5154,22 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include matches from &amp;other languages</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122703Z" creationid="DSS" creationdate="20200419T122703Z">
+        <seg>包含来自其他语言的匹配(&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122823Z" creationid="DSS" creationdate="20200419T122823Z">
+        <seg>标记非独特片段时包含首个非独特片段(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Info</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T095814Z" creationid="yangzy" creationdate="20200419T095814Z">
@@ -6043,6 +6099,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match display template</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122717Z" creationid="DSS" creationdate="20200419T122717Z">
+        <seg>匹配显示模板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T093749Z" creationid="yangzy" creationdate="20200419T093749Z">
@@ -6167,6 +6231,22 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110208Z" creationid="yangzy" creationdate="20200419T110208Z">
         <seg>修订信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modification info template</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122836Z" creationid="DSS" creationdate="20200419T122836Z">
+        <seg>修订信息模板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modification info template for segments without date</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122921Z" creationid="DSS" creationdate="20200419T122921Z">
+        <seg>无日期句段的信息模板修订</seg>
       </tuv>
     </tu>
     <tu>
@@ -6503,6 +6583,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101831Z" creationid="yangzy" creationdate="20200419T101831Z">
         <seg>未设置脚本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No tags and no numbers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122731Z" creationid="DSS" creationdate="20200419T122731Z">
+        <seg>不考虑标签和数字</seg>
       </tuv>
     </tu>
     <tu>
@@ -7369,6 +7457,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paragraph delimitation format:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122628Z" creationid="DSS" creationdate="20200419T122628Z">
+        <seg>段落界定格式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Paragraphs, sections and tables are set to bidi</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070556Z" creationid="hp" creationdate="20200418T070556Z">
@@ -7421,6 +7517,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122112Z" creationid="DSS" creationdate="20200419T122112Z">
         <seg>前模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Penalty for matches in other languages:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122712Z" creationid="DSS" creationdate="20200419T122712Z">
+        <seg>对其他语言中的匹配罚分：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7486,6 +7590,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114648Z" creationid="Liliu" creationdate="20200419T114648Z">
         <seg>请为以下各个句段选择翻译来解决冲突。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please select how tags of non-OmegaT TMXs should be displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122636Z" creationid="DSS" creationdate="20200419T122636Z">
+        <seg>请选择如何显示非 OmegaT 的 TMX 中的标签。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8997,6 +9109,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simplify &amp;tooltips on protected parts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122832Z" creationid="DSS" creationdate="20200419T122832Z">
+        <seg>简化受保护部件的工具提示(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skip text matching regular expression:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121902Z" creationid="DSS" creationdate="20200419T121902Z">
@@ -9105,6 +9225,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113705Z" creationid="Liliu" creationdate="20200419T113618Z">
         <seg>按字母顺序排列原文术语(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort fuzzy matches by:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122721Z" creationid="DSS" creationdate="20200419T122721Z">
+        <seg>模糊匹配排序依据：</seg>
       </tuv>
     </tu>
     <tu>
@@ -9303,6 +9431,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Stemming, no tags and no numbers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122726Z" creationid="DSS" creationdate="20200419T122726Z">
+        <seg>词干分析，不考虑标签和数字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Step 1: Adjust the alignment parameters</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200419T025047Z" creationid="qinxun" creationdate="20200419T025047Z">
@@ -9419,6 +9555,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T111142Z" creationid="Liliu" creationdate="20200419T111142Z">
         <seg>同步错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TM Matches</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122742Z" creationid="DSS" creationdate="20200419T122742Z">
+        <seg>翻译记忆库匹配</seg>
       </tuv>
     </tu>
     <tu>
@@ -9571,6 +9715,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T110931Z" creationid="Liliu" creationdate="20200419T110931Z">
         <seg>团队同步：等待您完成此句段...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Template variables:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122715Z" creationid="DSS" creationdate="20200419T122715Z">
+        <seg>模板变量：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11440,6 +11592,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122658Z" creationid="DSS" creationdate="20200419T122658Z">
+        <seg>对独立标签使用 XML（例如&lt;i/&gt;）(&amp;X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &lt;a0&gt;OmegaT’s&lt;/a0&gt; default filter (PDF input), translate, create a target file (it will be a plain text file), add relevant formatting and items manually.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075249Z" creationid="hp" creationdate="20200418T075249Z">
@@ -11652,6 +11812,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T111022Z" creationid="yangzy" creationdate="20200419T111022Z">
         <seg>视图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>View Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122745Z" creationid="DSS" creationdate="20200419T122745Z">
+        <seg>视图选项</seg>
       </tuv>
     </tu>
     <tu>
