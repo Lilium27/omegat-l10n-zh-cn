@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T035518Z" creationid="Liliu" creationdate="20200419T035518Z">
+        <seg>例如（如果按默认值），使用来自辅助翻译记忆库的翻译并加上 &lt;e3&gt; [模糊]&lt;/e3&gt; 前缀， 这样译者可以在后面检查带有此标签的片段是否已正确翻译 &lt;m4&gt; &lt;g5&gt;。&lt;/g5&gt; &lt;/m4&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Frequently validate tags (see Tag validation) and produce translated documents (see below and Menu) at regular intervals to make it easier to catch any problems that arise.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070350Z" creationid="hp" creationdate="20200418T070350Z">
@@ -1027,6 +1035,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T033815Z" creationid="hp" creationdate="20200418T071339Z">
         <seg>如果在开始翻译后原文文件有所修改， &lt;a1&gt;OmegaT&lt;/a1&gt; 可能会找不到您已经翻译过的句段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the source segment in one of the ancillary TMs is identical to the text being translated, OmegaT acts as defined in the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; dialog window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T035231Z" creationid="Liliu" creationdate="20200419T035123Z">
+        <seg>如果辅助翻译记忆库中有与待译文本完全相同的原文片段，OmegaT 会按照 &lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt; &lt;g2&gt;编辑行为...&lt;/g2&gt; &lt;/m0&gt; 对话框窗口中的内容进行操作。</seg>
       </tuv>
     </tu>
     <tu>
