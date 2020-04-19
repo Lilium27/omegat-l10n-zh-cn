@@ -3139,8 +3139,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The Glossary pane allows you to access your own collection of expressions and specialist terminology which you have built up in your glossary files.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T135931Z" creationid="Liliu" creationdate="20200418T135931Z">
-        <seg>词汇表窗格允许您访问在词汇表文件中建立的语言表达集和专业术语集。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T094750Z" creationid="Liliu" creationdate="20200418T135931Z">
+        <seg>术语表窗格允许您访问在术语表文件中建立的语言表达集和专业术语集。</seg>
       </tuv>
     </tu>
     <tu>
