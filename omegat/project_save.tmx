@@ -1071,6 +1071,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If they &lt;e0&gt;don't need&lt;/e0&gt; to stay immune from further changes, then remove the TMX from /tm/enforce.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T043313Z" creationid="Liliu" creationdate="20200419T043313Z">
+        <seg>如果它们 &lt;e0&gt;无需&lt;/e0&gt; 受进一步更改的影，则将 TMX 从 /tm/enforce 中删除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T033938Z" creationid="DSS" creationdate="20200418T122809Z">
@@ -1592,6 +1600,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make decision about immunity of the enforced segments:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T043145Z" creationid="Liliu" creationdate="20200419T043145Z">
+        <seg>您需决定被强制更改的句段的豁免权：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make regular copies of the file /omegat/project_save.tmx to backup media, such as CD or DVD.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071215Z" creationid="hp" creationdate="20200418T071215Z">
@@ -2079,6 +2095,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T041437Z" creationid="Liliu" creationdate="20200419T041437Z">
         <seg>将 TMX 文件放入 /tm/auto 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Put the TMX in /tm/enforce.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T042905Z" creationid="Liliu" creationdate="20200419T042905Z">
+        <seg>将 TMX 放入 /tm/enforce 中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2984,6 +3008,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T041635Z" creationid="Liliu" creationdate="20200419T041635Z">
         <seg>这将会修改 &lt;f0&gt;project_save.tmx&lt;/f0&gt;（自“auto”TMX 文件中添加合适的翻译单元）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T042938Z" creationid="Liliu" creationdate="20200419T042938Z">
+        <seg>这将会修改 &lt;f0&gt;project_save.tmx&lt;/f0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
