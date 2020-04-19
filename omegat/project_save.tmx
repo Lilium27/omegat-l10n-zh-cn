@@ -4762,6 +4762,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start OmegaT and continue to translate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T103546Z" creationid="Liliu" creationdate="20200419T103546Z">
+        <seg>打开 OmegaT 并继续翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072506Z" creationid="hp" creationdate="20200418T072506Z">
