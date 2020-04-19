@@ -777,8 +777,8 @@
       <tuv lang="en">
         <seg>Allows the user create an entry in the default glossary file.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110052Z" creationid="yangzy" creationdate="20200419T110052Z">
-        <seg>创建词汇表条目</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110513Z" creationid="yangzy" creationdate="20200419T110052Z">
+        <seg>允许用户在默认的词汇表文件中创建条目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1581,8 +1581,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Create Glossary Entry</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110052Z" creationid="yangzy" creationdate="20200419T110052Z">
-        <seg>导出的内容将被复制到位于用户偏好设置文件所在的文件夹内的 &lt;f1&gt;selection.txt&lt;/f1&gt; 文件中。</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110512Z" creationid="yangzy" creationdate="20200419T110052Z">
+        <seg>创建词汇表条目</seg>
       </tuv>
     </tu>
     <tu>
@@ -1733,8 +1733,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Define the translation as being empty.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110057Z" creationid="yangzy" creationdate="20200419T110057Z">
-        <seg>设置为空译文</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110535Z" creationid="yangzy" creationdate="20200419T110057Z">
+        <seg>将译文定义为空。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1749,8 +1749,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Deletes the translation and set the segment as untranslated.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110057Z" creationid="yangzy" creationdate="20200419T110057Z">
-        <seg>移除译文</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110534Z" creationid="yangzy" creationdate="20200419T110057Z">
+        <seg>删除译文并将片段设置为未译</seg>
       </tuv>
     </tu>
     <tu>
@@ -1901,8 +1901,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Displays copyright, credits and license information.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110129Z" creationid="yangzy" creationdate="20200419T110129Z">
-        <seg>关于...</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110714Z" creationid="yangzy" creationdate="20200419T110129Z">
+        <seg>显示版权、制作人员和授权信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1949,8 +1949,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Displays the list of new functionalities, enhancements and bug fixes for each new release.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110129Z" creationid="yangzy" creationdate="20200419T110129Z">
-        <seg>最近变更...</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110716Z" creationid="yangzy" creationdate="20200419T110129Z">
+        <seg>显示每个新版本的新功能、改进和修复的 Bug。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2664,8 +2664,8 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       <tuv lang="en">
         <seg>Glossary</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T094652Z" creationid="Liliu" creationdate="20200418T135716Z">
-        <seg>术语表</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110725Z" creationid="Liliu" creationdate="20200418T135716Z">
+        <seg>词汇表</seg>
       </tuv>
     </tu>
     <tu>
@@ -2938,8 +2938,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If no text has been selected, the current source segment is written to this file.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110051Z" creationid="yangzy" creationdate="20200419T110051Z">
-        <seg>将当前选中内容导出至文本文件进行处理。</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110509Z" creationid="yangzy" creationdate="20200419T110051Z">
+        <seg>如果未选择任何文本，则将当前原文片段写入该文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2986,8 +2986,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If some texts are selected within the fuzzy match, only this selection will replace the whole target segment.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110048Z" creationid="yangzy" creationdate="20200419T110048Z">
-        <seg>用当前选中的模糊匹配（默认情况下会选中第一个匹配）替换掉整个译文片段。</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110442Z" creationid="yangzy" creationdate="20200419T110048Z">
+        <seg>如果在模糊匹配内选择了部分文本，那么只有被选中的部分替换掉整个译文片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3282,8 +3282,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If you select a text string (in any pane) before pressing &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;, the text will be pasted by default in the &lt;g4&gt;Source term&lt;/g4&gt; field.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110052Z" creationid="yangzy" creationdate="20200419T110052Z">
-        <seg>允许用户在默认的词汇表文件中创建条目。</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110514Z" creationid="yangzy" creationdate="20200419T110052Z">
+        <seg>如果您在按&lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;Shift&lt;/k2&gt; &lt;k3&gt;G&lt;/k3&gt; &lt;/k0&gt;之前（于任意窗格中）选择了文本字符串，则默认会将选中的文本粘贴到&lt;g4&gt;原文词汇&lt;/g4&gt;字段中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3539,8 +3539,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>In the target document, nothing will appear for this segment.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110057Z" creationid="yangzy" creationdate="20200419T110057Z">
-        <seg>将译文定义为空。</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110536Z" creationid="yangzy" creationdate="20200419T110057Z">
+        <seg>此片段在译文文档中不会显示任何东西。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3619,8 +3619,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>Insert Match or Selection</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110048Z" creationid="yangzy" creationdate="20200419T110048Z">
-        <seg>如果在模糊匹配内选择了部分文本，那么只有被选中的部分替换掉整个译文片段。</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110441Z" creationid="yangzy" creationdate="20200419T110048Z">
+        <seg>插入匹配或所选内容</seg>
       </tuv>
     </tu>
     <tu>
@@ -3635,16 +3635,16 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>Insert Missing Source Tags</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110050Z" creationid="yangzy" creationdate="20200419T110050Z">
-        <seg>在光标位置插入原文。</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110504Z" creationid="yangzy" creationdate="20200419T110050Z">
+        <seg>插入缺失的原文标签</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Insert Next Missing Tag</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110050Z" creationid="yangzy" creationdate="20200419T110050Z">
-        <seg>在光标位置插入（如果有缺失的）原文标签。</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110506Z" creationid="yangzy" creationdate="20200419T110050Z">
+        <seg>插入下一个缺失标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -3659,40 +3659,40 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>Insert Source</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110050Z" creationid="yangzy" creationdate="20200419T110050Z">
-        <seg>用原文替换掉整个目标片段。</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110502Z" creationid="yangzy" creationdate="20200419T110050Z">
+        <seg>插入原文</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Inserts only one tag (among the missing ones) at the cursor position.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110051Z" creationid="yangzy" creationdate="20200419T110051Z">
-        <seg>插入下一个缺失标签</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110507Z" creationid="yangzy" creationdate="20200419T110051Z">
+        <seg>在光标位置处只插入一个标签（所有缺失标签之一）。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Inserts the currently selected fuzzy match at the cursor position.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110048Z" creationid="yangzy" creationdate="20200419T110048Z">
-        <seg>插入匹配或所选内容</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110440Z" creationid="yangzy" creationdate="20200419T110048Z">
+        <seg>在光标位置插入当前选中的模糊匹配。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Inserts the source at the cursor position.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110050Z" creationid="yangzy" creationdate="20200419T110050Z">
-        <seg>用原文替换掉整个目标片段。</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110503Z" creationid="yangzy" creationdate="20200419T110050Z">
+        <seg>在光标位置插入原文。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Inserts the source tags (if they where missing) at the cursor position.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110050Z" creationid="yangzy" creationdate="20200419T110050Z">
-        <seg>插入缺失的原文标签</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110505Z" creationid="yangzy" creationdate="20200419T110050Z">
+        <seg>在光标位置插入（如果有缺失的）原文标签。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4012,8 +4012,8 @@ inside the configuration folder.</seg>
       <tuv lang="en">
         <seg>Last Changes...</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110129Z" creationid="yangzy" creationdate="20200419T110129Z">
-        <seg>显示版权、制作人员和授权信息。</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110715Z" creationid="yangzy" creationdate="20200419T110129Z">
+        <seg>最近变更...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4068,8 +4068,8 @@ inside the configuration folder.</seg>
       <tuv lang="en">
         <seg>Log...</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110130Z" creationid="yangzy" creationdate="20200419T110130Z">
-        <seg>显示每个新版本的新功能、改进和修复的 Bug。</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110716Z" creationid="yangzy" creationdate="20200419T110130Z">
+        <seg>日志...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4572,8 +4572,8 @@ inside the configuration folder.</seg>
       <tuv lang="en">
         <seg>No action is taken, if no Machine Translation service has been activated (in &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Machine Translate&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110049Z" creationid="yangzy" creationdate="20200419T110049Z">
-        <seg>用所选机器翻译服务提供的译文替换掉译文片段。</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110458Z" creationid="yangzy" creationdate="20200419T110049Z">
+        <seg>如果未激活任何机器翻译服务（在&lt;m0&gt;&lt;g1&gt;选项&lt;/g1&gt;&lt;g2&gt;机器翻译&lt;/g2&gt;&lt;/m0&gt;中）则不会有任何动作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5763,8 +5763,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Remove Translation</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110057Z" creationid="yangzy" creationdate="20200419T110057Z">
-        <seg>如果当前译文不适用，请选择此菜单条目，然后输入替代译文。</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110533Z" creationid="yangzy" creationdate="20200419T110057Z">
+        <seg>移除译文</seg>
       </tuv>
     </tu>
     <tu>
@@ -5829,8 +5829,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Replace with Source</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110049Z" creationid="yangzy" creationdate="20200419T110049Z">
-        <seg>如果未激活任何机器翻译服务（在&lt;m0&gt;&lt;g1&gt;选项&lt;/g1&gt;&lt;g2&gt;机器翻译&lt;/g2&gt;&lt;/m0&gt;中）则不会有任何动作。</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110500Z" creationid="yangzy" creationdate="20200419T110049Z">
+        <seg>替换为原文</seg>
       </tuv>
     </tu>
     <tu>
@@ -5853,8 +5853,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Replaces the whole target segment with the source.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110050Z" creationid="yangzy" creationdate="20200419T110050Z">
-        <seg>替换为原文</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110502Z" creationid="yangzy" creationdate="20200419T110050Z">
+        <seg>用原文替换掉整个目标片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7227,8 +7227,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The segment is opened when either its segment call-out or segment number is entered.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110120Z" creationid="yangzy" creationdate="20200419T110120Z">
-        <seg>片段序号...</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110659Z" creationid="yangzy" creationdate="20200419T110120Z">
+        <seg>在输入片段的序号或编号后就会打开该片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -8384,8 +8384,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>Use this command to register the translation to be identical to the source, even if &lt;l0&gt;&lt;g1&gt;Allow translation to be equal to source&lt;/g1&gt;&lt;/l0&gt; is not checked.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110058Z" creationid="yangzy" creationdate="20200419T110058Z">
-        <seg>登记全同译文</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110543Z" creationid="yangzy" creationdate="20200419T110058Z">
+        <seg>即使未选中&lt;l0&gt;&lt;g1&gt;允许译文和原文相同&lt;/g1&gt;&lt;/l0&gt;时也可以用此命令来将译文登记为与原文完全相同。</seg>
       </tuv>
     </tu>
     <tu>
