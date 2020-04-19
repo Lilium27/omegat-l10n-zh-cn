@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clicking on any file will open it for translation.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T032453Z" creationid="qinxun" creationdate="20200419T032453Z">
+        <seg>单击任意文件，可打开并进行翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comments</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T140547Z" creationid="Liliu" creationdate="20200418T140547Z">
@@ -2556,6 +2564,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These are the files present in the /source folder in a format that OmegaT is able to recognize.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T032416Z" creationid="qinxun" creationdate="20200419T032416Z">
+        <seg>这些文件位于 /source 文件夹中且 OmegaT 能够识别其格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These files won't be deleted automatically on the translator's side: you must ask them to delete the files manually.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T150902Z" creationid="hp" creationdate="20200418T073804Z">
@@ -2712,6 +2728,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T070258Z" creationid="hp" creationdate="20200418T070258Z">
         <seg>这意味着如果原文语言是从左向右的而目标语言是从右向左的，或反之，就可能必须在从右向左和从左向右模式之间来回切换，以便在各自的模式下查看原文并输入译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This number is displayed in brackets, next to the "Project file" title</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T032423Z" creationid="qinxun" creationdate="20200419T032423Z">
+        <seg>此数字显示在“项目文件”标题旁边的括号内。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2984,6 +3008,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T143247Z" creationid="Liliu" creationdate="20200418T143247Z">
         <seg>故障排除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Typing any text will open a &lt;g0&gt;Filter&lt;/g0&gt; field where parts of filenames can be entered.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T033119Z" creationid="qinxun" creationdate="20200419T033119Z">
+        <seg>输入任何文本都会打开一个&lt;g0&gt;过滤器&lt;/g0&gt;，可以输入文件名片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3632,6 +3664,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T072755Z" creationid="hp" creationdate="20200418T072755Z">
         <seg>主项目目录（见上文）中的 TMX 文件现在包含你复制到原文文件夹中的文件的所选语言对的翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the list of all translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T032425Z" creationid="qinxun" creationdate="20200419T032425Z">
+        <seg>项目中所有可翻译文件的列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>the total number of translatable files in the project.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T032401Z" creationid="qinxun" creationdate="20200419T032401Z">
+        <seg>项目中可翻译文件的总数。</seg>
       </tuv>
     </tu>
     <tu>
