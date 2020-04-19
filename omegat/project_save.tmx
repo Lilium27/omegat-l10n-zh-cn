@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Always</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121846Z" creationid="DSS" creationdate="20200419T121846Z">
+        <seg>总是(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Automatically Fetch Translations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101112Z" creationid="yangzy" creationdate="20200419T101112Z">
@@ -558,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(X)HTML Filter Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121835Z" creationid="DSS" creationdate="20200419T121835Z">
+        <seg>(X)HTML 过滤器选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(You will still able to use OmegaT
 3.6 to edit this project as a team project.)</seg>
       </tuv>
@@ -1023,6 +1039,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121843Z" creationid="DSS" creationdate="20200419T121843Z">
+        <seg>在 HTML 和 XHTML 文件中新增或重写编码声明：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add patterns using wildcards (Apache Ant style): *, ?, **</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074301Z" creationid="hp" creationdate="20200418T074301Z">
@@ -1433,8 +1457,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>At the beginning of the installation you can select the language to be used during the installation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T112041Z" creationid="DSS" creationdate="20200419T111624Z">
-        <seg>安装开始时，你可以选择安装过程中使用的语言。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121655Z" creationid="DSS" creationdate="20200419T111624Z">
+        <seg>安装开始时，您可以选择安装过程中使用的语言。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2800,6 +2824,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071430Z" creationid="hp" creationdate="20200418T071430Z">
         <seg>可以用您所最熟悉的语言发帖，无需犹豫。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not translate the content attribute of meta-tags with the following attribute key-value pairs (separate with commas):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121912Z" creationid="DSS" creationdate="20200419T121912Z">
+        <seg>不翻译带有以下属性键值对的标签的内容（以逗号分隔）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not translate the content of tags with the following attribute key-value pairs (separate with commas):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121918Z" creationid="DSS" creationdate="20200419T121918Z">
+        <seg>不翻译带有以下属性键值对的标签的内容（以逗号分隔）</seg>
       </tuv>
     </tu>
     <tu>
@@ -4764,8 +4804,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>In the following window you can indicate that the language selected is to be used in OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T111704Z" creationid="DSS" creationdate="20200419T111704Z">
-        <seg>在下一个窗口中，你可以选择是否要让 OmegaT 也使用这个语言。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121728Z" creationid="DSS" creationdate="20200419T111704Z">
+        <seg>在下一个窗口中，您可以选择是否要让 OmegaT 也使用这个语言。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6597,6 +6637,22 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134443Z" creationid="Liliu" creationdate="20200418T134443Z">
         <seg>上述句段的其中之一是当前句段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only if (X)HTML file has a &amp;header</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121857Z" creationid="DSS" creationdate="20200419T121857Z">
+        <seg>仅当 (X)HTML 文件有头标时(&amp;H)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only if (X)HTML file has an &amp;encoding declaration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122002Z" creationid="DSS" creationdate="20200419T122002Z">
+        <seg>除非 (X)HTML 文件由编码声明(&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8457,6 +8513,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095518Z" creationid="Liliu" creationdate="20200419T095518Z">
         <seg>显示替换搜索栏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skip text matching regular expression:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121902Z" creationid="DSS" creationdate="20200419T121902Z">
+        <seg>忽略匹配以下正则表达式的文本：</seg>
       </tuv>
     </tu>
     <tu>
