@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Reset This Colour</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T132055Z" creationid="Liliu" creationdate="20200419T132055Z">
+        <seg>重置此颜色(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Run</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101810Z" creationid="yangzy" creationdate="20200419T101810Z">
@@ -867,6 +875,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110152Z" creationid="yangzy" creationdate="20200419T110152Z">
         <seg>&lt;g0&gt;术语问题&lt;/g0&gt;（可选）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T132211Z" creationid="Liliu" creationdate="20200419T132211Z">
+        <seg>&lt;html&gt;&lt;i&gt;首选项&lt;/i&gt; &amp;gt; &lt;i&gt;常规&lt;/i&gt; &amp;gt; &lt;i&gt;用 Tab 前进&lt;/i&gt; 处于勾选状态&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1295,6 +1311,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aligner "Accepted" Group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T132030Z" creationid="Liliu" creationdate="20200419T132030Z">
+        <seg>对齐器“已接受”分组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner "Needs Review" Group</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T132038Z" creationid="Liliu" creationdate="20200419T132038Z">
+        <seg>对齐器“需审查”分组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner Highlight</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T132045Z" creationid="Liliu" creationdate="20200419T132045Z">
+        <seg>对齐器高亮部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Aligner Table Row Highlight</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T132051Z" creationid="Liliu" creationdate="20200419T132051Z">
+        <seg>对齐器表格行高亮部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alignment involves creating a bilingual translation memory from monolingual documents that have already been translated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200419T025242Z" creationid="qinxun" creationdate="20200419T025044Z">
@@ -1569,6 +1617,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122221Z" creationid="DSS" creationdate="20200419T122221Z">
         <seg>您确定要删除{0}分割规则集吗?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Are you sure you want to reset all custom colours?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T132101Z" creationid="Liliu" creationdate="20200419T132101Z">
+        <seg>确定要重置所有自定义颜色吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -2238,6 +2294,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115442Z" creationid="DSS" creationdate="20200419T115442Z">
         <seg>代码由以下人员编写：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Colours</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T132119Z" creationid="Liliu" creationdate="20200419T132119Z">
+        <seg>颜色</seg>
       </tuv>
     </tu>
     <tu>
@@ -5731,6 +5795,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Item:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T132052Z" creationid="Liliu" creationdate="20200419T132052Z">
+        <seg>项目：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>JAR files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100140Z" creationid="yangzy" creationdate="20200419T100140Z">
@@ -6351,6 +6423,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131950Z" creationid="Liliu" creationdate="20200419T131950Z">
         <seg>运行匹配中删除的部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches Deleted Inactive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T132000Z" creationid="Liliu" creationdate="20200419T132000Z">
+        <seg>不运行匹配中删除的部分</seg>
       </tuv>
     </tu>
     <tu>
@@ -7119,6 +7199,22 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T140543Z" creationid="Liliu" creationdate="20200418T140543Z">
         <seg>备注</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notification (flash)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T132016Z" creationid="Liliu" creationdate="20200419T132016Z">
+        <seg>通知（闪烁）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notification (steady)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T132014Z" creationid="Liliu" creationdate="20200419T132014Z">
+        <seg>通知（稳定）</seg>
       </tuv>
     </tu>
     <tu>
@@ -7922,6 +8018,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please restart the application to correctly display the new colours.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T132115Z" creationid="Liliu" creationdate="20200419T132115Z">
+        <seg>请重新启动应用程序以正确显示新颜色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please select how tags of non-OmegaT TMXs should be displayed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122636Z" creationid="DSS" creationdate="20200419T122636Z">
@@ -8677,6 +8781,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reset &amp;All Colours</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T132057Z" creationid="Liliu" creationdate="20200419T132057Z">
+        <seg>重置所有颜色(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Restore</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094059Z" creationid="yangzy" creationdate="20200419T094059Z">
@@ -8989,10 +9101,26 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search Found Mark</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T132008Z" creationid="Liliu" creationdate="20200419T132008Z">
+        <seg>查找所找到的标记</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Search Project...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110053Z" creationid="yangzy" creationdate="20200419T110053Z">
         <seg>在项目中查找...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Search Replaced Mark</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T132010Z" creationid="Liliu" creationdate="20200419T132010Z">
+        <seg>查找所替换的标记</seg>
       </tuv>
     </tu>
     <tu>
@@ -10615,6 +10743,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T045218Z" creationid="Liliu" creationdate="20200419T045218Z">
         <seg>这里面最重要的文件是 &lt;f1&gt;project_save.tmx&lt;/f1&gt;，它是项目的工作翻译记忆库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The new colours have been saved.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T132107Z" creationid="Liliu" creationdate="20200419T132107Z">
+        <seg>新颜色已保存。</seg>
       </tuv>
     </tu>
     <tu>
