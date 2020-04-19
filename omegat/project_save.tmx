@@ -30,10 +30,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Close</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095520Z" creationid="Liliu" creationdate="20200419T095520Z">
+        <seg>关闭(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Do not check printf-variables</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T093630Z" creationid="yangzy" creationdate="20200419T093608Z">
         <seg>不检查 prinf 变量(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Edit</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095458Z" creationid="Liliu" creationdate="20200419T095458Z">
+        <seg>编辑(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Find...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095500Z" creationid="Liliu" creationdate="20200419T095500Z">
+        <seg>查找(&amp;F)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095534Z" creationid="Liliu" creationdate="20200419T095534Z">
+        <seg>帮助(&amp;H)</seg>
       </tuv>
     </tu>
     <tu>
@@ -50,6 +82,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094937Z" creationid="yangzy" creationdate="20200419T094937Z">
         <seg>删除(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Replace...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095503Z" creationid="Liliu" creationdate="20200419T095503Z">
+        <seg>替换(&amp;R)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -210,6 +250,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120928Z" creationid="DSS" creationdate="20200418T120928Z">
         <seg>团队项目可以离线打开并翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Scripts Folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095452Z" creationid="Liliu" creationdate="20200419T095452Z">
+        <seg>访问脚本文件夹</seg>
       </tuv>
     </tu>
     <tu>
@@ -1261,6 +1309,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T094735Z" creationid="Liliu" creationdate="20200418T134413Z">
         <seg>术语表窗格：拖入的带有已知术语表扩展名（&lt;f0&gt;.txt&lt;/f0&gt;、 &lt;f1&gt;.tab&lt;/f1&gt;等）的文件将会复制到 &lt;f2&gt;glossary&lt;/f2&gt; 文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Goto &amp;Line...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095506Z" creationid="Liliu" creationdate="20200419T095506Z">
+        <seg>转到行(&amp;L)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2664,6 +2720,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please enter the name of this set:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095532Z" creationid="Liliu" creationdate="20200419T095532Z">
+        <seg>请输入此集合的名称：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please select which behaviour is appropriate.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T093451Z" creationid="yangzy" creationdate="20200419T093350Z">
@@ -2936,6 +3000,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save Current Set...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095527Z" creationid="Liliu" creationdate="20200419T095527Z">
+        <seg>保存当前集合...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;e2&gt;Translation editing&lt;/e2&gt; for more details.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134551Z" creationid="Liliu" creationdate="20200418T134551Z">
@@ -3048,6 +3120,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sets</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095524Z" creationid="Liliu" creationdate="20200419T095524Z">
+        <seg>集合</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Setting up a team project requires some knowledge of servers and the SVN or Git versioning systems.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073214Z" creationid="hp" creationdate="20200418T073214Z">
@@ -3084,6 +3164,22 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071823Z" creationid="hp" creationdate="20200418T071823Z">
         <seg>如果希望重用过往项目的翻译记忆库（例如，因为新项目与之前的项目类似，或者使用之前可能用过的术语），您可以将这些翻译记忆库用作“输入翻译记忆库”，即导入您的新项目中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show Find Search Bar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095511Z" creationid="Liliu" creationdate="20200419T095511Z">
+        <seg>显示查找搜索栏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show Replace Search Bar</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095518Z" creationid="Liliu" creationdate="20200419T095518Z">
+        <seg>显示替换搜索栏</seg>
       </tuv>
     </tu>
     <tu>
