@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;New Script</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095958Z" creationid="Liliu" creationdate="20200419T095958Z">
+        <seg>新建脚本(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Remove</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094937Z" creationid="yangzy" creationdate="20200419T094937Z">
@@ -3111,6 +3119,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052747Z" creationid="Liliu" creationdate="20200419T052747Z">
         <seg>选择其中之一会将其插入到译文片段中的当前光标位置处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Set Scripts Folder...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T100001Z" creationid="Liliu" creationdate="20200419T100001Z">
+        <seg>设置脚本文件夹...</seg>
       </tuv>
     </tu>
     <tu>
