@@ -2045,8 +2045,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Displa&amp;y source terms</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113507Z" creationid="Liliu" creationdate="20200419T113507Z">
-        <seg>显示原文词汇(&amp;Y)</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113724Z" creationid="Liliu" creationdate="20200419T113507Z">
+        <seg>显示原文术语(&amp;Y)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2966,6 +2966,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary auto-completer options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113643Z" creationid="Liliu" creationdate="20200419T113643Z">
+        <seg>术语表自动完成视图选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary entries</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113438Z" creationid="Liliu" creationdate="20200419T113438Z">
@@ -3194,6 +3202,22 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110206Z" creationid="yangzy" creationdate="20200419T110206Z">
         <seg>如果勾选，所有译文部分已被自动填充（例如，来自放在 &lt;f0&gt;/tm/auto&lt;/f0&gt; 下的 TMX）的片段的背景将以彩色显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, the entries are sorted alphabetically.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113635Z" creationid="Liliu" creationdate="20200419T113635Z">
+        <seg>勾选后，条目会按照字母顺序排列。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If checked, the longer entries are placed on the list first.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113614Z" creationid="Liliu" creationdate="20200419T113614Z">
+        <seg>勾选后，列表中首先出现较长条目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7027,6 +7051,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Show &amp;longer target terms first</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113717Z" creationid="Liliu" creationdate="20200419T113601Z">
+        <seg>首先显示较长的译文术语(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show &amp;target term first</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113700Z" creationid="Liliu" creationdate="20200419T113700Z">
+        <seg>首先显示译文术语(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Show Find Search Bar</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095511Z" creationid="Liliu" creationdate="20200419T095511Z">
@@ -7079,6 +7119,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T044132Z" creationid="Liliu" creationdate="20200419T044132Z">
         <seg>有时，将由于题材、客户、修订状态等原因而不太可靠的翻译记忆库与高质量的翻译记忆库区分开来会很有帮助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by source term &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113705Z" creationid="Liliu" creationdate="20200419T113618Z">
+        <seg>按字母顺序排列原文术语(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort tar&amp;get terms alphabetically</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113712Z" creationid="Liliu" creationdate="20200419T113623Z">
+        <seg>按字母顺序排列译文术语(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9364,6 +9420,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T093741Z" creationid="yangzy" creationdate="20200419T093741Z">
         <seg>警告：改变标签顺序可能破坏译文文档！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113551Z" creationid="Liliu" creationdate="20200419T113551Z">
+        <seg>勾选后，在术语表自动完成视图中的项目中也将包含原文文本。</seg>
       </tuv>
     </tu>
     <tu>
