@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1651,6 +1651,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101825Z" creationid="yangzy" creationdate="20200419T101825Z">
         <seg>无法读取所选的脚本文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot reset the filter to default patterns.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115814Z" creationid="DSS" creationdate="20200419T115814Z">
+        <seg>无法将过滤器重置为默认模式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3715,6 +3723,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095506Z" creationid="Liliu" creationdate="20200419T095506Z">
         <seg>转到行(&amp;L)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115709Z" creationid="DSS" creationdate="20200419T115646Z">
+        <seg>HTMLParser 1.6 作者是 Somik Raha, Derrick Oswald 和其他人(LGPL 许可)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6261,6 +6277,15 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT uses the following libraries:
+{1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115602Z" creationid="DSS" creationdate="20200419T115602Z">
+        <seg>OmegaT 使用如下库：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT version {0} ({1})</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114743Z" creationid="DSS" creationdate="20200419T114743Z">
@@ -6572,6 +6597,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114714Z" creationid="DSS" creationdate="20200419T114714Z">
         <seg>其他选项：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other contributions are detailed in the readme.txt file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115546Z" creationid="DSS" creationdate="20200419T115546Z">
+        <seg>其他贡献者在 readme.txt 文件中有详细说明</seg>
       </tuv>
     </tu>
     <tu>
@@ -7704,6 +7737,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112913Z" creationid="Liliu" creationdate="20200419T112913Z">
         <seg>秒数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See /docs/contributors.txt</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115517Z" creationid="DSS" creationdate="20200419T115517Z">
+        <seg>请参阅 /docs/contributors.txt</seg>
       </tuv>
     </tu>
     <tu>
@@ -10595,6 +10636,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110206Z" creationid="yangzy" creationdate="20200419T110206Z">
         <seg>通常，从 auto 文件夹插入的翻译会显示为橙色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>VLDocking Framework (LGPL License)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115703Z" creationid="DSS" creationdate="20200419T115703Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
