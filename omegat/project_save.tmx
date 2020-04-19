@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -282,6 +282,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T144921Z" creationid="hp" creationdate="20200418T051844Z">
         <seg>不被处理的文件或文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Any text, already translated and stored in those files, will appear among the fuzzy matches, if it is sufficiently similar to the text currently being translated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T034939Z" creationid="Liliu" creationdate="20200419T034939Z">
+        <seg>对于任何已翻译并存储在这些文件中的文本来说，只要与当前正在翻译的文本足够相似，它们就会出现在模糊匹配中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1672,6 +1680,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note that other CAT tools can export (and import as well) tmx files, usually in all three forms.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T034610Z" creationid="Liliu" creationdate="20200419T034610Z">
+        <seg>注意其他 CAT 工具可以输出（也能输入）tmx 文件，通常全部支持三种格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note that the structure of the source subfolder may take any form you like.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T144352Z" creationid="Liliu" creationdate="20200418T144352Z">
@@ -2251,6 +2267,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Such files can be created in any of the three varieties indicated above.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T034443Z" creationid="Liliu" creationdate="20200419T034443Z">
+        <seg>此类文件可以使用前文所述的三种变体格式中的任意一个。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Such modifications are possible in ODF files for example.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T145631Z" creationid="hp" creationdate="20200418T145631Z">
@@ -2356,10 +2380,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The best thing of course is to use OmegaT-specific TMX files (see above), so that the in-line formatting within the segment is retained.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T034625Z" creationid="Liliu" creationdate="20200419T034625Z">
+        <seg>当然，最好是使用 OmegaT 专用的 TMX 文件（见前文），这样能够保留片段中的内联格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contents of the target subfolder will reflect the current state of the translation, as present in the project translation memory, saved in the current &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T025318Z" creationid="Liliu" creationdate="20200419T025318Z">
         <seg>target 子文件夹的内容将反映当前的翻译状况，正如保存在当前项目记忆库中的内容，即 &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The contents of translation memories in the tm subfolder serve to generate suggestions for the text(s) to be translated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T034747Z" creationid="Liliu" creationdate="20200419T034747Z">
+        <seg>tm 子文件夹中的翻译记忆库为生成待翻译文本提供建议。</seg>
       </tuv>
     </tu>
     <tu>
