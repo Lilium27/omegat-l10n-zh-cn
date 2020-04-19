@@ -4754,6 +4754,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: on Windows it seems that this manual font fallback mechanism can interfere with standard font fallback, causing undesirable font substitution.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T111054Z" creationid="yangzy" creationdate="20200419T111054Z">
+        <seg>注意：在 Windows 上，这种手动字体候补机制似乎会干扰标准字体候补，从而导致不理想的字体替换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T100725Z" creationid="Liliu" creationdate="20200418T134511Z">
