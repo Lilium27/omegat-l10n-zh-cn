@@ -1097,8 +1097,8 @@ may experience unexpected, but correct behaviour.</seg>
         <seg>Close the current OmegaT instance
 3.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T103124Z" creationid="Liliu" creationdate="20200419T103124Z">
-        <seg>关闭当前的 OmegaT 实例
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T103226Z" creationid="Liliu" creationdate="20200419T103124Z">
+        <seg>关闭当前的 OmegaT 实例。
 3.</seg>
       </tuv>
     </tu>
@@ -1163,8 +1163,8 @@ may experience unexpected, but correct behaviour.</seg>
         <seg>Copy &lt;project&gt;/omegat/project_save.tmx file into a safe location
 2.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T103049Z" creationid="Liliu" creationdate="20200419T103049Z">
-        <seg>复制 &lt;project&gt;/omegat/project_save.tmx 文件到安全地点
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T103222Z" creationid="Liliu" creationdate="20200419T103049Z">
+        <seg>复制 &lt;project&gt;/omegat/project_save.tmx 文件到安全地点。
 2.</seg>
       </tuv>
     </tu>
@@ -3888,8 +3888,8 @@ your home folder.</seg>
       <tuv lang="en">
         <seg>Perhaps it is already opened in another OmegaT instance</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T102253Z" creationid="Liliu" creationdate="20200419T102223Z">
-        <seg>可能它已经在另一个 OmegaT 实例中打开</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T103219Z" creationid="Liliu" creationdate="20200419T102223Z">
+        <seg>可能它已经在另一个 OmegaT 实例中打开。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4226,6 +4226,16 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101802Z" creationid="yangzy" creationdate="20200419T101802Z">
         <seg>移除译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace &lt;project&gt;/omegat/project_save.tmx in the newly downloaded project with the file saved in a safe location
+6.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T103525Z" creationid="Liliu" creationdate="20200419T103525Z">
+        <seg>在重新下载的项目中，用保存在安全地点的文件替换 &lt;project&gt;/omegat/project_save.tmx。
+6.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4738,6 +4748,16 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094934Z" creationid="yangzy" creationdate="20200419T094934Z">
         <seg>拼写检查器设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start OmegaT again, download the team project, close OmegaT
+5.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T103321Z" creationid="Liliu" creationdate="20200419T103321Z">
+        <seg>重新打开 OmegaT，下载团队项目，关闭 OmegaT。
+5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6361,6 +6381,16 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T101845Z" creationid="Liliu" creationdate="20200419T101845Z">
         <seg>正在验证标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>WARNING: all unsaved data will be lost
+4.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T103253Z" creationid="Liliu" creationdate="20200419T103253Z">
+        <seg>警告：所有未保存数据都将会丢失。
+4.</seg>
       </tuv>
     </tu>
     <tu>
