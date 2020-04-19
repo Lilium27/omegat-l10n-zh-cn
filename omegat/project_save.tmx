@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -184,16 +184,16 @@
       <tuv lang="en">
         <seg>After the source files have loaded in the &lt;g3&gt;Editor&lt;/g3&gt; pane, you can close the &lt;g4&gt;Project Files&lt;/g4&gt; dialog.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123132Z" creationid="DSS" creationdate="20200418T123132Z">
-        <seg>当&lt;g3&gt;编辑器&lt;/g3&gt;窗格中加载了源文件后，您可以关闭&lt;g4&gt;项目文件&lt;/g4&gt;对话框。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T034030Z" creationid="DSS" creationdate="20200418T123132Z">
+        <seg>当&lt;g3&gt;编辑器&lt;/g3&gt;窗格已经加载了源文件后，您可以关闭&lt;g4&gt;项目文件&lt;/g4&gt;对话框。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>After you give your project a name, the &lt;g0&gt;Create New Project&lt;/g0&gt; dialog will open.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T122725Z" creationid="DSS" creationdate="20200418T122725Z">
-        <seg>为项目命名后，将会打开 &lt;g0&gt;创建新项目t&lt;/g0&gt;对话框。 </seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T033859Z" creationid="DSS" creationdate="20200418T122725Z">
+        <seg>为项目命名后，将会打开 &lt;g0&gt;创建新项目&lt;/g0&gt;对话框。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -1033,8 +1033,8 @@
       <tuv lang="en">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T030731Z" creationid="DSS" creationdate="20200418T122809Z">
-        <seg>如果对该对话框中的其他设置感兴趣，则随时都可以按 &lt;k0&gt;Ctrl+E&lt;/k0&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T033938Z" creationid="DSS" creationdate="20200418T122809Z">
+        <seg>如果对该对话框中的其他设置感兴趣，则随时都可以按 &lt;k0&gt;Ctrl+E&lt;/k0&gt; 返回。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1602,8 +1602,8 @@
       <tuv lang="en">
         <seg>Next, the &lt;g0&gt;Project Files&lt;/g0&gt; dialog opens.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T122919Z" creationid="DSS" creationdate="20200418T122919Z">
-        <seg>接着，&lt;g0&gt;项目文件&lt;/g0&gt;对话框出现。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T033957Z" creationid="DSS" creationdate="20200418T122919Z">
+        <seg>接着会出现&lt;g0&gt;项目文件&lt;/g0&gt;对话框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1786,8 +1786,8 @@
       <tuv lang="en">
         <seg>OmegaT will then copy the selected files to the &lt;f2&gt;/source/&lt;/f2&gt; subfolder of your newly created project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T030211Z" creationid="DSS" creationdate="20200418T123039Z">
-        <seg>OmegaT跟着会复制选择的文件到新建项目的 &lt;f2&gt;/source/&lt;/f2&gt; 子文件夹。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T034012Z" creationid="DSS" creationdate="20200418T123039Z">
+        <seg>OmegaT 跟着会复制选择的文件到新建项目的 &lt;f2&gt;/source/&lt;/f2&gt; 子文件夹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3302,8 +3302,8 @@
       <tuv lang="en">
         <seg>Whenever you want to see what your translation will look like in its final format, press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to generate the translated documents, which will be created in the &lt;f3&gt;/target/&lt;/f3&gt; subfolder of your project folder.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T030247Z" creationid="DSS" creationdate="20200418T123413Z">
-        <seg>当您想看看译文的最终格式时，按下 &lt;k2&gt;Ctrl+D&lt;/k2&gt; 会生成已译文档，它们在项目文件夹中的 &lt;f3&gt;/target/&lt;/f3&gt; 子文件夹。在翻译过程中使用编辑和前往菜单可以执行多种有用的功能。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T034115Z" creationid="DSS" creationdate="20200418T123413Z">
+        <seg>当您想查看译文的最终格式时，按下 &lt;k2&gt;Ctrl+D&lt;/k2&gt; 会生成已译文档，它们在项目文件夹中的 &lt;f3&gt;/target/&lt;/f3&gt; 子文件夹。在翻译过程中使用编辑和前往菜单可以执行多种有用的功能。</seg>
       </tuv>
     </tu>
     <tu>
