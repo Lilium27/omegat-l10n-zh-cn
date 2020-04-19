@@ -3334,6 +3334,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter a source term, a target term and a comment:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122956Z" creationid="DSS" creationdate="20200419T122956Z">
+        <seg>输入原文词汇、译文词汇和注释：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Entries</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113907Z" creationid="Liliu" creationdate="20200419T113907Z">
@@ -9309,6 +9317,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source term:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122959Z" creationid="DSS" creationdate="20200419T122959Z">
+        <seg>原文词汇：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spanish</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122120Z" creationid="DSS" creationdate="20200419T122120Z">
@@ -9667,6 +9683,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T102058Z" creationid="Liliu" creationdate="20200419T102058Z">
         <seg>译文文件夹 {0} 不存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target term:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T123007Z" creationid="DSS" creationdate="20200419T123007Z">
+        <seg>译文词汇：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11676,6 +11700,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101753Z" creationid="yangzy" creationdate="20200419T101753Z">
         <seg>用作默认译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use custom templates for modification &amp;info</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122945Z" creationid="DSS" creationdate="20200419T122945Z">
+        <seg>使用修订信息自定义模板(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
