@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A given source segment may require several different translations, depending on the context.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T053352Z" creationid="Liliu" creationdate="20200419T053352Z">
+        <seg>给定的原文句段可能根据上下文要求多种不同翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A hint: translating a plain text version of the text and adding the necessary style in the relevant application at a later stage may turn out to be less hassle.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070355Z" creationid="hp" creationdate="20200418T070355Z">
@@ -1055,6 +1063,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the current translation of the segment does not fit, the user can select &lt;g0&gt;Edit → Create Alternative Translation&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T053511Z" creationid="Liliu" creationdate="20200419T053511Z">
+        <seg>如果当前句段的翻译不恰当，用户可以选择 &lt;g0&gt;编辑 → Create Alternative Translation&lt;/g0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the document allows, the translator is strongly encouraged to remove style information from the original document so that as few tags as possible appear in the OmegaT interface.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070344Z" creationid="hp" creationdate="20200418T070344Z">
@@ -1770,8 +1786,8 @@
       <tuv lang="en">
         <seg>Mistranslated segments can of course be corrected later manually using &lt;g0&gt;Create Alternative Translation&lt;/g0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T030052Z" creationid="hp" creationdate="20200418T041722Z">
-        <seg>当然，错译句段之后可以手动纠正。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T053549Z" creationid="hp" creationdate="20200418T041722Z">
+        <seg>当然，错译句段之后可以用  &lt;g0&gt;创建替代译文&lt;/g0&gt; 手动纠正。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2181,8 +2197,8 @@
       <tuv lang="en">
         <seg>Press &lt;k0&gt;Ctrl+M&lt;/k0&gt; to replace the translation of the current segment with the suggested translation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T053228Z" creationid="Liliu" creationdate="20200419T053228Z">
-        <seg>按下 &lt;k0&gt;Ctrl+M&lt;/k0&gt; 用建议翻译替换当前句段的翻译。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T053254Z" creationid="Liliu" creationdate="20200419T053228Z">
+        <seg>按下 &lt;k0&gt;Ctrl+M&lt;/k0&gt; 可将当前片段的译文替换为建议译文。</seg>
       </tuv>
     </tu>
     <tu>
