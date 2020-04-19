@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10,6 +10,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T112741Z" creationid="DSS" creationdate="20200419T112741Z">
         <seg>允许译文文件中存在空译文(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Allow only unique characters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114207Z" creationid="Liliu" creationdate="20200419T114207Z">
+        <seg>仅允许非重复字符(&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,6 +142,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Enable autotext</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113840Z" creationid="Liliu" creationdate="20200419T113840Z">
+        <seg>启用自动文本(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Enable character table</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114107Z" creationid="Liliu" creationdate="20200419T114107Z">
+        <seg>启用字符表(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Enable glossary suggestions</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113755Z" creationid="Liliu" creationdate="20200419T113755Z">
@@ -202,6 +226,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T112947Z" creationid="DSS" creationdate="20200419T112947Z">
         <seg>断行(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Load...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113908Z" creationid="Liliu" creationdate="20200419T113908Z">
+        <seg>加载(&amp;L)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -298,6 +330,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101810Z" creationid="yangzy" creationdate="20200419T101810Z">
         <seg>运行(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113909Z" creationid="Liliu" creationdate="20200419T113909Z">
+        <seg>保存(&amp;S)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -791,6 +831,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114131Z" creationid="Liliu" creationdate="20200419T114131Z">
+        <seg>通过双击或高亮并按 Insert 键将字符添加到自定义表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add patterns using wildcards (Apache Ant style): *, ?, **</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074301Z" creationid="hp" creationdate="20200418T074301Z">
@@ -1255,10 +1303,34 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-text configuration</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113905Z" creationid="Liliu" creationdate="20200419T113905Z">
+        <seg>自动文本配置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-text file (*.autotext)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113923Z" creationid="Liliu" creationdate="20200419T113923Z">
+        <seg>自动文本文件 (*.autotext)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Automatic saving</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T115545Z" creationid="DSS" creationdate="20200418T112413Z">
         <seg>自动保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Autotext</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113942Z" creationid="Liliu" creationdate="20200419T113942Z">
+        <seg>自动文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -1451,6 +1523,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113458Z" creationid="Liliu" creationdate="20200419T113458Z">
         <seg>字符表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Character table auto-completer options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114111Z" creationid="Liliu" creationdate="20200419T114111Z">
+        <seg>字符表自动完成选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -1669,6 +1749,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T112607Z" creationid="DSS" creationdate="20200419T112607Z">
         <seg>列索引必须为 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113940Z" creationid="Liliu" creationdate="20200419T113940Z">
+        <seg>注释</seg>
       </tuv>
     </tu>
     <tu>
@@ -2011,6 +2099,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom table</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114133Z" creationid="Liliu" creationdate="20200419T114133Z">
+        <seg>自定义表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Customize character &amp;table</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114115Z" creationid="Liliu" creationdate="20200419T114115Z">
+        <seg>自定义字符表(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cut</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101105Z" creationid="yangzy" creationdate="20200419T101105Z">
@@ -2143,6 +2247,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113724Z" creationid="Liliu" creationdate="20200419T113507Z">
         <seg>显示原文术语(&amp;Y)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113906Z" creationid="Liliu" creationdate="20200419T113906Z">
+        <seg>显示</seg>
       </tuv>
     </tu>
     <tu>
@@ -2521,6 +2633,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100054Z" creationid="yangzy" creationdate="20200419T100054Z">
         <seg>确保你指定了正确的 API 版本（网址中应当包含“/v2/”）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113907Z" creationid="Liliu" creationdate="20200419T113907Z">
+        <seg>条目</seg>
       </tuv>
     </tu>
     <tu>
@@ -3034,6 +3154,22 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T093438Z" creationid="yangzy" creationdate="20200419T093438Z">
         <seg>完整检查可能导致正常文本出现误报。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full table</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114132Z" creationid="Liliu" creationdate="20200419T114132Z">
+        <seg>完整表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113939Z" creationid="Liliu" creationdate="20200419T113939Z">
+        <seg>完整文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -7267,6 +7403,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shortcut</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114102Z" creationid="Liliu" creationdate="20200419T113937Z">
+        <seg>快捷键</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Should you lose track of your changes to the user interface, you can use &lt;g0&gt; Options → Restore the main window&lt;/g0&gt; any time to return to the original layout.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134340Z" creationid="Liliu" creationdate="20200418T134340Z">
@@ -7367,6 +7511,30 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T044132Z" creationid="Liliu" creationdate="20200419T044132Z">
         <seg>有时，将由于题材、客户、修订状态等原因而不太可靠的翻译记忆库与高质量的翻译记忆库区分开来会很有帮助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort &amp;alphabetically</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113850Z" creationid="Liliu" creationdate="20200419T113850Z">
+        <seg>按字母排序(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by &amp;full text, not shortcut</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113901Z" creationid="Liliu" creationdate="20200419T113901Z">
+        <seg>按完整文本而非缩略词排序(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sort by len&amp;gth</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113842Z" creationid="Liliu" creationdate="20200419T113842Z">
+        <seg>按长度排序(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9410,6 +9578,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101147Z" creationid="yangzy" creationdate="20200419T101129Z">
         <seg>无法连接到服务器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to save data.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113927Z" creationid="Liliu" creationdate="20200419T113927Z">
+        <seg>无法保存数据。</seg>
       </tuv>
     </tu>
     <tu>
