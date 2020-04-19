@@ -871,6 +871,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ANTLR (ANTLR 3 License)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120329Z" creationid="DSS" creationdate="20200419T120329Z">
+        <seg>ANTLR (ANTLR 3 许可)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>API Key (optional)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101128Z" creationid="yangzy" creationdate="20200419T101128Z">
@@ -5019,6 +5027,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>JGit (Eclipse Distribution License)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120405Z" creationid="DSS" creationdate="20200419T120405Z">
+        <seg>JGit (Eclipse Distribution 许可)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JSch (JSch License)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120411Z" creationid="DSS" creationdate="20200419T120411Z">
+        <seg>JSch (JSch 许可)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java Resource Bundles Filter Options</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113050Z" creationid="DSS" creationdate="20200419T113050Z">
@@ -7601,6 +7625,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100204Z" creationid="yangzy" creationdate="20200419T100204Z">
         <seg>转换大小写为(&amp;W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SQLJet (GPL License)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120356Z" creationid="DSS" creationdate="20200419T120356Z">
+        <seg>SQLJet (GPL 许可)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11503,6 +11535,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051900Z" creationid="hp" creationdate="20200418T051900Z">
         <seg>不会纳入统计、</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>jsch-agent-proxy (jsch-agent-proxy License)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120422Z" creationid="DSS" creationdate="20200419T120422Z">
+        <seg>jsch-agent-proxy (jsch-agent-proxy 许可)</seg>
       </tuv>
     </tu>
     <tu>
