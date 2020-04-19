@@ -889,8 +889,8 @@
       <tuv lang="en">
         <seg>If the Auto-propagation check box is not checked, the segments with alternative translations are left untranslated until the user has decided which translation is to be used.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T143657Z" creationid="hp" creationdate="20200418T041741Z">
-        <seg>如果未勾选自动传播复选框，则含有替代译文的片段会保持未译状态，直到用户决定使用哪种译文。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T030233Z" creationid="hp" creationdate="20200418T041741Z">
+        <seg>如果未勾选自动传播复选框，则含有替代译文的句段会保持未译状态，直到用户决定使用哪种译文。</seg>
       </tuv>
     </tu>
     <tu>
