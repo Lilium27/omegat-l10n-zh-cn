@@ -1863,8 +1863,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>In the example below, the author of the PO file included a warning for the translator to check the length of the translation:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T143058Z" creationid="Liliu" creationdate="20200418T142841Z">
-        <seg>在下方的例子中，PO 文件的作者给译员设置了警告，以检查译文长度：</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095918Z" creationid="Liliu" creationdate="20200418T142841Z">
+        <seg>在下方的例子中，PO 文件的作者给译者设置了警告，以检查译文长度：</seg>
       </tuv>
     </tu>
     <tu>
