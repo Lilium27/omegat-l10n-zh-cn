@@ -1787,6 +1787,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only rows with the &lt;g0&gt;Keep&lt;/g0&gt; box ticked in the first column will be included when the translation memory is created.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T031624Z" creationid="qinxun" creationdate="20200419T031624Z">
+        <seg>在创建翻译记忆库时，只有每一行上的 &lt;g0&gt;Keep&lt;/g0&gt;  框中打上对勾才能被添加到翻译记忆中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other dropped files will be copied to the &lt;f1&gt;source&lt;/f1&gt; folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T134355Z" creationid="Liliu" creationdate="20200418T134355Z">
@@ -3072,6 +3080,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T070537Z" creationid="hp" creationdate="20200418T070537Z">
         <seg>创建译文文档时，其显示方式将与原始文档相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the two columns are sufficiently aligned, click &lt;g0&gt;Save TMX...&lt;/g0&gt; to create the resulting translation memory.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T031730Z" creationid="qinxun" creationdate="20200419T031730Z">
+        <seg>当两列对齐完毕后，点击 &lt;g0&gt;Save TMX...&lt;/g0&gt; 创建翻译记忆库。</seg>
       </tuv>
     </tu>
     <tu>
