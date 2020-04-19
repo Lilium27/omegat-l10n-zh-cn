@@ -1885,8 +1885,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Displays alternative translations that you have created for segments that are repeated in the project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101752Z" creationid="yangzy" creationdate="20200419T101752Z">
-        <seg>显示你为本项目中重复片段所创建的替代译文。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T110846Z" creationid="yangzy" creationdate="20200419T101752Z">
+        <seg>显示您为本项目中重复片段所创建的替代译文。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4066,6 +4066,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Local translation not synchronized with remote repository.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T110910Z" creationid="Liliu" creationdate="20200419T110910Z">
+        <seg>本地翻译没有与远程版本库同步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Log...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110716Z" creationid="yangzy" creationdate="20200419T110130Z">
@@ -5577,6 +5585,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project will not be updated.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T110914Z" creationid="Liliu" creationdate="20200419T110914Z">
+        <seg>项目将不会更新。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Properties...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110147Z" creationid="yangzy" creationdate="20200419T110147Z">
@@ -6713,6 +6729,30 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T102058Z" creationid="Liliu" creationdate="20200419T102058Z">
         <seg>译文文件夹 {0} 不存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Team synchronization</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T110918Z" creationid="Liliu" creationdate="20200419T110918Z">
+        <seg>团队同步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Team synchronization...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T110920Z" creationid="Liliu" creationdate="20200419T110920Z">
+        <seg>团队同步...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Team synchronization: Waiting for you to finish this segment...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T110931Z" creationid="Liliu" creationdate="20200419T110931Z">
+        <seg>团队同步：等待您完成此句段...</seg>
       </tuv>
     </tu>
     <tu>
@@ -8882,8 +8922,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>You have reached the daily limit for the volume of translated text</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101719Z" creationid="yangzy" creationdate="20200419T101719Z">
-        <seg>你已达到每日翻译文本量限制</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T110838Z" creationid="yangzy" creationdate="20200419T101719Z">
+        <seg>您已达到每日翻译文本量限制</seg>
       </tuv>
     </tu>
     <tu>
