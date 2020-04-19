@@ -399,6 +399,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;No suggestions&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113357Z" creationid="Liliu" creationdate="20200419T113357Z">
+        <seg>&lt;无建议&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; is a robust application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T145649Z" creationid="hp" creationdate="20200418T070718Z">
@@ -1175,6 +1183,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Autotext entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113455Z" creationid="Liliu" creationdate="20200419T113455Z">
+        <seg>自动文本条目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Available dictionaries:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100152Z" creationid="yangzy" creationdate="20200419T100152Z">
@@ -1203,6 +1219,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T045322Z" creationid="Liliu" creationdate="20200419T045322Z">
         <seg>随着翻译的进行，在每次翻译会话开始和结束时，此子文件夹中会逐步添加此文件的备份（扩展名为 bak）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bad nesting</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113318Z" creationid="Liliu" creationdate="20200419T113318Z">
+        <seg>嵌套错误</seg>
       </tuv>
     </tu>
     <tu>
@@ -1323,6 +1347,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T030005Z" creationid="hp" creationdate="20200418T041640Z">
         <seg>更改此标志不会影响现有翻译记忆库中的句段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Character table</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113458Z" creationid="Liliu" creationdate="20200419T113458Z">
+        <seg>字符表</seg>
       </tuv>
     </tu>
     <tu>
@@ -2011,6 +2043,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displa&amp;y source terms</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113507Z" creationid="Liliu" creationdate="20200419T113507Z">
+        <seg>显示原文词汇(&amp;Y)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Display &amp;None</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100950Z" creationid="yangzy" creationdate="20200419T100950Z">
@@ -2219,6 +2259,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Duplicate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113314Z" creationid="Liliu" creationdate="20200419T113314Z">
+        <seg>复制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During SVN error({0}),
 project_save.tmx was not really uploaded and SVN switched to unstable status.</seg>
       </tuv>
@@ -2401,6 +2449,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101124Z" creationid="yangzy" creationdate="20200419T101124Z">
         <seg>从 MyMemory 提取机器翻译结果时出错，回应信息：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error fixing tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113339Z" creationid="Liliu" creationdate="20200419T113339Z">
+        <seg>标签修复出错</seg>
       </tuv>
     </tu>
     <tu>
@@ -2601,6 +2657,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T101550Z" creationid="Liliu" creationdate="20200419T101550Z">
         <seg>提取的注释：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extraneous</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113326Z" creationid="Liliu" creationdate="20200419T113326Z">
+        <seg>无关</seg>
       </tuv>
     </tu>
     <tu>
@@ -2902,6 +2966,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Glossary entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113438Z" creationid="Liliu" creationdate="20200419T113438Z">
+        <seg>术语表条目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary file: {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T094917Z" creationid="yangzy" creationdate="20200419T092835Z">
@@ -2986,6 +3058,22 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101103Z" creationid="yangzy" creationdate="20200419T101103Z">
         <seg>隐藏“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History Completions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113500Z" creationid="Liliu" creationdate="20200419T113500Z">
+        <seg>历史完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History Predictions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113502Z" creationid="Liliu" creationdate="20200419T113502Z">
+        <seg>历史预测</seg>
       </tuv>
     </tu>
     <tu>
@@ -4642,6 +4730,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Missing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113320Z" creationid="Liliu" creationdate="20200419T113320Z">
+        <seg>缺失</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Missing tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113449Z" creationid="Liliu" creationdate="20200419T113449Z">
+        <seg>标签缺失</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mistranslated segments can of course be corrected later manually using &lt;g0&gt;Create Alternative Translation&lt;/g0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T053549Z" creationid="hp" creationdate="20200418T041722Z">
@@ -5543,6 +5647,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Orphaned</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113333Z" creationid="Liliu" creationdate="20200419T113333Z">
+        <seg>不成对</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other dropped files will be copied to the &lt;f1&gt;source&lt;/f1&gt; folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134355Z" creationid="Liliu" creationdate="20200418T134355Z">
@@ -5571,6 +5683,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110206Z" creationid="yangzy" creationdate="20200419T110206Z">
         <seg>其他在 TMX 中特别标记的翻译可以用不同的颜色来显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Out-of-order</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113328Z" creationid="Liliu" creationdate="20200419T113328Z">
+        <seg>顺序错误</seg>
       </tuv>
     </tu>
     <tu>
@@ -5696,6 +5816,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please redo tag validation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113354Z" creationid="Liliu" creationdate="20200419T113354Z">
+        <seg>请重新验证标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please select the dictionaries you want to install and press the Install button.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100150Z" creationid="yangzy" creationdate="20200419T100150Z">
@@ -5781,6 +5909,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T053254Z" creationid="Liliu" creationdate="20200419T053228Z">
         <seg>按下 &lt;k0&gt;Ctrl+M&lt;/k0&gt; 可将当前片段的译文替换为建议译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to go to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113426Z" creationid="Liliu" creationdate="20200419T113426Z">
+        <seg>按下 &lt;u&gt;{0}&lt;/u&gt; 前往 &lt;b&gt;{1}&lt;/b&gt; 建议。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press &lt;u&gt;{0}&lt;/u&gt; to return to &lt;b&gt;{1}&lt;/b&gt; suggestions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113413Z" creationid="Liliu" creationdate="20200419T113413Z">
+        <seg>按下 &lt;u&gt;{0}&lt;/u&gt; 回到 &lt;b&gt;{1}&lt;/b&gt; 建议。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7311,8 +7455,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Text to be removed</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113102Z" creationid="Liliu" creationdate="20200419T113102Z">
-        <seg>要删除的文本</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113306Z" creationid="Liliu" creationdate="20200419T113102Z">
+        <seg>要移除的文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -8029,6 +8173,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075446Z" creationid="hp" creationdate="20200418T075446Z">
         <seg>然后需要将译文文件转换回原始格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The translation has changed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113351Z" creationid="Liliu" creationdate="20200419T113351Z">
+        <seg>译文已更改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8950,6 +9102,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unspecified</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113334Z" creationid="Liliu" creationdate="20200419T113334Z">
+        <seg>不明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unsupported SVN error</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T102527Z" creationid="Liliu" creationdate="20200419T102527Z">
@@ -9348,6 +9508,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T034115Z" creationid="DSS" creationdate="20200418T123413Z">
         <seg>当您想查看译文的最终格式时，按下 &lt;k2&gt;Ctrl+D&lt;/k2&gt; 会生成已译文档，它们在项目文件夹中的 &lt;f3&gt;/target/&lt;/f3&gt; 子文件夹。在翻译过程中使用编辑和前往菜单可以执行多种有用的功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whitespace</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113330Z" creationid="Liliu" creationdate="20200419T113330Z">
+        <seg>空白字符</seg>
       </tuv>
     </tu>
     <tu>
