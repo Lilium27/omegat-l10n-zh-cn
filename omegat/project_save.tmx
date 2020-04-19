@@ -1073,8 +1073,8 @@
       <tuv lang="en">
         <seg>If they &lt;e0&gt;don't need&lt;/e0&gt; to stay immune from further changes, then remove the TMX from /tm/enforce.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T043313Z" creationid="Liliu" creationdate="20200419T043313Z">
-        <seg>如果它们 &lt;e0&gt;无需&lt;/e0&gt; 受进一步更改的影，则将 TMX 从 /tm/enforce 中删除。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T043329Z" creationid="Liliu" creationdate="20200419T043313Z">
+        <seg>如果它们 &lt;e0&gt;无需&lt;/e0&gt; 受进一步更改的影响，则将 TMX 从 /tm/enforce 中删除。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1602,8 +1602,8 @@
       <tuv lang="en">
         <seg>Make decision about immunity of the enforced segments:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T043145Z" creationid="Liliu" creationdate="20200419T043145Z">
-        <seg>您需决定被强制更改的句段的豁免权：</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T043341Z" creationid="Liliu" creationdate="20200419T043145Z">
+        <seg>您需决定被强制更改的句段的影响：</seg>
       </tuv>
     </tu>
     <tu>
