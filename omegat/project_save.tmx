@@ -824,8 +824,8 @@
       <tuv lang="en">
         <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075449Z" creationid="hp" creationdate="20200418T075449Z">
-        <seg>例如，如果你拥有的是无法处理 ODT 的过时 Microsoft Word 版本，那么对于有着 DOC 扩展名的 Word 文件需要这样来回：</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T034042Z" creationid="hp" creationdate="20200418T075449Z">
+        <seg>例如，如果您拥有的是无法处理 ODT 的过时 Microsoft Word 版本，那么对于有着 DOC 扩展名的 Word 文件需要这样来回：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1073,8 +1073,8 @@
       <tuv lang="en">
         <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075437Z" creationid="hp" creationdate="20200418T075437Z">
-        <seg>如果你有一个由扫描页面组成的 PDF 文件（此类文件有时被称为“死”PDF），你需要用 OCR（光学字符识别）程序识别文本并将其转换为 OmegaT 可以处理的格式。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T034040Z" creationid="hp" creationdate="20200418T075437Z">
+        <seg>如果您有一个由扫描页面组成的 PDF 文件（此类文件有时被称为“死”PDF），您需要用 OCR（光学字符识别）程序识别文本并将其转换为 OmegaT 可以处理的格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2598,8 +2598,8 @@
       <tuv lang="en">
         <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072848Z" creationid="hp" creationdate="20200418T072848Z">
-        <seg>某些情况下，你可能已经完成了一个项目，原文为比如说荷兰语，翻译为比如说英语。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T033955Z" creationid="hp" creationdate="20200418T072848Z">
+        <seg>某些情况下，您可能已经完成了一个项目，原文为比如说荷兰语，翻译为比如说英语。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3718,8 +3718,8 @@
       <tuv lang="en">
         <seg>the TMX files in the main project folder (see above) now contain the translations in the selected language pair, for the files, you have copied into the source folder.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072755Z" creationid="hp" creationdate="20200418T072755Z">
-        <seg>主项目目录（见上文）中的 TMX 文件现在包含你复制到原文文件夹中的文件的所选语言对的翻译。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T033948Z" creationid="hp" creationdate="20200418T072755Z">
+        <seg>主项目目录（见上文）中的 TMX 文件现在包含您复制到原文文件夹中的文件的所选语言对的翻译。</seg>
       </tuv>
     </tu>
     <tu>
