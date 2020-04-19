@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;License</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114806Z" creationid="DSS" creationdate="20200419T114806Z">
+        <seg>许可证(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Line breaks</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T112947Z" creationid="DSS" creationdate="20200419T112947Z">
@@ -338,6 +346,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113743Z" creationid="DSS" creationdate="20200419T113743Z">
         <seg>演讲备注(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Preserve spaces for all tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114725Z" creationid="DSS" creationdate="20200419T114725Z">
+        <seg>为所有标签保留空格(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -831,6 +847,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A&amp;ggregate Tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114717Z" creationid="DSS" creationdate="20200419T114717Z">
+        <seg>聚合标签(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>API Key (optional)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101128Z" creationid="yangzy" creationdate="20200419T101128Z">
@@ -847,10 +871,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aaron Madlon-Kay is the OmegaT project manager.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115314Z" creationid="DSS" creationdate="20200419T115314Z">
+        <seg>Aaron Madlon-Kay 是 OmegaT 项目经理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Aborted.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T101847Z" creationid="Liliu" creationdate="20200419T101847Z">
         <seg>已中止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>About OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114755Z" creationid="DSS" creationdate="20200419T114755Z">
+        <seg>关于 OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -1551,6 +1591,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C&amp;harts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114704Z" creationid="DSS" creationdate="20200419T114704Z">
+        <seg>数据图表(&amp;H)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C&amp;lear</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114210Z" creationid="Liliu" creationdate="20200419T114210Z">
@@ -1897,10 +1945,27 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Code has been contributed by:
+{0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115442Z" creationid="DSS" creationdate="20200419T115442Z">
+        <seg>代码由以下人员编写：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Column Index must be equal to 1</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T112607Z" creationid="DSS" creationdate="20200419T112607Z">
         <seg>列索引必须为 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Comme&amp;nts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114636Z" creationid="DSS" creationdate="20200419T114636Z">
+        <seg>批注(&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2087,6 +2152,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072802Z" creationid="hp" creationdate="20200418T072802Z">
         <seg>将它们复制到安全的地方备用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk and others</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114803Z" creationid="DSS" creationdate="20200419T114803Z">
+        <seg>版权所有 © 2000-2019 Keith Godfrey、Maxym Mykhalchuk 等</seg>
       </tuv>
     </tu>
     <tu>
@@ -2303,6 +2376,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101105Z" creationid="yangzy" creationdate="20200419T101105Z">
         <seg>剪切</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>D&amp;iagrams</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114708Z" creationid="DSS" creationdate="20200419T114708Z">
+        <seg>图表(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2659,6 +2740,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Doc&amp;ument properties</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114628Z" creationid="DSS" creationdate="20200419T114628Z">
+        <seg>文档属性(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dock</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094056Z" creationid="yangzy" creationdate="20200419T094056Z">
@@ -2723,10 +2812,26 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dra&amp;wings</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114710Z" creationid="DSS" creationdate="20200419T114710Z">
+        <seg>绘图(&amp;W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Duplicate</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113314Z" creationid="Liliu" creationdate="20200419T113314Z">
         <seg>复制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Duplicate Fallbac&amp;k Text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114621Z" creationid="DSS" creationdate="20200419T114621Z">
+        <seg>复制备用文本(&amp;K)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3133,6 +3238,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External Lin&amp;ks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114702Z" creationid="DSS" creationdate="20200419T114702Z">
+        <seg>外部链接(&amp;K)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External Post-processing Command</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050117Z" creationid="hp" creationdate="20200418T050117Z">
@@ -3281,6 +3394,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070347Z" creationid="hp" creationdate="20200418T070347Z">
         <seg>请遵循标签管理提示中给出的说明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Foote&amp;rs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114547Z" creationid="DSS" creationdate="20200419T114547Z">
+        <seg>页脚(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3502,6 +3623,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Global</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114659Z" creationid="DSS" creationdate="20200419T114659Z">
+        <seg>全局</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Glossary</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113822Z" creationid="Liliu" creationdate="20200418T135716Z">
@@ -3586,6 +3715,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095506Z" creationid="Liliu" creationdate="20200419T095506Z">
         <seg>转到行(&amp;L)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>He&amp;aders</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114546Z" creationid="DSS" creationdate="20200419T114546Z">
+        <seg>页眉(&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6058,6 +6195,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115412Z" creationid="DSS" creationdate="20200419T115157Z">
+        <seg>OmegaT 是一个免费、开源的多平台计算机辅助翻译工具，具有模糊匹配、翻译记忆、关键字搜索、术语表功能，帮助翻译不断更新的项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is able to store translations that are identical to the source.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134537Z" creationid="Liliu" creationdate="20200418T134537Z">
@@ -6072,6 +6217,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094115Z" creationid="yangzy" creationdate="20200419T094115Z">
         <seg>OmegaT 无法访问包含操作系统名称的系统属性和/或\n包含你的主文件夹的系统属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is the original work of Keith Godfrey.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115250Z" creationid="DSS" creationdate="20200419T115250Z">
+        <seg>OmegaT 是 Keith Godfrey 的作品。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6104,6 +6257,22 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T035026Z" creationid="DSS" creationdate="20200418T112303Z">
         <seg>OmegaT 团队项目必须先&lt;l0&gt;搭建&lt;/l0&gt; 在服务器上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT version {0} ({1})</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114743Z" creationid="DSS" creationdate="20200419T114743Z">
+        <seg>OmegaT 版本 {0} ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT version {0}, update {1} ({2})</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114753Z" creationid="DSS" creationdate="20200419T114753Z">
+        <seg>OmegaT 版本 {0}, update {1} ({2})</seg>
       </tuv>
     </tu>
     <tu>
@@ -6395,6 +6564,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113333Z" creationid="Liliu" creationdate="20200419T113333Z">
         <seg>不成对</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other Options:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114714Z" creationid="DSS" creationdate="20200419T114714Z">
+        <seg>其他选项：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7323,6 +7500,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>S&amp;lide Comments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114648Z" creationid="DSS" creationdate="20200419T114648Z">
+        <seg>幻灯片批注(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>S&amp;witch Case To</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100204Z" creationid="yangzy" creationdate="20200419T100204Z">
@@ -7931,6 +8116,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sli&amp;de Masters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114653Z" creationid="DSS" creationdate="20200419T114653Z">
+        <seg>幻灯片母版(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slide La&amp;youts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114658Z" creationid="DSS" creationdate="20200419T114658Z">
+        <seg>幻灯片版式(&amp;Y)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>So do the next two matches, and the match #4 is similar, but different.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T054523Z" creationid="Liliu" creationdate="20200419T051854Z">
@@ -8113,6 +8314,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T103546Z" creationid="Liliu" creationdate="20200419T103546Z">
         <seg>打开 OmegaT 并继续翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a New Paragraph &amp;on Word Soft Return</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114739Z" creationid="DSS" creationdate="20200419T114739Z">
+        <seg>在 Word 软回车处开始新段落(&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10660,6 +10869,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110125Z" creationid="yangzy" creationdate="20200419T110125Z">
         <seg>使用此命令你可以前进到之前用&lt;g1&gt;在历史中后退&lt;/g1&gt;...命令所离开的拿个片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>WordAr&amp;t</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114713Z" creationid="DSS" creationdate="20200419T114713Z">
+        <seg>艺术字(&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
