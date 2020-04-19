@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;r0&gt;Note:&lt;/r0&gt; it is possible to inhibit the window displaying at opening, by setting &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; to &lt;e2&gt;false&lt;/e2&gt; in &lt;f3&gt;omegat.prefs&lt;/f3&gt; file (accessible by &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Access Configuration Folder&lt;/g6&gt; &lt;/m4&gt; menu).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T032227Z" creationid="qinxun" creationdate="20200419T032227Z">
+        <seg>&lt;r0&gt;注意：&lt;/r0&gt;可以通过在 &lt;f3&gt;omegat.prefs&lt;/f3&gt; 文件（可通过&lt;m4&gt;&lt;g5&gt;选项&lt;/g5&gt;&lt;g6&gt; 访问配置文件夹菜单&lt;/g6&gt;&lt;/m4&gt;）中将 &lt;e1&gt;project_files_show_on_load&lt;/e1&gt; 设置为 &lt;e2&gt;false&lt;/e2&gt; 来禁止在打开时显示此窗口。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;repositories&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T074415Z" creationid="hp" creationdate="20200418T074409Z">
@@ -2220,6 +2228,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;g2&gt;Project Files&lt;/g2&gt; Window displays the following information:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T032355Z" creationid="qinxun" creationdate="20200419T032355Z">
+        <seg>&lt;g2&gt;项目文件&lt;/g2&gt;窗口展示了以下信息：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T065321Z" creationid="hp" creationdate="20200418T065321Z">
@@ -2992,6 +3008,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T075249Z" creationid="hp" creationdate="20200418T075249Z">
         <seg>使用 &lt;a0&gt;OmegaT的&lt;/a0&gt; 的默认过滤器 （PDF输入），翻译， 创建译文文件（将会是纯文本文件），手动添加相关的格式和项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &lt;g0&gt;Ctrl+L&lt;/g0&gt; to open and &lt;k1&gt;Esc&lt;/k1&gt; to close it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T032326Z" creationid="qinxun" creationdate="20200419T032326Z">
+        <seg>可以按 &lt;g0&gt;Ctrl+L&lt;/g0&gt; 将其打开，按 &lt;k1&gt;Esc&lt;/k1&gt; 将其关闭。</seg>
       </tuv>
     </tu>
     <tu>
