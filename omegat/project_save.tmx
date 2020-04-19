@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Ignore file context when identifying segments with alternate translations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121417Z" creationid="DSS" creationdate="20200419T121417Z">
+        <seg>识别有可选翻译的片段时忽略文件上下文(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114452Z" creationid="DSS" creationdate="20200419T114452Z">
@@ -979,6 +987,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T094951Z" creationid="yangzy" creationdate="20200419T093910Z">
         <seg>添加术语表条目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add Pattern</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121419Z" creationid="DSS" creationdate="20200419T121419Z">
+        <seg>增加模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -2958,6 +2974,22 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit Filter Patterns</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121350Z" creationid="DSS" creationdate="20200419T121350Z">
+        <seg>编辑过滤器模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit Pattern</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121421Z" creationid="DSS" creationdate="20200419T121421Z">
+        <seg>编辑模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Editor</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134417Z" creationid="Liliu" creationdate="20200418T134417Z">
@@ -3430,6 +3462,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filename Variables:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121434Z" creationid="DSS" creationdate="20200419T121434Z">
+        <seg>文件名变量：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files must be deleted first by the project manager, and then locally.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120913Z" creationid="DSS" creationdate="20200418T120913Z">
@@ -3815,6 +3855,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HTML and XHTML</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121447Z" creationid="DSS" creationdate="20200419T121447Z">
+        <seg>HTML 和 XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120036Z" creationid="DSS" creationdate="20200419T115646Z">
@@ -3947,6 +3995,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110054Z" creationid="yangzy" creationdate="20200419T110054Z">
         <seg>如果禁用了&lt;l0&gt;自动在词典中查找&lt;/l0&gt;，则此功能可让您在词典中查找所选单词。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121559Z" creationid="DSS" creationdate="20200419T121502Z">
+        <seg>如果 HTML 文件中有编码声明，则将使用并忽略您在对话框中设置的值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4211,8 +4267,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If the filter has any options, you may change them by clicking Options.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121335Z" creationid="DSS" creationdate="20200419T121335Z">
-        <seg>如果过滤器有任何可选项，你可以通过点击选项按钮来更改。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121631Z" creationid="DSS" creationdate="20200419T121335Z">
+        <seg>如果过滤器有任何可选项，您可以通过点击选项按钮来更改。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4910,6 +4966,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101712Z" creationid="yangzy" creationdate="20200419T101712Z">
         <seg>无效的 API 密钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invalid HTML file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121445Z" creationid="DSS" creationdate="20200419T121445Z">
+        <seg>无效的 HTML 文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -6171,6 +6235,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: Source File Encoding setting affects only the HTML files that have no encoding declaration inside.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121459Z" creationid="DSS" creationdate="20200419T121459Z">
+        <seg>注：原文文件编码设置只会影响内部没有编码声明的 HTML 文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: filenames (in first column) can be sorted alphabetically by clicking in the header.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200419T033228Z" creationid="qinxun" creationdate="20200419T033205Z">
@@ -6271,6 +6343,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094038Z" creationid="yangzy" creationdate="20200419T094038Z">
         <seg>片段有备注时通知我</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>O&amp;ptions...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121355Z" creationid="DSS" creationdate="20200419T121355Z">
+        <seg>选项(&amp;P)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7010,6 +7090,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Preserve spaces &amp;for all tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121415Z" creationid="DSS" creationdate="20200419T121415Z">
+        <seg>为所有标签保留空格(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press 'Cancel' to leave the project unmodified and load it as a local
 project without team functionality.</seg>
       </tuv>
@@ -7167,6 +7255,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115929Z" creationid="DSS" creationdate="20200419T115929Z">
         <seg>项目专用文件过滤器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project autosaved on {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121440Z" creationid="DSS" creationdate="20200419T121440Z">
+        <seg>项目已自动保存到 {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7459,6 +7555,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove &amp;leading and trailing tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121358Z" creationid="DSS" creationdate="20200419T121358Z">
+        <seg>删除开头和末尾的标签(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove Script</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101832Z" creationid="yangzy" creationdate="20200419T101832Z">
@@ -7479,6 +7583,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110533Z" creationid="yangzy" creationdate="20200419T110057Z">
         <seg>移除译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove leading and trailing &amp;whitespace in non-segmented projects</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121411Z" creationid="DSS" creationdate="20200419T121411Z">
+        <seg>删除非分割项目中开头和末尾的空白字符(&amp;W)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8469,10 +8581,26 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source File Encoding:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121427Z" creationid="DSS" creationdate="20200419T121427Z">
+        <seg>原文文件编码：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source Filename Pattern</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T112703Z" creationid="DSS" creationdate="20200419T112703Z">
         <seg>原文文件名模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Filename Pattern:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121423Z" creationid="DSS" creationdate="20200419T121423Z">
+        <seg>原文文件名模式：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10400,6 +10528,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Too big HTML file!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121442Z" creationid="DSS" creationdate="20200419T121442Z">
+        <seg>HTML 文件过大！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tools</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110357Z" creationid="yangzy" creationdate="20200419T110357Z">
@@ -10436,6 +10572,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T112711Z" creationid="DSS" creationdate="20200419T112711Z">
         <seg>译文文件编码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated File Encoding:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121430Z" creationid="DSS" creationdate="20200419T121430Z">
+        <seg>译文文件编码：</seg>
       </tuv>
     </tu>
     <tu>
