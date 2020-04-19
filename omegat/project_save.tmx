@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Defaults</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115908Z" creationid="DSS" creationdate="20200419T115908Z">
+        <seg>默认(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Do not check printf-variables</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T093630Z" creationid="yangzy" creationdate="20200419T093608Z">
@@ -298,6 +306,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100157Z" creationid="yangzy" creationdate="20200419T100157Z">
         <seg>小写(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Make the file filter settings project specific</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115936Z" creationid="DSS" creationdate="20200419T115936Z">
+        <seg>将文件过滤器设置设为项目专用(&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3214,6 +3230,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception occurred:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115839Z" creationid="DSS" creationdate="20200419T115839Z">
+        <seg>出现异常：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Executing script {0} (event {1})</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T102049Z" creationid="Liliu" creationdate="20200419T102049Z">
@@ -3306,6 +3330,22 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095437Z" creationid="Liliu" creationdate="20200419T095437Z">
         <seg>文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File &amp;Format</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115916Z" creationid="DSS" creationdate="20200419T115916Z">
+        <seg>文件格式(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File Filters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115925Z" creationid="DSS" creationdate="20200419T115925Z">
+        <seg>文件过滤器</seg>
       </tuv>
     </tu>
     <tu>
@@ -3729,8 +3769,8 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       <tuv lang="en">
         <seg>HTMLParser 1.6 by Somik Raha, Derrick Oswald and others (LGPL License)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115709Z" creationid="DSS" creationdate="20200419T115646Z">
-        <seg>HTMLParser 1.6 作者是 Somik Raha, Derrick Oswald 和其他人(LGPL 许可)</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120036Z" creationid="DSS" creationdate="20200419T115646Z">
+        <seg>HTMLParser 1.6 作者是 Somik Raha, Derrick Oswald 等人(LGPL 许可)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4999,6 +5039,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T095832Z" creationid="yangzy" creationdate="20200419T095832Z">
         <seg>Java: {0} 版本.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Jmyspell (LGPL License)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120050Z" creationid="DSS" creationdate="20200419T120050Z">
+        <seg>Jmyspell (LGPL 许可)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7003,6 +7051,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project Specific File Filters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115929Z" creationid="DSS" creationdate="20200419T115929Z">
+        <seg>项目专用文件过滤器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project closed</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094927Z" creationid="yangzy" creationdate="20200419T094927Z">
@@ -7581,6 +7637,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SVNKit (TMate License)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120102Z" creationid="DSS" creationdate="20200419T120102Z">
+        <seg>SVNKit (TMate 许可)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110143Z" creationid="yangzy" creationdate="20200419T110143Z">
@@ -7969,6 +8033,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110055Z" creationid="yangzy" creationdate="20200419T110055Z">
         <seg>选择显示在模糊匹配窗格中的上一个、下一个或第 N 个模糊匹配来将其替换或插入到片段中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sequence Library (Sequence Library License)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120207Z" creationid="DSS" creationdate="20200419T120207Z">
+        <seg>Sequence Library (Sequence Library 许可)</seg>
       </tuv>
     </tu>
     <tu>
