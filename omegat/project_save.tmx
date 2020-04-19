@@ -1102,6 +1102,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DeepL Api key not available.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101340Z" creationid="yangzy" creationdate="20200419T101340Z">
+        <seg>DeepL Api 密钥不可用。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Defines the project-specific external search resources.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T144731Z" creationid="hp" creationdate="20200418T051657Z">
@@ -1370,6 +1378,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T041608Z" creationid="hp" creationdate="20200418T041608Z">
         <seg>启用语句级别分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ensure the URL is correct.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101248Z" creationid="yangzy" creationdate="20200419T101200Z">
+        <seg>请确保 URL 地址正确。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1771,6 +1787,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101053Z" creationid="yangzy" creationdate="20200419T101053Z">
         <seg>转到句段来源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Google Api key not available.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101223Z" creationid="yangzy" creationdate="20200419T101205Z">
+        <seg>Google Api 密钥不可用。。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2931,6 +2955,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Model Id:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101403Z" creationid="yangzy" creationdate="20200419T101403Z">
+        <seg>模型 Id：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modifying the segmentation rules may have the effect of modifying the number of segments/unique segments.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T034519Z" creationid="qinxun" creationdate="20200419T034519Z">
@@ -3504,6 +3536,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Premium Edition</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101202Z" creationid="yangzy" creationdate="20200419T101202Z">
+        <seg>高级版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Press &lt;k0&gt;Ctrl+M&lt;/k0&gt; to replace the translation of the current segment with the suggested translation.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T053254Z" creationid="Liliu" creationdate="20200419T053228Z">
@@ -3868,6 +3908,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T151100Z" creationid="hp" creationdate="20200418T075336Z">
         <seg>请参阅 &lt;u0&gt;指南 - 用 Iceni Infix 和 OmegaT 翻译 PDF 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See OmegaT manual for instructions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101217Z" creationid="yangzy" creationdate="20200419T101217Z">
+        <seg>有关说明，请参阅 OmegaT 手册。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4614,8 +4662,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The server is not a valid Apertium server.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101134Z" creationid="yangzy" creationdate="20200419T101134Z">
-        <seg>此服务器不是有效的 Apertium 服务器。请确保网址正确。</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101238Z" creationid="yangzy" creationdate="20200419T101134Z">
+        <seg>此服务器不是有效的 Apertium 服务器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5351,16 +5399,16 @@ configuration folder cannot be reliably determined.</seg>
       <tuv lang="en">
         <seg>URL:</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T100145Z" creationid="yangzy" creationdate="20200419T100145Z">
-        <seg>网址：</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101427Z" creationid="yangzy" creationdate="20200419T100145Z">
+        <seg>URL 地址：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Unable to connect to server.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101129Z" creationid="yangzy" creationdate="20200419T101129Z">
-        <seg>无法连接到服务器。请确保服务器网址正确。</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101147Z" creationid="yangzy" creationdate="20200419T101129Z">
+        <seg>无法连接到服务器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5481,6 +5529,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T092842Z" creationid="yangzy" creationdate="20200419T092842Z">
         <seg>用户：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Username or API Key:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101347Z" creationid="yangzy" creationdate="20200419T101347Z">
+        <seg>用户名或 API 密钥：</seg>
       </tuv>
     </tu>
     <tu>
