@@ -16,8 +16,8 @@
       <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; tags in RTL segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070322Z" creationid="hp" creationdate="20200418T070322Z">
-        <seg>从右向左片段中的 标签</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T030342Z" creationid="hp" creationdate="20200418T070322Z">
+        <seg>从右向左句段中的 &lt;a0&gt;OmegaT&lt;/a0&gt; 标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -1370,8 +1370,8 @@
       <tuv lang="en">
         <seg>Justification of source and target segments depends upon the project languages.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T064752Z" creationid="hp" creationdate="20200418T064752Z">
-        <seg>原文与译文片段的对齐方式取决于项目的语言。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T030252Z" creationid="hp" creationdate="20200418T064752Z">
+        <seg>原文与译文句段的对齐方式取决于项目的语言。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1466,8 +1466,8 @@
       <tuv lang="en">
         <seg>Mixing RTL and LTR strings in segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065740Z" creationid="hp" creationdate="20200418T065740Z">
-        <seg>在片段中混合从右向左和从左向右字符串</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T030309Z" creationid="hp" creationdate="20200418T065740Z">
+        <seg>在句段中混合从右向左和从左向右字符串</seg>
       </tuv>
     </tu>
     <tu>
