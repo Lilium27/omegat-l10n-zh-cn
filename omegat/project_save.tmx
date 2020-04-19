@@ -503,6 +503,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>1 conflict</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114707Z" creationid="Liliu" creationdate="20200419T114707Z">
+        <seg>1 处冲突</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1 segment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114658Z" creationid="Liliu" creationdate="20200419T114658Z">
+        <seg>1 个句段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>103/114</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T112121Z" creationid="yangzy" creationdate="20200419T112121Z">
@@ -1543,6 +1559,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Change date</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114817Z" creationid="Liliu" creationdate="20200419T114817Z">
+        <seg>变更日期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Changer</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114821Z" creationid="Liliu" creationdate="20200419T114821Z">
+        <seg>变更者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Changes the case of the highlighted text in the target segment to the selected option (Lower case, Upper case, Title case or Sentence case).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110055Z" creationid="yangzy" creationdate="20200419T110055Z">
@@ -1881,6 +1913,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Conflict resolution</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114734Z" creationid="Liliu" creationdate="20200419T114734Z">
+        <seg>解决冲突</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Conflict {0} of {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114740Z" creationid="Liliu" creationdate="20200419T114740Z">
+        <seg>冲突 {0} / {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Connect to custom server instead of apertium.org</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101127Z" creationid="yangzy" creationdate="20200419T101127Z">
@@ -2163,6 +2211,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creation date</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114822Z" creationid="Liliu" creationdate="20200419T114822Z">
+        <seg>创建日期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creator</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114823Z" creationid="Liliu" creationdate="20200419T114823Z">
+        <seg>创建者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom server URL</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101128Z" creationid="yangzy" creationdate="20200419T101128Z">
@@ -2219,6 +2283,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Deleted</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114741Z" creationid="Liliu" creationdate="20200419T114741Z">
+        <seg>已删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Deletes the translation and set the segment as untranslated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110534Z" creationid="yangzy" creationdate="20200419T110057Z">
@@ -2247,6 +2319,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134519Z" creationid="Liliu" creationdate="20200418T134519Z">
         <seg>根据首选的编辑行为，未译句段的编辑区可能为空、包含原文文本或包含与此待译字符串最相似的字符串译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Detail View</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114745Z" creationid="Liliu" creationdate="20200419T114745Z">
+        <seg>详情视图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Details unavailable</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114711Z" creationid="Liliu" creationdate="20200419T114711Z">
+        <seg>详情不可用</seg>
       </tuv>
     </tu>
     <tu>
@@ -2519,6 +2607,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094056Z" creationid="yangzy" creationdate="20200419T094056Z">
         <seg>停靠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Done</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114731Z" creationid="Liliu" creationdate="20200419T114731Z">
+        <seg>已完成</seg>
       </tuv>
     </tu>
     <tu>
@@ -4497,6 +4593,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Is default translation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114855Z" creationid="Liliu" creationdate="20200419T114855Z">
+        <seg>是否默认译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It also contains installation instructions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200419T031854Z" creationid="qinxun" creationdate="20200419T025018Z">
@@ -4846,6 +4950,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113745Z" creationid="DSS" creationdate="20200419T113745Z">
         <seg>链接(&amp;URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>List View</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114744Z" creationid="Liliu" creationdate="20200419T114744Z">
+        <seg>列表视图</seg>
       </tuv>
     </tu>
     <tu>
@@ -5418,6 +5530,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114910Z" creationid="Liliu" creationdate="20200419T114910Z">
+        <seg>下一个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Next Note</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110121Z" creationid="yangzy" creationdate="20200419T110121Z">
@@ -5446,6 +5566,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110113Z" creationid="yangzy" creationdate="20200419T110113Z">
         <seg>下一个未译片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next →</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114755Z" creationid="Liliu" creationdate="20200419T114755Z">
+        <seg>下一个 →</seg>
       </tuv>
     </tu>
     <tu>
@@ -5542,6 +5670,22 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050108Z" creationid="hp" creationdate="20200418T050108Z">
         <seg>不可见的格式信息（即不会在 OmegaT 编辑器中显示为标签的那些）在译文文档中会得已保留。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not present</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114743Z" creationid="Liliu" creationdate="20200419T114743Z">
+        <seg>不存在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114904Z" creationid="Liliu" creationdate="20200419T114904Z">
+        <seg>备注</seg>
       </tuv>
     </tu>
     <tu>
@@ -6336,6 +6480,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please resolve the conflicts by choosing a translation for each segment below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114648Z" creationid="Liliu" creationdate="20200419T114648Z">
+        <seg>请为以下各个句段选择翻译来解决冲突。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please select the dictionaries you want to install and press the Install button.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100150Z" creationid="yangzy" creationdate="20200419T100150Z">
@@ -6473,6 +6625,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Previous</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114915Z" creationid="Liliu" creationdate="20200419T114915Z">
+        <seg>上一个</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Previous Note</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110122Z" creationid="yangzy" creationdate="20200419T110122Z">
@@ -6501,6 +6661,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094958Z" creationid="yangzy" creationdate="20200419T094958Z">
         <seg>继续？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Processing...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114735Z" creationid="Liliu" creationdate="20200419T114735Z">
+        <seg>正在处理...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7695,6 +7863,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113712Z" creationid="Liliu" creationdate="20200419T113623Z">
         <seg>按字母顺序排列译文术语(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114906Z" creationid="Liliu" creationdate="20200419T114906Z">
+        <seg>原文</seg>
       </tuv>
     </tu>
     <tu>
@@ -9646,6 +9822,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114907Z" creationid="Liliu" creationdate="20200419T114907Z">
+        <seg>译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation memories may also contain reference translations: multinational legislation, such as that of the European Community, is a typical example.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071552Z" creationid="hp" creationdate="20200418T071552Z">
@@ -9866,6 +10050,30 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T115510Z" creationid="DSS" creationdate="20200418T112128Z">
         <seg>使用团队项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use all mine</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114713Z" creationid="Liliu" creationdate="20200419T114713Z">
+        <seg>全部用我的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use all original</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114720Z" creationid="Liliu" creationdate="20200419T114720Z">
+        <seg>全部用原来的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use all updated</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114725Z" creationid="Liliu" creationdate="20200419T114725Z">
+        <seg>全部用更新的</seg>
       </tuv>
     </tu>
     <tu>
@@ -11089,6 +11297,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{0} conflicts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114703Z" creationid="Liliu" creationdate="20200419T114703Z">
+        <seg>{0} 处冲突</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{0} loaded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101817Z" creationid="yangzy" creationdate="20200419T101817Z">
@@ -11097,10 +11313,26 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>{0} segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114653Z" creationid="Liliu" creationdate="20200419T114653Z">
+        <seg>{0} 个句段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>{1}, executed from '{2}'</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T095844Z" creationid="yangzy" creationdate="20200419T095844Z">
         <seg>{1}, 从 '{2}' 执行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>← Back</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114812Z" creationid="Liliu" creationdate="20200419T114751Z">
+        <seg>← 上一个</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
