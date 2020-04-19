@@ -3060,6 +3060,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The target text entered after that will be treated as an alternative translation of the source segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T053918Z" creationid="Liliu" creationdate="20200419T053918Z">
+        <seg>之后输入的译文将会被视为原文句段的替代译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The top match is 100%, because all words match.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T051845Z" creationid="Liliu" creationdate="20200419T051845Z">
@@ -3976,6 +3984,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T034405Z" creationid="DSS" creationdate="20200418T124158Z">
         <seg>您可以为每个新任务创建一个新项目，并且任何时候都可以往项目中添加新的原文文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can define one of the alternative - for instance the most probable among them - as default translation by selecting &lt;g1&gt;Edit → Use as Default Translation&lt;/g1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T054317Z" creationid="Liliu" creationdate="20200419T054317Z">
+        <seg>您可以选择 &lt;g1&gt;编辑 → 用作默认译文&lt;/g1&gt; 定义替代译文中的某一条——例如它们之中最为接近的——作为默认翻译。</seg>
       </tuv>
     </tu>
     <tu>
