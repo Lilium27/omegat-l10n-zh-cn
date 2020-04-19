@@ -8933,6 +8933,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segment marker background</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131134Z" creationid="Liliu" creationdate="20200419T131134Z">
+        <seg>句段标记背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment marker text</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131127Z" creationid="Liliu" creationdate="20200419T131127Z">
@@ -9481,6 +9489,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110123Z" creationid="yangzy" creationdate="20200419T110123Z">
         <seg>所选匹配的来源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131138Z" creationid="Liliu" creationdate="20200419T131138Z">
+        <seg>原文句段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source segments text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131145Z" creationid="Liliu" creationdate="20200419T131145Z">
+        <seg>原文句段文本</seg>
       </tuv>
     </tu>
     <tu>
