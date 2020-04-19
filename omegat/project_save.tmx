@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow to save password as plain text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T104447Z" creationid="Liliu" creationdate="20200419T104436Z">
+        <seg>允许将密码保存为纯文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow to save password locally as plain text</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T103637Z" creationid="Liliu" creationdate="20200419T103637Z">
@@ -1148,6 +1156,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101127Z" creationid="yangzy" creationdate="20200419T101127Z">
         <seg>连接到自定义服务器而非 apertium.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Connection available, the project is in team project mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T104457Z" creationid="Liliu" creationdate="20200419T104457Z">
+        <seg>连接可用，项目处于团队项目模式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3417,6 +3433,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No connection available, the project is in offline mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T104441Z" creationid="Liliu" creationdate="20200419T104441Z">
+        <seg>没有可用连接，项目处于离线模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No need to save project, because no changes were made</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094927Z" creationid="yangzy" creationdate="20200419T094927Z">
@@ -4178,6 +4202,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T042905Z" creationid="Liliu" creationdate="20200419T042905Z">
         <seg>将 TMX 放入 /tm/enforce 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Read-only</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T104412Z" creationid="Liliu" creationdate="20200419T104412Z">
+        <seg>只读</seg>
       </tuv>
     </tu>
     <tu>
@@ -5474,6 +5506,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100022Z" creationid="yangzy" creationdate="20200419T100022Z">
         <seg>无法使用指定的词典文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The specified project is an OmegaT 3.6-style team project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T104844Z" creationid="Liliu" creationdate="20200419T104844Z">
+        <seg>OmegaT 已探测到 3.6 风格的团队项目。</seg>
       </tuv>
     </tu>
     <tu>
