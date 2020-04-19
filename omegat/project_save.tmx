@@ -983,6 +983,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the&lt;e0&gt; tm/auto&lt;/e0&gt; folder and avoid confirming a lot of&lt;e1&gt; [fuzzy]&lt;/e1&gt; cases.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T041428Z" creationid="Liliu" creationdate="20200419T041428Z">
+        <seg>如果从一开始就非常确定某些翻译记忆库中的翻译是完全正确的，则可以将其放入 &lt;e0&gt; tm/auto&lt;/e0&gt; 文件夹，避免遇到多个 &lt;e1&gt; [模糊]&lt;/e1&gt; 情形而加以确认。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the Auto-propagation check box is not checked, the segments with alternative translations are left untranslated until the user has decided which translation is to be used.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T030233Z" creationid="hp" creationdate="20200418T041741Z">
@@ -1708,6 +1716,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T034610Z" creationid="Liliu" creationdate="20200419T034610Z">
         <seg>注意其他 CAT 工具可以输出（也能输入）tmx 文件，通常全部支持三种格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note that the TMX files in the tm folder can be compressed with gzip.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T041225Z" creationid="Liliu" creationdate="20200419T041225Z">
+        <seg>值得注意的是，tm 文件夹下的 TMX 文件可以压缩为 gzip。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2502,8 +2518,8 @@
       <tuv lang="en">
         <seg>The last segment with the identical source text will thus prevail (Note: of course it makes more sense to avoid this to happen in the first place).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T041034Z" creationid="Liliu" creationdate="20200419T041034Z">
-        <seg>因此，具有相同原文的最后一个句段会胜出（注意：当然，首先避免发生这种情况更为恰当）。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T041115Z" creationid="Liliu" creationdate="20200419T041034Z">
+        <seg>因此，对于有着完全相同的原文文本的片段，会采用最后一个（注意：显然，先考虑避免出现这种情况会更有意义）。</seg>
       </tuv>
     </tu>
     <tu>
