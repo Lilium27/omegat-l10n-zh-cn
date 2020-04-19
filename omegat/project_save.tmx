@@ -344,8 +344,8 @@
       <tuv lang="en">
         <seg>Changing segmentation rules or file filters</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120917Z" creationid="DSS" creationdate="20200418T120917Z">
-        <seg>更改片段分割规则或文件过滤器</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T030552Z" creationid="DSS" creationdate="20200418T120917Z">
+        <seg>更改句段分割规则或文件过滤器</seg>
       </tuv>
     </tu>
     <tu>
@@ -1666,8 +1666,8 @@
       <tuv lang="en">
         <seg>OmegaT will present one segment at a time for you to translate.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123235Z" creationid="DSS" creationdate="20200418T123235Z">
-        <seg>OmegaT每次呈现一个片段供您翻译。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T030559Z" creationid="DSS" creationdate="20200418T123235Z">
+        <seg>OmegaT每次呈现一个句段供您翻译。</seg>
       </tuv>
     </tu>
     <tu>
