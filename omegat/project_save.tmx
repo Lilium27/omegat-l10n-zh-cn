@@ -350,6 +350,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Move Down</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122213Z" creationid="DSS" creationdate="20200419T122213Z">
+        <seg>下移(&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Name/ID:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122236Z" creationid="DSS" creationdate="20200419T122236Z">
+        <seg>姓名或 ID(&amp;N)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Never</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T112951Z" creationid="DSS" creationdate="20200419T112951Z">
@@ -534,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;value (of form input, including button, submit and reset)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122029Z" creationid="DSS" creationdate="20200419T122029Z">
+        <seg>&amp;value（表单的 input 控件，包括 button、submit input 和 reset input，的 value 属性）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>'{0}' menu selected</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T095858Z" creationid="yangzy" creationdate="20200419T095858Z">
@@ -643,6 +667,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T112116Z" creationid="yangzy" creationdate="20200419T112116Z">
         <seg>9319/16338</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;&amp;br&gt; (breaks)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122041Z" creationid="DSS" creationdate="20200419T122041Z">
+        <seg>&lt;&amp;br&gt;（断行）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1413,6 +1445,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Are you sure you want to remove the {0} set of segmentation rules?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122221Z" creationid="DSS" creationdate="20200419T122221Z">
+        <seg>您确定要删除{0}分割规则集吗?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As a result of this,
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
@@ -1639,6 +1679,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Break/Exception</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122109Z" creationid="DSS" creationdate="20200419T122109Z">
+        <seg>断句/例外</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134615Z" creationid="Liliu" creationdate="20200418T134615Z">
@@ -1731,6 +1779,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115814Z" creationid="DSS" creationdate="20200419T115814Z">
         <seg>无法将过滤器重置为默认模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Catalan</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122114Z" creationid="DSS" creationdate="20200419T122114Z">
+        <seg>加泰隆语（Catalan）</seg>
       </tuv>
     </tu>
     <tu>
@@ -1927,6 +1983,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Chinese</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122130Z" creationid="DSS" creationdate="20200419T122130Z">
+        <seg>汉语（Chinese）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Choose the one that provides the best results.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200419T030234Z" creationid="qinxun" creationdate="20200419T030234Z">
@@ -2094,6 +2158,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T102511Z" creationid="Liliu" creationdate="20200419T102356Z">
         <seg>无法提交，因为其他人更改了远程译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Compress whitespace in translated document</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122035Z" creationid="DSS" creationdate="20200419T122035Z">
+        <seg>在译文文档中压缩空白字符</seg>
       </tuv>
     </tu>
     <tu>
@@ -2468,6 +2540,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122116Z" creationid="DSS" creationdate="20200419T122116Z">
+        <seg>捷克语（Czech）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>D&amp;iagrams</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114708Z" creationid="DSS" creationdate="20200419T114708Z">
@@ -2480,6 +2560,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101340Z" creationid="yangzy" creationdate="20200419T101340Z">
         <seg>DeepL Api 密钥不可用。。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122132Z" creationid="DSS" creationdate="20200419T122132Z">
+        <seg>默认</seg>
       </tuv>
     </tu>
     <tu>
@@ -2982,6 +3070,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dutch</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122125Z" creationid="DSS" creationdate="20200419T122125Z">
+        <seg>荷兰语（Dutch）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ERROR: (declaring bean)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101816Z" creationid="yangzy" creationdate="20200419T101816Z">
@@ -3102,6 +3198,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122118Z" creationid="DSS" creationdate="20200419T122118Z">
+        <seg>英语（English）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ensure the URL is correct.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101248Z" creationid="yangzy" creationdate="20200419T101200Z">
@@ -3218,6 +3322,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112059Z" creationid="Liliu" creationdate="20200419T112059Z">
         <seg>将 {0} 作为远程项目文件检索时出错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error saving segmentation rules configuration:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122105Z" creationid="DSS" creationdate="20200419T122105Z">
+        <seg>保存分割规则配置时出错：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3354,6 +3466,22 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115839Z" creationid="DSS" creationdate="20200419T115839Z">
         <seg>出现异常：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exception while editing options:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122044Z" creationid="DSS" creationdate="20200419T122044Z">
+        <seg>编辑选项时发生异常：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exceptions occurred while loading segmentation rules:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122103Z" creationid="DSS" creationdate="20200419T122103Z">
+        <seg>载入分割规则时发生异常：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3534,6 +3662,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Finnish</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122121Z" creationid="DSS" creationdate="20200419T122121Z">
+        <seg>芬兰语（Finnish）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fixes are trivial operations and OmegaT assists troubleshooting with the related error message.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072313Z" creationid="hp" creationdate="20200418T072313Z">
@@ -3686,6 +3822,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>French</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122122Z" creationid="DSS" creationdate="20200419T122122Z">
+        <seg>法语（French）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Frequently validate tags (see Tag validation) and produce translated documents (see below and Menu) at regular intervals to make it easier to catch any problems that arise.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070350Z" creationid="hp" creationdate="20200418T070350Z">
@@ -3747,6 +3891,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123824Z" creationid="DSS" creationdate="20200418T123824Z">
         <seg>生成译文文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>German</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122117Z" creationid="DSS" creationdate="20200419T122117Z">
+        <seg>德语（German）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3895,10 +4047,26 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HHC file too big!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122048Z" creationid="DSS" creationdate="20200419T122048Z">
+        <seg>HHC 文件过大！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTML and XHTML</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121447Z" creationid="DSS" creationdate="20200419T121447Z">
         <seg>HTML 和 XHTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>HTML, XHTML, ODF and Infix segmentation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122136Z" creationid="DSS" creationdate="20200419T122136Z">
+        <seg>HTML、XHTML、ODF 和 Infix 分割</seg>
       </tuv>
     </tu>
     <tu>
@@ -4042,6 +4210,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
         <seg>If HTML file has the encoding declaration, it will be used disregarding any value you set in this dialog.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121559Z" creationid="DSS" creationdate="20200419T121502Z">
+        <seg>如果 HTML 文件中有编码声明，则将使用并忽略您在对话框中设置的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If a HHC or HHK file has an encoding declaration, it will be used regardless of any value you specify in this dialog.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122054Z" creationid="DSS" creationdate="20200419T122054Z">
         <seg>如果 HTML 文件中有编码声明，则将使用并忽略您在对话框中设置的值。</seg>
       </tuv>
     </tu>
@@ -5114,6 +5290,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is used to mark your translations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122229Z" creationid="DSS" creationdate="20200419T122229Z">
+        <seg>用作默认译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It may happen, that translation memories, available in the &lt;f0&gt;tm&lt;/f0&gt; subfolder, contain segments with identical source text, but differing targets.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T035834Z" creationid="Liliu" creationdate="20200419T035834Z">
@@ -5171,6 +5355,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Italian</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122123Z" creationid="DSS" creationdate="20200419T122123Z">
+        <seg>意大利语（Italian）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>JAR files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100140Z" creationid="yangzy" creationdate="20200419T100140Z">
@@ -5191,6 +5383,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120411Z" creationid="DSS" creationdate="20200419T120411Z">
         <seg>JSch (JSch 许可)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Japanese</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122124Z" creationid="DSS" creationdate="20200419T122124Z">
+        <seg>日语（Japanese）</seg>
       </tuv>
     </tu>
     <tu>
@@ -5247,6 +5447,22 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113645Z" creationid="DSS" creationdate="20200419T113645Z">
         <seg>“键=值”文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122106Z" creationid="DSS" creationdate="20200419T122106Z">
+        <seg>语言名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Language Pattern</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122108Z" creationid="DSS" creationdate="20200419T122108Z">
+        <seg>语言模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -5883,6 +6099,46 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Move &amp;First</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122206Z" creationid="DSS" creationdate="20200419T122206Z">
+        <seg>移到开头(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move &amp;Last</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122208Z" creationid="DSS" creationdate="20200419T122208Z">
+        <seg>移到末尾(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move &amp;Up</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122212Z" creationid="DSS" creationdate="20200419T122212Z">
+        <seg>上移(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move Do&amp;wn</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122211Z" creationid="DSS" creationdate="20200419T122211Z">
+        <seg>下移(&amp;W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Move U&amp;p</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122209Z" creationid="DSS" creationdate="20200419T122209Z">
+        <seg>上移(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moves to the next already translated segment, ignoring untranslated segments.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110115Z" creationid="yangzy" creationdate="20200419T110115Z">
@@ -5983,6 +6239,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101657Z" creationid="yangzy" creationdate="20200419T101657Z">
         <seg>神经机器翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New Language and Country</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122223Z" creationid="DSS" creationdate="20200419T122223Z">
+        <seg>新语言和国家</seg>
       </tuv>
     </tu>
     <tu>
@@ -6259,6 +6523,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: All of the segmentation rule sets with a matching Language Pattern are applied in the given order.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122146Z" creationid="DSS" creationdate="20200419T122146Z">
+        <seg>注：具有匹配语言模式的所有分割规则集按给定顺序应用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113630Z" creationid="DSS" creationdate="20200419T113630Z">
@@ -6271,6 +6543,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073349Z" creationid="hp" creationdate="20200418T073349Z">
         <seg>注意：如果在第 3 步是用命令行创建的项目，则该步骤已由程序完成。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: Source File Encoding setting affects only the HHC and HHK files that do not contain an encoding declaration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122052Z" creationid="DSS" creationdate="20200419T122052Z">
+        <seg>注：原文文件编码设置只会影响不包含编码声明的 HHC 和 HHK 文件。如果 HHC 和 HHK 文件中有编码声明，则将使用之，忽略你在此处设置的值。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7025,6 +7305,22 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pattern After</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122113Z" creationid="DSS" creationdate="20200419T122113Z">
+        <seg>后模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pattern Before</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122112Z" creationid="DSS" creationdate="20200419T122112Z">
+        <seg>前模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Perhaps it is already opened in another OmegaT instance</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T103219Z" creationid="Liliu" creationdate="20200419T102223Z">
@@ -7062,6 +7358,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T105442Z" creationid="Liliu" creationdate="20200419T105442Z">
         <seg>请输入用户名/密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter your name/ID.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122226Z" creationid="DSS" creationdate="20200419T122226Z">
+        <seg>请输入此集合的名称：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7118,6 +7422,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100025Z" creationid="yangzy" creationdate="20200419T100025Z">
         <seg>下载字典时发生错误。请再试一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122126Z" creationid="DSS" creationdate="20200419T122126Z">
+        <seg>波兰语（Polish）</seg>
       </tuv>
     </tu>
     <tu>
@@ -7311,6 +7623,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115929Z" creationid="DSS" creationdate="20200419T115929Z">
         <seg>项目专用文件过滤器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project Specific Segmentation Setup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122138Z" creationid="DSS" creationdate="20200419T122138Z">
+        <seg>项目专用分割设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -7619,6 +7939,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove HTML comments in translated document</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122037Z" creationid="DSS" creationdate="20200419T122037Z">
+        <seg>在译文文档中删除 HTML 注释</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove Script</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101832Z" creationid="yangzy" creationdate="20200419T101832Z">
@@ -7873,6 +8201,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070559Z" creationid="hp" creationdate="20200418T070559Z">
         <seg>内容流（文本元素）被设为从右向左</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Russian</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122127Z" creationid="DSS" creationdate="20200419T122127Z">
+        <seg>俄语（Russian）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8213,6 +8549,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segmentation Setup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122137Z" creationid="DSS" creationdate="20200419T122137Z">
+        <seg>分割设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segmentation rules are applied in the following order:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122215Z" creationid="DSS" creationdate="20200419T122215Z">
+        <seg>分割规则按以下顺序应用：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segmentation...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110845Z" creationid="hp" creationdate="20200418T050151Z">
@@ -8413,6 +8765,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sets of segmentation rules:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122214Z" creationid="DSS" creationdate="20200419T122214Z">
+        <seg>分割规则集：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Setting it to &lt;g1&gt;All segments&lt;/g1&gt; shows this information for all segments and &lt;g2&gt;None&lt;/g2&gt; turns this option off.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110208Z" creationid="yangzy" creationdate="20200419T110208Z">
@@ -8545,6 +8905,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114658Z" creationid="DSS" creationdate="20200419T114658Z">
         <seg>幻灯片版式(&amp;Y)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Slovak</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122129Z" creationid="DSS" creationdate="20200419T122129Z">
+        <seg>斯洛伐克语（Slovak）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8693,6 +9061,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spanish</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122120Z" creationid="DSS" creationdate="20200419T122120Z">
+        <seg>西班牙语（Spanish）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Special case: minimal sharing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074201Z" creationid="hp" creationdate="20200418T074201Z">
@@ -8763,6 +9139,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114739Z" creationid="DSS" creationdate="20200419T114739Z">
         <seg>在 Word 软回车处开始新段落(&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Start a new paragraph on:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122039Z" creationid="DSS" creationdate="20200419T122039Z">
+        <seg>在此处开始新段落：</seg>
       </tuv>
     </tu>
     <tu>
@@ -8867,6 +9251,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T145631Z" creationid="hp" creationdate="20200418T145631Z">
         <seg>这种修改对诸如 ODF 等文件是可行的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Swedish</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122128Z" creationid="DSS" creationdate="20200419T122128Z">
+        <seg>瑞典语（Swedish）</seg>
       </tuv>
     </tu>
     <tu>
@@ -9015,6 +9407,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Team</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122224Z" creationid="DSS" creationdate="20200419T122224Z">
+        <seg>团队</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Team Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122224Z" creationid="DSS" creationdate="20200419T122224Z">
+        <seg>团队选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Team synchronization</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T110918Z" creationid="Liliu" creationdate="20200419T110918Z">
@@ -9083,6 +9491,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T112942Z" creationid="DSS" creationdate="20200419T112942Z">
         <seg>纯文本过滤器选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text files segmentation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122134Z" creationid="DSS" creationdate="20200419T122134Z">
+        <seg>文本文件分割</seg>
       </tuv>
     </tu>
     <tu>
@@ -9875,6 +10291,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Then while translating from Canadian French your project will use all the rules defined for all the language chain in the correct order.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122202Z" creationid="DSS" creationdate="20200419T122202Z">
+        <seg>这样，当从加拿大法语进行翻译时，你的项目就会按照正确顺序应用整个语言链条上所定义的所有规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Then you need a translation in e.g. Chinese, but your translator does not understand Dutch; she, however, understands perfectly English.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072853Z" creationid="hp" creationdate="20200418T072853Z">
@@ -10358,6 +10782,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thus, for example, rules for Canadian French (FR-CA) should be higher than rules for French (FR.*), and higher than Default (.*) ones.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122158Z" creationid="DSS" creationdate="20200419T122158Z">
+        <seg>因此，例如，加拿大法语（FR-CA）的规则应当高于法语（FR.*）规则，而后者又高于默认（.*）规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To &lt;e0&gt;delete files&lt;/e0&gt;, use an SVN or Git client.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073800Z" creationid="hp" creationdate="20200418T073800Z">
@@ -10620,6 +11052,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123136Z" creationid="DSS" creationdate="20200418T123136Z">
         <seg>翻译文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translate the following attributes:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122009Z" creationid="DSS" creationdate="20200419T122009Z">
+        <seg>翻译以下属性：</seg>
       </tuv>
     </tu>
     <tu>
@@ -11418,6 +11858,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>XHTML Filter Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122057Z" creationid="DSS" creationdate="20200419T122057Z">
+        <seg>XHTML 过滤器选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>XLIFF Filter Options</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113804Z" creationid="DSS" creationdate="20200419T113804Z">
@@ -11787,6 +12235,22 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>h&amp;reflang (language of links)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122024Z" creationid="DSS" creationdate="20200419T122024Z">
+        <seg>hreflang（链接的语言）(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>href (URL of &amp;links)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122014Z" creationid="DSS" creationdate="20200419T122014Z">
+        <seg>href（链接的网址）(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://sourceforge.net/p/omegat/feature-requests/963/</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T112109Z" creationid="yangzy" creationdate="20200419T112109Z">
@@ -11879,6 +12343,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120609Z" creationid="DSS" creationdate="20200419T120609Z">
         <seg>juniversalchardet (GPL 许可)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>lan&amp;g (language attribute)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122021Z" creationid="DSS" creationdate="20200419T122021Z">
+        <seg>lang（语言属性）(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12131,6 +12603,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>src (URL of &amp;images)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122016Z" creationid="DSS" creationdate="20200419T122016Z">
+        <seg>src（图像的网址）(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>target</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T112007Z" creationid="yangzy" creationdate="20200419T112007Z">
@@ -12231,6 +12711,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120816Z" creationid="hp" creationdate="20200418T073729Z">
         <seg>使用 &lt;m0&gt; &lt;g1&gt;项目&lt;/g1&gt; &lt;g2&gt;提交原文文件&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>value (of button, &amp;submit and reset input)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122032Z" creationid="DSS" creationdate="20200419T122032Z">
+        <seg>value（button 控件，包括 &amp;submit input 和 reset input，的 value 属性）</seg>
       </tuv>
     </tu>
     <tu>
