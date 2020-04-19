@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -683,6 +683,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074415Z" creationid="hp" creationdate="20200418T074409Z">
         <seg>.repositories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;trans-unit&gt; &amp;resname attribute when available</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114256Z" creationid="DSS" creationdate="20200419T114137Z">
+        <seg>&lt;翻译单元&gt;资源名称属性（可用时）(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;trans-unit&gt; I&amp;D</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114006Z" creationid="DSS" creationdate="20200419T114006Z">
+        <seg>&lt;翻译单元&gt; I&amp;D</seg>
       </tuv>
     </tu>
     <tu>
@@ -6369,6 +6385,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Previous and &amp;next paragraphs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114001Z" creationid="DSS" creationdate="20200419T114001Z">
+        <seg>前后段落(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Proceed?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094958Z" creationid="yangzy" creationdate="20200419T094958Z">
@@ -9948,6 +9972,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070333Z" creationid="hp" creationdate="20200418T070333Z">
         <seg>当在从右向左和从左向右的语言间进行翻译时，要正确地读取原文中的标签并在译文中正确输入它们可能需要译者在从左向右和从右向左模式之间多次切换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When unavailable, the ID will be used as a fallback</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114208Z" creationid="DSS" creationdate="20200419T114208Z">
+        <seg>不可用时，ID 将用作备用</seg>
       </tuv>
     </tu>
     <tu>
