@@ -2918,8 +2918,8 @@
       <tuv lang="en">
         <seg>When enabled, all the formatting tags are removed from source segments.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T042039Z" creationid="hp" creationdate="20200418T042039Z">
-        <seg>启用后，将从原文片段中移除所有格式化标签。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T030203Z" creationid="hp" creationdate="20200418T042039Z">
+        <seg>启用后，将从原文句段中移除所有格式化标签。</seg>
       </tuv>
     </tu>
     <tu>
