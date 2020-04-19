@@ -985,8 +985,8 @@
       <tuv lang="en">
         <seg>Glossary file: {0}</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T092948Z" creationid="yangzy" creationdate="20200419T092835Z">
-        <seg>术语表文件：{0}</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093250Z" creationid="yangzy" creationdate="20200419T092835Z">
+        <seg>词汇表文件：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -2026,8 +2026,8 @@
       <tuv lang="en">
         <seg>OmegaT can also check for programming variables (printf-function variables) like '%s'.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T092846Z" creationid="yangzy" creationdate="20200419T092846Z">
-        <seg>OmegaT 还能检查如 %s 之类的程序变量（printf 函数变量）。请选择适当的行为。完整检查可能导致正常文本出现误报。</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093422Z" creationid="yangzy" creationdate="20200419T092846Z">
+        <seg>OmegaT 还能检查如 %s 之类的程序变量（printf 函数变量）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2239,6 +2239,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T092843Z" creationid="yangzy" creationdate="20200419T092843Z">
         <seg>密码：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please select which behaviour is appropriate.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093413Z" creationid="yangzy" creationdate="20200419T093350Z">
+        <seg>请选择适当的行为。式</seg>
       </tuv>
     </tu>
     <tu>
