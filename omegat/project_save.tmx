@@ -2772,6 +2772,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The matching percentage is roughly equivalent to taking the number of common words in the matched and the matching segment and dividing by the number of words in the longer of the two.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T051513Z" creationid="Liliu" creationdate="20200419T051513Z">
+        <seg>匹配度百分比大致上等于匹配和被匹配句段中的公共单词数除以二者中较长的单词数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T030503Z" creationid="DSS" creationdate="20200418T124504Z">
@@ -3432,6 +3440,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T115531Z" creationid="DSS" creationdate="20200418T112356Z">
         <seg>首次使用团队项目时，请按照项目经理所提供的流程进行操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To use the selected match in your translation, use &lt;g4&gt;Ctrl+R&lt;/g4&gt; to replace the target field with the match or use &lt;g5&gt;Ctrl+I &lt;/g5&gt; to insert it at the cursor position.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T051429Z" creationid="Liliu" creationdate="20200419T051429Z">
+        <seg>要在翻译中使用选择的匹配项，用 &lt;g4&gt;Ctrl+R&lt;/g4&gt; 将译文区替换为匹配内容，或者用 &lt;g5&gt;Ctrl+I &lt;/g5&gt; 在光标处插入匹配内。</seg>
       </tuv>
     </tu>
     <tu>
