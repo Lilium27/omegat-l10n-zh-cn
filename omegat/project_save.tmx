@@ -1176,6 +1176,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Convert Old Team Project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T105148Z" creationid="Liliu" creationdate="20200419T105148Z">
+        <seg>转换旧团队项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copy</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101107Z" creationid="yangzy" creationdate="20200419T101107Z">
@@ -2908,6 +2916,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T035834Z" creationid="Liliu" creationdate="20200419T035834Z">
         <seg>可能会出现这种情况，&lt;f0&gt;tm&lt;/f0&gt; 子文件夹中的翻译记忆库包含与原文相同的句段，但译文不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It needs to be converted to a new team project, but this cannot be done in console mode.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T104919Z" creationid="Liliu" creationdate="20200419T104919Z">
+        <seg>它需要转换为新的团队项目，但这无法在控制台模式下完成。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5382,6 +5398,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project will be loaded as a local project without team functionality.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T104953Z" creationid="Liliu" creationdate="20200419T104953Z">
+        <seg>此项目将作为没有团队功能的本地项目加载。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The quality of formatting of the translated file will depend on the quality of the round-trip conversion.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075501Z" creationid="hp" creationdate="20200418T075501Z">
@@ -5512,8 +5536,8 @@ instead.</seg>
       <tuv lang="en">
         <seg>The specified project is an OmegaT 3.6-style team project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T104844Z" creationid="Liliu" creationdate="20200419T104844Z">
-        <seg>OmegaT 已探测到 3.6 风格的团队项目。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T104906Z" creationid="Liliu" creationdate="20200419T104844Z">
+        <seg>指定项目是 OmegaT 3.6 风格的团队项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6069,6 +6093,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T135614Z" creationid="Liliu" creationdate="20200418T135509Z">
         <seg>如果要返回标准模式“&lt;g2&gt;光标解锁&lt;/g2&gt;”，再次按下 &lt;k3&gt;F2&lt;/k3&gt; 键。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To convert it into a new team project, open it in the OmegaT GUI.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T105145Z" creationid="Liliu" creationdate="20200419T105145Z">
+        <seg>要将其转换为新的团队项目，请在 OmegaT GUI中打开它。</seg>
       </tuv>
     </tu>
     <tu>
