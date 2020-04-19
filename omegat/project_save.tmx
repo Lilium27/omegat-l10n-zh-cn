@@ -96,8 +96,8 @@
       <tuv lang="en">
         <seg>&lt;r0&gt;Note:&lt;/r0&gt; On an Apple Mac, use the &lt;k1&gt;Command&lt;/k1&gt; key instead of the &lt;k2&gt;Control&lt;/k2&gt; key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T034908Z" creationid="DSS" creationdate="20200418T122403Z">
-        <seg>&lt;r0&gt;注:&lt;/r0&gt; 在 Apple Mac 上，要使用 &lt;k1&gt;Command&lt;/k1&gt; 键代替 &lt;k2&gt;Control&lt;/k2&gt; 键</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T041749Z" creationid="DSS" creationdate="20200418T122403Z">
+        <seg>&lt;r0&gt;注：&lt;/r0&gt; 在 Apple Mac 上，要使用 &lt;k1&gt;Command&lt;/k1&gt; 键代替 &lt;k2&gt;Control&lt;/k2&gt; 键</seg>
       </tuv>
     </tu>
     <tu>
@@ -1690,8 +1690,8 @@
       <tuv lang="en">
         <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072036Z" creationid="hp" creationdate="20200418T072036Z">
-        <seg>请注意，在打开项目时会解析 /tm 仓库中的所有 tmx 文件，因此将手头各种翻译记忆库全放进此文件夹可能会不必要地拖慢 OmegaT。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T041903Z" creationid="hp" creationdate="20200418T072036Z">
+        <seg>注意在打开项目时，会解析 /tm 仓库中的所有 tmx 文件，因此将手头各种翻译记忆库全放进此文件夹可能会不必要地拖慢 OmegaT。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1714,8 +1714,8 @@
       <tuv lang="en">
         <seg>Note that only two files are modified by OmegaT during translation:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073807Z" creationid="hp" creationdate="20200418T073807Z">
-        <seg>请注意，在翻译期间，OmegaT 只修改两个文件：</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T041826Z" creationid="hp" creationdate="20200418T073807Z">
+        <seg>注意在翻译期间内，OmegaT 只修改两个文件：</seg>
       </tuv>
     </tu>
     <tu>
