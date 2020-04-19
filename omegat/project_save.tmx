@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3230,8 +3230,8 @@
       <tuv lang="en">
         <seg>When working on a team project, this window allows you to define the mapping between remote folders and local folders (see examples &lt;l0&gt;here&lt;/l0&gt;).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051529Z" creationid="hp" creationdate="20200418T051453Z">
-        <seg>在处理团队项目时，此窗口允许您定义远程文件夹和本地文件夹之间的映射（示例参见.</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T034152Z" creationid="hp" creationdate="20200418T051453Z">
+        <seg>在处理团队项目时，此窗口允许您定义远程文件夹和本地文件夹之间的映射（示例参见 &lt;l0&gt;这里&lt;/l0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
