@@ -1183,6 +1183,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have TransTips option activated (&lt;g0&gt;Options → TransTips&lt;/g0&gt;), you can right click on the highlighted word in the source segment to open a pop-up menu with suggested translation, as offered by your glossary.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052730Z" creationid="Liliu" creationdate="20200419T052730Z">
+        <seg>如果您激活了翻译提示（&lt;g0&gt;选项 → 翻译提示&lt;/g0&gt;），则可以在原文句段内高亮标记的单词上单击右键，打开带有建议翻译的弹出菜单，建议翻译由词汇表提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T034040Z" creationid="hp" creationdate="20200418T075437Z">
@@ -2375,6 +2383,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052412Z" creationid="qinxun" creationdate="20200419T030559Z">
         <seg>选择第一个句段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selecting one of them will insert it at the current cursor position into the target segment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052747Z" creationid="Liliu" creationdate="20200419T052747Z">
+        <seg>选择其中之一会将其插入到译文片段中的当前光标位置处。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3872,6 +3888,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200419T034858Z" creationid="qinxun" creationdate="20200419T034858Z">
         <seg>还可以单击&lt;g3&gt;“从 MediaWiki 导入”&lt;/g3&gt;按钮并提供相应的网址，添加用 MediaWiki 编写的网页作为原文文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also highlight your preferred alternative in the glossary pane and insert it into the target by right clicking on the selection.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052802Z" creationid="Liliu" creationdate="20200419T052802Z">
+        <seg>您还可以在词汇表窗格中高亮标记想要使用的条目并通过在选区上右键点击来将其插入到译文中。</seg>
       </tuv>
     </tu>
     <tu>
