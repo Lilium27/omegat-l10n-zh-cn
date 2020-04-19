@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add Glossary Entry</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093910Z" creationid="yangzy" creationdate="20200419T093910Z">
+        <seg>添加词汇表条目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add patterns using wildcards (Apache Ant style): *, ?, **</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T074301Z" creationid="hp" creationdate="20200418T074301Z">
@@ -302,6 +310,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allow translated tags to be in a di&amp;fferent order</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093738Z" creationid="yangzy" creationdate="20200419T093738Z">
+        <seg>允许在译文中改变标签顺序(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094017Z" creationid="yangzy" creationdate="20200419T094017Z">
+        <seg>允许查看、添加、删除或编辑活动片段中的备注。备注就是关于这一组原文与译文的注释。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An OmegaT project is a folder containing files and subfolders.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T144237Z" creationid="Liliu" creationdate="20200418T144237Z">
@@ -386,6 +410,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T045322Z" creationid="Liliu" creationdate="20200419T045322Z">
         <seg>随着翻译的进行，在每次翻译会话开始和结束时，此子文件夹中会逐步添加此文件的备份（扩展名为 bak）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bad regular expression</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093736Z" creationid="yangzy" creationdate="20200419T093736Z">
+        <seg>错误的正则表达式</seg>
       </tuv>
     </tu>
     <tu>
@@ -590,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Count &amp;protected text and custom tags in statistics</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093743Z" creationid="yangzy" creationdate="20200419T093743Z">
+        <seg>在统计数据中计入受保护文本和自定义标签(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T072019Z" creationid="hp" creationdate="20200418T072019Z">
@@ -710,6 +750,46 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093959Z" creationid="yangzy" creationdate="20200419T093959Z">
+        <seg>显示出现于原文片段中词典条目。词典条目位于 /dictionary/ 目录下的词典文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093800Z" creationid="yangzy" creationdate="20200419T093800Z">
+        <seg>显示出现于原文片段中词典条目。词典条目位于 /dictionary/ 目录下的词典文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the translation memories segments that match the source segment.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093744Z" creationid="yangzy" creationdate="20200419T093744Z">
+        <seg>允许翻译空原文片段(&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094008Z" creationid="yangzy" creationdate="20200419T094008Z">
+        <seg>如果你在 首选项 &gt; 机器翻译 中选定的机器翻译服务可用，则显示此服务对原文片段的翻译结果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do not allow creating translated documents with tag &amp;issues</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093742Z" creationid="yangzy" creationdate="20200419T093742Z">
+        <seg>不允许创建含标签问题的译文文档(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not hesitate to post in the language you feel the most familiar with.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T071430Z" creationid="hp" creationdate="20200418T071430Z">
@@ -778,6 +858,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T041608Z" creationid="hp" creationdate="20200418T041608Z">
         <seg>启用语句级别分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Entries from the writeable glossary are in bold.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093857Z" creationid="yangzy" creationdate="20200419T093857Z">
+        <seg>来自可写词汇表的条目会以粗体显示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1624,6 +1712,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Selection</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093911Z" creationid="yangzy" creationdate="20200419T093911Z">
+        <seg>插入所选内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing and running &lt;a0&gt;OmegaT&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200418T125338Z" creationid="DSS" creationdate="20200418T125338Z">
@@ -1800,6 +1896,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Machine Translation Options</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094012Z" creationid="yangzy" creationdate="20200419T094012Z">
+        <seg>机器翻译选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Main Window - counters</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T134705Z" creationid="Liliu" creationdate="20200418T134705Z">
@@ -1844,6 +1948,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T074216Z" creationid="hp" creationdate="20200418T074216Z">
         <seg>映射参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093749Z" creationid="yangzy" creationdate="20200419T093749Z">
+        <seg>显示与原文片段匹配的翻译记忆片段。匹配结果可来自当前翻译或放在 /tm/ 文件夹中的 TMX 文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2032,6 +2144,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notify Me When a Segment Has Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094000Z" creationid="yangzy" creationdate="20200419T094000Z">
+        <seg>片段有词典条目时通知我</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093755Z" creationid="yangzy" creationdate="20200419T093755Z">
+        <seg>片段有模糊匹配时通知我</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me When a Segment Has Glossary Hits</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093912Z" creationid="yangzy" creationdate="20200419T093912Z">
+        <seg>片段有词汇表命中时通知我</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Of course, pressing &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; will have no effect, if there is no match #5.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T054504Z" creationid="Liliu" creationdate="20200419T051132Z">
@@ -2199,6 +2335,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T031624Z" creationid="qinxun" creationdate="20200419T031624Z">
         <seg>在创建翻译记忆库时，只有每一行上的 &lt;g0&gt;Keep&lt;/g0&gt;  框中打上对勾才能被添加到翻译记忆中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Writable Glossary File</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093915Z" creationid="yangzy" creationdate="20200419T093915Z">
+        <seg>打开可写词汇表文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -2391,6 +2535,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T042905Z" creationid="Liliu" creationdate="20200419T042905Z">
         <seg>将 TMX 放入 /tm/enforce 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular expression for custom tags:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093733Z" creationid="yangzy" creationdate="20200419T093733Z">
+        <seg>表示自定义标签的正则表达式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regular expression for fragments that should be removed from translation:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093735Z" creationid="yangzy" creationdate="20200419T093735Z">
+        <seg>表示应从翻译中删除的文本片段的正则表达式：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3900,6 +4060,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Warning: Changing tag order may break the translated document!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093741Z" creationid="yangzy" creationdate="20200419T093741Z">
+        <seg>警告：改变标签顺序可能破坏译文文档！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When enabled, all the formatting tags are removed from source segments.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T030203Z" creationid="hp" creationdate="20200418T042039Z">
@@ -4120,6 +4288,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T034405Z" creationid="DSS" creationdate="20200418T124158Z">
         <seg>您可以为每个新任务创建一个新项目，并且任何时候都可以往项目中添加新的原文文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can create glossary entries with Create Glossary Entry in the Edit menu.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093826Z" creationid="yangzy" creationdate="20200419T093826Z">
+        <seg>可以用编辑菜单中的创建词汇表条目功能来创建词汇表条目。</seg>
       </tuv>
     </tu>
     <tu>
