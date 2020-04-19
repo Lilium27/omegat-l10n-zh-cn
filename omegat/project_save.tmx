@@ -13171,6 +13171,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>extensions:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T132426Z" creationid="Liliu" creationdate="20200419T132426Z">
+        <seg>扩展名：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>glossary</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110302Z" creationid="yangzy" creationdate="20200419T110302Z">
