@@ -4487,6 +4487,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Hyperlinks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131800Z" creationid="Liliu" creationdate="20200419T131800Z">
+        <seg>超链接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>IBM Watson not available.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101504Z" creationid="yangzy" creationdate="20200419T101504Z">
@@ -6327,6 +6335,46 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122717Z" creationid="DSS" creationdate="20200419T122717Z">
         <seg>匹配显示模板</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches Changed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131717Z" creationid="Liliu" creationdate="20200419T131717Z">
+        <seg>匹配中变化的部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches Deleted Active</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131950Z" creationid="Liliu" creationdate="20200419T131950Z">
+        <seg>运行匹配中删除的部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches Inserted Active</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131914Z" creationid="Liliu" creationdate="20200419T131755Z">
+        <seg>运行匹配中插入的部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches Inserted Inactive</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131929Z" creationid="Liliu" creationdate="20200419T131929Z">
+        <seg>不运行匹配中插入的部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Matches Unchanged</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131726Z" creationid="Liliu" creationdate="20200419T131726Z">
+        <seg>匹配中未变化的部分</seg>
       </tuv>
     </tu>
     <tu>
@@ -9693,6 +9741,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spellcheck</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131650Z" creationid="Liliu" creationdate="20200419T131650Z">
+        <seg>拼写检查</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spellchecker</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094935Z" creationid="yangzy" creationdate="20200419T094935Z">
@@ -10107,6 +10163,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122715Z" creationid="DSS" creationdate="20200419T122715Z">
         <seg>模板变量：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Terminology</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131651Z" creationid="Liliu" creationdate="20200419T131651Z">
+        <seg>术语</seg>
       </tuv>
     </tu>
     <tu>
