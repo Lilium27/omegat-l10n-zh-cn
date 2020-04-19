@@ -368,8 +368,8 @@
       <tuv lang="en">
         <seg>Check for possible Tag errors with &lt;k0&gt;Ctrl+T &lt;/k0&gt;and untranslated segments with &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072618Z" creationid="hp" creationdate="20200418T072618Z">
-        <seg>使用 &lt;k0&gt;Ctrl+T &lt;/k0&gt;检查可能的标签错误；使用 &lt;k1&gt;Ctrl+U&lt;/k1&gt;.检查未翻译片段。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T030450Z" creationid="hp" creationdate="20200418T072618Z">
+        <seg>使用 &lt;k0&gt;Ctrl+T &lt;/k0&gt;检查可能的标签错误；使用 &lt;k1&gt;Ctrl+U&lt;/k1&gt;.检查未翻译句段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2382,8 +2382,8 @@
       <tuv lang="en">
         <seg>The translator will be shown English translations for source segments in Dutch and use them to create the Chinese translation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072904Z" creationid="hp" creationdate="20200418T072904Z">
-        <seg>这样荷兰语的原文片段会以英文翻译的形式显示给译者，译者就能用它们来创建中文翻译。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T030500Z" creationid="hp" creationdate="20200418T072904Z">
+        <seg>这样荷兰语的原文句段会以英文翻译的形式显示给译者，译者就能用它们来创建中文翻译。</seg>
       </tuv>
     </tu>
     <tu>
