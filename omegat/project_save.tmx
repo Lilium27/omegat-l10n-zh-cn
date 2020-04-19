@@ -764,6 +764,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred while trying to run console process: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T102042Z" creationid="Liliu" creationdate="20200419T102042Z">
+        <seg>试图运行控制台进程时出错：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An ignored file or folder:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T144921Z" creationid="hp" creationdate="20200418T051844Z">
@@ -1734,6 +1742,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Executing script {0} (event {1})</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T102049Z" creationid="Liliu" creationdate="20200419T102049Z">
+        <seg>正在执行脚本 {0}（事件 {1}）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Existing source files can be modified, but the commit operation must be carried out before an automatic save and before the project is reloaded or closed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120901Z" creationid="DSS" creationdate="20200418T120901Z">
@@ -1979,6 +1995,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T094917Z" creationid="yangzy" creationdate="20200419T092835Z">
         <seg>术语表文件：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T102107Z" creationid="Liliu" creationdate="20200419T102107Z">
+        <seg>术语表文件夹 {0} 不存在。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2995,6 +3019,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Loading Project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T102010Z" creationid="Liliu" creationdate="20200419T102010Z">
+        <seg>正在加载项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Local installation path:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100145Z" creationid="yangzy" creationdate="20200419T100145Z">
@@ -3968,6 +4000,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project locked.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T102145Z" creationid="Liliu" creationdate="20200419T102145Z">
+        <seg>项目已锁定。g</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project parameters must be changed by the project manager.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120922Z" creationid="DSS" creationdate="20200418T120922Z">
@@ -4560,6 +4600,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T102053Z" creationid="Liliu" creationdate="20200419T102053Z">
+        <seg>原文文件夹 {0} 不存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Special case: minimal sharing</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074201Z" creationid="hp" creationdate="20200418T074201Z">
@@ -4740,6 +4788,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071254Z" creationid="hp" creationdate="20200418T071219Z">
         <seg>在项目中途对文件更改要格外小心 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T102058Z" creationid="Liliu" creationdate="20200419T102058Z">
+        <seg>译文文件夹 {0} 不存在。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5100,6 +5156,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project cannot be verified</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T102013Z" creationid="Liliu" creationdate="20200419T102013Z">
+        <seg>无法验证项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The project in the example is evidently finished, as all the unique segments have been translated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T142844Z" creationid="Liliu" creationdate="20200418T134639Z">
@@ -5328,6 +5392,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050158Z" creationid="hp" creationdate="20200418T050158Z">
         <seg>但是，用户可能需要生成一组所讨论项目专用的规则。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The writeable glossary file is not in the glossary folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T102125Z" creationid="Liliu" creationdate="20200419T102125Z">
+        <seg>该可写词汇表文件不在词汇表文件夹中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5905,6 +5977,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071552Z" creationid="hp" creationdate="20200418T071552Z">
         <seg>翻译记忆库也可能包含参考译文：一个典型的例子是多国立法，例如欧盟的立法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memory folder {0} does not exist.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T102117Z" creationid="Liliu" creationdate="20200419T102117Z">
+        <seg>翻译记忆库文件夹 {0} 不存在。</seg>
       </tuv>
     </tu>
     <tu>
