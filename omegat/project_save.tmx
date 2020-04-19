@@ -1568,6 +1568,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It will contain glossaries you will be using in the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T045027Z" creationid="Liliu" creationdate="20200419T045027Z">
+        <seg>它将包括您在项目中使用到的词汇。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Justification of source and target segments depends upon the project languages.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T030252Z" creationid="hp" creationdate="20200418T064752Z">
@@ -2215,6 +2223,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T044914Z" creationid="Liliu" creationdate="20200419T044914Z">
         <seg>关于此主题的更多信息，请参阅 &lt;l0&gt;Dictionaries&lt;/l0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See &lt;l0&gt;Glossaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T045045Z" creationid="Liliu" creationdate="20200419T045045Z">
+        <seg>关于此主题的更多信息，请参阅 &lt;l0&gt;Glossaries&lt;/l0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
