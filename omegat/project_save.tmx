@@ -750,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File entries include their names, file filter types, their encoding and the number of segments each file contains</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T033617Z" creationid="qinxun" creationdate="20200419T033617Z">
+        <seg>每个文件条目包括其名称、文件过滤器类型、编码和每个文件包含的句段数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File locations</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T051700Z" creationid="hp" creationdate="20200418T051700Z">
