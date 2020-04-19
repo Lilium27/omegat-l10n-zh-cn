@@ -2500,6 +2500,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The &lt;e0&gt;omegat&lt;/e0&gt; subfolder contains at least one and possibly several other files.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T045112Z" creationid="Liliu" creationdate="20200419T045112Z">
+        <seg>&lt;e0&gt;omegat&lt;/e0&gt; 子文件夹内至少会包含一个文件，可能还有若干其他文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The &lt;f0&gt;project_stats.txt&lt;/f0&gt; located in the omegat folder of your project contains more detailed segment information, broken down by file.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200419T034442Z" creationid="qinxun" creationdate="20200419T034442Z">
@@ -2696,6 +2704,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T030503Z" creationid="DSS" creationdate="20200418T124504Z">
         <seg>名称为 &lt;f5&gt;omegat&lt;/f5&gt; 的翻译记忆可被 OmegaT 自身用于将来创建的项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The most important file here is the &lt;f1&gt;project_save.tmx, &lt;/f1&gt;that is the working translation memory for the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T045218Z" creationid="Liliu" creationdate="20200419T045218Z">
+        <seg>这里面最重要的文件是 &lt;f1&gt;project_save.tmx&lt;/f1&gt;，它是项目的工作翻译记忆库。</seg>
       </tuv>
     </tu>
     <tu>
