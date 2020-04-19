@@ -2058,6 +2058,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Confirm removal of pattern {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120737Z" creationid="DSS" creationdate="20200419T120737Z">
+        <seg>确认删除模式 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Confirm uninstalling</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100017Z" creationid="yangzy" creationdate="20200419T100017Z">
@@ -2938,6 +2946,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110043Z" creationid="yangzy" creationdate="20200419T110043Z">
         <seg>编辑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit Filter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120731Z" creationid="DSS" creationdate="20200419T120731Z">
+        <seg>编辑过滤器</seg>
       </tuv>
     </tu>
     <tu>
@@ -5347,6 +5363,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Log:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120725Z" creationid="DSS" creationdate="20200419T120725Z">
+        <seg>日志：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mac OS X users, note: use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; shortcut and &lt;e4&gt;not &lt;/e4&gt;cmd+Ctrl+O.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065738Z" creationid="hp" creationdate="20200418T065738Z">
@@ -7439,6 +7463,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110533Z" creationid="yangzy" creationdate="20200419T110057Z">
         <seg>移除译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove pattern?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120754Z" creationid="DSS" creationdate="20200419T120754Z">
+        <seg>确定删除模式？</seg>
       </tuv>
     </tu>
     <tu>
@@ -10042,6 +10074,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T111530Z" creationid="DSS" creationdate="20200419T111530Z">
         <seg>这个包捆绑有 Oracle 的 Java 运行时环境（JRE）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121133Z" creationid="DSS" creationdate="20200419T121133Z">
+        <seg>OmegaT 是免费软件，您可以根据第三版、或（由您选择）任何更新版本的自由软件基金会 GNU 通用公共许可证的条款重新发布此软件，或者重新发布并修改此软件。</seg>
       </tuv>
     </tu>
     <tu>
