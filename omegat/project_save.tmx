@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T130634Z" creationid="Liliu" creationdate="20200419T130634Z">
+        <seg>添加(&amp;A)</seg>
+      </tuv>
+    </tu>
     <tu>
       <tuv lang="en">
         <seg>&amp;Allow blank translations in the target files</seg>
@@ -186,6 +194,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T112949Z" creationid="DSS" creationdate="20200419T112949Z">
         <seg>空行(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Enable TaaS terminology lookup</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T115932Z" creationid="Liliu" creationdate="20200419T115932Z">
+        <seg>启用 TaaS 术语查询(&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -855,6 +871,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;html&gt;Add patterns using wildcards (Apache Ant style): &lt;code&gt;*&lt;/code&gt;, &lt;code&gt;?&lt;/code&gt;, &lt;code&gt;**&lt;/code&gt;&lt;br&gt;Example: &lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T130624Z" creationid="Liliu" creationdate="20200419T130624Z">
+        <seg>&lt;html&gt;用通配符（Apache Ant 风格）添加模式：&lt;code&gt;*&lt;/code&gt;、&lt;code&gt;?&lt;/code&gt;、&lt;code&gt;**&lt;/code&gt;&lt;br&gt;例如：&lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;Repository URL:&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T105554Z" creationid="Liliu" creationdate="20200419T105554Z">
@@ -1075,6 +1099,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T050555Z" creationid="Liliu" creationdate="20200419T050555Z">
         <seg>激活“显示隐藏文件”选项来使其可见。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Active segment source</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T130913Z" creationid="Liliu" creationdate="20200419T130913Z">
+        <seg>活动原文句段</seg>
       </tuv>
     </tu>
     <tu>
@@ -1699,6 +1731,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110126Z" creationid="yangzy" creationdate="20200419T110126Z">
         <seg>在历史中后退...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Background</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T130735Z" creationid="Liliu" creationdate="20200419T130735Z">
+        <seg>背景</seg>
       </tuv>
     </tu>
     <tu>
@@ -2508,6 +2548,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create your own key then input it below.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T115908Z" creationid="Liliu" creationdate="20200419T115908Z">
+        <seg>创建您的密钥然后在下方输入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Creates a local copy of a remote OmegaT project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110139Z" creationid="yangzy" creationdate="20200419T110139Z">
@@ -2576,6 +2624,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114823Z" creationid="Liliu" creationdate="20200419T114823Z">
         <seg>创建者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom Colours</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T130734Z" creationid="Liliu" creationdate="20200419T130734Z">
+        <seg>自定义颜色</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Custom Colours Selection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T130728Z" creationid="Liliu" creationdate="20200419T130728Z">
+        <seg>自定义颜色选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -3606,6 +3670,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exclusion Patterns</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T115934Z" creationid="Liliu" creationdate="20200419T115934Z">
+        <seg>排除模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Executing script {0} (event {1})</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T102049Z" creationid="Liliu" creationdate="20200419T102049Z">
@@ -4035,6 +4107,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122117Z" creationid="DSS" creationdate="20200419T122117Z">
         <seg>德语（German）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Get API Key</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T115920Z" creationid="Liliu" creationdate="20200419T115920Z">
+        <seg>获取 API 密钥</seg>
       </tuv>
     </tu>
     <tu>
@@ -6127,6 +6207,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110204Z" creationid="yangzy" creationdate="20200419T110204Z">
         <seg>标记空白字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mask</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T115935Z" creationid="Liliu" creationdate="20200419T115935Z">
+        <seg>掩码</seg>
       </tuv>
     </tu>
     <tu>
@@ -9657,8 +9745,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>TaaS API key not set.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T115514Z" creationid="Liliu" creationdate="20200419T115514Z">
-        <seg>Google API 密钥不可用。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T115852Z" creationid="Liliu" creationdate="20200419T115514Z">
+        <seg>未设置 TaaS API 密钥。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9667,6 +9755,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T115017Z" creationid="Liliu" creationdate="20200419T115017Z">
         <seg>TaaS 词库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TaaS Terminology</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T115926Z" creationid="Liliu" creationdate="20200419T115926Z">
+        <seg>TaaS 术语</seg>
       </tuv>
     </tu>
     <tu>
@@ -9833,8 +9929,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Text</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T112939Z" creationid="DSS" creationdate="20200419T112939Z">
-        <seg>纯文本</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T130746Z" creationid="DSS" creationdate="20200419T112939Z">
+        <seg>文本</seg>
       </tuv>
     </tu>
     <tu>
