@@ -1202,8 +1202,8 @@
       <tuv lang="en">
         <seg>In case of OmegaT complete project folders - in other words the translation memories involved as well as source folders, project settings etc - are managed by the selected RCS.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072838Z" creationid="hp" creationdate="20200418T072838Z">
-        <seg>I在 OmegaT 的情况下，完整的项目文件夹——换句话说，设计的翻译记忆库和原文文件夹、项目设置等——均由选定 RCS 管理。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T034252Z" creationid="hp" creationdate="20200418T072838Z">
+        <seg>在 OmegaT 的情况下，完整的项目文件夹——换句话说，设计的翻译记忆库和原文文件夹、项目设置等——均由选定 RCS 管理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3686,8 +3686,8 @@
       <tuv lang="en">
         <seg>see more in Chapter</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072843Z" creationid="hp" creationdate="20200418T072843Z">
-        <seg>更多关于它们的信息，请参阅</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T034307Z" creationid="hp" creationdate="20200418T072843Z">
+        <seg>更多信息请参阅章节</seg>
       </tuv>
     </tu>
     <tu>
