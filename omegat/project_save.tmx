@@ -937,8 +937,8 @@
       <tuv lang="en">
         <seg>If the source file is modified after you have begun translating, &lt;a1&gt;OmegaT&lt;/a1&gt; may be unable to find a segment that you have already translated.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071339Z" creationid="hp" creationdate="20200418T071339Z">
-        <seg>如果在开始翻译后原文文件有所修改， &lt;a1&gt;OmegaT&lt;/a1&gt; 可能会找不到你已经翻译过的片段。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T030411Z" creationid="hp" creationdate="20200418T071339Z">
+        <seg>如果在开始翻译后原文文件有所修改， &lt;a1&gt;OmegaT&lt;/a1&gt; 可能会找不到你已经翻译过的句段。</seg>
       </tuv>
     </tu>
     <tu>
