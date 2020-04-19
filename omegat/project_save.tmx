@@ -1293,16 +1293,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073231Z" creationid="hp" creationdate="20200418T073231Z">
-        <seg>创建此存储库的本地副本（对 SVN 是 </seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T105616Z" creationid="hp" creationdate="20200418T073231Z">
+        <seg>创建此仓库的本地副本（对 SVN 是 </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Create a new, empty OmegaT project in the local repository.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073233Z" creationid="hp" creationdate="20200418T073233Z">
-        <seg>在本地存储库中建立一个新的、空的 OmegaT 项目。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T105631Z" creationid="hp" creationdate="20200418T073233Z">
+        <seg>在本地仓库中建立一个新的、空的 OmegaT 项目。</seg>
       </tuv>
     </tu>
     <tu>
