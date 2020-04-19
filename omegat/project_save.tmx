@@ -10755,8 +10755,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>number of segments - translated vs total for the current file</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052237Z" creationid="Liliu" creationdate="20200418T134659Z">
-        <seg>句段数 - 已译/总量（当前文件）</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114507Z" creationid="Liliu" creationdate="20200418T134659Z">
+        <seg>句段数 - （当前文件）已译/总量</seg>
       </tuv>
     </tu>
     <tu>
@@ -10771,8 +10771,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>number of unique segments - translated vs total in the project</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052256Z" creationid="Liliu" creationdate="20200418T134655Z">
-        <seg>独特句段数 - 已译/总量（项目中）</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114517Z" creationid="Liliu" creationdate="20200418T134655Z">
+        <seg>独特句段数 - （项目中）已译/总量</seg>
       </tuv>
     </tu>
     <tu>
