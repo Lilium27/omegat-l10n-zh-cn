@@ -2500,6 +2500,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The last segment with the identical source text will thus prevail (Note: of course it makes more sense to avoid this to happen in the first place).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T041034Z" creationid="Liliu" creationdate="20200419T041034Z">
+        <seg>因此，具有相同原文的最后一个句段会胜出（注意：当然，首先避免发生这种情况更为恰当）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The level 2 export is not fully compliant with the level 2 standard, but is sufficiently close and will generate correct matches in other translation memory tools supporting TMX Level 2.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072335Z" creationid="hp" creationdate="20200418T072335Z">
