@@ -816,8 +816,8 @@
       <tuv lang="en">
         <seg>Files within the &lt;f7&gt;source&lt;/f7&gt; folder, whether translated or not, are then generated here, with the same hierarchy as present in the source subfolder.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T145720Z" creationid="Liliu" creationdate="20200418T145720Z">
-        <seg>&lt;f7&gt;source&lt;/f7&gt; 文件夹下的文件，无论是否翻译，之后都会在此处生成， 与 source 子文件夹有着相同的层次结构。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T045712Z" creationid="Liliu" creationdate="20200418T145720Z">
+        <seg>&lt;f7&gt;source&lt;/f7&gt; 文件夹下的文件，无论是否翻译，之后都会在此处生成，与 source 子文件夹有着相同的层次结构。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1107,6 +1107,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T043627Z" creationid="Liliu" creationdate="20200419T043406Z">
         <seg>如果它们 &lt;e0&gt;无需&lt;/e0&gt; 受进一步更改的影响，则将 TMX 保留在 /tm/enforce 中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you already have collected words you wish the spell checker to ignore / accept, you just need to copy the corresponding two files into the &lt;f0&gt;omegat&lt;/f0&gt;subfolder of your current project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T045950Z" creationid="Liliu" creationdate="20200419T045703Z">
+        <seg>如果您收集了希望忽略/接受拼写检查的词汇，您只需复制对应的两个文件到当前项目的 &lt;f0&gt;omegat&lt;/f0&gt; 子文件夹中。</seg>
       </tuv>
     </tu>
     <tu>
