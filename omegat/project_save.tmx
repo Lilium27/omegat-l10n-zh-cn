@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A note is just a comment regarding this set of source text and translation.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094034Z" creationid="yangzy" creationdate="20200419T094034Z">
+        <seg>备注就是关于这一组原文与译文的注释</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A source sentence might look like:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200418T123707Z" creationid="DSS" creationdate="20200418T123707Z">
@@ -170,6 +178,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200418T120928Z" creationid="DSS" creationdate="20200418T120928Z">
         <seg>团队项目可以离线打开并翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Actions &amp; Settings</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094101Z" creationid="yangzy" creationdate="20200419T094101Z">
+        <seg>动作与设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -320,8 +336,8 @@
       <tuv lang="en">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094017Z" creationid="yangzy" creationdate="20200419T094017Z">
-        <seg>允许查看、添加、删除或编辑活动片段中的备注。备注就是关于这一组原文与译文的注释。</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094029Z" creationid="yangzy" creationdate="20200419T094017Z">
+        <seg>允许查看、添加、删除或编辑活动片段中的备注。。</seg>
       </tuv>
     </tu>
     <tu>
@@ -582,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comment:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094046Z" creationid="yangzy" creationdate="20200419T094046Z">
+        <seg>注释：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comments</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T140547Z" creationid="Liliu" creationdate="20200418T140547Z">
@@ -750,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094043Z" creationid="yangzy" creationdate="20200419T094043Z">
+        <seg>若活动片段在原文文件中有注释且文件过滤器支持（例如 PO 过滤器），则显示之。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093959Z" creationid="yangzy" creationdate="20200419T093959Z">
@@ -806,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dock</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094056Z" creationid="yangzy" creationdate="20200419T094056Z">
+        <seg>停靠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Downloading the package</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200418T125344Z" creationid="DSS" creationdate="20200418T125344Z">
@@ -842,6 +882,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T134417Z" creationid="Liliu" creationdate="20200418T134417Z">
         <seg>编辑器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editor - {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094054Z" creationid="yangzy" creationdate="20200419T094054Z">
+        <seg>编辑器 - {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1728,6 +1776,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Instant Start</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094102Z" creationid="yangzy" creationdate="20200419T094102Z">
+        <seg>快速入门</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It also contains installation instructions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T031854Z" creationid="qinxun" creationdate="20200419T025018Z">
@@ -1856,6 +1912,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Key:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094044Z" creationid="yangzy" creationdate="20200419T094044Z">
+        <seg>键：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Languages</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T040903Z" creationid="hp" creationdate="20200418T040548Z">
@@ -1960,10 +2024,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Maximize</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094058Z" creationid="yangzy" creationdate="20200419T094058Z">
+        <seg>最大化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Menus</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T134031Z" creationid="Liliu" creationdate="20200418T134031Z">
         <seg>菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Minimize</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094057Z" creationid="yangzy" creationdate="20200419T094057Z">
+        <seg>最小化</seg>
       </tuv>
     </tu>
     <tu>
@@ -2144,6 +2224,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Notify Me When a Segment Has Comments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094051Z" creationid="yangzy" creationdate="20200419T094051Z">
+        <seg>片段有注释时通知我</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notify Me When a Segment Has Dictionary Entries</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094000Z" creationid="yangzy" creationdate="20200419T094000Z">
@@ -2164,6 +2252,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093912Z" creationid="yangzy" creationdate="20200419T093912Z">
         <seg>片段有词汇表命中时通知我</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Notify Me When a Segment Has Notes</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094038Z" creationid="yangzy" creationdate="20200419T094038Z">
+        <seg>片段有备注时通知我</seg>
       </tuv>
     </tu>
     <tu>
@@ -2236,6 +2332,16 @@
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T134537Z" creationid="Liliu" creationdate="20200418T134537Z">
         <seg>OmegaT 能保存与原文完全相同的译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is refused access to the system property containing
+the name of your OS and/or the system property containing
+your home folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094115Z" creationid="yangzy" creationdate="20200419T094115Z">
+        <seg>OmegaT 无法访问包含操作系统名称的系统属性和/或\n包含你的主文件夹的系统属性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2427,6 +2533,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Path:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094045Z" creationid="yangzy" creationdate="20200419T094045Z">
+        <seg>路径：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please select which behaviour is appropriate.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093451Z" creationid="yangzy" creationdate="20200419T093350Z">
@@ -2583,6 +2697,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T051307Z" creationid="hp" creationdate="20200418T051307Z">
         <seg>存储库映射...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restore</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094059Z" creationid="yangzy" creationdate="20200419T094059Z">
+        <seg>还原</seg>
       </tuv>
     </tu>
     <tu>
@@ -2928,6 +3050,15 @@
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T052232Z" creationid="Liliu" creationdate="20200418T134613Z">
         <seg>从译文句段之外拖来的文本会复制过来，而从句段内拖来的文本则会移动过来。
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The
+current folder will be used instead.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094342Z" creationid="yangzy" creationdate="20200419T094342Z">
+        <seg>将改用当前文件夹。\n</seg>
       </tuv>
     </tu>
     <tu>
@@ -3428,6 +3559,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Therefore, the location of OmegaT's
+configuration folder cannot be reliably determined.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094325Z" creationid="yangzy" creationdate="20200419T094158Z">
+        <seg>因此，无法可靠地确定\n OmegaT 的配置文件夹位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>These are the files present in the /source folder in a format that OmegaT is able to recognize.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T032416Z" creationid="qinxun" creationdate="20200419T032416Z">
@@ -3916,6 +4056,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094048Z" creationid="yangzy" creationdate="20200419T094048Z">
+        <seg>翻译：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Troubleshooting</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T143247Z" creationid="Liliu" creationdate="20200418T143247Z">
@@ -3928,6 +4076,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T052430Z" creationid="qinxun" creationdate="20200419T033119Z">
         <seg>输入任何文本都会打开一个&lt;g0&gt;过滤器&lt;/g0&gt;，可以输入文件名句段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Undock</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094100Z" creationid="yangzy" creationdate="20200419T094100Z">
+        <seg>移出</seg>
       </tuv>
     </tu>
     <tu>
