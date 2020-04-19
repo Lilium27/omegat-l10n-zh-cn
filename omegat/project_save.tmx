@@ -2973,6 +2973,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error updating glossary file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T115431Z" creationid="Liliu" creationdate="20200419T115431Z">
+        <seg>更新术语表文件时出错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error updating repository.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112315Z" creationid="Liliu" creationdate="20200419T112315Z">
@@ -10668,6 +10676,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T105504Z" creationid="Liliu" creationdate="20200419T105504Z">
         <seg>错误认证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrong response format from TaaS service</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T115423Z" creationid="Liliu" creationdate="20200419T115423Z">
+        <seg>TaaS 服务响应格式错误</seg>
       </tuv>
     </tu>
     <tu>
