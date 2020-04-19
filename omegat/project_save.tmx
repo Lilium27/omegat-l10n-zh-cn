@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Endnotes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114543Z" creationid="DSS" creationdate="20200419T114543Z">
+        <seg>尾注(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;File</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101808Z" creationid="yangzy" creationdate="20200419T101808Z">
@@ -182,10 +190,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Footnotes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114541Z" creationid="DSS" creationdate="20200419T114541Z">
+        <seg>脚注(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Force shortcut to "f" for &lt;it pos="end"&gt; tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114423Z" creationid="DSS" creationdate="20200419T114423Z">
+        <seg>&lt;it pos="end"&gt;标记快捷键强制设为“f”(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Help</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095534Z" creationid="Liliu" creationdate="20200419T095534Z">
         <seg>帮助(&amp;H)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Ignore type and ctype attributes when building &lt;ph&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114452Z" creationid="DSS" creationdate="20200419T114452Z">
+        <seg>创建&lt;ph&gt;标签快捷键时，忽略 type 与 ctype 属性(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1773,6 +1805,14 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T103226Z" creationid="Liliu" creationdate="20200419T103124Z">
         <seg>关闭当前的 OmegaT 实例。
 3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Co&amp;mments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114537Z" creationid="DSS" creationdate="20200419T114537Z">
+        <seg>批注(&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4016,6 +4056,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore type and ctype attributes when building &lt;&amp;bpt&gt; and &lt;ept&gt; tag shortcuts</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114514Z" creationid="DSS" creationdate="20200419T114514Z">
+        <seg>创建&lt;bpt&gt;与&lt;ept&gt;标签快捷键时，忽略 type 与 ctype 属性(&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075410Z" creationid="hp" creationdate="20200418T075410Z">
@@ -5482,6 +5530,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-visible Instruction Te&amp;xt</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114534Z" creationid="DSS" creationdate="20200419T114534Z">
+        <seg>不可见说明文本(&amp;X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Non-visible formatting (i.e., which doesn't appear as tags in the OmegaT editor) is retained in target documents.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050108Z" creationid="hp" creationdate="20200418T050108Z">
@@ -5915,6 +5971,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T094959Z" creationid="yangzy" creationdate="20200419T093915Z">
         <seg>打开可写术语表文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open XML Filter Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114520Z" creationid="DSS" creationdate="20200419T114520Z">
+        <seg>Open XML 过滤器选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -8317,6 +8381,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110111Z" creationid="yangzy" creationdate="20200419T110111Z">
         <seg>导出的内容将被复制到位于用户偏好设置文件所在的文件夹内的 &lt;f1&gt;selection.txt&lt;/f1&gt; 文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following options do not apply if "Compatibility with OmegaT 2.6" is checked</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114309Z" creationid="DSS" creationdate="20200419T114309Z">
+        <seg>若勾选了“兼容 OmegaT 2.6”，则以下选项不适用</seg>
       </tuv>
     </tu>
     <tu>
