@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Do not check printf-variables</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093630Z" creationid="yangzy" creationdate="20200419T093608Z">
+        <seg>不检查 prinf 变量(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T033920Z" creationid="qinxun" creationdate="20200419T033920Z">
@@ -446,10 +454,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093637Z" creationid="yangzy" creationdate="20200419T093637Z">
+        <seg>检查所有 printf 变量（例如 %s、%-s）(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check &amp;simple printf-variables (e.g., %s, %d)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093627Z" creationid="yangzy" creationdate="20200419T093627Z">
+        <seg>检查简单的 printf 变量（例如 %s、%d）(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check for possible Tag errors with &lt;k0&gt;Ctrl+T &lt;/k0&gt;and untranslated segments with &lt;k1&gt;Ctrl+U&lt;/k1&gt;.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T030450Z" creationid="hp" creationdate="20200418T072618Z">
         <seg>使用 &lt;k0&gt;Ctrl+T &lt;/k0&gt;检查可能的标签错误；使用 &lt;k1&gt;Ctrl+U&lt;/k1&gt;.检查未翻译句段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check simple &amp;java MessageFormat patterns (e.g. {0})</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093710Z" creationid="yangzy" creationdate="20200419T093710Z">
+        <seg>检查简单的 Java MessageFormat 模式(&amp;J) （例如 {0}）</seg>
       </tuv>
     </tu>
     <tu>
@@ -947,6 +979,14 @@
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T134644Z" creationid="Liliu" creationdate="20200418T134644Z">
         <seg>
 从实际角度看，最为重要的一对数字是第二对：它告诉您迄今为已完成的工作量，以及和总工作量或第二个数字之间的关系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Full checking can lead to false positives in normal texts.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093438Z" creationid="yangzy" creationdate="20200419T093438Z">
+        <seg>完整检查可能导致正常文本出现误报。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2245,8 +2285,8 @@
       <tuv lang="en">
         <seg>Please select which behaviour is appropriate.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093413Z" creationid="yangzy" creationdate="20200419T093350Z">
-        <seg>请选择适当的行为。式</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093451Z" creationid="yangzy" creationdate="20200419T093350Z">
+        <seg>请选择适当的行为。</seg>
       </tuv>
     </tu>
     <tu>
