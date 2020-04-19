@@ -4183,6 +4183,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Groovy (Apache Licence 2.0)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T123424Z" creationid="DSS" creationdate="20200419T123424Z">
+        <seg>Groovy (Apache 许可 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HHC file too big!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122048Z" creationid="DSS" creationdate="20200419T122048Z">
@@ -7465,6 +7473,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PDFBox (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T123408Z" creationid="DSS" creationdate="20200419T123408Z">
+        <seg>PDFBox (Apache 许可 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PO Filter Options</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T112727Z" creationid="DSS" creationdate="20200419T112727Z">
@@ -9551,6 +9567,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SuperTMXMerge (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T123437Z" creationid="DSS" creationdate="20200419T123437Z">
+        <seg>SuperTMXMerge (Apache许可 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Swedish</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122128Z" creationid="DSS" creationdate="20200419T122128Z">
@@ -11026,6 +11050,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T111530Z" creationid="DSS" creationdate="20200419T111530Z">
         <seg>这个包捆绑有 Oracle 的 Java 运行时环境（JRE）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T124104Z" creationid="DSS" creationdate="20200419T124104Z">
+        <seg>共享此软件是希望它对大家有所帮助，但它没有任何保证；甚至没有对适销性或特定用途的适用性的保证。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13047,6 +13079,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075454Z" creationid="hp" creationdate="20200418T075454Z">
         <seg>对它进行翻译并创建译文 ODT 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>trie4j (Apache License 2.0)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T123528Z" creationid="DSS" creationdate="20200419T123528Z">
+        <seg>trie4j (Apache 许可 2.0)</seg>
       </tuv>
     </tu>
     <tu>
