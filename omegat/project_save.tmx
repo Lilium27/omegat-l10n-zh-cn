@@ -640,8 +640,8 @@
       <tuv lang="en">
         <seg>Dictionaries are the electronic equivalents of printed dictionaries like Merriam Webster, Duden, Larousse etc., that you may have on your desk.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052836Z" creationid="Liliu" creationdate="20200419T052836Z">
-        <seg>词典是纸质词典的电子版本，比如 Merriam Webster、Duden、Larousse 等等，您的桌面上可能正摆着一本。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052903Z" creationid="Liliu" creationdate="20200419T052836Z">
+        <seg>词典是纸质词典的电子版本，比如 Merriam Webster、Duden、Larousse 等等，您的桌子上可能正摆着一本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2367,6 +2367,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T151100Z" creationid="hp" creationdate="20200418T075336Z">
         <seg>请参阅 &lt;u0&gt;指南 - 用 Iceni Infix 和 OmegaT 翻译 PDF 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See more about them in the chapter on &lt;l0&gt;Dictionaries&lt;/l0&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052944Z" creationid="Liliu" creationdate="20200419T052944Z">
+        <seg>更多相关信息，请参阅 &lt;l0&gt;Dictionaries&lt;/l0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
