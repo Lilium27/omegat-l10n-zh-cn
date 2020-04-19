@@ -2742,8 +2742,8 @@
       <tuv lang="en">
         <seg>Untranslated segments will hereby remain in the source language.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T025351Z" creationid="Liliu" creationdate="20200419T025351Z">
-        <seg>因此，未译片段会维持原文语言。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T025428Z" creationid="Liliu" creationdate="20200419T025351Z">
+        <seg>因此，未译句段会以源语言呈现。</seg>
       </tuv>
     </tu>
     <tu>
