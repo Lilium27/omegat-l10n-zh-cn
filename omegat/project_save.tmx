@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&amp;Automatically check the spelling of text</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094935Z" creationid="yangzy" creationdate="20200419T094935Z">
+        <seg>自动检查文本的拼写(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Browse...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094936Z" creationid="yangzy" creationdate="20200419T094936Z">
+        <seg>词典文件文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T092739Z" creationid="yangzy" creationdate="20200419T092739Z">
@@ -18,6 +34,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093630Z" creationid="yangzy" creationdate="20200419T093608Z">
         <seg>不检查 prinf 变量(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Install new dictionary...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094936Z" creationid="yangzy" creationdate="20200419T094936Z">
+        <seg>浏览(&amp;B)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Remove</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094937Z" creationid="yangzy" creationdate="20200419T094937Z">
+        <seg>删除(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -202,6 +234,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093910Z" creationid="yangzy" creationdate="20200419T093910Z">
         <seg>添加词汇表条目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add To Dictionary</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094933Z" creationid="yangzy" creationdate="20200419T094933Z">
+        <seg>添加到词典</seg>
       </tuv>
     </tu>
     <tu>
@@ -760,6 +800,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries already installed:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094935Z" creationid="yangzy" creationdate="20200419T094935Z">
+        <seg>已安装的词典：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionaries are the electronic equivalents of printed dictionaries like Merriam Webster, Duden, Larousse etc., that you may have on your desk.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T052903Z" creationid="Liliu" creationdate="20200419T052836Z">
@@ -772,6 +820,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T143117Z" creationid="Liliu" creationdate="20200418T143117Z">
         <seg>词典</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionary File Folder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094936Z" creationid="yangzy" creationdate="20200419T094936Z">
+        <seg>词典文件文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionary file folder:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094936Z" creationid="yangzy" creationdate="20200419T094936Z">
+        <seg>词典文件文件夹：</seg>
       </tuv>
     </tu>
     <tu>
@@ -1521,6 +1585,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore All</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094933Z" creationid="yangzy" creationdate="20200419T094933Z">
+        <seg>全部忽略</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T075410Z" creationid="hp" creationdate="20200418T075410Z">
@@ -2122,6 +2194,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No Suggestions</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094931Z" creationid="yangzy" creationdate="20200419T094931Z">
+        <seg>无建议</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No need to save project, because no changes were made</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094927Z" creationid="yangzy" creationdate="20200419T094927Z">
+        <seg>由于未作修改，无需保存项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Non-visible formatting (i.e., which doesn't appear as tags in the OmegaT editor) is retained in target documents.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T050108Z" creationid="hp" creationdate="20200418T050108Z">
@@ -2599,6 +2687,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Proceed?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094958Z" creationid="yangzy" creationdate="20200419T094958Z">
+        <seg>继续？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project Files</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T031903Z" creationid="qinxun" creationdate="20200419T031903Z">
@@ -2615,6 +2711,46 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project closed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094927Z" creationid="yangzy" creationdate="20200419T094927Z">
+        <seg>项目关闭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project compiling end</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094929Z" creationid="yangzy" creationdate="20200419T094929Z">
+        <seg>项目编译结束</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project compiling start</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094928Z" creationid="yangzy" creationdate="20200419T094928Z">
+        <seg>项目编译开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project creating end</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094930Z" creationid="yangzy" creationdate="20200419T094930Z">
+        <seg>项目创建结束</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project creating start</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094930Z" creationid="yangzy" creationdate="20200419T094930Z">
+        <seg>项目创建开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project folder</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T143524Z" creationid="Liliu" creationdate="20200418T143524Z">
@@ -2623,10 +2759,42 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project loading end</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094924Z" creationid="yangzy" creationdate="20200419T094924Z">
+        <seg>项目载入结束</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project loading start</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094923Z" creationid="yangzy" creationdate="20200419T094923Z">
+        <seg>项目载入开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project parameters must be changed by the project manager.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200418T120922Z" creationid="DSS" creationdate="20200418T120922Z">
         <seg>项目参数必须由项目经理来更改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project saving end</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094925Z" creationid="yangzy" creationdate="20200419T094925Z">
+        <seg>项目保存结束</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project saving start</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094924Z" creationid="yangzy" creationdate="20200419T094924Z">
+        <seg>项目保存开始</seg>
       </tuv>
     </tu>
     <tu>
@@ -2947,6 +3115,22 @@ your home folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T073537Z" creationid="hp" creationdate="20200418T073537Z">
         <seg>专用参数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spellchecker</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094935Z" creationid="yangzy" creationdate="20200419T094935Z">
+        <seg>拼写检查器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spellchecker Setup</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094934Z" creationid="yangzy" creationdate="20200419T094934Z">
+        <seg>拼写检查器设置</seg>
       </tuv>
     </tu>
     <tu>
@@ -3659,6 +3843,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This call MUST NOT be in swing thread</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094922Z" creationid="yangzy" creationdate="20200419T094922Z">
+        <seg>该调用不能在 swing 线程中</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This can also be done within OmegaT:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T073654Z" creationid="hp" creationdate="20200418T073654Z">
@@ -4107,6 +4299,14 @@ configuration folder cannot be reliably determined.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>URL of online dictionaries:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094937Z" creationid="yangzy" creationdate="20200419T094937Z">
+        <seg>在线词典的网址：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Undock</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094100Z" creationid="yangzy" creationdate="20200419T094100Z">
@@ -4415,6 +4615,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T070947Z" creationid="hp" creationdate="20200418T070947Z">
         <seg>其中 YEAR 是 4 位数年份、MM 是月份、DD 是月份内的日期、而 HH 与 NN 是保存上一份翻译记忆库时的小时和分钟。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You are uninstalling the spellchecking dictionary that your project currently uses.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094953Z" creationid="yangzy" creationdate="20200419T094938Z">
+        <seg>您要卸载的拼写检查词典当前项目正在使用。</seg>
       </tuv>
     </tu>
     <tu>
