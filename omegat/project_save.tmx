@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Allow translation to be equal to source</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122337Z" creationid="DSS" creationdate="20200419T122337Z">
+        <seg>允许译文与原文相同(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Also allow per-project external commands</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113024Z" creationid="Liliu" creationdate="20200419T113024Z">
@@ -246,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122459Z" creationid="DSS" creationdate="20200419T122459Z">
+        <seg>至少有一个可选翻译时，转到下一个未译片段的功能不会起作用(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Help</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095534Z" creationid="Liliu" creationdate="20200419T095534Z">
@@ -302,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Leave the segment empty</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122314Z" creationid="DSS" creationdate="20200419T122314Z">
+        <seg>保持片段为空(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;License</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114806Z" creationid="DSS" creationdate="20200419T114806Z">
@@ -338,6 +362,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115936Z" creationid="DSS" creationdate="20200419T115936Z">
         <seg>将文件过滤器设置设为项目专用(&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Minimal similarity:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122319Z" creationid="DSS" creationdate="20200419T122319Z">
+        <seg>最低相似度(&amp;M)：</seg>
       </tuv>
     </tu>
     <tu>
@@ -394,6 +426,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101809Z" creationid="yangzy" creationdate="20200419T101809Z">
         <seg>打开脚本(&amp;O)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Prefix:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122320Z" creationid="DSS" creationdate="20200419T122320Z">
+        <seg>前缀(&amp;P)：</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,6 +578,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100942Z" creationid="yangzy" creationdate="20200419T100942Z">
         <seg>大写(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Validate tags when leaving a segment</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122512Z" creationid="DSS" creationdate="20200419T122512Z">
+        <seg>离开片段时验证标签(&amp;V)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1247,6 +1295,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allo&amp;w tag editing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122509Z" creationid="DSS" creationdate="20200419T122509Z">
+        <seg>允许标签编辑(&amp;W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allow to save password as plain text</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T104447Z" creationid="Liliu" creationdate="20200419T104436Z">
@@ -1523,6 +1579,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T122749Z" creationid="DSS" creationdate="20200418T122738Z">
         <seg>在该对话框顶部选择原文文件的语言和翻译后文件应有的语言，然后点击 &lt;g1&gt;OK&lt;/g1&gt; 继续。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Attempt to convert &amp;numbers when inserting a fuzzy match</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122623Z" creationid="DSS" creationdate="20200419T122623Z">
+        <seg>插入模糊匹配时，尝试转换数字(&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3078,6 +3142,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>E&amp;xport the segment to text files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122341Z" creationid="DSS" creationdate="20200419T122341Z">
+        <seg>将片段导出到文本文件(&amp;X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ERROR: (declaring bean)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101816Z" creationid="yangzy" creationdate="20200419T101816Z">
@@ -3138,6 +3210,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094054Z" creationid="yangzy" creationdate="20200419T094054Z">
         <seg>编辑器 - {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editor Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122239Z" creationid="DSS" creationdate="20200419T122239Z">
+        <seg>编辑器选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -5058,6 +5138,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initially load this many segments:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122516Z" creationid="DSS" creationdate="20200419T122516Z">
+        <seg>初始载入片段数量：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initially, that is when the project is created, the main TM of the project, &lt;f0&gt;project_save.tmx&lt;/f0&gt; is empty.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T025847Z" creationid="hp" creationdate="20200418T071542Z">
@@ -5110,6 +5198,22 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110502Z" creationid="yangzy" creationdate="20200419T110050Z">
         <seg>插入原文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert the &amp;best fuzzy match</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122317Z" creationid="DSS" creationdate="20200419T122317Z">
+        <seg>插入最佳模糊匹配(&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert the &amp;source text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122311Z" creationid="DSS" creationdate="20200419T122311Z">
+        <seg>插入源文本(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7402,6 +7506,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122242Z" creationid="DSS" creationdate="20200419T122242Z">
+        <seg>请选择进入未翻译片段时你所希望插入的文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please select which behaviour is appropriate.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T093451Z" creationid="yangzy" creationdate="20200419T093350Z">
@@ -8297,6 +8409,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101828Z" creationid="yangzy" creationdate="20200419T101828Z">
         <seg>保存脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save aut&amp;o-populated status</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122513Z" creationid="DSS" creationdate="20200419T122513Z">
+        <seg>保存自动填充状态(&amp;O)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11586,6 +11706,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122529Z" creationid="DSS" creationdate="20200419T122529Z">
+        <seg>当单个文件的片段数量多于此数字时，多出来的片段会随着滚动按需载入。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113551Z" creationid="Liliu" creationdate="20200419T113551Z">
@@ -12118,6 +12246,14 @@ create its configuration folder.</seg>
         <seg>[Fuzzy]</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101059Z" creationid="yangzy" creationdate="20200419T101059Z">
+        <seg>[模糊]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>[fuzzy]</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122321Z" creationid="DSS" creationdate="20200419T122321Z">
         <seg>[模糊]</seg>
       </tuv>
     </tu>
