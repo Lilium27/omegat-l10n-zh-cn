@@ -1807,6 +1807,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bidirectional control characters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131432Z" creationid="Liliu" creationdate="20200419T131432Z">
+        <seg>双向控制字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bookmark &amp;references</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113726Z" creationid="DSS" creationdate="20200419T113726Z">
@@ -4062,11 +4070,43 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>From 100% memory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131455Z" creationid="Liliu" creationdate="20200419T131455Z">
+        <seg>来自 100% 翻译记忆库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From ICE memory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131448Z" creationid="Liliu" creationdate="20200419T131439Z">
+        <seg>来自 ICE 翻译记忆库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>From a practical point of view, the most important pair of numbers is the second pair: it tells, how much you have done so far, in relation to the total or second number.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134644Z" creationid="Liliu" creationdate="20200418T134644Z">
         <seg>
 从实际角度看，最为重要的一对数字是第二对：它告诉您迄今为已完成的工作量，以及和总工作量或第二个数字之间的关系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From auto memory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131519Z" creationid="Liliu" creationdate="20200419T131519Z">
+        <seg>来自 auto 翻译记忆库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>From memory</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131444Z" creationid="Liliu" creationdate="20200419T131435Z">
+        <seg>来自翻译记忆库</seg>
       </tuv>
     </tu>
     <tu>
@@ -6395,6 +6435,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Modification info</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131414Z" creationid="Liliu" creationdate="20200419T131414Z">
+        <seg>修订信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Modification info template</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122836Z" creationid="DSS" creationdate="20200419T122836Z">
@@ -6407,6 +6455,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122921Z" creationid="DSS" creationdate="20200419T122921Z">
         <seg>无日期句段的信息模板修订</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Modification info text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131420Z" creationid="Liliu" creationdate="20200419T131420Z">
+        <seg>修订信息文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -6759,6 +6815,30 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113040Z" creationid="Liliu" creationdate="20200419T113040Z">
         <seg>不换行空格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-breakable spaces</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131427Z" creationid="Liliu" creationdate="20200419T131427Z">
+        <seg>不换行空格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-unique segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131405Z" creationid="Liliu" creationdate="20200419T131405Z">
+        <seg>非独特句段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-unique segments background</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131411Z" creationid="Liliu" creationdate="20200419T131411Z">
+        <seg>非独特句段背景</seg>
       </tuv>
     </tu>
     <tu>
@@ -8379,6 +8459,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove text target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131424Z" creationid="Liliu" creationdate="20200419T131424Z">
+        <seg>删除文本译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove the project folder manually.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T103200Z" creationid="Liliu" creationdate="20200419T103200Z">
@@ -8985,6 +9073,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110845Z" creationid="hp" creationdate="20200418T050151Z">
         <seg>句段分割...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segments with notes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131310Z" creationid="Liliu" creationdate="20200419T131310Z">
+        <seg>含备注的句段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segments with notes text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131335Z" creationid="Liliu" creationdate="20200419T131335Z">
+        <seg>含备注文本的句段</seg>
       </tuv>
     </tu>
     <tu>
@@ -9867,6 +9971,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T101638Z" creationid="Liliu" creationdate="20200419T101638Z">
         <seg>标签：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tags</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131421Z" creationid="Liliu" creationdate="20200419T131421Z">
+        <seg>标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -11616,6 +11728,22 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131352Z" creationid="Liliu" creationdate="20200419T131352Z">
+        <seg>已译句段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated segments text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131400Z" creationid="Liliu" creationdate="20200419T131400Z">
+        <seg>已译句段文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translating Project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T101835Z" creationid="Liliu" creationdate="20200419T101835Z">
@@ -11788,6 +11916,22 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T145824Z" creationid="hp" creationdate="20200418T071217Z">
         <seg>在您熟练使用 OmegaT 之前，请定期创建译文文件，并检查译文文件是否包含最新版本的翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Untranslated segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131340Z" creationid="Liliu" creationdate="20200419T131340Z">
+        <seg>未译句段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Untranslated segments text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131348Z" creationid="Liliu" creationdate="20200419T131348Z">
+        <seg>未句段文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -12293,6 +12437,14 @@ the server.</seg>
         <seg>Whitespace</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113330Z" creationid="Liliu" creationdate="20200419T113330Z">
+        <seg>空白字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whitespaces</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131428Z" creationid="Liliu" creationdate="20200419T131428Z">
         <seg>空白字符</seg>
       </tuv>
     </tu>
