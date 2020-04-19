@@ -1179,8 +1179,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Glossary pane: Dropped files with known glossary extensions (&lt;f0&gt;.txt&lt;/f0&gt;, &lt;f1&gt;.tab&lt;/f1&gt;, etc.) will be copied to the &lt;f2&gt;glossary&lt;/f2&gt; folder.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134413Z" creationid="Liliu" creationdate="20200418T134413Z">
-        <seg>词汇表窗格：拖入的带有已知词汇表扩展名（&lt;f0&gt;.txt&lt;/f0&gt;、 &lt;f1&gt;.tab&lt;/f1&gt;等）的文件将会复制到 &lt;f2&gt;glossary&lt;/f2&gt; 文件夹中。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T094735Z" creationid="Liliu" creationdate="20200418T134413Z">
+        <seg>术语表窗格：拖入的带有已知术语表扩展名（&lt;f0&gt;.txt&lt;/f0&gt;、 &lt;f1&gt;.tab&lt;/f1&gt;等）的文件将会复制到 &lt;f2&gt;glossary&lt;/f2&gt; 文件夹中。</seg>
       </tuv>
     </tu>
     <tu>
