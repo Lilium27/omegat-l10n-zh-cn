@@ -864,8 +864,8 @@
       <tuv lang="en">
         <seg>For translation memories in folders with a name &lt;f0&gt;penalty-xxx&lt;/f0&gt; (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called &lt;f1&gt;penalty-30&lt;/f1&gt; for instance, will be lowered to a 70% match.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T044303Z" creationid="Liliu" creationdate="20200419T044303Z">
-        <seg>因为翻译记忆库在文件夹中For translation memories in folders with a name &lt;f0&gt;penalty-xxx&lt;/f0&gt; (with xxx between 0 and 100), matches will be degraded according to the name of the folder: a 100% match in any of TMs, residing in a folder called &lt;f1&gt;penalty-30&lt;/f1&gt; for instance, will be lowered to a 70% match.</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T044700Z" creationid="Liliu" creationdate="20200419T044303Z">
+        <seg>对于在名为 &lt;f0&gt;penalty-xxx&lt;/f0&gt; （xxx 在 0 到 100之间）的文件夹中的翻译记忆库， 匹配度将根据文件夹的名称而降低： 任一翻译记忆库中的 100% 匹配，如果放入名为 &lt;f1&gt;penalty-30&lt;/f1&gt; 的文件夹，匹配度将会降为 70%。</seg>
       </tuv>
     </tu>
     <tu>
