@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<section id="windows.aligner">
+  <title>对齐工具</title>
+
+  <para>可以对齐已经翻译过的单语言文档，创建双语翻译记忆库。</para>
+
+  <para>要访问此窗口，请选择</para>
+
+  <section>
+    <title>第1步：调整对齐参数</title>
+
+    <para>如果对齐效果看起来还能改进，可尝试调整参数。在大多数情况下，<guilabel>平均得分</guilabel>越低，则对齐效果越好。</para>
+
+    <para>在<guilabel>Heapwise</guilabel>模式下，文本是整体评估的。在<guilabel>Parsewise</guilabel>模式下，文本是逐个句段评估的。</para>
+
+    <para>使用<guilabel>ID 比较</guilabel>模式来对齐 键=值 文本。如果两个文件中键的顺序不同或包含信息的数量不等，此模式也有效。仅当两个文件都被识别为 键=值 文件时才会出现此选项。</para>
+
+    <para> <guilabel>维特比</guilabel> 和<guilabel>向前-向后</guilabel> 算法是两种不同的计算方法。选择结果最好的那一个。</para>
+
+    <para>点击<guibutton>继续</guibutton>可进行下一步。</para>
+  </section>
+
+  <section>
+    <title>第2步：手动调整</title>
+
+    <para>经过自动处理后，一般需要手动调整两个文件的对齐。</para>
+
+    <para>翻译单元位于最后两列的单元格中。</para>
+
+    <para>要将两个句段对齐到同一行上：</para>
+
+    <orderedlist>
+      <listitem>
+        <para>选择第一个片段。</para>
+      </listitem>
+
+      <listitem>
+        <para>按空格键（快捷菜单中的操作为<menuchoice><guimenuitem>编辑</guimenuitem><guimenuitem>开始精确对齐</guimenuitem></menuchoice>）</para>
+      </listitem>
+
+      <listitem>
+        <para>点击另一列中与第一个片段相对应的翻译。</para>
+      </listitem>
+    </orderedlist>
+
+    <para>这样操作几次之后，选择<menuchoice><guimenuitem>编辑</guimenuitem><guimenuitem>重新对齐</guimenuitem></menuchoice>，更新其他句段。</para>
+
+    <para>要单独调整一个及以上的片段，选择这些片段，然后按<userinput>U</userinput> (<guilabel>上移</guilabel>) or <userinput>D</userinput> (<guilabel>下移</guilabel>).</para>
+
+    <para>在创建翻译记忆库时，只有每一行上的 <guilabel>Keep</guilabel>  框中打上对勾才能被添加到翻译记忆中。</para>
+
+    <para>当两列对齐完毕后，点击 <guibutton>Save TMX...</guibutton> 创建翻译记忆库。</para>
+  </section>
+</section>

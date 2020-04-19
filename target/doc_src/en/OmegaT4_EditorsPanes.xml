@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<chapter id="panes">
+  <title>窗格</title>
+
+  <para>主窗口由若干窗格、主菜单和状态栏组成。您可以改变任何一个窗格的位置，甚至可以通过点击窗格的名称并拖动将其分离成独立的窗口。根据窗格的状态，其右上角会显示不同的符号：</para>
+
+  <note>
+    <para>如果无法看到所有窗格（已打开或最小化），按下 <guisubmenu> 选项 &gt; 恢复主窗口 </guisubmenu>将其恢复为安装时定义的状态。</para>
+  </note>
+
+  <table>
+    <title>窗格部件</title>
+
+    <tgroup cols="2">
+      <colspec align="left" colnum="1"/>
+
+      <tbody>
+        <row>
+          <entry><inlinemediaobject>
+              <imageobject role="html">
+                <imagedata fileref="images/Minimize.png" width="60%"/>
+              </imageobject>
+
+              <imageobject role="fo">
+                <imagedata fileref="images/Minimize.png" width="40%"/>
+              </imageobject>
+            </inlinemediaobject></entry>
+
+          <entry>最小化窗格，这样只有其名称显示在窗口底部</entry>
+        </row>
+
+        <row>
+          <entry><inlinemediaobject>
+              <imageobject role="html">
+                <imagedata fileref="images/Maximize.png" width="60%"/>
+              </imageobject>
+
+              <imageobject role="fo">
+                <imagedata fileref="images/Maximize.png" width="40%"/>
+              </imageobject>
+            </inlinemediaobject></entry>
+
+          <entry>最大化窗格</entry>
+        </row>
+
+        <row>
+          <entry><inlinemediaobject>
+              <imageobject role="html">
+                <imagedata fileref="images/Restore.png" width="60%"/>
+              </imageobject>
+
+              <imageobject role="fo">
+                <imagedata fileref="images/Restore.png" width="40%"/>
+              </imageobject>
+            </inlinemediaobject></entry>
+
+          <entry>恢复最大化之前的布局</entry>
+        </row>
+
+        <row>
+          <entry><inlinemediaobject>
+              <imageobject role="html">
+                <imagedata fileref="images/Undock.png" width="60%"/>
+              </imageobject>
+
+              <imageobject role="fo">
+                <imagedata fileref="images/Undock.png" width="40%"/>
+              </imageobject>
+            </inlinemediaobject></entry>
+
+          <entry>将窗格从主窗口中分离出来</entry>
+        </row>
+
+        <row>
+          <entry><inlinemediaobject>
+              <imageobject role="html">
+                <imagedata fileref="images/Dock.png" width="60%"/>
+              </imageobject>
+
+              <imageobject role="fo">
+                <imagedata fileref="images/Dock.png" width="40%"/>
+              </imageobject>
+            </inlinemediaobject></entry>
+
+          <entry>将窗格放回主窗口内</entry>
+        </row>
+      </tbody>
+    </tgroup>
+  </table>
+
+  <para>如果有需要，可以重叠窗格如果这样操作，窗格将在顶部显示标签卡。可以拖动窗格之间的分隔线以调整窗格大小。如果您忘记了对用户界面所做过的更改，随时都可以用 <guimenuitem> 选项 → 恢复主窗口</guimenuitem> 回到原始布局状态</para>
+
+  <para>可以将文件拖放到各个窗格中，窗格会有所响应。<itemizedlist>
+      <listitem>
+        <para>编辑器窗格：如果拖动 OmegaT 项目文件（<filename>omegat.project</filename>） 到此窗格，相应的项目将会打开，在此之前会关闭已打开的项目。其他拖进去的文件会复制到  <filename>source</filename> 文件夹中。这也适用于 <link linkend="windows.projectfiles">Project files</link> 窗口。</para>
+      </listitem>
+
+      <listitem>
+        <para>模糊匹配窗格：拖进去的 <filename>.tmx</filename> 文件会复制到 <filename>tm</filename> 文件夹。</para>
+      </listitem>
+
+      <listitem>
+        <para>词汇表窗格：拖入的带有已知词汇表扩展名（<filename>.txt</filename>、 <filename>.tab</filename>等）的文件将会复制到 <filename>glossary</filename> 文件夹中。</para>
+      </listitem>
+    </itemizedlist></para>
+
+  <section id="editor.pane">
+    <title>编辑器</title>
+
+    <para>在此输入和编辑翻译。编辑器窗格显示部分已翻译的文档文本：已翻译的文本会显示译文，同时未翻译的文本以原始语言显示。所显示的文本会划分为句段，您可以在文档中滚动并双击任意句段将其打开并进行编辑。在上述情况下，已翻译的句段以黄色显示。</para>
+
+    <para>上述句段的其中之一是当前句段。该句段分为两部分显示。上半部分以原语言显示，为带绿色背景色的粗体字符；下半部分是编辑区域，以标记结尾：标记格式为 <literal>&lt;segment nnnn&gt;</literal>， 其中 nnnn 是项目中的一些句段。 以上半部分为参照，并用您的翻译替换或修改编辑区内容。</para>
+
+    <para>注意：遇到非独特句段，标记会显示为 <literal>&lt;segment nnnn +yy more&gt;。在此情况下，yy 是此句段在项目中其他地方出现的次数。</para>
+
+    <para>根据首选的编辑行为，未译句段的编辑区可能为空、包含原文文本或包含与此待译字符串最相似的字符串译文。当前往另一个句段时，此译文会加以验证并保存。如果您想要让译文与原文相同，只需删除编辑区中的所有文本（用 <keycap>Ctrl+A</keycap> 选中所有内容并用 <keycap>Del</keycap> 删除。OmegaT 能保存与原文完全相同的译文。这对于包含商标、名称或其他专有名词，或包含无需翻译的第三方语言句段的文档非常有帮助。参见 <emphasis>翻译编辑</emphasis> 以获得更多信息。</para>
+
+    <para>如果在编辑器窗格上点击右键，会弹出一个菜单，提供 <emphasis role="bold"> 剪切、复制、粘贴</emphasis> （即与 <keycombo> <keycap>Ctrl</keycap> <keycap>X</keycap> </keycombo>, <keycombo> <keycap>Ctrl</keycap> <keycap>C</keycap> </keycombo> 和 <keycombo> <keycap>Ctrl</keycap> <keycap>V</keycap> </keycombo> 的作用相同）、 <emphasis role="bold">跳转到句段</emphasis> 和 <emphasis role="bold">增加术语词条</emphasis> 功能。
+此外，如果是在打开的句段上点击右键，还会提供与 <emphasis role="bold">备选翻译</emphasis> 相关的其它选项，例如跳转到另一个非独特句段</para>
+
+    <para>可以从主窗口的任何地方拖动文本并将其放入该句段。从译文片段之外拖来的文本会复制过来，而从片段内拖来的文本则会移动过来。
+</para>
+
+    <para>默认情况下，如果用键盘而非鼠标的话，无法在原文句段中选择单词。按下 <keycap>F2</keycap> 键可以用键盘上的方向键将光标移入源语言句段（或编辑器内的任何地方）。此模式下， “<guilabel>光标锁定</guilabel>”显示在窗格底部。如果要返回标准模式“<guilabel>光标解锁</guilabel>”，再次按下 <keycap>F2</keycap> 键。</para>
+  </section>
+
+  <section>
+    <title>模糊匹配</title>
+
+    <para>The match viewer shows the most similar segments from translation
+    memories, both from internal project translation memory created in real
+    time as you translate your project and from ancillary translation memories
+    you have imported from your earlier jobs, or received from your client or
+    translation agency.</para>
+
+    <para>When you move to the next segment, the first fuzzy match (the one
+    with the best matching percentage) is automatically selected. You may
+    select a different match by pressing <guimenuitem>Ctrl+2, 3, 4, or
+    5</guimenuitem>. Of course, pressing <keycombo>
+        <keycap>Ctrl</keycap>
+
+        <keycap>5</keycap>
+      </keycombo> will have no effect, if there is no match #5. To use the
+    selected match in your translation, use
+    <guimenuitem>Ctrl+R</guimenuitem> to replace the target field with the match or use
+    <guimenuitem>Ctrl+I </guimenuitem> to insert it at the cursor position.</para>
+
+    <para>The matching percentage is roughly equivalent to taking the number
+    of common words in the matched and the matching segment and dividing by
+    the number of words in the longer of the two. The selected fuzzy match is
+    highlighted in bold, words that are missing in the segment you are
+    translating are colored blue and words adjacent to the missing parts
+    green. In the above example the source segment is <emphasis role="bold">Context menu command</emphasis>. The top match is 100%,
+    because all words match. So do the next two matches, and the match #4 is
+    similar, but different. The line with the matching percentage also
+    includes the name of the translation memory containing the match. If there's no file name displayed,
+    the source is the internal project translation memory. Orphan
+    segments (the match #2) describe segments in the default project
+    translation memory that have no corresponding source segment.</para>
+  </section>
+
+  <section>
+    <title>词汇表</title>
+
+    <para>词汇表窗格允许您访问在词汇表文件中建立的语言表达集和专业术语集。它会显示出现在当前句段中的词汇的翻译。如同之前的模糊匹配例子，下方例子中的源语句段为“<emphasis>Context menu command</emphasis>”，显示的术语能够在可用词汇表中找到（Microsoft 名词集和斯洛文尼亚 Linux 用户组词汇表）。</para>
+
+    <para>If you have TransTips option activated (<guimenuitem>Options →
+    TransTips</guimenuitem>), you can right click on the highlighted word in
+    the source segment to open a pop-up menu with suggested translation, as
+    offered by your glossary. Selecting one of them will insert it at the
+    current cursor position into the target segment. You can also highlight
+    your preferred alternative in the glossary pane and insert it into the
+    target by right clicking on the selection.</para>
+  </section>
+
+  <section>
+    <title>词典</title>
+
+    <para>Dictionaries are the electronic equivalents of printed dictionaries
+    like Merriam Webster, Duden, Larousse etc., that you may have on your
+    desk. See more about them in the chapter on <link linkend="appendix.dictionaries">Dictionaries</link></para>
+  </section>
+
+  <section>
+    <title>机器翻译</title>
+
+    <para>The machine translation pane, when opened, contains the suggestions
+    by machine translation tools for the current segment. Press
+    <keysym>Ctrl+M</keysym> to replace the translation of the current segment
+    with the suggested translation.</para>
+  </section>
+
+  <section>
+    <title>多重译文</title>
+
+    <para>A given source segment may require several different translations,
+    depending on the context. If the current translation of the segment does
+    not fit, the user can select <guisubmenu>Edit → Create Alternative
+    Translation</guisubmenu>. The target text entered after that will be
+    treated as an alternative translation of the source segment. You can
+    define one of the alternative - for instance the most probable among them
+    - as default translation by selecting <guisubmenu>Edit → Use as Default
+    Translation</guisubmenu></para>
+  </section>
+
+  <section>
+    <title>备注</title>
+
+    <para>译员可以给打开的句段添加备注，比如之后返回该句段重新翻译，检查备选翻译是否正确，或者询问同事的意见。 您可以通过选择 <guisubmenu>转到 → 下一条备注</guisubmenu> 和 <guisubmenu>转到 → 上一条备注</guisubmenu> 进行浏览。</para>
+  </section>
+
+  <section>
+    <title>注释</title>
+
+    <para>一些翻译工作中的特殊文件类型，如 PO 文件，允许添加注释。这样译员可以获得待翻译句段的上下文。在下方的例子中，PO 文件的作者给译员设置了警告，以检查译文长度：</para>
+  </section>
+
+  <section>
+    <title>状态栏</title>
+
+    <para>状态栏在主窗口底部显示工作流的相关信息。它把正在进行的特定操作信息反馈给用户。它还显示当前句段中模糊匹配的数量和术语匹配的数量。</para>
+
+    <para>右下角的计数器跟踪翻译进展（左侧一栏的数字代表上方的数）</para>
+
+    <table>
+      <title>主窗口 - 计数</title>
+
+      <tgroup cols="2">
+        <colspec align="left" colnum="1"/>
+
+        <tbody>
+          <row>
+            <entry>27/27</entry>
+
+            <entry>片段数 - 已译/总量（当前文件）</entry>
+          </row>
+
+          <row>
+            <entry>9319/16338</entry>
+
+            <entry>独特片段数 - 已译/总量（项目中）</entry>
+          </row>
+
+          <row>
+            <entry>31175</entry>
+
+            <entry>项目中的句段总数（包括重复）</entry>
+          </row>
+
+          <row>
+            <entry>103/114</entry>
+
+            <entry>当前句段原文和译文的字符数</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+
+    <para>
+从实际角度看，最为重要的一对数字是第二对：它告诉您迄今为已完成的工作量，以及和总工作量或第二个数字之间的关系。例子中的项目已完成，所有独特句段已翻译完毕。</para>
+  </section>
+</chapter>
