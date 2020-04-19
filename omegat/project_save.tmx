@@ -1690,8 +1690,8 @@
       <tuv lang="en">
         <seg>Note that all the tmx files in the /tm repository are parsed when the project is opened, so putting all different TMs you may have on hand into this folder may unnecessarily slow OmegaT down.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T041903Z" creationid="hp" creationdate="20200418T072036Z">
-        <seg>注意在打开项目时，会解析 /tm 仓库中的所有 tmx 文件，因此将手头各种翻译记忆库全放进此文件夹可能会不必要地拖慢 OmegaT。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T042002Z" creationid="hp" creationdate="20200418T072036Z">
+        <seg>注意：在打开项目时，会解析 /tm 仓库中的所有 tmx 文件，因此将手头各种翻译记忆库全放进此文件夹可能会不必要地拖慢 OmegaT。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1730,8 +1730,8 @@
       <tuv lang="en">
         <seg>Note that the TMX files in the tm folder can be compressed with gzip.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T041225Z" creationid="Liliu" creationdate="20200419T041225Z">
-        <seg>值得注意的是，tm 文件夹下的 TMX 文件可以压缩为 gzip。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T042539Z" creationid="Liliu" creationdate="20200419T041225Z">
+        <seg>注意，tm 文件夹下的 TMX 文件可以压缩为 gzip。</seg>
       </tuv>
     </tu>
     <tu>
