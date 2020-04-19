@@ -1119,6 +1119,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you have no doubt that a TMX is more accurate than the &lt;f0&gt;project_save.tmx&lt;/f0&gt; of OmegaT, put this TMX in /tm/enforce to overwrite existing default translations unconditionally.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T042843Z" creationid="Liliu" creationdate="20200419T042843Z">
+        <seg>如果您确信某个 TMX 比 OmegaT 的 &lt;f0&gt;project_save.tmx&lt;/f0&gt; 更靠谱，请将此 TMX 放到 /tm/enforce 中来无条件地覆盖现有的默认翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you need assistance with any aspect of OmegaT, feel free to join the &lt;u1&gt;OmegaT users group.&lt;/u1&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T034732Z" creationid="DSS" creationdate="20200418T124736Z">
