@@ -888,8 +888,8 @@
       <tuv lang="en">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T035518Z" creationid="Liliu" creationdate="20200419T035518Z">
-        <seg>例如（如果按默认值），使用来自辅助翻译记忆库的翻译并加上 &lt;e3&gt; [模糊]&lt;/e3&gt; 前缀， 这样译者可以在后面检查带有此标签的片段是否已正确翻译 &lt;m4&gt; &lt;g5&gt;。&lt;/g5&gt; &lt;/m4&gt;</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052323Z" creationid="Liliu" creationdate="20200419T035518Z">
+        <seg>例如（如果按默认值），使用来自辅助翻译记忆库的翻译并加上 &lt;e3&gt; [模糊]&lt;/e3&gt; 前缀， 这样译者可以在后面检查带有此标签的句段是否已正确翻译 &lt;m4&gt; &lt;g5&gt;。&lt;/g5&gt; &lt;/m4&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1089,8 +1089,8 @@
       <tuv lang="en">
         <seg>If the source segment in one of the ancillary TMs is identical to the text being translated, OmegaT acts as defined in the &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Editing Behavior...&lt;/g2&gt; &lt;/m0&gt; dialog window.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T035231Z" creationid="Liliu" creationdate="20200419T035123Z">
-        <seg>如果辅助翻译记忆库中有与待译文本完全相同的原文片段，OmegaT 会按照 &lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt; &lt;g2&gt;编辑行为...&lt;/g2&gt; &lt;/m0&gt; 对话框窗口中的内容进行操作。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052315Z" creationid="Liliu" creationdate="20200419T035123Z">
+        <seg>如果辅助翻译记忆库中有与待译文本完全相同的原文句段，OmegaT 会按照 &lt;m0&gt; &lt;g1&gt;选项&lt;/g1&gt; &lt;g2&gt;编辑行为...&lt;/g2&gt; &lt;/m0&gt; 对话框窗口中的内容进行操作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2678,8 +2678,8 @@
       <tuv lang="en">
         <seg>The best thing of course is to use OmegaT-specific TMX files (see above), so that the in-line formatting within the segment is retained.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T034625Z" creationid="Liliu" creationdate="20200419T034625Z">
-        <seg>当然，最好是使用 OmegaT 专用的 TMX 文件（见前文），这样能够保留片段中的内联格式。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052309Z" creationid="Liliu" creationdate="20200419T034625Z">
+        <seg>当然，最好是使用 OmegaT 专用的 TMX 文件（见前文），这样能够保留句段中的内联格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2774,8 +2774,8 @@
       <tuv lang="en">
         <seg>The last segment with the identical source text will thus prevail (Note: of course it makes more sense to avoid this to happen in the first place).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T041115Z" creationid="Liliu" creationdate="20200419T041034Z">
-        <seg>因此，对于有着完全相同的原文文本的片段，会采用最后一个（注意：显然，先考虑避免出现这种情况会更有意义）。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052326Z" creationid="Liliu" creationdate="20200419T041034Z">
+        <seg>因此，对于有着完全相同的原文文本的句段，会采用最后一个（注意：显然，先考虑避免出现这种情况会更有意义）。</seg>
       </tuv>
     </tu>
     <tu>
