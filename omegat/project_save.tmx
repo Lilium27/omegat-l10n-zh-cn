@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Copy Support Info</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120721Z" creationid="DSS" creationdate="20200419T120721Z">
+        <seg>软件支持信息(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Cycle</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100945Z" creationid="yangzy" creationdate="20200419T100945Z">
@@ -2516,6 +2524,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>DictZip from JDict (GPL)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120614Z" creationid="DSS" creationdate="20200419T120614Z">
+        <seg>DictZip from JDict (GPL 许可)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionaries already installed:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094935Z" creationid="yangzy" creationdate="20200419T094935Z">
@@ -2560,6 +2576,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094936Z" creationid="yangzy" creationdate="20200419T094936Z">
         <seg>词典文件文件夹：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Diff (GPL)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120427Z" creationid="DSS" creationdate="20200419T120427Z">
+        <seg>Diff (GPL 许可)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5099,6 +5123,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>LanguageTool (LGPL License and others)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120517Z" creationid="DSS" creationdate="20200419T120517Z">
+        <seg>LanguageTool (LGPL 和其他许可)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LanguageTool API version mismatch</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100029Z" creationid="yangzy" creationdate="20200419T100029Z">
@@ -5215,6 +5247,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110715Z" creationid="yangzy" creationdate="20200419T110129Z">
         <seg>最近变更...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Last changes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120703Z" creationid="DSS" creationdate="20200419T120703Z">
+        <seg>最近更新</seg>
       </tuv>
     </tu>
     <tu>
@@ -6313,6 +6353,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115250Z" creationid="DSS" creationdate="20200419T115250Z">
         <seg>OmegaT 是 Keith Godfrey 的作品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT license</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120643Z" creationid="DSS" creationdate="20200419T120643Z">
+        <seg>OmegaT 许可证</seg>
       </tuv>
     </tu>
     <tu>
@@ -11547,6 +11595,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>juniversalchardet (GPL)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120609Z" creationid="DSS" creationdate="20200419T120609Z">
+        <seg>juniversalchardet (GPL 许可)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>left justification</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065329Z" creationid="hp" creationdate="20200418T065329Z">
@@ -11559,6 +11615,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075455Z" creationid="hp" creationdate="20200418T075455Z">
         <seg>在 ODF writer 中加载译文文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>mALIGNa (MIT License)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120623Z" creationid="DSS" creationdate="20200419T120623Z">
+        <seg>mALIGNa (MIT 许可)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11771,6 +11835,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>slf4j (MIT License)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120604Z" creationid="DSS" creationdate="20200419T120604Z">
+        <seg>slf4j (MIT 许可)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>source</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110209Z" creationid="yangzy" creationdate="20200419T110209Z">
@@ -11855,6 +11927,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075454Z" creationid="hp" creationdate="20200418T075454Z">
         <seg>对它进行翻译并创建译文 ODT 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>trilead-ssh2 (Trilead SSH license)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120432Z" creationid="DSS" creationdate="20200419T120432Z">
+        <seg>trilead-ssh2 (Trilead SSH 许可)</seg>
       </tuv>
     </tu>
     <tu>
