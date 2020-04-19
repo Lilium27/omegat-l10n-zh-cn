@@ -2426,6 +2426,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initializing</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T101747Z" creationid="Liliu" creationdate="20200419T101747Z">
+        <seg>初始化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initially empty, this folder will contain dictionaries you have added to the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T044846Z" creationid="Liliu" creationdate="20200419T044846Z">
