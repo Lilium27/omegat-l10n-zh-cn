@@ -1480,6 +1480,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It may happen, that translation memories, available in the &lt;f0&gt;tm&lt;/f0&gt; subfolder, contain segments with identical source text, but differing targets.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T035834Z" creationid="Liliu" creationdate="20200419T035834Z">
+        <seg>可能会出现这种情况，&lt;f0&gt;tm&lt;/f0&gt; 子文件夹中的翻译记忆库包含与原文相同的句段，但译文不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It should be noted that when &lt;a0&gt;OmegaT&lt;/a0&gt; is in RTL mode, both source and target are displayed in RTL mode.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070247Z" creationid="hp" creationdate="20200418T070247Z">
@@ -2303,6 +2311,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120248Z" creationid="DSS" creationdate="20200418T120248Z">
         <seg>同步文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX files are read sorted by their names and segments within a given TMX file line by line.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T040155Z" creationid="Liliu" creationdate="20200419T040155Z">
+        <seg>在给定的 TMX 文件中，TMX 文件的名称和句段是逐行读取的。</seg>
       </tuv>
     </tu>
     <tu>
