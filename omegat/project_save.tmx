@@ -1432,6 +1432,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initially empty, this folder will contain dictionaries you have added to the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T044846Z" creationid="Liliu" creationdate="20200419T044846Z">
+        <seg>文件夹一开始是空的，它将包含您加入项目中的词典。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initially, that is when the project is created, the main TM of the project, &lt;f0&gt;project_save.tmx&lt;/f0&gt; is empty.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T025847Z" creationid="hp" creationdate="20200418T071542Z">
@@ -2203,6 +2211,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;l0&gt;Dictionaries&lt;/l0&gt; for more on this subject.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T044914Z" creationid="Liliu" creationdate="20200419T044914Z">
+        <seg>关于此主题的更多信息，请参阅 &lt;l0&gt;Dictionaries&lt;/l0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;l1&gt;Segmentation Setup preferences&lt;/l1&gt; for more information on segmentation rules.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T144143Z" creationid="hp" creationdate="20200418T050533Z">
@@ -2676,6 +2692,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The penalty applies to all three match percentages: matches 75, 80, 90 will in this case be lowered to 45, 50, 60.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T044746Z" creationid="Liliu" creationdate="20200419T044746Z">
+        <seg>三种匹配度百分比都会施加罚分：匹配度 75、80、90 在这个案例中会降为 45、50、60。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The predominant way of segmenting the sources is the sentence-level segmenting, so this check box should in a normal case be left checked.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T143521Z" creationid="hp" creationdate="20200418T041635Z">
@@ -3000,6 +3024,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050147Z" creationid="hp" creationdate="20200418T050147Z">
         <seg>这个外部命令不能包含“管道”等，因此建议调用一个脚本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This folder is initially empty.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T044927Z" creationid="Liliu" creationdate="20200419T044927Z">
+        <seg>该子文件夹一开始是空的。</seg>
       </tuv>
     </tu>
     <tu>
