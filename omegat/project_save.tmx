@@ -1225,8 +1225,8 @@
       <tuv lang="en">
         <seg>If you place such translation memory files in the &lt;f6&gt;/tm/&lt;/f6&gt; subfolder of a project, OmegaT will automatically search them for similar segments, called "fuzzy matches".</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T034525Z" creationid="DSS" creationdate="20200418T124525Z">
-        <seg>如果您把这种翻译记忆文件放在项目的 &lt;f6&gt;/tm/&lt;/f6&gt; 子文件夹，则 OmegaT 会自动在其中搜索类似的片段（称为“模糊匹配”）。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052217Z" creationid="DSS" creationdate="20200418T124525Z">
+        <seg>如果您把这种翻译记忆文件放在项目的 &lt;f6&gt;/tm/&lt;/f6&gt; 子文件夹，则 OmegaT 会自动在其中搜索类似的句段（称为“模糊匹配”）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2581,8 +2581,8 @@
       <tuv lang="en">
         <seg>Texted dragged from outside the target segment is copied, while text dragged from within the segment is moved.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134613Z" creationid="Liliu" creationdate="20200418T134613Z">
-        <seg>从译文片段之外拖来的文本会复制过来，而从片段内拖来的文本则会移动过来。
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052232Z" creationid="Liliu" creationdate="20200418T134613Z">
+        <seg>从译文句段之外拖来的文本会复制过来，而从句段内拖来的文本则会移动过来。
 </seg>
       </tuv>
     </tu>
@@ -4158,8 +4158,8 @@
       <tuv lang="en">
         <seg>number of segments - translated vs total for the current file</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134659Z" creationid="Liliu" creationdate="20200418T134659Z">
-        <seg>片段数 - 已译/总量（当前文件）</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052237Z" creationid="Liliu" creationdate="20200418T134659Z">
+        <seg>句段数 - 已译/总量（当前文件）</seg>
       </tuv>
     </tu>
     <tu>
