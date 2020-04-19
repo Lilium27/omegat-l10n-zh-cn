@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -650,6 +650,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074442Z" creationid="hp" creationdate="20200418T074442Z">
         <seg> &lt;f0&gt;https://repo_for_OmegaT_team_project&lt;/f0&gt; 的所有内容映射到本地 OmegaT 项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Allow to save password locally as plain text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T103637Z" creationid="Liliu" creationdate="20200419T103637Z">
+        <seg>允许将密码以纯文本形式在本地保存。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2017,6 +2025,38 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123824Z" creationid="DSS" creationdate="20200418T123824Z">
         <seg>生成译文文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Git '{0}' did nothing because there were no changes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T103845Z" creationid="Liliu" creationdate="20200419T103845Z">
+        <seg>Git“{0}”什么也没做，因为没有任何更改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Git '{0}' error: {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T103855Z" creationid="Liliu" creationdate="20200419T103855Z">
+        <seg>Git“{0}”错误：{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Git '{0}' execution finished successfully</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T103646Z" creationid="Liliu" creationdate="20200419T103646Z">
+        <seg>Git“{0}”执行成功完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Git '{0}' execution start</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T103642Z" creationid="Liliu" creationdate="20200419T103642Z">
+        <seg>Git“{0}”执行开始</seg>
       </tuv>
     </tu>
     <tu>
