@@ -4272,10 +4272,26 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Script "{0}" bound to slot #{1}.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T102507Z" creationid="yangzy" creationdate="20200419T102436Z">
+        <seg>脚本 "{0}" 绑定至槽 #{1}。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Script "{0}" saved.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101830Z" creationid="yangzy" creationdate="20200419T101830Z">
         <seg>脚本“{0}”已保存。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Script "{0}" unbound from slot #{1}.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T102501Z" creationid="yangzy" creationdate="20200419T102501Z">
+        <seg>脚本 "{0}" 与槽 #{1} 解除绑定</seg>
       </tuv>
     </tu>
     <tu>
