@@ -1917,8 +1917,8 @@
       <tuv lang="en">
         <seg>Segmentation...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050151Z" creationid="hp" creationdate="20200418T050151Z">
-        <seg>片段分割...</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T025934Z" creationid="hp" creationdate="20200418T050151Z">
+        <seg>句段分割...</seg>
       </tuv>
     </tu>
     <tu>
