@@ -929,8 +929,8 @@
       <tuv lang="en">
         <seg>If the project uses specific filters and segmentation parameters, both the &lt;f0&gt;filters.xml&lt;/f0&gt; and &lt;f1&gt;segmentation.conf&lt;/f1&gt; files must be added to the versioning system and published on the server.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073645Z" creationid="hp" creationdate="20200418T073645Z">
-        <seg>如果项目使用专用过滤器和片段分割参数， &lt;f0&gt;filters.xml&lt;/f0&gt; 和 &lt;f1&gt;segmentation.conf&lt;/f1&gt; 文件必须要添加到版本控制系统，并发布到服务器上。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T030527Z" creationid="hp" creationdate="20200418T073645Z">
+        <seg>如果项目使用专用过滤器和句段分割参数， &lt;f0&gt;filters.xml&lt;/f0&gt; 和 &lt;f1&gt;segmentation.conf&lt;/f1&gt; 文件必须要添加到版本控制系统，并发布到服务器上。</seg>
       </tuv>
     </tu>
     <tu>
