@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -744,8 +744,8 @@
       <tuv lang="en">
         <seg>Few more things to remember</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123957Z" creationid="DSS" creationdate="20200418T123957Z">
-        <seg>其他一些需要记住的东西</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T034326Z" creationid="DSS" creationdate="20200418T123957Z">
+        <seg>其他一些提示</seg>
       </tuv>
     </tu>
     <tu>
@@ -921,8 +921,8 @@
       <tuv lang="en">
         <seg>However, if you made mistakes when you typed the formatting tags, your translated files might fail to open.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123804Z" creationid="DSS" creationdate="20200418T123804Z">
-        <seg>无论如何当您输入了错误的格式标签，那么已译文件可能无法打开。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T034244Z" creationid="DSS" creationdate="20200418T123804Z">
+        <seg>如果您输入了错误的格式标签，已译文件可能无法打开。</seg>
       </tuv>
     </tu>
     <tu>
@@ -937,8 +937,8 @@
       <tuv lang="en">
         <seg>If a file does not load into the &lt;g0&gt;Editor&lt;/g0&gt; pane, then it could be that it is in a format that doesn't work in OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T030744Z" creationid="DSS" creationdate="20200418T124054Z">
-        <seg>如果某个文件无法加载到 &lt;g0&gt;编辑器窗&lt;/g0&gt; 格，那么该文件可能是OmegaT无法处理的格式。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T034344Z" creationid="DSS" creationdate="20200418T124054Z">
+        <seg>如果某个文件无法加载到 &lt;g0&gt;编辑器&lt;/g0&gt; 窗格，那么该文件可能是 OmegaT 无法处理的格式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2045,8 +2045,8 @@
       <tuv lang="en">
         <seg>See &lt;m1&gt;&lt;g2&gt;Options&lt;/g2&gt;&lt;g3&gt;Preferences...&lt;/g3&gt;&lt;g4&gt;File Filters&lt;/g4&gt;&lt;/m1&gt; for a list of file formats that OmegaT can handle.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T030758Z" creationid="DSS" creationdate="20200418T124149Z">
-        <seg>请参阅 &lt;m1&gt;&lt;g2&gt;选项&lt;/g2&gt;&lt;g3&gt;首选项...&lt;/g3&gt;&lt;g4&gt;文件过滤器&lt;/g4&gt;&lt;/m1&gt;了解OmegaT能处理的文件格式列表。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T034358Z" creationid="DSS" creationdate="20200418T124149Z">
+        <seg>请参阅 &lt;m1&gt;&lt;g2&gt;选项&lt;/g2&gt;&lt;g3&gt;首选项...&lt;/g3&gt;&lt;g4&gt;文件过滤器&lt;/g4&gt;&lt;/m1&gt;了解 OmegaT 能处理的文件格式列表。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2542,8 +2542,8 @@
       <tuv lang="en">
         <seg>The tags in OmegaT are greyed, so they are easy to recognise.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T030306Z" creationid="DSS" creationdate="20200418T123728Z">
-        <seg>OmegaT 中的标记为灰色，因此很容易识别。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T034200Z" creationid="DSS" creationdate="20200418T123728Z">
+        <seg>OmegaT 中的标签为灰色，因此很容易识别。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2630,8 +2630,8 @@
       <tuv lang="en">
         <seg>They are protected, so that you cannot modify their contents, but you can delete them, enter them by hand or move them around in the target sentence.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T123742Z" creationid="DSS" creationdate="20200418T123742Z">
-        <seg>这些标签受到保护，这样您无法修改它们的内容，可以删除、手动输入或移动它们在目标语句中的位置。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T034222Z" creationid="DSS" creationdate="20200418T123742Z">
+        <seg>这些标签受到保护，您无法修改它们的内容，但是可以删除、手动输入或移动它们在目标语句中的位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2966,8 +2966,8 @@
       <tuv lang="en">
         <seg>To remind yourself of the project's initial settings, open the project properties dialog by pressing &lt;k0&gt;Ctrl+E&lt;/k0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T030346Z" creationid="DSS" creationdate="20200418T124234Z">
-        <seg>要让自己想起项目的最初设置，请按下 &lt;k0&gt;Ctrl+E&lt;/k0&gt; 打开项目设置对话框。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T034442Z" creationid="DSS" creationdate="20200418T124234Z">
+        <seg>想要了解项目的最初设置，请按下 &lt;k0&gt;Ctrl+E&lt;/k0&gt; 打开项目设置对话框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3382,8 +3382,8 @@
       <tuv lang="en">
         <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T034059Z" creationid="DSS" creationdate="20200418T124158Z">
-        <seg>您可以为每个新任务创建一个新项目，并且任何时候都可以往往项目中添加新的原文文档。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T034405Z" creationid="DSS" creationdate="20200418T124158Z">
+        <seg>您可以为每个新任务创建一个新项目，并且任何时候都可以往项目中添加新的原文文档。</seg>
       </tuv>
     </tu>
     <tu>
