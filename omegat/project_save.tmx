@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10,6 +10,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T112741Z" creationid="DSS" creationdate="20200419T112741Z">
         <seg>允许译文文件中存在空译文(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Also allow per-project external commands</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113024Z" creationid="Liliu" creationdate="20200419T113024Z">
+        <seg>同时允许每个项目自带外部命令(&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -939,6 +947,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101815Z" creationid="yangzy" creationdate="20200419T101815Z">
         <seg>加载脚本时发生错误：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An error occurred when trying to detect the project file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T111356Z" creationid="Liliu" creationdate="20200419T111356Z">
+        <seg>试图检测项目文件时出错。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2309,6 +2325,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>End rebase</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112025Z" creationid="Liliu" creationdate="20200419T112025Z">
+        <seg>结束变基</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Ensure the URL is correct.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101248Z" creationid="yangzy" creationdate="20200419T101200Z">
@@ -2389,6 +2413,22 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error retrieve {0} as remote project file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112059Z" creationid="Liliu" creationdate="20200419T112059Z">
+        <seg>将 {0} 作为远程项目文件检索时出错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error updating repository.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112315Z" creationid="Liliu" creationdate="20200419T112315Z">
+        <seg>更新仓库时出错。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error while reading MT results</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101121Z" creationid="yangzy" creationdate="20200419T101121Z">
@@ -2409,6 +2449,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101126Z" creationid="yangzy" creationdate="20200419T101126Z">
         <seg>错误 {0}: {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112835Z" creationid="Liliu" creationdate="20200419T112835Z">
+        <seg>错误：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4586,6 +4634,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Minutes:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112905Z" creationid="Liliu" creationdate="20200419T112905Z">
+        <seg>分钟数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mistranslated segments can of course be corrected later manually using &lt;g0&gt;Create Alternative Translation&lt;/g0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T053549Z" creationid="hp" creationdate="20200418T041722Z">
@@ -4878,6 +4934,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101831Z" creationid="yangzy" creationdate="20200419T101831Z">
         <seg>未设置脚本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Non-breakable space</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113040Z" creationid="Liliu" creationdate="20200419T113040Z">
+        <seg>不换行空格</seg>
       </tuv>
     </tu>
     <tu>
@@ -5343,6 +5407,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Opening team project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112250Z" creationid="Liliu" creationdate="20200419T112250Z">
+        <seg>打开团队项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Opens a new &lt;l0&gt;Search and replace window&lt;/l0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110054Z" creationid="yangzy" creationdate="20200419T110054Z">
@@ -5600,6 +5672,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please double-check it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T111433Z" creationid="Liliu" creationdate="20200419T111433Z">
+        <seg>请仔细检查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please enter the name of this set:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095532Z" creationid="Liliu" creationdate="20200419T095532Z">
@@ -5624,6 +5704,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please select the interval at which the project should be saved automatically, in minutes and seconds.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112858Z" creationid="Liliu" creationdate="20200419T112858Z">
+        <seg>请选择项目的自动保存间隔，单位为分钟和秒。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please select which behaviour is appropriate.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T093451Z" creationid="yangzy" creationdate="20200419T093350Z">
@@ -5644,6 +5732,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100025Z" creationid="yangzy" creationdate="20200419T100025Z">
         <seg>下载字典时发生错误。请再试一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Predefined credentials was not passed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112049Z" creationid="Liliu" creationdate="20200419T112041Z">
+        <seg>未传递预定义凭证。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6057,6 +6153,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remote repository network communication error: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112303Z" creationid="Liliu" creationdate="20200419T112303Z">
+        <seg>远程仓库网络通信出错：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove Script</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101832Z" creationid="yangzy" creationdate="20200419T101832Z">
@@ -6167,6 +6271,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110502Z" creationid="yangzy" creationdate="20200419T110050Z">
         <seg>用原文替换掉整个目标片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repository Credentials</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112240Z" creationid="Liliu" creationdate="20200419T112240Z">
+        <seg>仓库凭证</seg>
       </tuv>
     </tu>
     <tu>
@@ -6339,6 +6451,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Saving and Output</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112846Z" creationid="Liliu" creationdate="20200419T112846Z">
+        <seg>保存和输出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Saving and Output Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112843Z" creationid="Liliu" creationdate="20200419T112843Z">
+        <seg>保存和输出选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Script "{0}" bound to slot #{1}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T102507Z" creationid="yangzy" creationdate="20200419T102436Z">
@@ -6423,6 +6551,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110053Z" creationid="yangzy" creationdate="20200419T110053Z">
         <seg>查找并替换...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Seconds:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112913Z" creationid="Liliu" creationdate="20200419T112913Z">
+        <seg>秒数：</seg>
       </tuv>
     </tu>
     <tu>
@@ -6763,6 +6899,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipping.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112321Z" creationid="Liliu" creationdate="20200419T112321Z">
+        <seg>正在跳过。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>So do the next two matches, and the match #4 is similar, but different.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T054523Z" creationid="Liliu" creationdate="20200419T051854Z">
@@ -6885,6 +7029,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Start rebase</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112016Z" creationid="Liliu" creationdate="20200419T112016Z">
+        <seg>开始变基</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Start the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072506Z" creationid="hp" creationdate="20200418T072506Z">
@@ -6989,6 +7141,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Synchronisation of repositories</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112247Z" creationid="Liliu" creationdate="20200419T112247Z">
+        <seg>仓库同步</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Synchronised files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120248Z" creationid="DSS" creationdate="20200418T120248Z">
@@ -7017,6 +7177,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T040155Z" creationid="Liliu" creationdate="20200419T040155Z">
         <seg>在给定的 TMX 文件中，TMX 文件的名称和句段是逐行读取的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tab</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113054Z" creationid="Liliu" creationdate="20200419T113054Z">
+        <seg>制表符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113058Z" creationid="Liliu" creationdate="20200419T113058Z">
+        <seg>标签</seg>
       </tuv>
     </tu>
     <tu>
@@ -7129,6 +7305,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T112942Z" creationid="DSS" creationdate="20200419T112942Z">
         <seg>纯文本过滤器选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text to be removed</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113102Z" creationid="Liliu" creationdate="20200419T113102Z">
+        <seg>要删除的文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -8012,6 +8196,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This URL appears to be invalid.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T111428Z" creationid="Liliu" creationdate="20200419T111428Z">
+        <seg>此 URL 似乎无效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This applies also to the &lt;l2&gt;Project files&lt;/l2&gt; window.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134359Z" creationid="Liliu" creationdate="20200418T134359Z">
@@ -8092,6 +8284,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This command will be executed after Creating Translated Documents.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112953Z" creationid="Liliu" creationdate="20200419T112953Z">
+        <seg>在创建译文文档后将执行此命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This copies the selected files to the &lt;f2&gt;source&lt;/f2&gt; folder and reloads the project to import the new files.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200419T034741Z" creationid="qinxun" creationdate="20200419T034741Z">
@@ -8144,6 +8344,30 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110144Z" creationid="yangzy" creationdate="20200419T110144Z">
         <seg>此功能是团队项目特有的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is a Git repository.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T111403Z" creationid="Liliu" creationdate="20200419T111403Z">
+        <seg>这是一个 Git 仓库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is a Subversion repository.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T111411Z" creationid="Liliu" creationdate="20200419T111411Z">
+        <seg>这是一个 Subversion 仓库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is a valid project file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T111415Z" creationid="Liliu" creationdate="20200419T111415Z">
+        <seg>这是一个有效的项目文件。</seg>
       </tuv>
     </tu>
     <tu>
