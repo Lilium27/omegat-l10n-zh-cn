@@ -1105,8 +1105,32 @@
       <tuv lang="en">
         <seg>Active segment source</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T130913Z" creationid="Liliu" creationdate="20200419T130913Z">
-        <seg>活动原文句段</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131059Z" creationid="Liliu" creationdate="20200419T130913Z">
+        <seg>运行原文句段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Active segment source text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131054Z" creationid="Liliu" creationdate="20200419T131054Z">
+        <seg>运行句段原文文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Active segment target</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131108Z" creationid="Liliu" creationdate="20200419T131108Z">
+        <seg>运行句段译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Active segment target text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131120Z" creationid="Liliu" creationdate="20200419T131120Z">
+        <seg>运行句段译文文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -8905,6 +8929,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200419T034618Z" creationid="qinxun" creationdate="20200419T034618Z">
         <seg>更多信息请参阅&lt;e0&gt;分割规则&lt;/e0&gt;章节。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment marker text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131127Z" creationid="Liliu" creationdate="20200419T131127Z">
+        <seg>句段标记文本</seg>
       </tuv>
     </tu>
     <tu>
