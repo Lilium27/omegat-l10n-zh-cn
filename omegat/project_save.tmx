@@ -480,8 +480,8 @@
       <tuv lang="en">
         <seg>Click in the other column on the translation corresponding to the first segment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="qinxun" changedate="20200419T030736Z" creationid="qinxun" creationdate="20200419T030736Z">
-        <seg>点击另一列中与第一个片段相对应的翻译。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052347Z" creationid="qinxun" creationdate="20200419T030736Z">
+        <seg>点击另一列中与第一个句段相对应的翻译。</seg>
       </tuv>
     </tu>
     <tu>
