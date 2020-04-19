@@ -638,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionaries are the electronic equivalents of printed dictionaries like Merriam Webster, Duden, Larousse etc., that you may have on your desk.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052836Z" creationid="Liliu" creationdate="20200419T052836Z">
+        <seg>词典是纸质词典的电子版本，比如 Merriam Webster、Duden、Larousse 等等，您的桌面上可能正摆着一本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionary</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T143117Z" creationid="Liliu" creationdate="20200418T143117Z">
@@ -3894,8 +3902,8 @@
       <tuv lang="en">
         <seg>You can also highlight your preferred alternative in the glossary pane and insert it into the target by right clicking on the selection.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052802Z" creationid="Liliu" creationdate="20200419T052802Z">
-        <seg>您还可以在词汇表窗格中高亮标记想要使用的条目并通过在选区上右键点击来将其插入到译文中。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052821Z" creationid="Liliu" creationdate="20200419T052802Z">
+        <seg>您还可以在词汇表窗格中高亮标记想要使用的条目并通过在选区上单击右键将其插入到译文中。</seg>
       </tuv>
     </tu>
     <tu>
