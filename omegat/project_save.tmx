@@ -366,6 +366,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As a result of this,
+all settings will be at their defaults, due to which you
+may experience unexpected, but correct behaviour.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094624Z" creationid="yangzy" creationdate="20200419T094417Z">
+        <seg>此时，所有设置都将还原为默认值，因此你可能\n会遇到意外但正确的行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As above.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T074333Z" creationid="hp" creationdate="20200418T074333Z">
@@ -3057,8 +3067,8 @@ your home folder.</seg>
         <seg>The
 current folder will be used instead.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094342Z" creationid="yangzy" creationdate="20200419T094342Z">
-        <seg>将改用当前文件夹。\n</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094545Z" creationid="yangzy" creationdate="20200419T094342Z">
+        <seg>将改用当前文件夹为配置文件夹。\n</seg>
       </tuv>
     </tu>
     <tu>
@@ -3562,8 +3572,8 @@ current folder will be used instead.</seg>
         <seg>Therefore, the location of OmegaT's
 configuration folder cannot be reliably determined.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094325Z" creationid="yangzy" creationdate="20200419T094158Z">
-        <seg>因此，无法可靠地确定\n OmegaT 的配置文件夹位置。</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094518Z" creationid="yangzy" creationdate="20200419T094158Z">
+        <seg>因此，无法确定\n OmegaT 配置文件夹的位置。</seg>
       </tuv>
     </tu>
     <tu>
