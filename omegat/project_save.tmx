@@ -4209,6 +4209,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the filter has any options, you may change them by clicking Options.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121335Z" creationid="DSS" creationdate="20200419T121335Z">
+        <seg>如果过滤器有任何可选项，你可以通过点击选项按钮来更改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the original document was LTR, the display direction of the target document must be changed manually to RTL in its viewing application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070542Z" creationid="hp" creationdate="20200418T070542Z">
@@ -6183,6 +6191,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T043814Z" creationid="Liliu" creationdate="20200419T043814Z">
         <seg>注意：如果在第 3 步之前就从 /tm/enforce 中删除了 TMX，则根本不会保存任何强制修改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note: not all filters allow you to select an encoding.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121237Z" creationid="DSS" creationdate="20200419T121237Z">
+        <seg>注：不是所有过滤器都可以选择编码方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10288,6 +10304,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121322Z" creationid="DSS" creationdate="20200419T121322Z">
+        <seg>要编辑过滤器将处理的文件及使用的编码，请从列表中选中该过滤器然后点击编辑按钮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, double-click on the program you have downloaded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T112024Z" creationid="DSS" creationdate="20200419T112024Z">
@@ -10860,6 +10884,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T111022Z" creationid="yangzy" creationdate="20200419T111022Z">
         <seg>视图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>View or edit file filters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121250Z" creationid="DSS" creationdate="20200419T121250Z">
+        <seg>查看或编辑文件过滤器。</seg>
       </tuv>
     </tu>
     <tu>
