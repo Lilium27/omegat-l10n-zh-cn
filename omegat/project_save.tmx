@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -963,6 +963,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070327Z" creationid="hp" creationdate="20200418T070327Z">
         <seg>如上所述，OmegaT 标签是从左向右的字符串。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At the beginning of the installation you can select the language to be used during the installation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T111624Z" creationid="DSS" creationdate="20200419T111624Z">
+        <seg>在安装开始时，你可以选择安装过程中使用的语言。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3725,6 +3733,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100932Z" creationid="yangzy" creationdate="20200419T100151Z">
         <seg>安装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Installing OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T111601Z" creationid="DSS" creationdate="20200419T111601Z">
+        <seg>安装 OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -7912,6 +7928,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200419T030119Z" creationid="qinxun" creationdate="20200419T030119Z">
         <seg>仅当两个文件都被识别为 键=值 文件时才会出现此选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This package is bundled with Oracle's Java Runtime Environment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T111530Z" creationid="DSS" creationdate="20200419T111530Z">
+        <seg>这个包捆绑有 Oracle 的 Java 运行时环境（JRE）。</seg>
       </tuv>
     </tu>
     <tu>
