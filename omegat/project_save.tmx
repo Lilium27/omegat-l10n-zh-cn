@@ -1122,8 +1122,8 @@
       <tuv lang="en">
         <seg>In case there are non-unique segments in source documents, the Auto-propagation check box offers the user the following two possibilities as regards automatic translation: if checked, the first translated segment will be assumed as the default translation and its target text will be automatically used for later hits during the translation process.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T030033Z" creationid="hp" creationdate="20200418T041719Z">
-        <seg>如果原文文档中包含非独特句段，自动传播翻译复选框为用户提供了下面两种自动翻译的可能性：如果勾选，则第一个被翻译的片段将假定为默认翻译，其译文文本在翻译过程中会自动用于后继命中。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T030145Z" creationid="hp" creationdate="20200418T041719Z">
+        <seg>如果原文文档中包含非独特句段，自动传播翻译复选框为用户提供了下面两种自动翻译的可能性：如果勾选，则第一个被翻译的句段将假定为默认翻译，其译文文本在翻译过程中会自动用于后继命中。</seg>
       </tuv>
     </tu>
     <tu>
