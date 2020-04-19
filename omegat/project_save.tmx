@@ -4263,6 +4263,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here you may setup the source filename patterns of files the filter will process, customize the filenames of translated files, and select what encodings it will use for loading the file and saving its translated counterpart.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T124203Z" creationid="DSS" creationdate="20200419T124203Z">
+        <seg>在这里，您可以设置过滤器将要处理的文件的源文件名模式，自定义已翻译文件的文件名，并选择用于加载文件和保存已翻译副本的编码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Hide '{0}'</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101103Z" creationid="yangzy" creationdate="20200419T101103Z">
