@@ -1576,6 +1576,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Make a slight change anywhere in the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T041501Z" creationid="Liliu" creationdate="20200419T041501Z">
+        <seg>在项目中任意位置稍做改动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Make regular copies of the file /omegat/project_save.tmx to backup media, such as CD or DVD.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071215Z" creationid="hp" creationdate="20200418T071215Z">
@@ -1752,6 +1760,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: if TMX is removed from /tm/auto before step 3, no extra Translation Unit is added.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T041640Z" creationid="Liliu" creationdate="20200419T041640Z">
+        <seg>注意：如果在第 3 步之前就从 /tm/auto 中删除了 TMX，则不会添加任何其他翻译单元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: the segment marker displays &lt;l0&gt;&lt;segment nnnn +yy more&gt; when the segment is non-unique.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134511Z" creationid="Liliu" creationdate="20200418T134511Z">
@@ -1923,6 +1939,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T041440Z" creationid="Liliu" creationdate="20200419T041440Z">
+        <seg>打开项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Other dropped files will be copied to the &lt;f1&gt;source&lt;/f1&gt; folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134355Z" creationid="Liliu" creationdate="20200418T134355Z">
@@ -2039,6 +2063,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T150838Z" creationid="hp" creationdate="20200418T073534Z">
         <seg>将新建立的 OmegaT 项目发布到服务器上 (在SVG上点击&lt;c0&gt;commit&lt;/c0&gt;， &lt;c1&gt;commit&lt;/c1&gt; 之前，在 Git 上执行&lt;c2&gt;push&lt;/c2&gt; 操作).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Put the TMX in /tm/auto.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T041437Z" creationid="Liliu" creationdate="20200419T041437Z">
+        <seg>将 TMX 文件放入 /tm/auto 中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2432,6 +2464,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T034625Z" creationid="Liliu" creationdate="20200419T034625Z">
         <seg>当然，最好是使用 OmegaT 专用的 TMX 文件（见前文），这样能够保留片段中的内联格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The changes are displayed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T041454Z" creationid="Liliu" creationdate="20200419T041454Z">
+        <seg>更改会显示出来。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2928,6 +2968,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070258Z" creationid="hp" creationdate="20200418T070258Z">
         <seg>这意味着如果原文语言是从左向右的而目标语言是从右向左的，或反之，就可能必须在从右向左和从左向右模式之间来回切换，以便在各自的模式下查看原文并输入译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This modifies &lt;f0&gt;project_save.tmx&lt;/f0&gt; (by adding proper Translation Units from "auto" TMX)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T041635Z" creationid="Liliu" creationdate="20200419T041635Z">
+        <seg>这将会修改 &lt;f0&gt;project_save.tmx&lt;/f0&gt;（自“auto”TMX 文件中添加合适的翻译单元）</seg>
       </tuv>
     </tu>
     <tu>
