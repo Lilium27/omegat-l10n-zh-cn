@@ -4158,6 +4158,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Push failed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T104409Z" creationid="Liliu" creationdate="20200419T104409Z">
+        <seg>推送提交失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Put the TMX in /tm/auto.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T041437Z" creationid="Liliu" creationdate="20200419T041437Z">
