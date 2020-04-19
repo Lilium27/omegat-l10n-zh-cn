@@ -1094,6 +1094,16 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Close the current OmegaT instance
+3.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T103124Z" creationid="Liliu" creationdate="20200419T103124Z">
+        <seg>关闭当前的 OmegaT 实例
+3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comment:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T102632Z" creationid="yangzy" creationdate="20200419T102632Z">
@@ -1146,6 +1156,16 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101107Z" creationid="yangzy" creationdate="20200419T101107Z">
         <seg>复制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy &lt;project&gt;/omegat/project_save.tmx file into a safe location
+2.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T103049Z" creationid="Liliu" creationdate="20200419T103049Z">
+        <seg>复制 &lt;project&gt;/omegat/project_save.tmx 文件到安全地点
+2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4194,6 +4214,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove the project folder manually.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T103200Z" creationid="Liliu" creationdate="20200419T103200Z">
+        <seg>手动移除项目文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove translation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101802Z" creationid="yangzy" creationdate="20200419T101802Z">
@@ -5906,8 +5934,9 @@ configuration folder cannot be reliably determined.</seg>
         <seg>To be sure that no translation will be lost, you need to:
 1.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T102901Z" creationid="Liliu" creationdate="20200419T102844Z">
-        <seg>为了确认不丢失任何译文，您需要：1.</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T103058Z" creationid="Liliu" creationdate="20200419T102844Z">
+        <seg>为了确认不丢失任何译文，您需要：
+1.</seg>
       </tuv>
     </tu>
     <tu>
