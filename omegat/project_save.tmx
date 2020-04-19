@@ -2756,6 +2756,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The match viewer shows the most similar segments from translation memories, both from internal project translation memory created in real time as you translate your project and from ancillary translation memories you have imported from your earlier jobs, or received from your client or translation agency.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T050914Z" creationid="Liliu" creationdate="20200419T050914Z">
+        <seg>匹配查看器中显示了翻译记忆库中最相似的句段，来源既包括随着您对项目的翻译而实时创建的内部项目翻译记忆库，也包括来自您过往工作或从客户或翻译代理那里得到的辅助翻译记忆库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The memory named &lt;f5&gt;omegat&lt;/f5&gt; can be used by OmegaT itself, in future projects that you create.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T030503Z" creationid="DSS" creationdate="20200418T124504Z">
@@ -3692,6 +3700,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>When you move to the next segment, the first fuzzy match (the one with the best matching percentage) is automatically selected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T051001Z" creationid="Liliu" creationdate="20200419T051001Z">
+        <seg>当您移动至下一句段时，将自动选择第一个模糊匹配（拥有最佳匹配度百分比的句段）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T145723Z" creationid="hp" creationdate="20200418T070925Z">
@@ -3872,6 +3888,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072129Z" creationid="hp" creationdate="20200418T072129Z">
         <seg>一旦已经用其内容填充了 &lt;f0&gt;project-save.tmx&lt;/f0&gt; 文件，您可以考虑移除不需要的文件。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may select a different match by pressing &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T051030Z" creationid="Liliu" creationdate="20200419T051030Z">
+        <seg>您可以通过按下 &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt; 选择不同匹配。</seg>
       </tuv>
     </tu>
     <tu>
