@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Bookmarks</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113705Z" creationid="DSS" creationdate="20200419T113705Z">
+        <seg>书签(&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Browse...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094936Z" creationid="yangzy" creationdate="20200419T094936Z">
@@ -70,6 +78,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Comments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113739Z" creationid="DSS" creationdate="20200419T113739Z">
+        <seg>批注(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Compatibility with OmegaT 2.6</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113815Z" creationid="DSS" creationdate="20200419T113815Z">
+        <seg>兼容 OmegaT 2.6 (&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Cycle</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100945Z" creationid="yangzy" creationdate="20200419T100945Z">
@@ -82,6 +106,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T093630Z" creationid="yangzy" creationdate="20200419T093608Z">
         <seg>不检查 prinf 变量(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Do not unescape Unicode literals (\uXXXX)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113057Z" creationid="DSS" creationdate="20200419T113057Z">
+        <seg>不要解码 Unicode 文字（\\uXXXX）(&amp;D)</seg>
       </tuv>
     </tu>
     <tu>
@@ -130,6 +162,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095534Z" creationid="Liliu" creationdate="20200419T095534Z">
         <seg>帮助(&amp;H)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Index entries</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113703Z" creationid="DSS" creationdate="20200419T113703Z">
+        <seg>索引条目(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -198,10 +238,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Notes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113734Z" creationid="DSS" creationdate="20200419T113734Z">
+        <seg>备注(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Open Script...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101809Z" creationid="yangzy" creationdate="20200419T101809Z">
         <seg>打开脚本(&amp;O)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Presentation notes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113743Z" creationid="DSS" creationdate="20200419T113743Z">
+        <seg>演讲备注(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -250,6 +306,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100945Z" creationid="yangzy" creationdate="20200419T100945Z">
         <seg>句子式大小写(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Sheet Names</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113749Z" creationid="DSS" creationdate="20200419T113749Z">
+        <seg>工作表名称(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1053,6 +1117,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Android Resources</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113638Z" creationid="DSS" creationdate="20200419T113638Z">
+        <seg>Android 资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Any text, already translated and stored in those files, will appear among the fuzzy matches, if it is sufficiently similar to the text currently being translated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T034939Z" creationid="Liliu" creationdate="20200419T034939Z">
@@ -1263,6 +1335,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bookmark &amp;references</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113726Z" creationid="DSS" creationdate="20200419T113726Z">
+        <seg>书签和引用(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134615Z" creationid="Liliu" creationdate="20200418T134615Z">
@@ -1283,6 +1363,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071951Z" creationid="hp" creationdate="20200418T071951Z">
         <seg>默认情况下，/tm 文件夹位于项目的根文件夹下（例如 ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Camtasia for Windows</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113116Z" creationid="DSS" creationdate="20200419T113116Z">
+        <seg>适用于 Windows 的 Camtasia</seg>
       </tuv>
     </tu>
     <tu>
@@ -2397,6 +2485,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Encountered illegal \u sequence</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113047Z" creationid="DSS" creationdate="20200419T113047Z">
+        <seg>遇到非法 \\u 序列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>End rebase</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112025Z" creationid="Liliu" creationdate="20200419T112025Z">
@@ -2481,6 +2577,22 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113339Z" creationid="Liliu" creationdate="20200419T113339Z">
         <seg>标签修复出错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error in file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113801Z" creationid="DSS" creationdate="20200419T113801Z">
+        <seg>文件错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error in file {0}, line {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113204Z" creationid="DSS" creationdate="20200419T113204Z">
+        <seg>文件 {0} 第 {1} 行出现错误</seg>
       </tuv>
     </tu>
     <tu>
@@ -2769,6 +2881,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072313Z" creationid="hp" creationdate="20200418T072313Z">
         <seg>修复是微小的操作，OmegaT 会用相关错误信息协助进行错误排除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Flash XML Export</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113151Z" creationid="DSS" creationdate="20200419T113151Z">
+        <seg>Flash XML 导出</seg>
       </tuv>
     </tu>
     <tu>
@@ -3086,6 +3206,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Help &amp; Manual</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113107Z" creationid="DSS" creationdate="20200419T113107Z">
+        <seg>帮助与手册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Here you can select different subfolders, for instance the subfolder with source files, subfolder for target files etc.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T144745Z" creationid="hp" creationdate="20200418T051706Z">
@@ -3154,6 +3282,22 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101504Z" creationid="yangzy" creationdate="20200419T101504Z">
         <seg>IBM Watson 不可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>ILIAS Language File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113653Z" creationid="DSS" creationdate="20200419T113653Z">
+        <seg>ILIAS 语言文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Identifier used for alternative translations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113955Z" creationid="DSS" creationdate="20200419T113955Z">
+        <seg>待选译文标识符</seg>
       </tuv>
     </tu>
     <tu>
@@ -4274,6 +4418,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java Resource Bundles Filter Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113050Z" creationid="DSS" creationdate="20200419T113050Z">
+        <seg>Java 资源包过滤器选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Java(TM) Resource Bundles</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113035Z" creationid="DSS" creationdate="20200419T113035Z">
+        <seg>Java(TM) 资源包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java: {0} ver.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T095832Z" creationid="yangzy" creationdate="20200419T095832Z">
@@ -4294,6 +4454,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094044Z" creationid="yangzy" creationdate="20200419T094044Z">
         <seg>键：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Key=Value Text</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113645Z" creationid="DSS" creationdate="20200419T113645Z">
+        <seg>“键=值”文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -4450,6 +4618,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Links (&amp;URL)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113745Z" creationid="DSS" creationdate="20200419T113745Z">
+        <seg>链接(&amp;URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Load a project to configure rules for that project's languages.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100149Z" creationid="yangzy" creationdate="20200419T100149Z">
@@ -4518,6 +4694,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094012Z" creationid="yangzy" creationdate="20200419T094012Z">
         <seg>机器翻译选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Magento CE Locale CSV</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113650Z" creationid="DSS" creationdate="20200419T113650Z">
+        <seg>Magento CE 语言环境 CSV</seg>
       </tuv>
     </tu>
     <tu>
@@ -5194,6 +5378,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Note: DocBook files are recognized not only by file extension, but they also must have a DOCTYPE declaration: &lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook" for DocBook 5</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113630Z" creationid="DSS" creationdate="20200419T113630Z">
+        <seg>注：DocBook 文件不仅通过文件扩展名识别，对于 DocBook 5 还必须有一个 DOCTYPE 声明：&lt;!DOCTYPE book PUBLIC \"-//OASIS//DTD DocBook XML... for DocBook 4, or a Namespace: xmlns="http://docbook.org/ns/docbook"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Note: If the project was created with the command line in step 3, this step has already been done by the program.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073349Z" creationid="hp" creationdate="20200418T073349Z">
@@ -5563,6 +5755,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110139Z" creationid="yangzy" creationdate="20200419T110139Z">
         <seg>打开...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenDocument Filter Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113658Z" creationid="DSS" creationdate="20200419T113658Z">
+        <seg>OpenDocument 过滤器选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -6579,6 +6779,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SVG Image and Adobe Illustrator Export</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113147Z" creationid="DSS" creationdate="20200419T113147Z">
+        <seg>SVG 图像与 Adobe Illustrator 导出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SVN '{0}' error: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T102301Z" creationid="Liliu" creationdate="20200419T102301Z">
@@ -7227,6 +7435,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify tag handling behaviour</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113811Z" creationid="DSS" creationdate="20200419T113811Z">
+        <seg>指定标签处理行为</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spellchecker</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094935Z" creationid="yangzy" creationdate="20200419T094935Z">
@@ -7337,6 +7553,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073822Z" creationid="hp" creationdate="20200418T073822Z">
         <seg>第 3 步：向译者发送邀请</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>SubRip Subtitles</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113307Z" creationid="DSS" creationdate="20200419T113307Z">
+        <seg>SubRip 字幕</seg>
       </tuv>
     </tu>
     <tu>
@@ -7659,6 +7883,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T094750Z" creationid="Liliu" creationdate="20200418T135931Z">
         <seg>术语表窗格允许您访问在术语表文件中建立的语言表达集和专业术语集。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Java Resource Bundles filter threw an exception:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113059Z" creationid="DSS" creationdate="20200419T113059Z">
+        <seg>Java 资源包过滤器抛出异常：</seg>
       </tuv>
     </tu>
     <tu>
@@ -9054,6 +9286,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translate the following elements:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113701Z" creationid="DSS" creationdate="20200419T113701Z">
+        <seg>翻译以下元素：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated File Encoding</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T112711Z" creationid="DSS" creationdate="20200419T112711Z">
@@ -9472,6 +9712,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>WebVTT Subtitles</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113636Z" creationid="DSS" creationdate="20200419T113636Z">
+        <seg>WebVTT 字幕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When checked, the items in the glossary auto-completer view will contain the source text, too.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113551Z" creationid="Liliu" creationdate="20200419T113551Z">
@@ -9632,6 +9880,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>WiX Localization</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113131Z" creationid="DSS" creationdate="20200419T113131Z">
+        <seg>WiX 本地化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Will be synchronized next time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T102417Z" creationid="Liliu" creationdate="20200419T102417Z">
@@ -9708,6 +9964,22 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T105501Z" creationid="Liliu" creationdate="20200419T105501Z">
         <seg>用户名/密码错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF Filter Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113804Z" creationid="DSS" creationdate="20200419T113804Z">
+        <seg>XLIFF 过滤器选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML Spreadsheet 2003</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113200Z" creationid="DSS" creationdate="20200419T113200Z">
+        <seg>XML 电子表格 2003</seg>
       </tuv>
     </tu>
     <tu>
@@ -9916,6 +10188,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101104Z" creationid="yangzy" creationdate="20200419T101104Z">
         <seg>需要将你的 JDK 1.6 更新到最新版本，或者删除 OmegaT 的 /lib 目录中的 jaxb-*.jar 文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YouTube Subtitles</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113634Z" creationid="DSS" creationdate="20200419T113634Z">
+        <seg>YouTube 字幕</seg>
       </tuv>
     </tu>
     <tu>
