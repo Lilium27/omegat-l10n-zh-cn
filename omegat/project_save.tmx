@@ -152,8 +152,8 @@
       <tuv lang="en">
         <seg>After several of these operations, select &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T030922Z" creationid="qinxun" creationdate="20200419T030922Z">
-        <seg>这样操作几次之后，选择&lt;m0&gt;&lt;g1&gt;编辑&lt;/g1&gt;&lt;g2&gt;</seg>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T031027Z" creationid="qinxun" creationdate="20200419T030922Z">
+        <seg>这样操作几次之后，选择&lt;m0&gt;&lt;g1&gt;编辑&lt;/g1&gt;&lt;g2&gt;重新对齐&lt;/g2&gt;&lt;/m0&gt;，更新其他片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1845,8 +1845,8 @@
       <tuv lang="en">
         <seg>Press the space bar (shortcut for &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Start Pinpoint Align&lt;/g2&gt; &lt;/m0&gt;).</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T030730Z" creationid="qinxun" creationdate="20200419T030730Z">
-        <seg>按空格键（快捷按键为&lt;m0&gt;&lt;g1&gt;编辑&lt;/g1&gt;&lt;g2&gt;开始精确对齐&lt;/g2&gt;&lt;/m0&gt;）</seg>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T030934Z" creationid="qinxun" creationdate="20200419T030730Z">
+        <seg>按空格键（快捷菜单中的操作为&lt;m0&gt;&lt;g1&gt;编辑&lt;/g1&gt;&lt;g2&gt;开始精确对齐&lt;/g2&gt;&lt;/m0&gt;）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2840,6 +2840,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T050356Z" creationid="hp" creationdate="20200418T050356Z">
         <seg>要删除项目专用的分割规则，取消勾选此复选框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify the position of one or more segments individually, select the segment(s) and press &lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;Move Up&lt;/g1&gt;) or &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;Move Down&lt;/g3&gt;).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T031134Z" creationid="qinxun" creationdate="20200419T031134Z">
+        <seg>要单独调整一个及以上的片段，选择这些片段，然后按&lt;u0&gt;U&lt;/u0&gt; (&lt;g1&gt;上移&lt;/g1&gt;) or &lt;u2&gt;D&lt;/u2&gt; (&lt;g3&gt;下移&lt;/g3&gt;).</seg>
       </tuv>
     </tu>
     <tu>
