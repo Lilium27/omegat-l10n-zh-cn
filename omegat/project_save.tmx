@@ -1986,6 +1986,15 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It was not possible to create the script folder
+inside the configuration folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T095147Z" creationid="yangzy" creationdate="20200419T095147Z">
+        <seg>无法在配置文件夹下创建脚本文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It will contain glossaries you will be using in the project.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T045027Z" creationid="Liliu" creationdate="20200419T045027Z">
@@ -3365,6 +3374,15 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T041454Z" creationid="Liliu" creationdate="20200419T041454Z">
         <seg>更改会显示出来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The configuration folder will be used
+instead.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T095246Z" creationid="yangzy" creationdate="20200419T095246Z">
+        <seg>将改用目标文件夹为配置文件夹</seg>
       </tuv>
     </tu>
     <tu>
