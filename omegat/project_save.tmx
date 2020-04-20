@@ -13055,9 +13055,9 @@ current folder will be used instead.</seg>
         <seg>The TMX file will not be loaded
 Please try to correct the error and reload the project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052700Z" creationid="hp" creationdate="20200420T052700Z">
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T054318Z" creationid="hp" creationdate="20200420T052700Z">
         <seg>TMX 文件不会被加载
-请尝试修复错误并重新加载项目Please try to correct the error and reload the project.</seg>
+请尝试修复错误并重新加载项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -14783,6 +14783,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation unit encountered before TMX header.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T054307Z" creationid="hp" creationdate="20200420T054307Z">
+        <seg>翻译单元出现在 TMX 标头之前。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation unit variant encountered outside translation unit.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052747Z" creationid="hp" creationdate="20200420T052747Z">
@@ -15226,6 +15234,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use $n to refer to the nth group.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T054207Z" creationid="hp" creationdate="20200420T054207Z">
+        <seg>使用$ n引用第n个组。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122658Z" creationid="DSS" creationdate="20200419T122658Z">
@@ -15632,6 +15648,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114208Z" creationid="DSS" creationdate="20200419T114208Z">
         <seg>不可用时，ID 将用作备用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When using regular expressions, the replacement string supports references to groups defined in the search string.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T054116Z" creationid="hp" creationdate="20200420T054116Z">
+        <seg>使用正则表达式时，替换字符串支持对搜索字符串中定义的组的引用。</seg>
       </tuv>
     </tu>
     <tu>
