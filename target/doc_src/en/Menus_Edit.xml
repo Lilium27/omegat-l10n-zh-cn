@@ -1,272 +1,190 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
 <section id="menus.edit">
-  <title>Edit</title>
+  <title>编辑</title>
 
-  <para>This menu displays entries only when a project is open.</para>
+  <para>仅当打开了项目后此菜单下才会显示条目。</para>
 
   <variablelist>
     <varlistentry>
-      <term><guimenuitem>Undo Last Action</guimenuitem></term>
+      <term><guimenuitem>撤销前一操作</guimenuitem></term>
 
       <listitem>
-        <para>Restores the status before the last editing action was taken.
-        This command does not work once the modified segment has been
-        validated.</para>
+        <para>恢复到执行上一个编辑操作之前的状态。如果修改后的片段已经确认，则该命令不起作用。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Redo Last Action</term>
+      <term>恢复前一操作</term>
 
       <listitem>
-        <para>Restores the status before the last editing action was
-        cancelled. This command does not work once the modified segment has
-        been validated.</para>
+        <para>恢复到取消上一个编辑操作之前的状态。如果修改后的片段已经确认，则该命令不起作用。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Replace With Match or Selection</term>
+      <term>用匹配或所选内容替换译文</term>
 
       <listitem>
-        <para>Replaces the whole target segment with the currently selected
-        fuzzy match (by default the first match is selected).</para>
+        <para>用当前选中的模糊匹配（默认情况下会选中第一个匹配）替换掉整个译文片段。</para>
 
-        <para>If some texts are selected within the fuzzy match, only this
-        selection will replace the whole target segment.</para>
+        <para>如果在模糊匹配内选择了部分文本，那么只有被选中的部分替换掉整个译文片段。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Insert Match or Selection</term>
+      <term>插入匹配或所选内容</term>
 
       <listitem>
-        <para>Inserts the currently selected fuzzy match at the cursor
-        position. If part of the target segment has been selected, this
-        function overwrites the selected portion.</para>
+        <para>在光标位置插入当前选中的模糊匹配。如果已经选择了译文片段的一部分，则此功能会覆盖所选部分。</para>
 
-        <para>If some texts are selected within the fuzzy match, only this
-        selection will be inserted at the cursor position.</para>
+        <para>如果在模糊匹配内选择了部分文本，那么只有被选中的部分插入到光标位置处。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Replace with Machine Translation</term>
+      <term>替换为机器翻译</term>
 
       <listitem>
-        <para>Replaces the target segment with the translation, provided by
-        the selected Machine Translation service. No action is taken, if no
-        Machine Translation service has been activated (in <menuchoice>
-            <guimenu>Options</guimenu>
-
-            <guimenuitem>Machine Translate</guimenuitem>
-          </menuchoice>).</para>
+        <para>用所选机器翻译服务提供的译文替换掉译文片段。如果未激活任何机器翻译服务（在<menuchoice><guimenu>选项</guimenu><guimenuitem>机器翻译</guimenuitem></menuchoice>中）则不会有任何动作。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Replace with Source</term>
+      <term>替换为原文</term>
 
       <listitem>
-        <para>Replaces the whole target segment with the source.</para>
+        <para>用原文替换掉整个目标片段。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Insert Source</term>
+      <term>插入原文</term>
 
       <listitem>
-        <para>Inserts the source at the cursor position.</para>
+        <para>在光标位置插入原文。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Insert Missing Source Tags</term>
+      <term>插入缺失的原文标签</term>
 
       <listitem>
-        <para>Inserts the source tags (if they where missing) at the cursor
-        position.</para>
+        <para>在光标位置插入（如果有缺失的）原文标签。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Insert Next Missing Tag</term>
+      <term>插入下一个缺失标签</term>
 
       <listitem>
-        <para>Inserts only one tag (among the missing ones) at the cursor
-        position.</para>
+        <para>在光标位置处只插入一个标签（所有缺失标签之一）。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Export Selection</term>
+      <term>导出所选部分</term>
 
       <listitem>
-        <para>Exports the current selection to a text file for processing. If
-        no text has been selected, the current source segment is written to
-        this file. When the user exits <application>OmegaT</application>, this
-        file is not emptied, in order to be consistent with usual clipboard
-        behavior. The exported contents are copied to the file
-        <filename>selection.txt</filename> located in the User's preference
-        files folder.</para>
+        <para>将当前选中内容导出至文本文件进行处理。如果未选择任何文本，则将当前原文片段写入该文件。当用户退出 <application>OmegaT</application> 时，此文件并不会被清空，以与常规的剪贴板行为一致。导出的内容将被复制到位于用户偏好设置文件所在的文件夹内的 <filename>selection.txt</filename> 文件中。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Create Glossary Entry</term>
+      <term>创建词汇表条目</term>
 
       <listitem>
-        <para>Allows the user create an entry in the default glossary
-        file.</para>
+        <para>允许用户在默认的词汇表文件中创建条目。</para>
 
-        <para>If you select a text string (in any pane) before pressing
-        <keycombo>
-            <keycap>Ctrl</keycap>
+        <para>如果您在按<keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>G</keycap> </keycombo>之前（于任意窗格中）选择了文本字符串，则默认会将选中的文本粘贴到<guilabel>原文词汇</guilabel>字段中。</para>
 
-            <keycap>Shift</keycap>
-
-            <keycap>G</keycap>
-          </keycombo>, the text will be pasted by default in the
-        <guilabel>Source term</guilabel> field.</para>
-
-        <para>This can apply also to <guimenuitem>Target term</guimenuitem>
-        and <guimenuitem>Comment </guimenuitem>fields if new selections are
-        made and <keycombo>
-            <keycap>Ctrl</keycap>
-
-            <keycap>Shift</keycap>
-
-            <keycap>G</keycap>
-          </keycombo> pressed again.</para>
+        <para>这也能应用于<guimenuitem>译文词汇</guimenuitem>和<guimenuitem>注释</guimenuitem>字段，只要做出新的选择并再次按下<keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>G</keycap> </keycombo>即可。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Search Project...</term>
+      <term>在项目中查找...</term>
 
       <listitem>
-        <para>Opens a new <link linkend="windows.textsearch">Search
-        window</link>.</para>
+        <para>打开新的<link linkend="windows.textsearch">查找窗口</link>。</para>
 
-        <para>If you select a text string (in any pane) before pressing
-        <keycombo>
-            <keycap>Ctrl</keycap>
+        <para>如果您按<keycombo> <keycap>Ctrl</keycap> <keycap>F</keycap> </keycombo>之前（于任意窗格中）选择了文本字符串，则默认会将选中的文本粘贴到<guilabel>查找</guilabel>字段。</para>
 
-            <keycap>F</keycap>
-          </keycombo>, the text will be pasted by default in the
-        <guilabel>Search for</guilabel> field.</para>
-
-        <para>Pressing <keycombo>
-            <keycap>Ctrl</keycap>
-
-            <keycap>Shift</keycap>
-
-            <keycap>F</keycap>
-          </keycombo> displays the last already opened Search window (instead
-        of opening a new one).</para>
+        <para>按下<keycombo> <keycap>Ctrl</keycap> <keycap>Shift</keycap> <keycap>F</keycap> </keycombo>会显示最后一个已打开的查找窗口（而不是新打开一个）。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Search and Replace...</term>
+      <term>查找并替换...</term>
 
       <listitem>
-        <para>Opens a new <link linkend="windows.textreplace">Search
-        and replace window</link>.</para>
+        <para>打开新的<link linkend="windows.textreplace">查找与替换窗口</link>。</para>
 
-        <para>If you select a text string (in any pane) before pressing
-        <keycombo>
-            <keycap>Ctrl</keycap>
-
-            <keycap>K</keycap>
-          </keycombo>, the text will be pasted by default in the
-        <guilabel>Search for</guilabel> field.</para>
+        <para>如果您在按<keycombo> <keycap>Ctrl</keycap> <keycap>K</keycap> </keycombo>之前（于任意窗格中）选择了文本字符串，则默认会将选中的文本粘贴到<guilabel>查找</guilabel>字段。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Search Dictionaries</term>
+      <term>查找词典</term>
 
       <listitem>
-        <para>If <link linkend="dialogs.preferences.dictionary">automatic searching in dictionaries</link> is disabled, this function allows you to search for the selected word in the dictionaries.</para>
+        <para>如果禁用了<link linkend="dialogs.preferences.dictionary">自动在词典中查找</link>，则此功能可让您在词典中查找所选单词。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Switch case to</term>
+      <term>转换大小写为</term>
 
       <listitem>
-        <para>Changes the case of the highlighted text in the target segment
-        to the selected option (Lower case, Upper case, Title case or Sentence
-        case). Use <keycombo>
-            <keycap>Shift</keycap>
-
-            <keycap>F3</keycap>
-          </keycombo> to cycle through the four alternatives. If no text is
-        selected, <application>OmegaT</application> selects the word that
-        contains the letter immediately to the right of the cursor.</para>
+        <para>将译文片段中高亮选定的文本的按所选选项（小写、大写、标题式大小写或句子式大小写）改变大小写。用<keycombo> <keycap>Shift</keycap> <keycap>F3</keycap> </keycombo>可以在四个选项中循环切换。如果未选择任何文本，<application>OmegaT</application> 会选择紧挨着光标右边的那个字符所属的单词。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Select Match</term>
+      <term>选择匹配</term>
 
       <listitem>
-        <para>Selects the previous, the next or the Nth fuzzy match displayed
-        in the fuzzy match pane to replace or insert it to the segment.</para>
+        <para>选择显示在模糊匹配窗格中的上一个、下一个或第 N 个模糊匹配来将其替换或插入到片段中。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Use as Default Translation</term>
+      <term>用作默认译文</term>
 
       <listitem>
-        <para>If there's several alternative translations available for the
-        active segment, you can label the alternative selected as the default
-        translation. The entry will be greyed, if there's just one translation
-        available.</para>
+        <para>如果当前片段有多个替代译文，您可以将所选择的译文标记为默认译文。如果只有一个可用译文，则该条目将为灰色。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Create Alternative Translation</term>
+      <term>创建替代译文</term>
 
       <listitem>
-        <para>The one and the same segment may, depending on the context,
-        require different translations. Select this menu item, if the current
-        translation does not apply and enter the alternative
-        translation.</para>
+        <para>一个片段和另一个相同的片段可能会因为上下文而需要不同的译文。如果当前译文不适用，请选择此菜单条目，然后输入替代译文。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Remove Translation</term>
+      <term>移除译文</term>
 
       <listitem>
-        <para>Deletes the translation and set the segment as
-        untranslated.</para>
+        <para>删除译文并将片段设置为未译</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Set empty translation</term>
+      <term>设置为空译文</term>
 
       <listitem>
-        <para>Define the translation as being empty. In the target document,
-        nothing will appear for this segment. In the Editor, the translation
-        is displayed as &lt;EMPTY&gt;</para>
+        <para>将译文定义为空。此片段在译文文档中不会显示任何东西。在编辑器中，译文会显示为&lt;空&gt;</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Register Identical Translation</term>
+      <term>登记全同译文</term>
 
       <listitem>
-        <para>Use this command to register the translation to be identical to
-        the source, even if <link linkend="dialogs.preferences.editor.allowtranslationtobeequaltosource"><guilabel>Allow
-        translation to be equal to source</guilabel></link> is not
-        checked.</para>
+        <para>即使未选中<link linkend="dialogs.preferences.editor.allowtranslationtobeequaltosource"><guilabel>允许译文和原文相同</guilabel></link>时也可以用此命令来将译文登记为与原文完全相同。</para>
       </listitem>
     </varlistentry>
   </variablelist>

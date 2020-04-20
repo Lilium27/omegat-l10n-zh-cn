@@ -32,7 +32,7 @@
 
     <orderedlist>
       <listitem>
-        <para>选择第一个片段。</para>
+        <para>选择第一个句段。</para>
       </listitem>
 
       <listitem>
@@ -40,13 +40,13 @@
       </listitem>
 
       <listitem>
-        <para>点击另一列中与第一个片段相对应的翻译。</para>
+        <para>点击另一列中与第一个句段相对应的翻译。</para>
       </listitem>
     </orderedlist>
 
     <para>这样操作几次之后，选择<menuchoice><guimenuitem>编辑</guimenuitem><guimenuitem>重新对齐</guimenuitem></menuchoice>，更新其他句段。</para>
 
-    <para>要单独调整一个及以上的片段，选择这些片段，然后按<userinput>U</userinput> (<guilabel>上移</guilabel>) or <userinput>D</userinput> (<guilabel>下移</guilabel>).</para>
+    <para>要单独调整一个及以上的句段，选择这些句段，然后按<userinput>U</userinput> (<guilabel>上移</guilabel>) or <userinput>D</userinput> (<guilabel>下移</guilabel>).</para>
 
     <para>在创建翻译记忆库时，只有每一行上的 <guilabel>Keep</guilabel>  框中打上对勾才能被添加到翻译记忆中。</para>
 

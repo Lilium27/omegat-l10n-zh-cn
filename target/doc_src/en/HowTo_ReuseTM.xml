@@ -29,7 +29,7 @@
     </listitem>
   </itemizedlist>
 
-  <para>请注意，在打开项目时会解析 /tm 仓库中的所有 tmx 文件，因此将手头各种翻译记忆库全放进此文件夹可能会不必要地拖慢 OmegaT。一旦已经用其内容填充了 <filename>project-save.tmx</filename> 文件，您可以考虑移除不需要的文件。 </para>
+  <para>注意，在打开项目时会解析 /tm 仓库中的所有 tmx 文件，因此将手头各种翻译记忆库全放进此文件夹可能会不必要地拖慢 OmegaT。一旦已经用其内容填充了 <filename>project-save.tmx</filename> 文件，您可以考虑移除不需要的文件。 </para>
 
   <section>
     <title>导入和导出翻译记忆库</title>
@@ -100,6 +100,6 @@
 
     <para>在这个例子中，解决方案是将已有的翻译记忆库复制到 tm/tmx2source/ 子文件夹中并将其重命名为 ZH_CN.tmx 来指示此 tmx 的译文语言。这样荷兰语的原文句段会以英文翻译的形式显示给译者，译者就能用它们来创建中文翻译。</para>
 
-    <para><emphasis role="bold">重点： </emphasis>辅助性的 TMX 必须重命名为 XX_YY.tmx，其中 XX_YY 是此 tmx 的译文语言，例如在上面的例子中是 ZH_CN.tmx。项目的原文语言和 TMX 的原文语言当然应当是相同的——在这个例子中是 NL。注意对于给定语言对只能使用一个 TMX，因此如果涉及多个翻译记忆库，则需要将它们全部合并到 XX_YY.tmx 中。</para>
+    <para><emphasis role="bold">重点： </emphasis>辅助性的 TMX 必须重命名为 XX_YY.tmx，其中 XX_YY 是此 tmx 的译文语言，例如在上面的例子中是 ZH_CN.tmx。项目的原文语言和 TMX 的原文语言当然应当是相同的——在这个例子中是 NL。注意，对于给定语言对只能使用一个 TMX，因此如果涉及多个翻译记忆库，则需要将它们全部合并到 XX_YY.tmx 中。</para>
   </section>
 </section>

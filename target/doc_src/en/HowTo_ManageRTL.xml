@@ -23,7 +23,7 @@
       </listitem>
     </itemizedlist>
 
-    <para>在OmegaT中使用 RTL 模式不会影响翻译后的文档的显示模式。译文文档的显示模式必须在通常用于显示或修改它的应用程序（诸如 Microsoft Word）中修改（详细信息请查看相关手册）。使用 <keycombo> <keycap>Shift</keycap> <keycap>Ctrl</keycap> <keycap>O</keycap> </keycombo> 会改变文本的输入与显示方式. 通过点击窗格并切换显示模式，它可以单独用于所有三个窗格（编辑器、模糊匹配和词汇表）。它也适用于在所有的输入字段中使用——搜索窗口中、分割规则等。</para>
+    <para>在OmegaT中使用 RTL 模式不会影响翻译后的文档的显示模式。译文文档的显示模式必须在通常用于显示或修改它的应用程序（诸如 Microsoft Word）中修改（详细信息请查看相关手册）。使用 <keycombo> <keycap>Shift</keycap> <keycap>Ctrl</keycap> <keycap>O</keycap> </keycombo> 会改变文本的输入与显示方式. 通过点击窗格并切换显示模式，它可以单独用于所有三个窗格（编辑器、模糊匹配和术语表）。它也适用于在所有的输入字段中使用——搜索窗口中、分割规则等。</para>
 
     <para>对于 Mac OS X 用户，请注意：使用 </para>
 

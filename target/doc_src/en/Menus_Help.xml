@@ -1,49 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
 <section id="menus.help">
-  <title>Help</title>
+  <title>帮助</title>
 
   <variablelist>
     <varlistentry>
-      <term>User's Manual...</term>
+      <term>用户手册...</term>
 
       <listitem>
-        <para>Opens this manual in the default browser.</para>
+        <para>在默认浏览器中打开本手册。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>About...</term>
+      <term>关于...</term>
 
       <listitem>
-        <para>Displays copyright, credits and license information.</para>
+        <para>显示版权、制作人员和授权信息。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Last Changes...</term>
+      <term>最近变更...</term>
 
       <listitem>
-        <para>Displays the list of new functionalities, enhancements and bug
-        fixes for each new release.</para>
+        <para>显示每个新版本的新功能、改进和修复的 Bug。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Log...</term>
+      <term>日志...</term>
 
       <listitem>
-        <para>Displays the current log file. The title of the dialog reflects
-        the file actually used (which depends on how many instances of OmegaT
-        are running concurrently).</para>
+        <para>显示当前日志文件。对话框的标题反映了实际使用的文件（这取决于并发运行的 OmegaT 实例的数量）。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Check for Updates...</term>
+      <term>检查更新...</term>
 
       <listitem>
-        <para>Checks to see whether a more recent version of <application>OmegaT</application> has been released.</para>
+        <para>检查是否已经发布了更新版本的 <application>OmegaT</application>。</para>
       </listitem>
     </varlistentry>
   </variablelist>

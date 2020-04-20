@@ -101,7 +101,7 @@
       </listitem>
 
       <listitem>
-        <para>词汇表窗格：拖入的带有已知词汇表扩展名（<filename>.txt</filename>、 <filename>.tab</filename>等）的文件将会复制到 <filename>glossary</filename> 文件夹中。</para>
+        <para>术语表窗格：拖入的带有已知术语表扩展名（<filename>.txt</filename>、 <filename>.tab</filename>等）的文件将会复制到 <filename>glossary</filename> 文件夹中。</para>
       </listitem>
     </itemizedlist></para>
 
@@ -112,14 +112,14 @@
 
     <para>上述句段的其中之一是当前句段。该句段分为两部分显示。上半部分以原语言显示，为带绿色背景色的粗体字符；下半部分是编辑区域，以标记结尾：标记格式为 <literal>&lt;segment nnnn&gt;</literal>， 其中 nnnn 是项目中的一些句段。 以上半部分为参照，并用您的翻译替换或修改编辑区内容。</para>
 
-    <para>注意：遇到非独特句段，标记会显示为 <literal>&lt;segment nnnn +yy more&gt;。在此情况下，yy 是此句段在项目中其他地方出现的次数。</para>
+    <para>注意：遇到非独特句段，标记会显示为 <literal>&lt;segment nnnn +yy more&gt;</literal>。在此情况下，yy 是此句段在项目中其他地方出现的次数。</para>
 
     <para>根据首选的编辑行为，未译句段的编辑区可能为空、包含原文文本或包含与此待译字符串最相似的字符串译文。当前往另一个句段时，此译文会加以验证并保存。如果您想要让译文与原文相同，只需删除编辑区中的所有文本（用 <keycap>Ctrl+A</keycap> 选中所有内容并用 <keycap>Del</keycap> 删除。OmegaT 能保存与原文完全相同的译文。这对于包含商标、名称或其他专有名词，或包含无需翻译的第三方语言句段的文档非常有帮助。参见 <emphasis>翻译编辑</emphasis> 以获得更多信息。</para>
 
     <para>如果在编辑器窗格上点击右键，会弹出一个菜单，提供 <emphasis role="bold"> 剪切、复制、粘贴</emphasis> （即与 <keycombo> <keycap>Ctrl</keycap> <keycap>X</keycap> </keycombo>, <keycombo> <keycap>Ctrl</keycap> <keycap>C</keycap> </keycombo> 和 <keycombo> <keycap>Ctrl</keycap> <keycap>V</keycap> </keycombo> 的作用相同）、 <emphasis role="bold">跳转到句段</emphasis> 和 <emphasis role="bold">增加术语词条</emphasis> 功能。
-此外，如果是在打开的句段上点击右键，还会提供与 <emphasis role="bold">备选翻译</emphasis> 相关的其它选项，例如跳转到另一个非独特句段</para>
+此外，如果是在打开的句段上点击右键，还会提供与 <emphasis role="bold">替代译文</emphasis> 相关的其它选项，例如跳转到另一个非独特句段</para>
 
-    <para>可以从主窗口的任何地方拖动文本并将其放入该句段。从译文片段之外拖来的文本会复制过来，而从片段内拖来的文本则会移动过来。
+    <para>可以从主窗口的任何地方拖动文本并将其放入该句段。从译文句段之外拖来的文本会复制过来，而从句段内拖来的文本则会移动过来。
 </para>
 
     <para>默认情况下，如果用键盘而非鼠标的话，无法在原文句段中选择单词。按下 <keycap>F2</keycap> 键可以用键盘上的方向键将光标移入源语言句段（或编辑器内的任何地方）。此模式下， “<guilabel>光标锁定</guilabel>”显示在窗格底部。如果要返回标准模式“<guilabel>光标解锁</guilabel>”，再次按下 <keycap>F2</keycap> 键。</para>
@@ -128,92 +128,49 @@
   <section>
     <title>模糊匹配</title>
 
-    <para>The match viewer shows the most similar segments from translation
-    memories, both from internal project translation memory created in real
-    time as you translate your project and from ancillary translation memories
-    you have imported from your earlier jobs, or received from your client or
-    translation agency.</para>
+    <para>匹配查看器中显示了翻译记忆库中最相似的句段，来源既包括随着您对项目的翻译而实时创建的内部项目翻译记忆库，也包括来自您过往工作或从客户或翻译代理那里得到的辅助翻译记忆库。</para>
 
-    <para>When you move to the next segment, the first fuzzy match (the one
-    with the best matching percentage) is automatically selected. You may
-    select a different match by pressing <guimenuitem>Ctrl+2, 3, 4, or
-    5</guimenuitem>. Of course, pressing <keycombo>
-        <keycap>Ctrl</keycap>
+    <para>当您移动至下一句段时，将自动选择第一个模糊匹配（拥有最佳匹配度百分比的句段）。您可以通过按下 <guimenuitem>Ctrl+2, 3, 4, or 5</guimenuitem> 来选择其他匹配项。显然，如果没有第 5 个匹配项，按下 <keycombo> <keycap>Ctrl</keycap> <keycap>5</keycap> </keycombo> 将会没有效果。要在翻译中使用选择的匹配项，用 <guimenuitem>Ctrl+R</guimenuitem> 将译文区替换为匹配内容，或者用 <guimenuitem>Ctrl+I </guimenuitem> 在光标处插入匹配内。</para>
 
-        <keycap>5</keycap>
-      </keycombo> will have no effect, if there is no match #5. To use the
-    selected match in your translation, use
-    <guimenuitem>Ctrl+R</guimenuitem> to replace the target field with the match or use
-    <guimenuitem>Ctrl+I </guimenuitem> to insert it at the cursor position.</para>
-
-    <para>The matching percentage is roughly equivalent to taking the number
-    of common words in the matched and the matching segment and dividing by
-    the number of words in the longer of the two. The selected fuzzy match is
-    highlighted in bold, words that are missing in the segment you are
-    translating are colored blue and words adjacent to the missing parts
-    green. In the above example the source segment is <emphasis role="bold">Context menu command</emphasis>. The top match is 100%,
-    because all words match. So do the next two matches, and the match #4 is
-    similar, but different. The line with the matching percentage also
-    includes the name of the translation memory containing the match. If there's no file name displayed,
-    the source is the internal project translation memory. Orphan
-    segments (the match #2) describe segments in the default project
-    translation memory that have no corresponding source segment.</para>
+    <para>匹配度百分比大致上等于匹配和被匹配句段中的公共单词数除以二者中较长的单词数。选定的模糊匹配以粗体突出形式，正在翻译的句段中缺失的单词显示为蓝色，而与缺失部分相邻的单词显示为绿色。在上面的例子中，原文句段是 <emphasis role="bold">Context menu command</emphasis>。最佳匹配项是 100%，因为所有单词都匹配上了。接下来的两个匹配项亦是如此，而第 4 个匹配项相似但有所不同。显示匹配度百分比的那一行还有包含此匹配项的翻译记忆库的名称。如果没有显示文件名，那么其来源是内部项目翻译记忆库。孤立句段（第二个匹配项）说明句段存在于默认项目翻译记忆库，但没有相对应的原文句段。</para>
   </section>
 
   <section>
-    <title>词汇表</title>
+    <title>术语表</title>
 
-    <para>词汇表窗格允许您访问在词汇表文件中建立的语言表达集和专业术语集。它会显示出现在当前句段中的词汇的翻译。如同之前的模糊匹配例子，下方例子中的源语句段为“<emphasis>Context menu command</emphasis>”，显示的术语能够在可用词汇表中找到（Microsoft 名词集和斯洛文尼亚 Linux 用户组词汇表）。</para>
+    <para>术语表窗格允许您访问在术语表文件中建立的语言表达集和专业术语集。它会显示出现在当前句段中的词汇的翻译。如同之前的模糊匹配例子，下方例子中的源语句段为“<emphasis>Context menu command</emphasis>”，显示的术语能够在可用术语表中找到（Microsoft 名词集和斯洛文尼亚 Linux 用户组术语表）。</para>
 
-    <para>If you have TransTips option activated (<guimenuitem>Options →
-    TransTips</guimenuitem>), you can right click on the highlighted word in
-    the source segment to open a pop-up menu with suggested translation, as
-    offered by your glossary. Selecting one of them will insert it at the
-    current cursor position into the target segment. You can also highlight
-    your preferred alternative in the glossary pane and insert it into the
-    target by right clicking on the selection.</para>
+    <para>如果您激活了翻译提示（<guimenuitem>选项 → 翻译提示</guimenuitem>），则可以在原文句段内高亮标记的单词上单击右键，打开带有建议翻译的弹出菜单，建议翻译由术语表提供。选择其中之一会将其插入到译文片段中的当前光标位置处。您还可以在术语表窗格中高亮标记想要使用的条目并通过在选区上单击右键将其插入到译文中。</para>
   </section>
 
   <section>
     <title>词典</title>
 
-    <para>Dictionaries are the electronic equivalents of printed dictionaries
-    like Merriam Webster, Duden, Larousse etc., that you may have on your
-    desk. See more about them in the chapter on <link linkend="appendix.dictionaries">Dictionaries</link></para>
+    <para>词典是纸质词典的电子版本，比如 Merriam Webster、Duden、Larousse 等等，您的桌子上可能正摆着一本。更多相关信息，请参阅 <link linkend="appendix.dictionaries">Dictionaries</link>。</para>
   </section>
 
   <section>
     <title>机器翻译</title>
 
-    <para>The machine translation pane, when opened, contains the suggestions
-    by machine translation tools for the current segment. Press
-    <keysym>Ctrl+M</keysym> to replace the translation of the current segment
-    with the suggested translation.</para>
+    <para>当机器翻译窗格打开时，包括了机器翻译工具为当前句段提供的建议。按下 <keysym>Ctrl+M</keysym> 可将当前片段的译文替换为建议译文。</para>
   </section>
 
   <section>
     <title>多重译文</title>
 
-    <para>A given source segment may require several different translations,
-    depending on the context. If the current translation of the segment does
-    not fit, the user can select <guisubmenu>Edit → Create Alternative
-    Translation</guisubmenu>. The target text entered after that will be
-    treated as an alternative translation of the source segment. You can
-    define one of the alternative - for instance the most probable among them
-    - as default translation by selecting <guisubmenu>Edit → Use as Default
-    Translation</guisubmenu></para>
+    <para>给定的原文句段可能需要多种不同翻译，具体取决于上下文。如果当前句段的翻译不恰当，用户可以选择 <guisubmenu>编辑 → 创建替代译文</guisubmenu>。之后输入的译文将会被视为原文句段的替代译文。您可以选择 <guisubmenu>编辑 → 用作默认译文</guisubmenu> 定义替代译文中的某一条——例如它们之中最为接近的——作为默认翻译。</para>
   </section>
 
   <section>
     <title>备注</title>
 
-    <para>译员可以给打开的句段添加备注，比如之后返回该句段重新翻译，检查备选翻译是否正确，或者询问同事的意见。 您可以通过选择 <guisubmenu>转到 → 下一条备注</guisubmenu> 和 <guisubmenu>转到 → 上一条备注</guisubmenu> 进行浏览。</para>
+    <para>译者可以给打开的句段添加备注，比如之后返回该句段重新翻译，检查替代译文是否正确，或者询问同事的意见。 您可以通过选择 <guisubmenu>转到 → 下一条备注</guisubmenu> 和 <guisubmenu>转到 → 上一条备注</guisubmenu> 进行浏览。</para>
   </section>
 
   <section>
     <title>注释</title>
 
-    <para>一些翻译工作中的特殊文件类型，如 PO 文件，允许添加注释。这样译员可以获得待翻译句段的上下文。在下方的例子中，PO 文件的作者给译员设置了警告，以检查译文长度：</para>
+    <para>一些翻译工作中的特殊文件类型，如 PO 文件，允许添加注释。这样译者可以获得待翻译句段的上下文。在下方的例子中，PO 文件的作者给译者设置了警告，以检查译文长度：</para>
   </section>
 
   <section>
@@ -233,13 +190,13 @@
           <row>
             <entry>27/27</entry>
 
-            <entry>片段数 - 已译/总量（当前文件）</entry>
+            <entry>句段数 - （当前文件）已译/总量</entry>
           </row>
 
           <row>
             <entry>9319/16338</entry>
 
-            <entry>独特片段数 - 已译/总量（项目中）</entry>
+            <entry>独特句段数 - （项目中）已译/总量</entry>
           </row>
 
           <row>

@@ -1,111 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
 <section id="menus.goto">
-  <title>Go To</title>
+  <title>转到</title>
 
-  <para>This menu displays entries only when a project is open.</para>
+  <para>仅当打开了项目后此菜单下才会显示条目。</para>
 
   <variablelist>
     <varlistentry>
-      <term>Next Untranslated Segment</term>
+      <term>下一个未译片段</term>
 
       <listitem>
-        <para>Moves to the next segment that has no equivalent in the
-        translation memory.</para>
+        <para>移动到下一个在翻译记忆库中无相同内容的片段。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Next Translated Segment</term>
+      <term>下一个已译片段</term>
 
       <listitem>
-        <para>Moves to the next already translated segment, ignoring
-        untranslated segments.</para>
+        <para>移动到下一个已译片段，忽略未译片段。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Next Segment</term>
+      <term>下一个片段</term>
 
       <listitem>
-        <para>Moves to the next segment. If the current segment is the last
-        segment in a file, it moves to the first segment of the next
-        file.</para>
+        <para>移动到下一个片段。如果当前片段是文件中的最后一个片段，则会移动到下一个文件的第一个片段。</para>
 
-        <para>Note: <keycap>Enter</keycap> is an alternate shortcut if <link linkend="dialogs.preferences.general.usetabtoadvance">Use TAB to
-        Advance</link> option is not selected.</para>
+        <para>注意：如果未选择&lt;l0&gt;用 TAB 前进&lt;/l0&gt;选项，则亦可用 &lt;k1&gt;Enter&lt;/k1&gt; 快捷键。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Previous Segment</term>
+      <term>上一个片段</term>
 
       <listitem>
-        <para>Moves to the previous segment. If the current segment is the
-        first one in a file, it moves to the last segment of the previous
-        file.</para>
+        <para>移动到上一个片段。如果当前片段是文件中的第一个片段，则会移动到上一个文件的最后一个片段。</para>
 
-        <para>Note: <keycombo>
-            <keycap>Ctrl</keycap>
-
-            <keycap>Enter</keycap>
-          </keycombo> is an alternate shortcut if <link linkend="dialogs.preferences.general.usetabtoadvance">Use TAB to
-        Advance</link> option is not selected.</para>
+        <para>注意：如果未选择&lt;l0&gt;用 TAB 前进&lt;/l0&gt;选项，则亦可用<keycap> <keycap>Ctrl</keycap> &lt;k3&gt;Enter&lt;/k3&gt; </keycap>快捷键。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Segment number...</term>
+      <term>片段序号...</term>
 
       <listitem>
-        <para>The segment is opened when either its segment call-out or
-        segment number is entered.</para>
+        <para>在输入片段的序号或编号后就会打开该片段</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Next Note</term>
+      <term>下一个备注</term>
 
       <listitem>
-        <para>The next segment with a note attached to it, will open.</para>
+        <para>会打开下一个带有备注的片段。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Previous Note</term>
+      <term>上一个备注</term>
 
       <listitem>
-        <para>The previous segment with a note will open.</para>
+        <para>会打开上一个带有备注的片段。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Source of Selected Match</term>
+      <term>所选匹配的来源</term>
 
       <listitem>
-        <para>Moves to the segment that does correspond to the current
-        selected match in the <guilabel>Fuzzy matches</guilabel> pane.</para>
+        <para>移动到<guilabel>模糊匹配</guilabel>窗格中当前选择的匹配相对应的片段。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Forward in history...</term>
+      <term>在历史中前进...</term>
 
       <listitem>
-        <para><application>OmegaT</application> remembers the segments
-        executed. With this command you can step forward to the segment, you
-        have previously left by the <guimenuitem>Back in
-        history</guimenuitem>... command.</para>
+        <para><application>OmegaT</application> 会记住处理过的片段。使用此命令你可以前进到之前用<guimenuitem>在历史中后退</guimenuitem>...命令所离开的拿个片段。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Back in history...</term>
+      <term>在历史中后退...</term>
 
       <listitem>
-        <para>With this command you can move backward one segment at a time,
-        to return later to the current segment using <guimenuitem>Forward in
-        history...</guimenuitem>command below.</para>
+        <para>使用此命令，你一次可以退后一个片段，稍后可以用下面的<guimenuitem>在历史中前进...</guimenuitem>命令回到当前片段。</para>
       </listitem>
     </varlistentry>
   </variablelist>

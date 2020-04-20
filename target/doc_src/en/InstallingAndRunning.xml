@@ -13,40 +13,23 @@
 
       <itemizedlist>
         <listitem>
-          <para><emphasis role="bold">Yes: </emphasis>download
-          <filename>OmegaT_4.n.n_Windows_without_JRE.exe</filename>.</para>
+          <para><emphasis role="bold">是： </emphasis>下载 <filename>OmegaT_4.n.n_Windows_without_JRE.exe</filename>。</para>
         </listitem>
 
         <listitem>
-          <para><emphasis role="bold">No / I don't know:</emphasis> download
-          <filename>OmegaT_4.n.n_Windows.exe</filename>.</para>
+          <para><emphasis role="bold">否 / 我不知道</emphasis> 下载 <filename>OmegaT_4.n.n_Windows.exe</filename></para>
 
-          <para>This package is bundled with Oracle's Java Runtime
-          Environment. This JRE will not interfere with other Java
-          implementations that may already be installed on your system.</para>
+          <para>这个包捆绑有 Oracle 的 Java 运行时环境（JRE）。此 JRE 不会干扰系统上可能已经安装的其他 Java 实现。</para>
         </listitem>
       </itemizedlist>
     </section>
 
     <section id="OmegaT.installation.Windows">
-      <title><application>Installing OmegaT</application></title>
+      <title><application>安装 OmegaT</application></title>
 
-      <para>To install <application>OmegaT</application>, double-click on the
-      program you have downloaded.</para>
+      <para>只需双击已下载的程序就可以安装 <application>OmegaT</application>。</para>
 
-      <para>At the beginning of the installation you can select the language to
-      be used during the installation. In the following window you can indicate
-      that the language selected is to be used in OmegaT. If you check the
-      corresponding checkbox, the <filename>OmegaT.l4J.ini</filename> file is
-      modified to use the language selected (see next section for
-      details). Later, after you have accepted the license agreement, the setup
-      program asks you whether you wish to create a folder in the
-      <emphasis>Start</emphasis> menu, and whether you wish to create a shortcut
-      on the desktop and in the quick launch bar - you can create these
-      shortcuts later by dragging <filename>OmegaT.exe</filename> to the desktop
-      or to the Start menu to link it from there. The last frame offers you to
-      have a look at the readme and changes files for the version you have
-      installed.</para>
+      <para>安装开始时，您可以选择安装过程中使用的语言。在下一个窗口中，您可以选择是否要让 OmegaT 也使用这个语言。If you check the corresponding checkbox, the <filename>OmegaT.l4J.ini</filename> file is modified to use the language selected (see next section for details). Later, after you have accepted the license agreement, the setup program asks you whether you wish to create a folder in the <emphasis>Start</emphasis> menu, and whether you wish to create a shortcut on the desktop and in the quick launch bar - you can create these shortcuts later by dragging <filename>OmegaT.exe</filename> to the desktop or to the Start menu to link it from there. The last frame offers you to have a look at the readme and changes files for the version you have installed.</para>
     </section>
 
     <section id="running.OmegaT.Windows">
@@ -152,15 +135,13 @@
           <para><emphasis role="bold">No / I don't know:</emphasis> download
           <filename>OmegaT_4.n.n_Linux.tar.bz2</filename>.</para>
 
-          <para>This package is bundled with Oracle's Java Runtime
-          Environment. This JRE will not interfere with other Java
-          implementations that may already be installed on your system.</para>
+          <para>这个包捆绑有 Oracle 的 Java 运行时环境（JRE）。此 JRE 不会干扰系统上可能已经安装的其他 Java 实现。</para>
         </listitem>
       </itemizedlist>
     </section>
 
     <section id="OmegaT.installation.Linux">
-      <title><application>Installing OmegaT</application></title>
+      <title><application>安装 OmegaT</application></title>
 
       <para>Unpack/untar the downloaded file. This will create an
       <filename>omegat/</filename> folder in the working folder in which you
@@ -642,7 +623,7 @@
         </listitem>
 
         <listitem>
-          <para><emphasis role="bold">Microsoft Translator</emphasis></para>
+          <para><emphasis role="bold">微软翻译</emphasis></para>
 
           <para>Make sure that you have a free Microsoft account. You’ll need
           this to sign-in to <ulink url="http://datamarket.azure.com/dataset/bing/microsofttranslator#schema">Windows
@@ -657,7 +638,7 @@
         </listitem>
 
         <listitem>
-          <para><emphasis role="bold">Yandex Translate</emphasis></para>
+          <para><emphasis role="bold">Yandex 翻译</emphasis></para>
 
           <para>Make sure that you have a free Yandex account. You’ll need this
           to be able to obtain and use Yandex Translate API key. API keys can be

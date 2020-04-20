@@ -6,168 +6,124 @@
   <para>OmegaT 项目是一个文件夹，其中包含若干文件和子文件夹。</para>
 
   <section>
-    <title>source</title>
+    <title>用原文替换掉整个目标片段。</title>
 
-    <para>source 子文件夹包含待翻译文件。之后您可以将文件添加到其中。注意：source 子文件夹的结构可以按照您的喜好采用任何形式。如果待翻译文件是树形结构的一部分（比如像网站中），您只需指定顶级子文件夹，OmegaT 将维护整个内容，同时维持树形结构不变。</para>
+    <para>source 子文件夹包含待翻译文件。之后您可以将文件添加到其中。注意，source 子文件夹的结构可以按照您的喜好采用任何形式。如果待翻译文件是树形结构的一部分（比如像网站中），您只需指定顶级子文件夹，OmegaT 将维护整个内容，同时维持树形结构不变。</para>
   </section>
 
   <section>
-    <title>target</title>
+    <title>targetl</title>
 
-    <para>该子文件夹一开始是空的。要向其中添加内容，选择 <menuchoice> <shortcut> <keycombo> <keycap>Ctrl</keycap> <keycap>D</keycap> </keycombo> </shortcut> <guimenu>项目</guimenu> <guimenuitem>创建译文文档</guimenuitem> </menuchoice>。<filename>source</filename> 文件夹下的文件，无论是否翻译，之后都会在此处生成， 与 source 子文件夹有着相同的层次结构。target 子文件夹的内容将反映当前的翻译状况，正如保存在当前项目记忆库中的内容，即 <emphasis role="bold">/omegat/project_save.tmx</emphasis>。 因此，未译句段会以源语言呈现。</para>
+    <para>该子文件夹一开始是空的。要向其中添加内容，选择 <menuchoice> <shortcut> <keycombo> <keycap>Ctrl</keycap> <keycap>D</keycap> </keycombo> </shortcut> <guimenu>项目</guimenu> <guimenuitem>创建译文文档</guimenuitem> </menuchoice>。<filename>source</filename> 文件夹下的文件，无论是否翻译，之后都会在此处生成，与 source 子文件夹有着相同的层次结构。target 子文件夹的内容将反映当前的翻译状况，正如保存在当前项目记忆库中的内容，即 <emphasis role="bold">/omegat/project_save.tmx</emphasis>。 因此，未译句段会以源语言呈现。</para>
   </section>
 
   <section>
-    <title>tm</title>
+    <title>翻译记忆库匹配选项</title>
 
-    <para>/tm/ 文件夹可包含任意数量的辅助翻译记忆库——即 tmx 文件。此类文件可以使用前文所述的三种变体格式中的任意一个。注意其他 CAT 工具可以输出（也能输入）tmx 文件，通常全部支持三种格式。当然，最好是使用 OmegaT 专用的 TMX 文件（见前文），这样能够保留片段中的内联格式。</para>
+    <para>/tm/ 文件夹可包含任意数量的辅助翻译记忆库——即 tmx 文件。此类文件可以使用前文所述的三种变体格式中的任意一个。注意，其他 CAT 工具可以输出（也能输入）tmx 文件，通常全部支持三种格式。当然，最好是使用 OmegaT 专用的 TMX 文件（见前文），这样能够保留句段中的内联格式。</para>
 
     <para>tm 子文件夹中的翻译记忆库为生成待翻译文本提供建议。对于任何已翻译并存储在这些文件中的文本来说，只要与当前正在翻译的文本足够相似，它们就会出现在模糊匹配中。</para>
 
-    <para>如果辅助翻译记忆库中有与待译文本完全相同的原文片段，OmegaT 会按照 <menuchoice> <guimenu>选项</guimenu> <guimenuitem>编辑行为...</guimenuitem> </menuchoice> 对话框窗口中的内容进行操作。例如（如果按默认值），使用来自辅助翻译记忆库的翻译并加上 <emphasis> [模糊]</emphasis> 前缀， 这样译者可以在后面检查带有此标签的片段是否已正确翻译 <menuchoice> <guimenu>。</guimenu> </menuchoice></para>
+    <para>如果辅助翻译记忆库中有与待译文本完全相同的原文句段，OmegaT 会按照 <menuchoice> <guimenu>选项</guimenu> <guimenuitem>编辑行为...</guimenuitem> </menuchoice> 对话框窗口中的内容进行操作。例如（如果按默认值），使用来自辅助翻译记忆库的翻译并加上 <emphasis> [模糊]</emphasis> 前缀， 这样译者可以在后面检查带有此标签的句段是否已正确翻译 <menuchoice> <guimenu>。</guimenu> </menuchoice></para>
 
-    <para>It may happen, that translation memories, available in the
-    <filename>tm</filename> subfolder, contain segments with identical source
-    text, but differing targets. TMX files are read sorted by their names and
-    segments within a given TMX file line by line. The last segment with the
-    identical source text will thus prevail (Note: of course it makes more
-    sense to avoid this to happen in the first place).</para>
+    <para>可能会出现这种情况，<filename>tm</filename> 子文件夹中的翻译记忆库包含与原文相同的句段，但译文不同。在给定的 TMX 文件中，TMX 文件的名称和句段是逐行读取的。因此，对于有着完全相同的原文文本的句段，会采用最后一个（注意：显然，先考虑避免出现这种情况会更有意义）。</para>
 
-    <para>Note that the TMX files in the tm folder can be compressed with
-    gzip.</para>
+    <para>注意，tm 文件夹下的 TMX 文件可以压缩为 gzip。</para>
 
     <section>
-      <title>tm/auto</title>
+      <title>翻译记忆库匹配选项</title>
 
-      <para>If it is clear from the very start, that translations in a given
-      TM (or TMs) are all correct, one can put them into the<emphasis role="bold"> tm/auto</emphasis> folder and avoid confirming a lot
-      of<emphasis> [fuzzy]</emphasis> cases.</para>
+      <para>如果从一开始就非常确定某些翻译记忆库中的翻译是完全正确的，则可以将其放入 <emphasis role="bold"> tm/auto</emphasis> 文件夹，避免遇到多个 <emphasis> [模糊]</emphasis> 情形而加以确认。</para>
 
       <para><orderedlist>
           <listitem>
-            <para>Put the TMX in /tm/auto.</para>
+            <para>将 TMX 文件放入 /tm/auto 中。</para>
           </listitem>
 
           <listitem>
-            <para>Open the project. The changes are displayed.</para>
+            <para>打开项目。更改会显示出来。</para>
           </listitem>
 
           <listitem>
-            <para>Make a slight change anywhere in the project. This modifies
-            <filename>project_save.tmx</filename> (by adding proper
-            Translation Units from &quot;auto&quot; TMX)</para>
+            <para>在项目中任意位置稍做改动。这将会修改 <filename>project_save.tmx</filename>（自“auto”TMX 文件中添加合适的翻译单元）</para>
           </listitem>
         </orderedlist></para>
 
-      <para>Note: if TMX is removed from /tm/auto before step 3, no extra
-      Translation Unit is added.</para>
+      <para>注意：如果在第 3 步之前就从 /tm/auto 中删除了 TMX，则不会添加任何其他翻译单元。</para>
     </section>
 
     <section>
       <title>tm/enforce</title>
 
-      <para>If you have no doubt that a TMX is more accurate than the
-      <filename>project_save.tmx</filename> of OmegaT, put this TMX in
-      /tm/enforce to overwrite existing default translations
-      unconditionally.</para>
+      <para>如果您确信某个 TMX 比 OmegaT 的 <filename>project_save.tmx</filename> 更靠谱，请将此 TMX 放到 /tm/enforce 中来无条件地覆盖现有的默认翻译。</para>
 
       <para><orderedlist>
           <listitem>
-            <para>Put the TMX in /tm/enforce.</para>
+            <para>将 TMX 放入 /tm/enforce 中。</para>
           </listitem>
 
           <listitem>
-            <para>Open the project. The changes are displayed.</para>
+            <para>打开项目。更改会显示出来。</para>
           </listitem>
 
           <listitem>
-            <para>Make a slight change anywhere in the project. This modifies
-            <filename>project_save.tmx</filename>.</para>
+            <para>在项目中任意位置稍做改动。这将会修改 <filename>project_save.tmx</filename>。</para>
           </listitem>
 
           <listitem>
-            <para>Make decision about immunity of the enforced
-            segments:<itemizedlist>
+            <para>您需决定被强制更改的句段的影响：<itemizedlist>
                 <listitem>
-                  <para>If they <emphasis>don't need</emphasis> to stay immune
-                  from further changes, then remove the TMX from
-                  /tm/enforce.</para>
+                  <para>如果它们 <emphasis>需要</emphasis> 受进一步更改的影响，则将 TMX 从 /tm/enforce 中删除。</para>
                 </listitem>
 
                 <listitem>
-                  <para>If they <emphasis>need</emphasis> to stay immune from
-                  further changes, then keep the TMX in /tm/enforce.</para>
+                  <para>如果它们 <emphasis>无需</emphasis> 受进一步更改的影响，则将 TMX 保留在 /tm/enforce 中。</para>
                 </listitem>
               </itemizedlist></para>
           </listitem>
         </orderedlist></para>
 
-      <para>Note: if TMX is removed from /tm/enforce before step 3,
-      enforcements aren't kept at all.</para>
+      <para>注意：如果在第 3 步之前就从 /tm/enforce 中删除了 TMX，则根本不会保存任何强制修改。</para>
     </section>
 
     <section>
-      <title>tm/mt</title>
+      <title>翻译记忆库匹配选项</title>
 
-      <para>In the editor pane, when a match is inserted from a TMX contained
-      in a folder named <filename>mt</filename>, the background of the active
-      segment is changed to red. The background is restored to normal when the
-      segment is left.</para>
+      <para>在编辑器窗格中，如果插入的匹配项来自名为  <filename>mt</filename> 文件夹中的 TMX 文件，当前所在句段的背景会变为红色。离开此句段后背景恢复正常。</para>
     </section>
 
     <section>
       <title>tm/penalty-xxx</title>
 
-      <para>Sometimes, it is useful to distinguish between high-quality
-      translation memories and those that are, because of the subject matter,
-      client, revision status, etc., less reliable. For translation memories
-      in folders with a name <filename>penalty-xxx</filename> (with xxx
-      between 0 and 100), matches will be degraded according to the name of
-      the folder: a 100% match in any of TMs, residing in a folder called
-      <filename>penalty-30</filename> for instance, will be lowered to a 70%
-      match. The penalty applies to all three match percentages: matches 75,
-      80, 90 will in this case be lowered to 45, 50, 60.</para>
+      <para>有时，将由于题材、客户、修订状态等原因而不太可靠的翻译记忆库与高质量的翻译记忆库区分开来会很有帮助。对于在名为 <filename>penalty-xxx</filename> （xxx 在 0 到 100之间）的文件夹中的翻译记忆库， 匹配度将根据文件夹的名称而降低： 任一翻译记忆库中的 100% 匹配，如果放入名为 <filename>penalty-30</filename> 的文件夹，匹配度将会降为 70%。三种匹配度百分比都会施加罚分：匹配度 75、80、90 在这个案例中会降为 45、50、60。</para>
     </section>
   </section>
 
   <section>
-    <title>dictionary</title>
+    <title>词典</title>
 
-    <para>Initially empty, this folder will contain dictionaries you have
-    added to the project. See <link linkend="appendix.dictionaries">Dictionaries</link> for more on this
-    subject.</para>
+    <para>文件夹一开始是空的，它将包含您加入项目中的词典。关于此主题的更多信息，请参阅 <link linkend="appendix.dictionaries">Dictionaries</link>。</para>
   </section>
 
   <section>
-    <title>glossary</title>
+    <title>词汇表</title>
 
-    <para>This folder is initially empty. It will contain glossaries you will
-    be using in the project. See <link linkend="appendix.glossaries">Glossaries</link> for more on this
-    subject.</para>
+    <para>该子文件夹一开始是空的。它将包括您在项目中使用到的词汇。关于此主题的更多信息，请参阅 <link linkend="appendix.glossaries">Glossaries</link>。</para>
   </section>
 
   <section id="folder.omegat">
     <title>omegat</title>
 
-    <para>The <emphasis role="bold">omegat</emphasis> subfolder contains at
-    least one and possibly several other files. The most important file here
-    is the <filename>project_save.tmx, </filename>that is the working
-    translation memory for the project. Backups of this file (with extension
-    bak) are added progressively to this subfolder, first at the beginning of
-    the translation session, at its end, and while the translation
-    progresses.</para>
+    <para><emphasis role="bold">omegat</emphasis> 子文件夹内至少会包含一个文件，可能还有若干其他文件。这里面最重要的文件是 <filename>project_save.tmx</filename>，它是项目的工作翻译记忆库。随着翻译的进行，在每次翻译会话开始和结束时，此子文件夹中会逐步添加此文件的备份（扩展名为 bak）。</para>
 
-    <para>During translation additional files may get created in this
-    subfolder as follows</para>
+    <para>在翻译中，该子文件夹中还可能会创建其他文件，如下所示：</para>
 
     <variablelist>
       <varlistentry>
         <term>stats.txt</term>
 
         <listitem>
-          <para>contains the current statistics of the current project. You
-          can view it by selecting <guimenuitem>Tools &gt;
-          Statistics</guimenuitem></para>
+          <para>包含当前项目的当前统计数据。您可以选择 <guimenuitem>工具 &gt; 统计</guimenuitem>进行查看。</para>
         </listitem>
       </varlistentry>
 
@@ -177,10 +133,7 @@
         <term>learned_words.txt</term>
 
         <listitem>
-          <para>are created and used by the spell checker. If you already have
-          collected words you wish the spell checker to ignore / accept, you
-          just need to copy the corresponding two files into the
-          <filename>omegat</filename>subfolder of your current project.</para>
+          <para>会产生，用于拼写检查。如果您收集了希望忽略/接受拼写检查的词汇，您只需复制对应的两个文件到当前项目的 <filename>omegat</filename> 子文件夹中。</para>
         </listitem>
       </varlistentry>
 
@@ -188,8 +141,7 @@
         <term>project_stats_match.txt</term>
 
         <listitem>
-          <para>contains the latest project match statistics, generated by
-          <guimenuitem>Tools &gt; Match Statistics</guimenuitem></para>
+          <para>包括最新项目的匹配统计数据，由 <guimenuitem>工具 &gt; 匹配统计数据</guimenuitem> 生成。</para>
         </listitem>
       </varlistentry>
 
@@ -197,8 +149,7 @@
         <term>segmentation.conf</term>
 
         <listitem>
-          <para>if existing, it contains project-specific segmentation
-          rules.</para>
+          <para>如果存在，则包含项目专用的句段分割规则。</para>
         </listitem>
       </varlistentry>
 
@@ -206,7 +157,7 @@
         <term>filters.xml</term>
 
         <listitem>
-          <para>if existing, it contains project-specific file filters.</para>
+          <para>如果存在，则包含项目专用的文件筛选器。</para>
         </listitem>
       </varlistentry>
 
@@ -214,7 +165,7 @@
         <term>uiLayout.xml</term>
 
         <listitem>
-          <para>if existing, it contains project-specific GUI settings.</para>
+          <para>如果存在，则包含项目专用的 GUI 设置。</para>
         </listitem>
       </varlistentry>
     </variablelist>
@@ -223,20 +174,16 @@
   <section>
     <title>omegat.project (file)</title>
 
-    <para>Contains project parameters as defined in the <link linkend="dialogs.projectproperties">Project properties</link>
-    dialog.</para>
+    <para>包含在 <link linkend="dialogs.projectproperties">Project properties</link> 对话框中定义的项目参数。</para>
   </section>
 
   <section>
     <title>.repositories</title>
 
-    <para>In a team project, this folder contains a versioned copy of the
-    project tree structure linked directly to the remote server.</para>
+    <para>在团队项目中，此文件夹包含直接连接到远程服务器的项目树结构的版本副本。</para>
 
-    <para>You can make changes to remote files (e.g. deleting a file) using
-    this folder and a Git or SVN client.</para>
+    <para>您可以用此文件夹和 Git 或 SVN 客户端对远程文件进行更改（例如删除某个文件）。</para>
 
-    <para>In some operating systems, this folder is not displayed by default.
-    Activate the &quot;Show hidden files&quot; option to make it visible.</para>
+    <para>在某些操作系统中，默认情况下不显示此文件夹。激活“显示隐藏文件”选项来使其可见。</para>
   </section>
 </chapter>

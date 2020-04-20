@@ -8,7 +8,7 @@
         <primary>项目</primary> <secondary>新建/打开</secondary> 
       </indexterm></title>
 
-    <para><remark>注:</remark> 在 Apple Mac 上，要使用 <keycap>Command</keycap> 键代替 <keycap>Control</keycap> 键</para>
+    <para><remark>注：</remark> 在 Apple Mac 上，要使用 <keycap>Command</keycap> 键代替 <keycap>Control</keycap> 键</para>
 
       <indexterm class="singular">
         <primary>菜单项目</primary> <secondary>新建...</secondary>
@@ -87,13 +87,13 @@
 
     <itemizedlist>
       <listitem>
-        <para>在翻译结束后，OmegaT 会导出名称分别为 <filename>level1</filename>, <filename>level2</filename> 和 <filename>omegat</filename>  的三种翻译记忆文件到项目文件夹。<filename>level1</filename> 和 <filename>level2</filename> 翻译记忆可以共享给使用其他翻译工具的用户。名称为 <filename>omegat</filename> 的翻译记忆可被 OmegaT 自身用于将来创建的项目。如果您把这种翻译记忆文件放在项目的 <filename>/tm/</filename> 子文件夹，则 OmegaT 会自动在其中搜索类似的片段（称为“模糊匹配”）。</para>
+        <para>在翻译结束后，OmegaT 会导出名称分别为 <filename>level1</filename>, <filename>level2</filename> 和 <filename>omegat</filename>  的三种翻译记忆文件到项目文件夹。<filename>level1</filename> 和 <filename>level2</filename> 翻译记忆可以共享给使用其他翻译工具的用户。名称为 <filename>omegat</filename> 的翻译记忆可被 OmegaT 自身用于将来创建的项目。如果您把这种翻译记忆文件放在项目的 <filename>/tm/</filename> 子文件夹，则 OmegaT 会自动在其中搜索类似的句段（称为“模糊匹配”）。</para>
       </listitem>
     </itemizedlist>
 
     <itemizedlist>
       <listitem>
-        <para>按下 <keycap>Ctrl+Shift+G</keycap> 可以添加新术语到术语表，也可以复制现有的词汇表到项目文件夹的 <filename>/glossary/</filename> 子文件夹，OmegaT 会自动在其中搜索单词。</para>
+        <para>按下 <keycap>Ctrl+Shift+G</keycap> 可以添加新术语到术语表，也可以复制现有的术语表到项目文件夹的 <filename>/glossary/</filename> 子文件夹，OmegaT 会自动在其中搜索单词。</para>
       </listitem>
     </itemizedlist>
 

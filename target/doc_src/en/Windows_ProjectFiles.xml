@@ -17,7 +17,7 @@
     <listitem>
       <para>项目中所有可翻译文件的列表。单击任意文件，可打开并进行翻译。</para>
 
-      <para>输入任何文本都会打开一个<guilabel>过滤器</guilabel>，可以输入文件名片段。可以用<keycap>上</keycap>和<keycap>下</keycap>方向键来选择文件，并按 <keycap>Enter</keycap> 键打开，进行翻译。</para>
+      <para>输入任何文本都会打开一个<guilabel>过滤器</guilabel>，可以输入文件名句段。可以用<keycap>上</keycap>和<keycap>下</keycap>方向键来选择文件，并按 <keycap>Enter</keycap> 键打开，进行翻译。</para>
 
       <para>注意：文件名（第一列）可以通过点击表头来按字母排序。也可以通过点击文件名并按下各个移动按钮来改变文件名的位置。</para>
 
@@ -29,7 +29,7 @@
     </listitem>
 
     <listitem>
-      <para>整个项目的片段总数、总独特片段数和已译独特片段数显示在底部</para>
+      <para>整个项目的句段总数、总独特句段数和已译独特句段数显示在底部</para>
     </listitem>
   </itemizedlist>
 

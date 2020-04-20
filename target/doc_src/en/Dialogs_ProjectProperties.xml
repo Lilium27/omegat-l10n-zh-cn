@@ -14,7 +14,7 @@
   </section>
 
   <section>
-    <title>Options</title>
+    <title>选项</title>
 
     <variablelist>
       <varlistentry>
@@ -33,7 +33,7 @@
         <term>自动传播翻译</term>
 
         <listitem>
-          <para>如果原文文档中包含非独特句段，自动传播翻译复选框为用户提供了下面两种自动翻译的可能性：如果勾选，则第一个被翻译的句段将假定为默认翻译，其译文文本在翻译过程中会自动用于后继命中。当然，错译句段之后可以手动纠正。如果未勾选自动传播复选框，则含有替代译文的句段会保持未译状态，直到用户决定使用哪种译文。</para>
+          <para>如果原文文档中包含非独特句段，自动传播翻译复选框为用户提供了下面两种自动翻译的可能性：如果勾选，则第一个被翻译的句段将假定为默认翻译，其译文文本在翻译过程中会自动用于后继命中。当然，错译句段之后可以用  <guimenuitem>创建替代译文</guimenuitem> 手动纠正。如果未勾选自动传播复选框，则含有替代译文的句段会保持未译状态，直到用户决定使用哪种译文。</para>
         </listitem>
       </varlistentry>
 
@@ -74,7 +74,7 @@
       </varlistentry>
 
       <varlistentry>
-        <term>存储库映射...</term>
+        <term>仓库映射...</term>
 
         <listitem>
           <para>在处理团队项目时，此窗口允许您定义远程文件夹和本地文件夹之间的映射（示例参见 <link linkend="howto.setupteamproject.mappingparameters">这里</link>。</para>

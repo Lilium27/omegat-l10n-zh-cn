@@ -1,162 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
 <section id="menus.tools">
-  <title>Tools</title>
+  <title>工具</title>
 
   <variablelist>
     <varlistentry>
-      <term>Check Issues...</term>
+      <term>检查问题...</term>
 
       <listitem>
-        <para>Quality assurance tool that carries out all the automatic checks
-        in one go and displays the results in a window.</para>
+        <para>一次执行所有自动检查并将结果显示在窗口中的质量保证工具。</para>
 
-        <para>Four types of issues are detected:</para>
+        <para>会检查四种类型的问题：</para>
 
         <itemizedlist>
           <listitem>
-            <para>missing or displaced tags, including <link linkend="dialogs.preferences.tagprocessing">custom tags</link>.
-            The <guilabel>Tag Issues</guilabel> option is always
-            selected.</para>
+            <para>标签缺失或错位，包括<link linkend="dialogs.preferences.tagprocessing">自定义标签</link>。<guilabel>标签问题</guilabel>选项始终是选上的。</para>
           </listitem>
 
           <listitem>
-            <para><guilabel>Spelling Issues</guilabel> (optional). Only works
-            if a spelling dictionary is installed.</para>
+            <para><guilabel>拼写问题</guilabel>（可选）。仅当安装了拼写字典时才有效。</para>
           </listitem>
 
           <listitem>
-            <para><guilabel>Terminology Issues</guilabel> (optional).</para>
+            <para><guilabel>术语问题</guilabel>（可选）。</para>
           </listitem>
 
           <listitem>
-            <para><guilabel>LanguageTool Issues</guilabel> (optional).</para>
+            <para><guilabel>LanguageTool 问题</guilabel>（可选）。</para>
           </listitem>
         </itemizedlist>
 
-        <para>The results window is laid out in the form of a table in
-        which:</para>
+        <para>结果窗口以表格的形式布置，其中：</para>
 
         <itemizedlist>
           <listitem>
-            <para>double-clicking a row activates the corresponding segment in
-            the Editor pane,</para>
+            <para>在一行上双击将在编辑器窗格中激活相应的片段。</para>
           </listitem>
 
           <listitem>
-            <para>clicking a column header changes the sort order for the
-            column,</para>
+            <para>点击一列的标题会更改此列的排序顺序，</para>
           </listitem>
 
           <listitem>
-            <para>selecting or moving the mouse over a row displays a pop-up
-            menu icon in the last column containing actions for correcting or
-            ignoring the error.</para>
+            <para>选定一行或将鼠标移到这一行上会在最后一列中显示一个弹出菜单图标，其中包含纠正或忽略该错误的操作。</para>
           </listitem>
         </itemizedlist>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Check Issues for Current Document</term>
+      <term>检查当前文档问题</term>
 
       <listitem>
-        <para>As above, but only for the document currently displayed in the
-        Editor pane.</para>
+        <para>同上，但仅针对当前显示在编辑器窗格中的文档。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Statistics</term>
+      <term>统计数据</term>
 
       <listitem>
-        <para>Opens a new window and displays the project statistics, i.e. the
-        project totals and totals for every file in the project.</para>
+        <para>打开新窗口并在其中显示项目的统计数据，即整个项目的总数据和项目中每个文件的总数据。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Match Statistics</term>
+      <term>匹配统计数据</term>
 
       <listitem>
-        <para>Displays the Match Statistics for the project: the number of
-        repetitions, exact matches, fuzzy matches and no-matches for segments,
-        words and characters.</para>
+        <para>显示当前项目的匹配统计数据：片段、单词和字符的重复、完全匹配、模糊匹配和不匹配的数量。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Match Statistics per File</term>
+      <term>每个文件的匹配统计数据</term>
 
       <listitem>
-        <para>Displays the Match Statistics for each file of the project: the
-        number of repetitions, exact matches, fuzzy matches and no-matches for
-        segments, words and characters.</para>
+        <para>显示当前项目中每个文件的匹配统计数据：片段、单词和字符的重复、完全匹配、模糊匹配和不匹配的数量。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Align Files...</term>
+      <term>对齐文件...</term>
 
       <listitem>
-        <para>Select the two files to be aligned (the source file and its
-        translation) and click OK to open the <link linkend="windows.aligner"><guilabel>Align</guilabel>
-        window</link>.</para>
+        <para>选择要进行对齐的两个文件（原文文件及其译文），然后点击确定来打开<link linkend="windows.aligner"><guilabel>对齐</guilabel>窗口</link>。</para>
 
-        <para>The supported file formats are those listed in <menuchoice>
-            <guimenuitem>Project</guimenuitem>
+        <para>所支持的文件格式是<menuchoice> <guimenuitem>项目</guimenuitem> <guimenuitem>属性</guimenuitem> <guimenuitem>文件格式</guimenuitem> </menuchoice>中所列的那些。</para>
 
-            <guimenuitem>Properties</guimenuitem>
-
-            <guimenuitem>File Filters</guimenuitem>
-          </menuchoice>.</para>
-
-        <para>The source and target files can have different formats (for
-        example, a <filename>.docx</filename> file can be aligned with a
-        <filename>.pdf</filename> file).</para>
+        <para>原文文件和译文文件的格式可以不同（例如，<filename>.docx</filename> 文件可以和 <filename>.pdf</filename> 文件进行对齐）。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Scripting...</term>
+      <term>脚本...</term>
 
       <listitem>
-        <para>Opens the <link linkend="windows.scripts"><guilabel>Scripting</guilabel>
-        window</link>, where the location of scripts can be set, and where
-        scripts can be written, run and associated with a shortcut.</para>
+        <para>打开<link linkend="windows.scripts"><guilabel>脚本</guilabel>窗口</link>，可以在其中设置脚本的位置，并可以编写、运行脚本，以及为脚本分配快捷键。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>n - (script name)</term>
+      <term>n - (脚本名称)</term>
 
       <listitem>
-        <para>Launches scripts that have been associated with a number.</para>
+        <para>启动与此数字相关联的脚本。</para>
 
-        <para>To associate a script with a number:</para>
+        <para>要将脚本与数字关联：</para>
 
         <orderedlist>
           <listitem>
-            <para>Open the Scripting window</para>
+            <para>打开脚本窗口</para>
           </listitem>
 
           <listitem>
-            <para>Select the script you want from the list on the left</para>
+            <para>从左侧列表中选择所需的脚本</para>
           </listitem>
 
           <listitem>
-            <para>At the bottom of the window, right-click on a free number
-            and select <guilabel>Add Script</guilabel>.</para>
+            <para>在窗口底部，在某个空闲的数字上右键单击并选择<guilabel>添加脚本</guilabel>。</para>
           </listitem>
         </orderedlist>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>(external search commands)</term>
+      <term>(外部搜索命令)</term>
 
       <listitem>
-        <para>If commands to perform external searches have been defined in the <link linkend="dialogs.preferences.externalsearch">Preferences</link>, they are listed and accessible here.</para>
+        <para>如果在<link linkend="dialogs.preferences.externalsearch">首选项</link>中定义了执行外部搜索的命令，则此处会列出这些命令。</para>
       </listitem>
     </varlistentry>
   </variablelist>

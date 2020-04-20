@@ -14,15 +14,15 @@
 
     <orderedlist>
       <listitem>
-        <para>在服务器上创建一个译者可访问的 SVN 或 Git 存储库。</para>
+        <para>在服务器上创建一个译者可访问的 SVN 或 Git 仓库。</para>
       </listitem>
 
       <listitem>
-        <para>创建此存储库的本地副本（对 SVN 是 </para>
+        <para>创建此仓库的本地副本（对 SVN 是 </para>
       </listitem>
 
       <listitem>
-        <para>在本地存储库中建立一个新的、空的 OmegaT 项目。有两种方式可以完成这一点：</para>
+        <para>在本地仓库中建立一个新的、空的 OmegaT 项目。有两种方式可以完成这一点：</para>
 
         <itemizedlist>
           <listitem>
@@ -70,11 +70,11 @@
       </listitem>
     </orderedlist>
 
-    <para>要添加其他资源（词典、TMX、或词汇表），请使用 SVN 或 Git 客户端。</para>
+    <para>要添加其他资源（词典、TMX、或术语表），请使用 SVN 或 Git 客户端。</para>
 
     <para> <emphasis role="bold">删除文件</emphasis>，请使用 SVN 或 Git 客户端。这些文件在译者侧不会自动删除：必须让他们手工删除文件。</para>
 
-    <para>请注意，在翻译期间，OmegaT 只修改两个文件：</para>
+    <para>注意，在翻译期间，OmegaT 只修改两个文件：</para>
 
     <itemizedlist>
       <listitem>

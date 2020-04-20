@@ -1,130 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE section PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
 <section id="menus.view">
-  <title>View</title>
+  <title>视图</title>
 
   <variablelist>
     <varlistentry>
-      <term>Mark Translated Segments</term>
+      <term>标记已译片段</term>
 
       <listitem>
-        <para>If checked, the translated segments will be marked in
-        yellow.</para>
+        <para>如果勾选，已译片段将会标记为黄色。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Mark Untranslated Segments</term>
+      <term>标记未译片段</term>
 
       <listitem>
-        <para>If checked, the untranslated segments will be marked in
-        violet.</para>
+        <para>如果勾选，未译片段将会标记为紫色。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Mark Paragraph delimitations</term>
+      <term>标记段落界定</term>
 
       <listitem>
-        <para>If checked, the separations between paragraphs in the source document are indicated visually.</para>
+        <para>如果勾选，将会在视觉上指示原文文档中各段落之间的分隔。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Display Source Segments</term>
+      <term>显示原文片段</term>
 
       <listitem>
-        <para>If checked, source segments will be shown and marked in green.
-        If not checked, source segments will not be shown.</para>
+        <para>如果勾选，将会显示原文片段并将其标记为绿色。如果未勾选，则不显示原文片段。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Mark Non-Unique Segments</term>
+      <term>标记非独特片段</term>
 
       <listitem>
-        <para>If checked, non-unique segments will be marked in pale
-        grey.</para>
+        <para>如果勾选， 则非独特片段会被标记为淡灰色。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Mark Segments with Notes</term>
+      <term>标记含备注的片段</term>
 
       <listitem>
-        <para>If checked, segments with notes will be marked in cyan. This
-        marking has priority over <guimenuitem>Mark Translated
-        Segments</guimenuitem> and <guimenuitem>Mark Untranslated
-        Segments</guimenuitem>.</para>
+        <para>如果勾选，含备注的片段将标记为青色。此标记行为优先于<guimenuitem>标记已译片段</guimenuitem>和<guimenuitem>标记未译片段</guimenuitem>。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Mark Non-breakable Spaces</term>
+      <term>标记不换行空格</term>
 
       <listitem>
-        <para>If checked, non-breakable spaces will be displayed with a grey
-        background.</para>
+        <para>如果勾选，不换行空格将以灰色背景显示。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Mark Whitespace</term>
+      <term>标记空白字符</term>
 
       <listitem>
-        <para>If checked, white spaces will be displayed with a small
-        dot.</para>
+        <para>如果勾选，空格会显示一个小点。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Mark Bidirectional Algorithm Control Characters</term>
+      <term>标记双向算法控制字符</term>
 
       <listitem>
-        <para>This option displays <ulink url="http://www.w3.org/International/questions/qa-bidi-controls">bidirectional
-        control characters</ulink></para>
+        <para>此选项显示<ulink url="http://www.w3.org/International/questions/qa-bidi-controls">双向控制字符</ulink></para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Mark Auto-Populated Segments</term>
+      <term>标记自动填充片段</term>
 
       <listitem>
-        <para>If checked, the background of all segments where the target
-        segment has been auto-populated (from TMXs placed in
-        <filename>/tm/auto</filename> for example) are displayed in colour.
-        The colours are displayed as long as the <link linkend="dialogs.preferences.editor.saveautopopulatedstatus"><guimenuitem>Save
-        auto-populated status</guimenuitem></link> option is checked. Usual
-        translations inserted from the auto folder are displayed in orange.
-        Other translations, identified specifically in the TMX, can be
-        displayed using different colours. For technical details, see the
-        <ulink url="http://sourceforge.net/p/omegat/feature-requests/963/">Request
-        For Enhancement</ulink>.</para>
+        <para>如果勾选，所有译文部分已被自动填充（例如，来自放在 <filename>/tm/auto</filename> 下的 TMX）的片段的背景将以彩色显示。只要<link linkend="dialogs.preferences.editor.saveautopopulatedstatus"><guimenuitem>保存自动填充状态</guimenuitem></link>选项已勾选就会显示颜色。通常，从 auto 文件夹插入的翻译会显示为橙色。其他在 TMX 中特别标记的翻译可以用不同的颜色来显示。有关技术细节，参见<ulink url="http://sourceforge.net/p/omegat/feature-requests/963/">改进建议</ulink>。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Aggressive Font Fallback</term>
+      <term>激进式字体候补</term>
 
       <listitem>
-        <para>Check this option in case <application>OmegaT</application> does
-        not display some glyphs properly (even if the fonts containing the
-        relevant glyphs are installed on your machine). Note: on Windows it
-        seems that this manual font fallback mechanism can interfere with
-        standard font fallback, causing undesirable font substitution. For
-        that reason, it is OFF by default.</para>
+        <para>如果 <application>OmegaT</application> 无法正确显示某些字形（即使你的机器上已经安装了包含相关字形的字体），请勾选此选项。注意：在 Windows 上，这种手动字体候补机制似乎会干扰标准字体候补，从而导致不理想的字体替换。因此，它在默认情况下是关闭的。</para>
       </listitem>
     </varlistentry>
 
     <varlistentry>
-      <term>Modification Info</term>
+      <term>修订信息</term>
 
       <listitem>
-        <para>Setting the Display Modification option to <guimenuitem>Current
-        segment</guimenuitem> will display the time and the author of the last
-        change in the current segment. Setting it to <guimenuitem>All
-        segments</guimenuitem> shows this information for all segments and
-        <guimenuitem>None</guimenuitem> turns this option off.</para>
+        <para>将显示修订选项设置为<guimenuitem>当前片段</guimenuitem>会显示当前片段的最后一次更改的时间和作者。将其设置为<guimenuitem>所有片段</guimenuitem>会在所有片段上显示此信息，而<guimenuitem>不显示</guimenuitem>则会关闭此选项。</para>
       </listitem>
     </varlistentry>
   </variablelist>

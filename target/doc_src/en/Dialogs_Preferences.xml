@@ -60,7 +60,7 @@
   </section>
 
   <section>
-    <title>词汇表</title>
+    <title>术语表</title>
 
     <variablelist>
       <varlistentry>
@@ -107,11 +107,11 @@
     </variablelist>
 
     <section>
-      <title>TaaS Terminology</title>
+      <title>TaaS 术语</title>
 
       <variablelist>
         <varlistentry>
-          <term>Get API Key</term>
+          <term>获取 API 密钥</term>
 
           <listitem>
             <para>Click this button to access the <ulink url="https://term.tilde.com/taas">TaaS</ulink> project site and create a user account.</para>
@@ -191,7 +191,7 @@
     </section>
 
     <section>
-      <title>Colours</title>
+      <title>颜色</title>
 
       <para>This page allows you to choose different colours for each part of the user interface.</para>
 
@@ -200,7 +200,7 @@
   </section>
 
   <section id="dialogs.preferences.filefilters">
-    <title>File Filters</title>
+    <title>文件过滤器</title>
 
     <para>This dialog lists the file filters available. The filters used by the current project are displayed in bold. If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name. OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents. When you wish to use the filter again, just tick the check box. Click <emphasis role="bold">Defaults</emphasis> to reset the file filters to the default settings. To edit the files and encodings a filter is used for, select the filter in the list and click <emphasis role="bold">Edit.</emphasis></para>
 
@@ -343,7 +343,7 @@
 
       <itemizedlist>
         <listitem>
-          <para><emphasis role="bold">Other Options: </emphasis></para>
+          <para><emphasis role="bold">其他选项：</emphasis></para>
 
           <itemizedlist>
             <listitem>
@@ -588,7 +588,7 @@
   </section>
 
   <section id="dialogs.preferences.segmentationsetup">
-    <title>Segmentation Setup</title>
+    <title>分割设置</title>
 
     <para>Translation memory tools work with textual units called segments.
     <application>OmegaT</application> has two ways to segment a text: by
@@ -772,7 +772,7 @@
 
               <entry align="center">After</entry>
 
-              <entry>Note</entry>
+              <entry>备注</entry>
             </row>
           </thead>
 
@@ -847,7 +847,7 @@
   </section>
 
   <section>
-    <title>Spellchecker</title>
+    <title>拼写检查器</title>
 
     <para>OmegaT has a built-in spell checker based on the <link linkend="appendix.spellchecker">spelling checker</link> used in Apache
     OpenOffice, LibreOffice, Firefox and Thunderbird. It is consequently able
@@ -860,7 +860,7 @@
 
     <variablelist>
       <varlistentry>
-        <term>Service type</term>
+        <term>服务类型</term>
 
         <listitem>
           <para>Select the location of the language checker.</para>
@@ -870,7 +870,7 @@
       </varlistentry>
 
       <varlistentry>
-        <term>Rules</term>
+        <term>规则</term>
 
         <listitem>
           <para>Check or uncheck the rules depending on whether they are relevant to the type of text you are translating.</para>
@@ -1115,7 +1115,7 @@
   </section>
 
   <section id="dialogs.preferences.tagprocessing">
-    <title>Tag Processing</title>
+    <title>标签处理</title>
 
     <para>When translating software-related files, you can configure the Tag Validator options to also check programming (%...) variables. You can also define various options relating to tag validation and define custom tags.</para>
 
@@ -1127,24 +1127,24 @@
   </section>
 
   <section>
-    <title>Team</title>
+    <title>团队</title>
 
     <para>Enter your name here and it will be attached to all segments
     translated by you.</para>
 
     <section>
-      <title>Repository Credentials</title>
+      <title>仓库凭证</title>
 
       <para>List of projects for which login details are stored in OmegaT. Remove a project from this list if you want OmegaT to ask you for a login and a password every time you access the project.</para>
     </section>
   </section>
 
   <section>
-    <title>TM Matches</title>
+    <title>翻译记忆库匹配</title>
 
     <variablelist>
       <varlistentry>
-        <term>Sort fuzzy matches by:</term>
+        <term>模糊匹配排序依据：</term>
 
         <listitem>
           <para>By default, the closest matches displayed in the <guilabel>Fuzzy Matches</guilabel> pane are determined using stemming.</para>
@@ -1163,7 +1163,7 @@
       </varlistentry>
 
       <varlistentry>
-        <term>Match display template</term>
+        <term>匹配显示模板</term>
 
         <listitem>
           <para>Change how fuzzy matches are displayed, through the use of
@@ -1247,7 +1247,7 @@
   </section>
 
   <section>
-    <title>View</title>
+    <title>视图</title>
 
     <para>Contains options for displaying texts and modification information
     in different ways.</para>
@@ -1265,7 +1265,7 @@
   </section>
 
   <section id="dialogs.preferences.savingandoutput">
-    <title>Saving and Output</title>
+    <title>保存和输出</title>
 
     <para>Allows the user select the interval - in minutes and seconds -
     between consecutive automatic saves of the project.</para>
@@ -1306,7 +1306,7 @@
   </section>
 
   <section>
-    <title>Proxy Login</title>
+    <title>代理服务器登录</title>
 
     <para>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</para>
   </section>
