@@ -15726,8 +15726,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>When you translate your files, &lt;a2&gt;OmegaT&lt;/a2&gt; stores all your progress in the translation memory &lt;l3&gt;project_save.tmx&lt;/l3&gt; that resides in the project's &lt;l4&gt;/omegat&lt;/l4&gt; subfolder.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T145723Z" creationid="hp" creationdate="20200418T070925Z">
-        <seg>当翻译文档时， &lt;a2&gt;OmegaT&lt;/a2&gt;  将所有进度存储在项目的 翻译记忆库中&lt;l3&gt;project_save.tmx&lt;/l3&gt; 翻译记忆库位于项目的&lt;l4&gt;/omegat&lt;/l4&gt; 子文件夹中</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055907Z" creationid="hp" creationdate="20200418T070925Z">
+        <seg>当翻译文档时，&lt;a2&gt;OmegaT&lt;/a2&gt;  将所有进度存储在项目的 翻译记忆库中&lt;l3&gt;project_save.tmx&lt;/l3&gt; 翻译记忆库位于项目的&lt;l4&gt;/omegat&lt;/l4&gt; 子文件夹中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16640,8 +16640,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>rename it &lt;l0&gt;project_save.tmx&lt;/l0&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071202Z" creationid="hp" creationdate="20200418T071202Z">
-        <seg>将其重命名为 </seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055915Z" creationid="hp" creationdate="20200418T071202Z">
+        <seg>将其重命名为&lt;l0&gt;project_save.tmx&lt;/l0&gt; </seg>
       </tuv>
     </tu>
     <tu>
