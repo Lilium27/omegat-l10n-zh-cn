@@ -7399,6 +7399,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Language not specified for translation unit variant.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052802Z" creationid="hp" creationdate="20200420T052802Z">
+        <seg>没有为翻译单元变量指定语种。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>LanguageTool (LGPL License and others)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120517Z" creationid="DSS" creationdate="20200419T120517Z">
@@ -11407,6 +11415,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segment encountered outside translation unit variant.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052813Z" creationid="hp" creationdate="20200420T052813Z">
+        <seg>在翻译单元变量之外发现了句段。句段已跳过。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment marker background</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131134Z" creationid="Liliu" creationdate="20200419T131134Z">
@@ -11427,6 +11443,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110120Z" creationid="yangzy" creationdate="20200419T110120Z">
         <seg>片段序号...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment skipped.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052822Z" creationid="hp" creationdate="20200420T052822Z">
+        <seg>变量被忽略。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12087,6 +12111,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source segment could not be located for certain translation units.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052831Z" creationid="hp" creationdate="20200420T052831Z">
+        <seg>无法定位某些翻译单元的原文片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source segments</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131138Z" creationid="Liliu" creationdate="20200419T131138Z">
@@ -12453,6 +12485,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101102Z" creationid="yangzy" creationdate="20200419T101102Z">
         <seg>翻译记忆库匹配选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052921Z" creationid="hp" creationdate="20200420T052921Z">
+        <seg>OmETMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12896,6 +12936,32 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074110Z" creationid="hp" creationdate="20200418T074110Z">
         <seg>项目经理应当与译者核实确认两侧（服务器侧与译者侧）的统计数据是一致的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TMX file will continue to be loaded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052853Z" creationid="hp" creationdate="20200420T052853Z">
+        <seg>将继续载入 TMX 文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TMX file will not be loaded
+Please try to correct the error and reload the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052700Z" creationid="hp" creationdate="20200420T052700Z">
+        <seg>TMX 文件不会被加载
+请尝试修复错误并重新加载项目Please try to correct the error and reload the project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The TMX source language ({0}) is different from the project source language ({1}).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052847Z" creationid="hp" creationdate="20200420T052847Z">
+        <seg>TMX 原文语言（{0}）与项目的原文语言（{1}）不同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13660,6 +13726,14 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110134Z" creationid="yangzy" creationdate="20200419T110134Z">
         <seg>这些设置是应用到 OmegaT 级别的，对所有项目生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These units have been skipped.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052836Z" creationid="hp" creationdate="20200420T052836Z">
+        <seg>已跳过这些单元。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14596,6 +14670,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translation unit variant encountered outside translation unit.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052747Z" creationid="hp" creationdate="20200420T052747Z">
+        <seg>在翻译单元之外发现了翻译单元变量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translation units are located in cells in the two last columns.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200419T030541Z" creationid="qinxun" creationdate="20200419T030505Z">
@@ -15227,6 +15309,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200420T041743Z" creationid="qinxun" creationdate="20200420T041743Z">
         <seg>值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Variant skipped.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052752Z" creationid="hp" creationdate="20200420T052752Z">
+        <seg>变量被忽略。</seg>
       </tuv>
     </tu>
     <tu>
