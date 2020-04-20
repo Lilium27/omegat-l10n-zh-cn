@@ -614,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Reset Options</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052542Z" creationid="hp" creationdate="20200420T052542Z">
+        <seg>重置各选项(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Reset This Colour</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T132055Z" creationid="Liliu" creationdate="20200419T132055Z">
@@ -634,6 +642,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113909Z" creationid="Liliu" creationdate="20200419T113909Z">
         <seg>保存(&amp;S)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Search for Selection</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052541Z" creationid="hp" creationdate="20200420T052541Z">
+        <seg>查找转选区(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -849,10 +865,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(close tag)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052551Z" creationid="hp" creationdate="20200420T052551Z">
+        <seg>（关闭标签）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(comment tag)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052548Z" creationid="hp" creationdate="20200420T052548Z">
+        <seg>（注释标签）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(empty tag)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052550Z" creationid="hp" creationdate="20200420T052550Z">
+        <seg>（空白标签）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(external search commands)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110200Z" creationid="yangzy" creationdate="20200419T110200Z">
         <seg>(外部搜索命令)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>+{0} more</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052539Z" creationid="hp" creationdate="20200420T052539Z">
+        <seg>+{0} 条</seg>
       </tuv>
     </tu>
     <tu>
@@ -1847,6 +1895,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An exception occurred while parsing the TMX file
+{0}
+The TMX file will not be loaded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052611Z" creationid="hp" creationdate="20200420T052611Z">
+        <seg>解析以下 TMX 文件时出现异常：\n{0}\n此 TMX 文件不会被载入。请浏览日志\n（{1}）\n来确定错误原因后重新尝试。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An existing translation was changed to something different from what you chose.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200420T041702Z" creationid="qinxun" creationdate="20200420T041628Z">
@@ -2081,6 +2139,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-sync with Editor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052417Z" creationid="hp" creationdate="20200420T052417Z">
+        <seg>过滤器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-text configuration</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113905Z" creationid="Liliu" creationdate="20200419T113905Z">
@@ -2161,6 +2227,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Back to the initial segment on close</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052428Z" creationid="hp" creationdate="20200420T052428Z">
+        <seg>关闭后回到原本的句段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Backed up preferences to {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052602Z" creationid="hp" creationdate="20200420T052602Z">
+        <seg>首选项备份已备份到 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Background</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T130735Z" creationid="Liliu" creationdate="20200419T130735Z">
@@ -2177,6 +2259,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bad folder name {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052536Z" creationid="hp" creationdate="20200420T052536Z">
+        <seg>错误的文件夹名称 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bad nesting</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113318Z" creationid="Liliu" creationdate="20200419T113318Z">
@@ -2189,6 +2279,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T093736Z" creationid="yangzy" creationdate="20200419T093736Z">
         <seg>错误的正则表达式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Bad regular expression!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052527Z" creationid="hp" creationdate="20200420T052527Z">
+        <seg>错误的正则表达式！</seg>
       </tuv>
     </tu>
     <tu>
@@ -2389,6 +2487,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100019Z" creationid="yangzy" creationdate="20200419T100019Z">
         <seg>无法安装</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot load specified XML file!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052545Z" creationid="hp" creationdate="20200420T052545Z">
+        <seg>无法载入指定的 XML 文件！ \n</seg>
       </tuv>
     </tu>
     <tu>
@@ -2948,6 +3054,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Confused by false start of comment tag!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052547Z" creationid="hp" creationdate="20200420T052547Z">
+        <seg>错误的注释起始标签导致混乱！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Connect to custom server instead of apertium.org</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101127Z" creationid="yangzy" creationdate="20200419T101127Z">
@@ -3250,6 +3364,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200420T041815Z" creationid="qinxun" creationdate="20200420T041815Z">
         <seg>创建者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Created by: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052606Z" creationid="hp" creationdate="20200420T052606Z">
+        <seg>创建：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4272,6 +4394,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>End of stream encountered without finding close block!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052553Z" creationid="hp" creationdate="20200420T052553Z">
+        <seg>在未找到关闭块的情况下遇到流末端！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>End rebase</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112025Z" creationid="Liliu" creationdate="20200419T112025Z">
@@ -4376,6 +4506,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error during regular expression replacement:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052534Z" creationid="hp" creationdate="20200420T052534Z">
+        <seg>正则表达式替换期间出错：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error extracting MT result from MyMemory, response:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101124Z" creationid="yangzy" creationdate="20200419T101124Z">
@@ -4448,6 +4586,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error searching directory tree!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052526Z" creationid="hp" creationdate="20200420T052526Z">
+        <seg>查找目录树时发生错误！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error starting external command: {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050214Z" creationid="hp" creationdate="20200420T050214Z">
@@ -4500,6 +4646,30 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112835Z" creationid="Liliu" creationdate="20200419T112835Z">
         <seg>错误：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Escaped binary char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052555Z" creationid="hp" creationdate="20200420T052555Z">
+        <seg>转义二进制字符包含格式错误的数据（{0}）！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Escaped character never terminated!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052554Z" creationid="hp" creationdate="20200420T052554Z">
+        <seg>转义字符未结束！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Escaped decimal char contains malformed data ({0})!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052555Z" creationid="hp" creationdate="20200420T052555Z">
+        <seg>转义十进制字符包含格式错误的数据（{0}）！</seg>
       </tuv>
     </tu>
     <tu>
@@ -4608,6 +4778,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exception while parsing:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052610Z" creationid="hp" creationdate="20200420T052610Z">
+        <seg>解析时出现异常：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Exceptions occurred while loading segmentation rules:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122103Z" creationid="DSS" creationdate="20200419T122103Z">
@@ -4620,6 +4798,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050556Z" creationid="hp" creationdate="20200420T050556Z">
         <seg>排除模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exclude orphan segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052519Z" creationid="hp" creationdate="20200420T052519Z">
+        <seg>排除孤立句段</seg>
       </tuv>
     </tu>
     <tu>
@@ -4784,6 +4970,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to back up preferences file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052603Z" creationid="hp" creationdate="20200420T052603Z">
+        <seg>备份首选项文件失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to create project!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050158Z" creationid="hp" creationdate="20200420T050158Z">
@@ -4796,6 +4990,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050015Z" creationid="hp" creationdate="20200420T050015Z">
         <seg>遇到致命错误 - 正在使用“.recover”备份扩展名保存项目文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fatal error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052613Z" creationid="hp" creationdate="20200420T052613Z">
+        <seg>解析时在第 {0} 行第 {1} 列时出现致命错误：</seg>
       </tuv>
     </tu>
     <tu>
@@ -4872,6 +5074,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File {0} does not exist!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052556Z" creationid="hp" creationdate="20200420T052556Z">
+        <seg>文件 {0} 不存在！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File {0}: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050314Z" creationid="hp" creationdate="20200420T050314Z">
@@ -4940,6 +5150,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113151Z" creationid="DSS" creationdate="20200419T113151Z">
         <seg>Flash XML 导出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Floating '?' character not tied to '&gt;'!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052549Z" creationid="hp" creationdate="20200420T052549Z">
+        <seg>未绑定到“&gt;”的浮动“?”字符！</seg>
       </tuv>
     </tu>
     <tu>
@@ -5441,6 +5659,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Group {0} does not exist in search expression</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052535Z" creationid="hp" creationdate="20200420T052535Z">
+        <seg>查找表达式中不存在组 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HHC file too big!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122048Z" creationid="DSS" creationdate="20200419T122048Z">
@@ -5645,6 +5871,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113653Z" creationid="DSS" creationdate="20200419T113653Z">
         <seg>ILIAS 语言文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>IOException encountered:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052545Z" creationid="hp" creationdate="20200420T052545Z">
+        <seg>发生输入输出异常：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7821,6 +8055,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Maximum number of finds has been reached ({0})</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052523Z" creationid="hp" creationdate="20200420T052523Z">
+        <seg>已达到最大查找数量（{0}）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Memor&amp;y</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050646Z" creationid="hp" creationdate="20200420T050646Z">
@@ -8293,6 +8535,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No matches returned by search.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052537Z" creationid="hp" creationdate="20200420T052537Z">
+        <seg>没有找到匹配项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No need to save project, because no changes were made</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094927Z" creationid="yangzy" creationdate="20200419T094927Z">
@@ -8393,6 +8643,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200420T042203Z" creationid="qinxun" creationdate="20200420T042203Z">
         <seg>正态分布（Normal）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Not a valid XML file!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052544Z" creationid="hp" creationdate="20200420T052544Z">
+        <seg>不是有效的 XML 文件！</seg>
       </tuv>
     </tu>
     <tu>
@@ -8665,6 +8923,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050635Z" creationid="hp" creationdate="20200420T050635Z">
         <seg>现在</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nr of matching segments: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052538Z" creationid="hp" creationdate="20200420T052538Z">
+        <seg>匹配的片段数：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9355,6 +9621,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Parse error encountered reading preferences file!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052557Z" creationid="hp" creationdate="20200420T052557Z">
+        <seg>读取首选项文件时遇到解析错误！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Parsewise</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200420T042158Z" creationid="qinxun" creationdate="20200420T042158Z">
@@ -9451,12 +9725,30 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please close search window.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052537Z" creationid="hp" creationdate="20200420T052537Z">
+        <seg>搜索线程意外崩溃！请关闭搜索窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please consult the documentation about your recovery options and
 return the information below to the software manufacturer with
 a description of how this error was produced.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050027Z" creationid="hp" creationdate="20200420T050027Z">
         <seg>请参阅文档来获取恢复方法，并请将以下信息配上错误描述回报给软件制造商。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please consult the log
+({1})
+to determine the source of the error and try again.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052611Z" creationid="hp" creationdate="20200420T052611Z">
+        <seg>下载字典时发生错误。请再试一次。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9618,6 +9910,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112049Z" creationid="Liliu" creationdate="20200419T112041Z">
         <seg>未传递预定义凭证。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preferences system save operation failed!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052556Z" creationid="hp" creationdate="20200420T052556Z">
+        <seg>首选项系统保存操作失败！</seg>
       </tuv>
     </tu>
     <tu>
@@ -10055,10 +10355,34 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Reading TMX file {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052605Z" creationid="hp" creationdate="20200420T052605Z">
+        <seg>TMX 文件读取完毕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reading of TMX file complete</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052605Z" creationid="hp" creationdate="20200420T052605Z">
+        <seg>TMX 文件读取完毕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Realign Pending</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200420T041945Z" creationid="qinxun" creationdate="20200420T041945Z">
         <seg>重新对齐剩余部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Recoverable error on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052613Z" creationid="hp" creationdate="20200420T052613Z">
+        <seg>解析时在第 {0} 行第 {1} 列出现可恢复错误：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10955,6 +11279,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Search thread died unexpectedly!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052536Z" creationid="hp" creationdate="20200420T052536Z">
+        <seg>搜索线程意外崩溃！请关闭搜索窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Seconds:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112913Z" creationid="Liliu" creationdate="20200419T112913Z">
@@ -11119,6 +11451,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122137Z" creationid="DSS" creationdate="20200419T122137Z">
         <seg>分割设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segmentation method: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052608Z" creationid="hp" creationdate="20200420T052608Z">
+        <seg>分割方法：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11731,6 +12071,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source language: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052609Z" creationid="hp" creationdate="20200420T052609Z">
+        <seg>原文语种：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source of Selected Match</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110123Z" creationid="yangzy" creationdate="20200419T110123Z">
@@ -12185,6 +12533,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T092844Z" creationid="yangzy" creationdate="20200419T092844Z">
         <seg>标签处理选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag name:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052548Z" creationid="hp" creationdate="20200420T052548Z">
+        <seg>\n标签名称：</seg>
       </tuv>
     </tu>
     <tu>
@@ -14369,6 +14725,22 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to initialize read of XML file!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052543Z" creationid="hp" creationdate="20200420T052543Z">
+        <seg>无法初始化 XML 文件的读取！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to read file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052559Z" creationid="hp" creationdate="20200420T052559Z">
+        <seg>无法读取文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to read project file!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050547Z" creationid="hp" creationdate="20200420T050547Z">
@@ -14413,6 +14785,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094100Z" creationid="yangzy" creationdate="20200419T094100Z">
         <seg>移出</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unexpected char {0} ({1})!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052546Z" creationid="hp" creationdate="20200420T052546Z">
+        <seg>意外字符 {0}（{1}）!</seg>
       </tuv>
     </tu>
     <tu>
@@ -14505,6 +14885,16 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unrecoverable error while parsing TMX file
+{0}
+on line {1}, column {2}.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052614Z" creationid="hp" creationdate="20200420T052614Z">
+        <seg>解析 TMX 文件\n{0}\n时在第 {1} 行第 {2} 列出现不可回复的错误。\n\n此 TMX 文件不会被载入\n请尝试修正错误并重新载入项目。\n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unspecified</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113334Z" creationid="Liliu" creationdate="20200419T113334Z">
@@ -14517,6 +14907,30 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T102527Z" creationid="Liliu" creationdate="20200419T102527Z">
         <seg>不支持的 SVN 错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unsupported XML version {0}!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052544Z" creationid="hp" creationdate="20200420T052544Z">
+        <seg>不支持的 XML 版本 {0}！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unsupported file encoding</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052558Z" creationid="hp" creationdate="20200420T052558Z">
+        <seg>不支持的文件编码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unsupported project file version ({0})!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052604Z" creationid="hp" creationdate="20200420T052604Z">
+        <seg>不支持的项目文件版本（{0}）！</seg>
       </tuv>
     </tu>
     <tu>
@@ -14817,6 +15231,22 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Variants in the following languages will be displayed: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052609Z" creationid="hp" creationdate="20200420T052609Z">
+        <seg>将显示以下语言的变体：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Version: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052607Z" creationid="hp" creationdate="20200420T052607Z">
+        <seg>版本：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>View</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T111022Z" creationid="yangzy" creationdate="20200419T111022Z">
@@ -14863,6 +15293,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094901Z" creationid="yangzy" creationdate="20200419T094901Z">
         <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warning on line {0}, column {1} while parsing:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052612Z" creationid="hp" creationdate="20200420T052612Z">
+        <seg>解析时在第 {0} 行第 {1} 列出现警告：</seg>
       </tuv>
     </tu>
     <tu>
@@ -15549,6 +15987,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>attributes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052553Z" creationid="hp" creationdate="20200420T052553Z">
+        <seg> 属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>canceled ({0} ms elapsed)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101813Z" creationid="yangzy" creationdate="20200419T101813Z">
@@ -15801,6 +16247,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075455Z" creationid="hp" creationdate="20200418T075455Z">
         <seg>在 ODF writer 中加载译文文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>loaded</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052552Z" creationid="hp" creationdate="20200420T052552Z">
+        <seg>已载入</seg>
       </tuv>
     </tu>
     <tu>
@@ -16161,6 +16615,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122032Z" creationid="DSS" creationdate="20200419T122032Z">
         <seg>value（button 控件，包括 &amp;submit input 和 reset input，的 value 属性）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} +{1} more</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052540Z" creationid="hp" creationdate="20200420T052540Z">
+        <seg>{0} +{1} 条</seg>
       </tuv>
     </tu>
     <tu>
