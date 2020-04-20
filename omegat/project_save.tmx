@@ -790,6 +790,16 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>'*' matches zero or more characters ('run*' matches 'run', 'runs', and'running', etc.)
+'?' matches exactly one character ('run?' matches 'runs' and 'rung', but not 'run' or 'running').</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T051943Z" creationid="hp" creationdate="20200420T051943Z">
+        <seg>'*' 匹配零个或多个字符 （'run*'会匹配 'run'、'runs'、'running'等。）
+'?' 精确匹配一个字符 （'run?' 匹配 'runs' 和 'rung', 但是不会匹配 'run' 或 'running'。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>'{0}' menu selected</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T095858Z" creationid="yangzy" creationdate="20200419T095858Z">
