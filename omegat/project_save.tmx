@@ -2597,8 +2597,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Changing segmentation settings may cause some already translated segments to be split or merged.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T030014Z" creationid="hp" creationdate="20200418T041713Z">
-        <seg>改变分割规则设置可能导致一些已经译好的句段被分拆或者合并。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055430Z" creationid="hp" creationdate="20200418T041713Z">
+        <seg>改变分割规则设置可能会导致一些已经译好的句段被分拆或者合并。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6728,8 +6728,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>In the Exclusion patterns dialog, it is possible to Add or Remove a pattern, or edit one by selecting a line and pressing F2.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051954Z" creationid="hp" creationdate="20200418T051945Z">
-        <seg>在排除模式对话框中，可以添加或删除模式，也可以通过选定一行并按 F2 来编辑。可以按</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055347Z" creationid="hp" creationdate="20200418T051945Z">
+        <seg>在排除模式对话框中，可以添加或删除模式，也可以通过选定一行并按 F2 来编辑。</seg>
       </tuv>
     </tu>
     <tu>
