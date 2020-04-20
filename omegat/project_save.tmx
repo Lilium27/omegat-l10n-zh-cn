@@ -10539,6 +10539,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regular expression searches match Java regular expressions as documented in the user manual.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T054016Z" creationid="hp" creationdate="20200420T054016Z">
+        <seg>正则表达式搜索与用户手册中记录的 Java 正则表达式匹配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Reload</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110913Z" creationid="yangzy" creationdate="20200419T110142Z">
