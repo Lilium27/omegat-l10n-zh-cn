@@ -1467,8 +1467,8 @@
       <tuv lang="en">
         <seg>Add the new OmegaT project to the versioning system (&lt;c0&gt;add&lt;/c0&gt; with SVN and Git)</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T073403Z" creationid="hp" creationdate="20200418T073332Z">
-        <seg>将新建立的 OmegaT 项目添加到版本控制系统（对于 SVN 和 Git 都是</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T061142Z" creationid="hp" creationdate="20200418T073332Z">
+        <seg>将新建立的 OmegaT 项目添加到版本控制系统（对于 SVN 和 Git 都是这样）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3194,8 +3194,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Copy the translation memories, containing the translations of the documents above, into &lt;f0&gt;tm/auto&lt;/f0&gt; subfolder of the new project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072504Z" creationid="hp" creationdate="20200418T072504Z">
-        <seg>复制包含上述文档的翻译的翻译记忆库到新项目的 </seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T060847Z" creationid="hp" creationdate="20200418T072504Z">
+        <seg>复制包含上述文档的翻译的翻译记忆库到新项目的&lt;f0&gt;tm/auto&lt;/f0&gt; 子文件夹中。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -3330,8 +3330,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Create a local copy of the repository (&lt;c0&gt;check out&lt;/c0&gt; with SVN, &lt;c1&gt;clone&lt;/c1&gt; with Git).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T105616Z" creationid="hp" creationdate="20200418T073231Z">
-        <seg>创建此仓库的本地副本（对 SVN 是 </seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T061055Z" creationid="hp" creationdate="20200418T073231Z">
+        <seg>创建此仓库的本地副本（使用 SVN 检查 &lt;c0&gt;检查&lt;/c0&gt;，使用 Git  &lt;c1&gt;克隆&lt;/c1&gt; 。</seg>
       </tuv>
     </tu>
     <tu>
