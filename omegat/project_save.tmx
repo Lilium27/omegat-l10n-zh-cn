@@ -1239,6 +1239,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add To Dictionary: “{0}”</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T043123Z" creationid="qinxun" creationdate="20200420T043123Z">
+        <seg>添加到词典：“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add characters to the custom table by double-clicking, or by highlighting and pressing the Insert key.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T114131Z" creationid="Liliu" creationdate="20200419T114131Z">
@@ -1427,6 +1435,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T025242Z" creationid="qinxun" creationdate="20200419T025044Z">
         <seg>可以对齐已经翻译过的单语言文档，创建双语翻译记忆库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T043047Z" creationid="qinxun" creationdate="20200420T043047Z">
+        <seg>全部</seg>
       </tuv>
     </tu>
     <tu>
@@ -1737,6 +1753,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T105539Z" creationid="yangzy" creationdate="20200419T105539Z">
         <seg>附录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Apply &amp;Fix</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T043140Z" creationid="qinxun" creationdate="20200420T043140Z">
+        <seg>应用 &amp;修改(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2339,6 +2363,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110207Z" creationid="yangzy" creationdate="20200419T110207Z">
         <seg>如果 &lt;a0&gt;OmegaT&lt;/a0&gt; 无法正确显示某些字形（即使你的机器上已经安装了包含相关字形的字体），请勾选此选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T043050Z" creationid="qinxun" creationdate="20200420T043050Z">
+        <seg>检查{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3520,6 +3552,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T115023Z" creationid="Liliu" creationdate="20200419T115023Z">
         <seg>领域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Don't Ask What to Check First</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T043119Z" creationid="qinxun" creationdate="20200420T043119Z">
+        <seg>检查之前不要询问</seg>
       </tuv>
     </tu>
     <tu>
@@ -5553,6 +5593,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Ignore: “{0}”</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T043124Z" creationid="qinxun" creationdate="20200420T043124Z">
+        <seg>忽略：“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Import the source file to &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;, save it as an ODG file, translate, export to PDF as needed.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T075410Z" creationid="hp" creationdate="20200418T075410Z">
@@ -6423,6 +6471,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T100029Z" creationid="yangzy" creationdate="20200419T100029Z">
         <seg>LanguageTool API 版本不匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LanguageTool Issues</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T043157Z" creationid="qinxun" creationdate="20200420T043142Z">
+        <seg>语言工具问题</seg>
       </tuv>
     </tu>
     <tu>
@@ -10621,6 +10677,22 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spelling</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T043121Z" creationid="qinxun" creationdate="20200420T043121Z">
+        <seg>拼写</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spelling Issues</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T043120Z" creationid="qinxun" creationdate="20200420T043120Z">
+        <seg>拼写问题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Split</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T041938Z" creationid="qinxun" creationdate="20200420T041938Z">
@@ -10939,6 +11011,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T113058Z" creationid="Liliu" creationdate="20200419T113058Z">
         <seg>标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tag Issues</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T043126Z" creationid="qinxun" creationdate="20200420T043126Z">
+        <seg>标签问题</seg>
       </tuv>
     </tu>
     <tu>
