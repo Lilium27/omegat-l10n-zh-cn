@@ -7125,6 +7125,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keyword searches are not available in the search string.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052311Z" creationid="hp" creationdate="20200420T052311Z">
+        <seg>关键字查找在句段查找中无效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T051148Z" creationid="hp" creationdate="20200420T051148Z">
@@ -12353,6 +12361,15 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050800Z" creationid="hp" creationdate="20200420T050800Z">
         <seg>文本替换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Replace:
+The scope of a text replacement is the target segments of the project, whether they already have contents or not.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052154Z" creationid="hp" creationdate="20200420T052020Z">
+        <seg>替换文本：替换文本位于项目的目标句段中，不论之前是否有内容。</seg>
       </tuv>
     </tu>
     <tu>
