@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>#Files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050229Z" creationid="hp" creationdate="20200420T050229Z">
+        <seg>文件(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Add</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T130634Z" creationid="Liliu" creationdate="20200419T130634Z">
@@ -62,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Auto-propagation of Translations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050327Z" creationid="hp" creationdate="20200420T050327Z">
+        <seg>自动传播翻译(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Automatically Fetch Translations</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101112Z" creationid="yangzy" creationdate="20200419T101112Z">
@@ -82,6 +98,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113705Z" creationid="DSS" creationdate="20200419T113705Z">
         <seg>书签(&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Browse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050331Z" creationid="hp" creationdate="20200420T050331Z">
+        <seg>浏览(&amp;B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -398,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Make the segmentation rules project specific</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050318Z" creationid="hp" creationdate="20200420T050318Z">
+        <seg>将分割规则设为项目专用(&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Minimal similarity:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122319Z" creationid="DSS" creationdate="20200419T122319Z">
@@ -606,6 +638,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Source Files Language:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050324Z" creationid="hp" creationdate="20200420T050324Z">
+        <seg>原文语言(&amp;S)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Source Language Tokenizer:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050325Z" creationid="hp" creationdate="20200420T050325Z">
+        <seg>原文语种分词器(&amp;S)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Store for this session only</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101746Z" creationid="yangzy" creationdate="20200419T101746Z">
@@ -622,10 +670,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Target Language Tokenizer:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050326Z" creationid="hp" creationdate="20200420T050326Z">
+        <seg>译文语种分词器(&amp;T)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Title Case</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100943Z" creationid="yangzy" creationdate="20200419T100943Z">
         <seg>标题式大小写(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Translated Files Language:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050324Z" creationid="hp" creationdate="20200420T050324Z">
+        <seg>译文语言(&amp;T)：</seg>
       </tuv>
     </tu>
     <tu>
@@ -939,6 +1003,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T130624Z" creationid="Liliu" creationdate="20200419T130624Z">
         <seg>&lt;html&gt;用通配符（Apache Ant 风格）添加模式：&lt;code&gt;*&lt;/code&gt;、&lt;code&gt;?&lt;/code&gt;、&lt;code&gt;**&lt;/code&gt;&lt;br&gt;例如：&lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;html&gt;Per-project external commands are disabled and will not be executed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050330Z" creationid="hp" creationdate="20200420T050330Z">
+        <seg>同时允许每个项目自带外部命令(&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1789,6 +1861,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Arrays must not be null</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050316Z" creationid="hp" creationdate="20200420T050316Z">
+        <seg>数组不能为空</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As a result of this,
 all settings will be at their defaults, due to which you
 may experience unexpected, but correct behaviour.</seg>
@@ -1975,6 +2055,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>B&amp;rowse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050333Z" creationid="hp" creationdate="20200420T050333Z">
+        <seg>浏览(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Back in history...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110126Z" creationid="yangzy" creationdate="20200419T110126Z">
@@ -2055,6 +2143,30 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bro&amp;wse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050334Z" creationid="hp" creationdate="20200420T050334Z">
+        <seg>浏览(&amp;W)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Brows&amp;e</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050335Z" creationid="hp" creationdate="20200420T050335Z">
+        <seg>浏览(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050335Z" creationid="hp" creationdate="20200420T050335Z">
+        <seg>浏览</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Browse...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200420T041846Z" creationid="qinxun" creationdate="20200420T041846Z">
@@ -2103,6 +2215,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C&amp;opy All Data to Clipboard</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050258Z" creationid="hp" creationdate="20200420T050258Z">
+        <seg>将所有数据复制到剪贴板(&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calculator:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200420T042020Z" creationid="qinxun" creationdate="20200420T042020Z">
@@ -2147,6 +2267,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T111219Z" creationid="Liliu" creationdate="20200419T111219Z">
         <seg>创建新团队项目已取消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot access glossary folder!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050208Z" creationid="hp" creationdate="20200420T050208Z">
+        <seg>无法访问词汇表文件夹！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cannot create folder for translated files:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050210Z" creationid="hp" creationdate="20200420T050210Z">
+        <seg>无法为译文文件创建目录：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2275,6 +2411,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114111Z" creationid="Liliu" creationdate="20200419T114111Z">
         <seg>字符表自动完成选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050228Z" creationid="hp" creationdate="20200420T050228Z">
+        <seg>字符数（计入空格）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050228Z" creationid="hp" creationdate="20200420T050228Z">
+        <seg>字符数（不计空格）</seg>
       </tuv>
     </tu>
     <tu>
@@ -2820,6 +2972,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Could not create project dir at {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050201Z" creationid="hp" creationdate="20200420T050201Z">
+        <seg>无法在 {0} 创建项目目录</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Could not create the specified folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100023Z" creationid="yangzy" creationdate="20200419T100023Z">
@@ -2880,6 +3040,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110146Z" creationid="yangzy" creationdate="20200419T110146Z">
         <seg>创建 MED 项目...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create New Project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050319Z" creationid="hp" creationdate="20200420T050319Z">
+        <seg>创建新项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -3016,6 +3184,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070532Z" creationid="hp" creationdate="20200418T070447Z">
         <seg>创建从右到左的译文文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Creating translated documents: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050150Z" creationid="hp" creationdate="20200420T050150Z">
+        <seg>正在创建译文文档：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3240,6 +3416,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094936Z" creationid="yangzy" creationdate="20200419T094936Z">
         <seg>词典文件文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionary Files Folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050339Z" creationid="hp" creationdate="20200420T050339Z">
+        <seg>词典文件文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dictionary Folder:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050326Z" creationid="hp" creationdate="20200420T050326Z">
+        <seg>词典文件夹：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3718,6 +3910,22 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>E&amp;nable Sentence-level Segmenting</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050316Z" creationid="hp" creationdate="20200420T050316Z">
+        <seg>启用语句级别分割(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>E&amp;xclusions...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050332Z" creationid="hp" creationdate="20200420T050332Z">
+        <seg>排除(&amp;x)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>E&amp;xport the segment to text files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122341Z" creationid="DSS" creationdate="20200419T122341Z">
@@ -3782,10 +3990,26 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit Project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050317Z" creationid="hp" creationdate="20200420T050317Z">
+        <seg>编辑项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit Text</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200420T042136Z" creationid="qinxun" creationdate="20200420T042136Z">
         <seg>编辑文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit project properties here.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050318Z" creationid="hp" creationdate="20200420T050318Z">
+        <seg>在此编辑项目属性。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3842,6 +4066,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041608Z" creationid="hp" creationdate="20200418T041608Z">
         <seg>启用语句级别分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable them in &lt;b&gt;Preferences &gt; Saving and Output...&lt;/b&gt;.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050331Z" creationid="hp" creationdate="20200420T050331Z">
+        <seg>&lt;html&gt;项目外部命令被禁用因而不会执行。请到&lt;b&gt;选项&gt;保存及输出...&lt;/b&gt;中启用。&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4006,6 +4238,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error monitoring external command!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050224Z" creationid="hp" creationdate="20200420T050224Z">
+        <seg>监视外部命令时发生错误！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error on application startup</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101103Z" creationid="yangzy" creationdate="20200419T101103Z">
@@ -4034,6 +4274,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122105Z" creationid="DSS" creationdate="20200419T122105Z">
         <seg>保存分割规则配置时出错：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error starting external command: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050214Z" creationid="hp" creationdate="20200420T050214Z">
+        <seg>启动外部命令时发生错误：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4142,6 +4390,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Exact match:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050307Z" creationid="hp" creationdate="20200420T050307Z">
+        <seg>完全匹配：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Example mappings</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074404Z" creationid="hp" creationdate="20200418T074404Z">
@@ -4198,6 +4454,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Executing external command...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050212Z" creationid="hp" creationdate="20200420T050212Z">
+        <seg>正在执行外部命令...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Executing script {0} (event {1})</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T102049Z" creationid="Liliu" creationdate="20200419T102049Z">
@@ -4210,6 +4474,22 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120901Z" creationid="DSS" creationdate="20200418T120901Z">
         <seg>可以修改现有的原文文件，但必须在自动保存之前以及项目被重新载入或关闭之前执行 commit 操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exit code {0}: "{1}"</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050218Z" creationid="hp" creationdate="20200420T050218Z">
+        <seg>退出项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Exit code: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050217Z" creationid="hp" creationdate="20200420T050217Z">
+        <seg>退出项目</seg>
       </tuv>
     </tu>
     <tu>
@@ -4246,6 +4526,22 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External Post-processing Command (Disabled):</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050329Z" creationid="hp" creationdate="20200420T050329Z">
+        <seg>外部后处理命令（已禁用）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External Post-processing Command:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050328Z" creationid="hp" creationdate="20200420T050328Z">
+        <seg>外部后处理命令：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External Search...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051457Z" creationid="hp" creationdate="20200418T051457Z">
@@ -4258,6 +4554,30 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122630Z" creationid="DSS" creationdate="20200419T122630Z">
         <seg>外部 TMX 选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External command completed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050215Z" creationid="hp" creationdate="20200420T050215Z">
+        <seg>外部命令已被中断。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External command failed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050220Z" creationid="hp" creationdate="20200420T050220Z">
+        <seg>外部命令已被中断。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>External command was interrupted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050222Z" creationid="hp" creationdate="20200420T050222Z">
+        <seg>外部命令已被中断。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4282,6 +4602,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113326Z" creationid="Liliu" creationdate="20200419T113326Z">
         <seg>无关</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to create project!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050158Z" creationid="hp" creationdate="20200420T050158Z">
+        <seg>无法创建项目！</seg>
       </tuv>
     </tu>
     <tu>
@@ -4342,6 +4670,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File Name</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050243Z" creationid="hp" creationdate="20200420T050243Z">
+        <seg>文件名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File entries include their names, file filter types, their encoding and the number of segments each file contains</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200419T033617Z" creationid="qinxun" creationdate="20200419T033617Z">
@@ -4354,6 +4690,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051700Z" creationid="hp" creationdate="20200418T051700Z">
         <seg>文件位置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File {0}: {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050314Z" creationid="hp" creationdate="20200420T050314Z">
+        <seg>文件 {0}：{1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4430,6 +4774,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Folder {0} was automatically created for team mode project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050136Z" creationid="hp" creationdate="20200420T050136Z">
+        <seg>文件夹{0}根据团队项目模式自动创建 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Follow capitalization of the typed text</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113818Z" creationid="Liliu" creationdate="20200419T113818Z">
@@ -4466,6 +4818,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T034717Z" creationid="DSS" creationdate="20200418T124715Z">
         <seg>更全面的介绍请参阅 Omegat 网站上的 &lt;u0&gt;OmegaT 初学者入门&lt;/u0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For all files:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050315Z" creationid="hp" creationdate="20200420T050315Z">
+        <seg>对于所有文件：</seg>
       </tuv>
     </tu>
     <tu>
@@ -4763,6 +5123,22 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113822Z" creationid="Liliu" creationdate="20200418T135716Z">
         <seg>术语表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary Files Folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050338Z" creationid="hp" creationdate="20200420T050338Z">
+        <seg>词汇表文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary Folder:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050322Z" creationid="hp" creationdate="20200420T050322Z">
+        <seg>词汇表文件夹：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5930,6 +6306,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Individual File Statistics:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050234Z" creationid="hp" creationdate="20200420T050234Z">
+        <seg>各文件统计数据：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Info</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T095814Z" creationid="yangzy" creationdate="20200419T095814Z">
@@ -6094,6 +6478,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094102Z" creationid="yangzy" creationdate="20200419T094102Z">
         <seg>快速入门</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insufficient permissions for project dir {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050204Z" creationid="hp" creationdate="20200420T050204Z">
+        <seg>对于项目目录 {0} 的权限不足</seg>
       </tuv>
     </tu>
     <tu>
@@ -6707,6 +7099,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Loading TMX files...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050147Z" creationid="hp" creationdate="20200420T050147Z">
+        <seg>正在载入 TMX 文件...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Loading glossaries</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T045941Z" creationid="hp" creationdate="20200420T045941Z">
@@ -6719,6 +7119,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T045939Z" creationid="hp" creationdate="20200420T045939Z">
         <seg>正在载入项目...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050139Z" creationid="hp" creationdate="20200420T050139Z">
+        <seg>正在载入：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -7571,6 +7979,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No match:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050313Z" creationid="hp" creationdate="20200420T050313Z">
+        <seg>不匹配：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No need to save project, because no changes were made</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094927Z" creationid="yangzy" creationdate="20200419T094927Z">
@@ -8233,6 +8649,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open Project</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050320Z" creationid="hp" creationdate="20200420T050320Z">
+        <seg>打开项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open Recent Project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110139Z" creationid="yangzy" creationdate="20200419T110139Z">
@@ -8421,6 +8845,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T112957Z" creationid="DSS" creationdate="20200419T112957Z">
         <seg>译文文档中行长度的相关设置（0 = 不限制）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Orphan segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050211Z" creationid="hp" creationdate="20200420T050211Z">
+        <seg>孤立片段</seg>
       </tuv>
     </tu>
     <tu>
@@ -8957,6 +9389,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Problem encountered loading project file!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050206Z" creationid="hp" creationdate="20200420T050206Z">
+        <seg>载入项目文件时遇到问题！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Proceed?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094958Z" creationid="yangzy" creationdate="20200419T094958Z">
@@ -9017,6 +9457,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122138Z" creationid="DSS" creationdate="20200419T122138Z">
         <seg>项目专用分割设置</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project Statistics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050224Z" creationid="hp" creationdate="20200420T050224Z">
+        <seg>项目统计数据</seg>
       </tuv>
     </tu>
     <tu>
@@ -9301,6 +9749,46 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remaining Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050255Z" creationid="hp" creationdate="20200420T050255Z">
+        <seg>剩余字符数（计入空格）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050252Z" creationid="hp" creationdate="20200420T050252Z">
+        <seg>剩余字符数（不计空格）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050244Z" creationid="hp" creationdate="20200420T050244Z">
+        <seg>剩余片段数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining Words</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050247Z" creationid="hp" creationdate="20200420T050247Z">
+        <seg>剩余单词数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remaining:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050231Z" creationid="hp" creationdate="20200420T050231Z">
+        <seg>剩余片段：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remember where you are creating the project, because you will need to return to it later.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T122636Z" creationid="DSS" creationdate="20200418T122636Z">
@@ -9357,6 +9845,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove Ta&amp;gs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050327Z" creationid="hp" creationdate="20200420T050327Z">
+        <seg>删除标签(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove Tags</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T041940Z" creationid="hp" creationdate="20200418T041940Z">
@@ -9409,6 +9905,30 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101802Z" creationid="yangzy" creationdate="20200419T101802Z">
         <seg>移除译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repetitions from other files:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050306Z" creationid="hp" creationdate="20200420T050306Z">
+        <seg>其他文件中的重复：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repetitions within this file:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050306Z" creationid="hp" creationdate="20200420T050306Z">
+        <seg>此文件中的重复：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Repetitions:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050304Z" creationid="hp" creationdate="20200420T050304Z">
+        <seg>重复：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10135,6 +10655,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050226Z" creationid="hp" creationdate="20200420T050226Z">
+        <seg>片段数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segments with notes</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131310Z" creationid="Liliu" creationdate="20200419T131310Z">
@@ -10535,6 +11063,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some project folders seem to have been moved.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050341Z" creationid="hp" creationdate="20200420T050341Z">
+        <seg>某些项目文件夹似乎已被移走。你应当指定它们的新位置或重新创建它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some tools are known to produce invalid tmx files under certain conditions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072307Z" creationid="hp" creationdate="20200418T072307Z">
@@ -10647,10 +11183,34 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source Files Folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050336Z" creationid="hp" creationdate="20200420T050336Z">
+        <seg>原文文件文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source Files Folder:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050320Z" creationid="hp" creationdate="20200420T050320Z">
+        <seg>原文文件文件夹：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source count</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T115021Z" creationid="Liliu" creationdate="20200419T115021Z">
         <seg>原文数量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source file loading complete</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050145Z" creationid="hp" creationdate="20200420T050145Z">
+        <seg>原文文件载入完成</seg>
       </tuv>
     </tu>
     <tu>
@@ -12874,6 +13434,46 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Total Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050254Z" creationid="hp" creationdate="20200420T050254Z">
+        <seg>总字符数（计入空格）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050251Z" creationid="hp" creationdate="20200420T050251Z">
+        <seg>总字符数（不计空格）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050243Z" creationid="hp" creationdate="20200420T050243Z">
+        <seg>总片段数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total Words</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050247Z" creationid="hp" creationdate="20200420T050247Z">
+        <seg>总单词数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Total:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050225Z" creationid="hp" creationdate="20200420T050225Z">
+        <seg>总共：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate a PDF file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075027Z" creationid="hp" creationdate="20200418T075027Z">
@@ -12930,6 +13530,38 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated Files Folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050337Z" creationid="hp" creationdate="20200420T050337Z">
+        <seg>译文文件文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated Files Folder:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050321Z" creationid="hp" creationdate="20200420T050321Z">
+        <seg>译文文件文件夹：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated document created</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050154Z" creationid="hp" creationdate="20200420T050154Z">
+        <seg>译文文档已创建</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated documents created</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050153Z" creationid="hp" creationdate="20200420T050153Z">
+        <seg>译文文档已创建</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated files location not defined</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T101859Z" creationid="Liliu" creationdate="20200419T101859Z">
@@ -12966,6 +13598,22 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114907Z" creationid="Liliu" creationdate="20200419T114907Z">
         <seg>译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation Memory Files Folder</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050338Z" creationid="hp" creationdate="20200420T050338Z">
+        <seg>翻译记忆库文件文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation Memory Folder:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050323Z" creationid="hp" creationdate="20200420T050323Z">
+        <seg>翻译记忆库文件夹：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13066,6 +13714,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to build new TMX file!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050156Z" creationid="hp" creationdate="20200420T050156Z">
+        <seg>无法建立新的 TMX 文件！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to connect to server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101147Z" creationid="yangzy" creationdate="20200419T101129Z">
@@ -13118,6 +13774,86 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100019Z" creationid="yangzy" creationdate="20200419T100019Z">
         <seg>卸载失败</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050255Z" creationid="hp" creationdate="20200420T050255Z">
+        <seg>独特字符数（计入空格）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050252Z" creationid="hp" creationdate="20200420T050252Z">
+        <seg>独特字符数（不计空格）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (including spaces)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050256Z" creationid="hp" creationdate="20200420T050256Z">
+        <seg>剩余独特字符数（计入空格）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Characters (without spaces)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050253Z" creationid="hp" creationdate="20200420T050253Z">
+        <seg>剩余独特字符数（不计空格）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050246Z" creationid="hp" creationdate="20200420T050246Z">
+        <seg>剩余独特片段数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining Words</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050250Z" creationid="hp" creationdate="20200420T050250Z">
+        <seg>剩余独特单词数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Remaining:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050232Z" creationid="hp" creationdate="20200420T050232Z">
+        <seg>剩余独特片段：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050245Z" creationid="hp" creationdate="20200420T050245Z">
+        <seg>独特片段数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique Words</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050249Z" creationid="hp" creationdate="20200420T050249Z">
+        <seg>独特单词数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unique:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050233Z" creationid="hp" creationdate="20200420T050233Z">
+        <seg>独特片段：</seg>
       </tuv>
     </tu>
     <tu>
@@ -13772,10 +14508,34 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Words</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050227Z" creationid="hp" creationdate="20200420T050227Z">
+        <seg>单词数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Working offline</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120925Z" creationid="DSS" creationdate="20200418T120925Z">
         <seg>离线工作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writeable Glossary File</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050340Z" creationid="hp" creationdate="20200420T050340Z">
+        <seg>可写词汇表文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Writeable Glossary File:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050322Z" creationid="hp" creationdate="20200420T050322Z">
+        <seg>可写词汇表文件：</seg>
       </tuv>
     </tu>
     <tu>
