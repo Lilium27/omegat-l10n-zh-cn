@@ -328,8 +328,8 @@
       <tuv lang="en">
         <seg>&amp;Go To Next Untranslated Segment stops when there is at least one alternative translation</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122459Z" creationid="DSS" creationdate="20200419T122459Z">
-        <seg>至少有一个可选翻译时，转到下一个未译片段的功能不会起作用(&amp;G)</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="DSS" creationdate="20200419T122459Z">
+        <seg>至少有一个可选翻译时，转到下一个未译句段的功能不会起作用(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -344,8 +344,8 @@
       <tuv lang="en">
         <seg>&amp;Ignore file context when identifying segments with alternate translations</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121417Z" creationid="DSS" creationdate="20200419T121417Z">
-        <seg>识别有可选翻译的片段时忽略文件上下文(&amp;I)</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="DSS" creationdate="20200419T121417Z">
+        <seg>识别有可选翻译的句段时忽略文件上下文(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -384,8 +384,8 @@
       <tuv lang="en">
         <seg>&amp;Jump To Segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="qinxun" changedate="20200420T042220Z" creationid="qinxun" creationdate="20200420T042220Z">
-        <seg>跳转至片段(&amp;J)</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="qinxun" creationdate="20200420T042220Z">
+        <seg>跳转至句段(&amp;J)</seg>
       </tuv>
     </tu>
     <tu>
@@ -416,8 +416,8 @@
       <tuv lang="en">
         <seg>&amp;Leave the segment empty</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122314Z" creationid="DSS" creationdate="20200419T122314Z">
-        <seg>保持片段为空(&amp;L)</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="DSS" creationdate="20200419T122314Z">
+        <seg>保持句段为空(&amp;L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -696,8 +696,8 @@
       <tuv lang="en">
         <seg>&amp;Source (segment {0}):</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100025Z" creationid="yangzy" creationdate="20200419T100025Z">
-        <seg>原文（片段 {0}）(&amp;S)：</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T100025Z">
+        <seg>原文（句段 {0}）(&amp;S)：</seg>
       </tuv>
     </tu>
     <tu>
@@ -768,8 +768,8 @@
       <tuv lang="en">
         <seg>&amp;Untranslated Segments Only</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101113Z" creationid="yangzy" creationdate="20200419T101113Z">
-        <seg>仅限未译片段(&amp;U)</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T101113Z">
+        <seg>仅限未译句段(&amp;U)</seg>
       </tuv>
     </tu>
     <tu>
@@ -784,8 +784,8 @@
       <tuv lang="en">
         <seg>&amp;Validate tags when leaving a segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122512Z" creationid="DSS" creationdate="20200419T122512Z">
-        <seg>离开片段时验证标签(&amp;V)</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="DSS" creationdate="20200419T122512Z">
+        <seg>离开句段时验证标签(&amp;V)</seg>
       </tuv>
     </tu>
     <tu>
@@ -995,8 +995,8 @@
       <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; remembers the segments executed.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110125Z" creationid="yangzy" creationdate="20200419T110125Z">
-        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 会记住处理过的片段。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110125Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 会记住处理过的句段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1731,8 +1731,8 @@
       <tuv lang="en">
         <seg>Allow translating &amp;blank source segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T112744Z" creationid="DSS" creationdate="20200419T112744Z">
-        <seg>允许翻译空原文片段(&amp;B)</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="DSS" creationdate="20200419T112744Z">
+        <seg>允许翻译空原文句段(&amp;B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1747,8 +1747,8 @@
       <tuv lang="en">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094029Z" creationid="yangzy" creationdate="20200419T094017Z">
-        <seg>允许查看、添加、删除或编辑活动片段中的备注。。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T094017Z">
+        <seg>允许查看、添加、删除或编辑活动句段中的备注。。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2581,8 +2581,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Changes the case of the highlighted text in the target segment to the selected option (Lower case, Upper case, Title case or Sentence case).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110055Z" creationid="yangzy" creationdate="20200419T110055Z">
-        <seg>将译文片段中高亮选定的文本的按所选选项（小写、大写、标题式大小写或句子式大小写）改变大小写。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110055Z">
+        <seg>将译文句段中高亮选定的文本的按所选选项（小写、大写、标题式大小写或句子式大小写）改变大小写。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3586,8 +3586,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Deletes the translation and set the segment as untranslated.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110534Z" creationid="yangzy" creationdate="20200419T110057Z">
-        <seg>删除译文并将片段设置为未译</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110057Z">
+        <seg>删除译文并将句段设置为未译</seg>
       </tuv>
     </tu>
     <tu>
@@ -3770,16 +3770,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Display &amp;Source Segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100948Z" creationid="yangzy" creationdate="20200419T100948Z">
-        <seg>显示原文片段(&amp;S)</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T100948Z">
+        <seg>显示原文句段(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Display &amp;active source segment in bold</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122810Z" creationid="DSS" creationdate="20200419T122810Z">
-        <seg>以粗体显示活跃原文片段(&amp;A)</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="DSS" creationdate="20200419T122810Z">
+        <seg>以粗体显示活跃原文句段(&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3794,32 +3794,32 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Display Source Segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110202Z" creationid="yangzy" creationdate="20200419T110202Z">
-        <seg>显示原文片段</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110202Z">
+        <seg>显示原文句段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Display all &amp;source segments in bold</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122749Z" creationid="DSS" creationdate="20200419T122749Z">
-        <seg>以粗体显示所有原文片段(&amp;S)</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="DSS" creationdate="20200419T122749Z">
+        <seg>以粗体显示所有原文句段(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Display for &amp;All Segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100951Z" creationid="yangzy" creationdate="20200419T100951Z">
-        <seg>为所有片段显示(&amp;A)</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T100951Z">
+        <seg>为所有句段显示(&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Display for Current &amp;Segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100951Z" creationid="yangzy" creationdate="20200419T100951Z">
-        <seg>仅为当前片段显示(&amp;S)</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T100951Z">
+        <seg>仅为当前句段显示(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3842,16 +3842,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Displays alternative translations that you have created for segments that are repeated in the project.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T110846Z" creationid="yangzy" creationdate="20200419T101752Z">
-        <seg>显示您为本项目中重复片段所创建的替代译文。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T101752Z">
+        <seg>显示您为本项目中重复句段所创建的替代译文。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Displays comments in the active segment if they exist in the source file and the file filter supports it (e.g. PO-filter).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094043Z" creationid="yangzy" creationdate="20200419T094043Z">
-        <seg>若活动片段在原文文件中有注释且文件过滤器支持（例如 PO 过滤器），则显示之。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T094043Z">
+        <seg>若活动句段在原文文件中有注释且文件过滤器支持（例如 PO 过滤器），则显示之。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3866,16 +3866,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Displays the Match Statistics for each file of the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110157Z" creationid="yangzy" creationdate="20200419T110157Z">
-        <seg>显示当前项目中每个文件的匹配统计数据：片段、单词和字符的重复、完全匹配、模糊匹配和不匹配的数量。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110157Z">
+        <seg>显示当前项目中每个文件的匹配统计数据：句段、单词和字符的重复、完全匹配、模糊匹配和不匹配的数量。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Displays the Match Statistics for the project: the number of repetitions, exact matches, fuzzy matches and no-matches for segments, words and characters.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110157Z" creationid="yangzy" creationdate="20200419T110157Z">
-        <seg>显示当前项目的匹配统计数据：片段、单词和字符的重复、完全匹配、模糊匹配和不匹配的数量。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110157Z">
+        <seg>显示当前项目的匹配统计数据：句段、单词和字符的重复、完全匹配、模糊匹配和不匹配的数量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3890,8 +3890,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Displays the dictionary entries found in the dictionary files located in the /dictionary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T093959Z" creationid="yangzy" creationdate="20200419T093959Z">
-        <seg>显示出现于原文片段中词典条目。词典条目位于 /dictionary/ 目录下的词典文件中。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T093959Z">
+        <seg>显示出现于原文句段中词典条目。词典条目位于 /dictionary/ 目录下的词典文件中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3914,8 +3914,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Displays the glossary entries found in the glossary files located in the /glossary/ folder if they are present in the source segment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T093800Z" creationid="yangzy" creationdate="20200419T093800Z">
-        <seg>显示出现于原文片段中词典条目。词典条目位于 /dictionary/ 目录下的词典文件中。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T093800Z">
+        <seg>显示出现于原文句段中词典条目。词典条目位于 /dictionary/ 目录下的词典文件中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3930,16 +3930,16 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Displays the translation memories segments that match the source segment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T093744Z" creationid="yangzy" creationdate="20200419T093744Z">
-        <seg>允许翻译空原文片段(&amp;B)</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T093744Z">
+        <seg>允许翻译空原文句段(&amp;B)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Displays the translation of the source segment by the machine translation services you have selected in Preferences &gt; Machine Translation, if those services are available.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094008Z" creationid="yangzy" creationdate="20200419T094008Z">
-        <seg>如果你在 首选项 &gt; 机器翻译 中选定的机器翻译服务可用，则显示此服务对原文片段的翻译结果。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T094008Z">
+        <seg>如果你在 首选项 &gt; 机器翻译 中选定的机器翻译服务可用，则显示此服务对原文句段的翻译结果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4220,8 +4220,8 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       <tuv lang="en">
         <seg>E&amp;xport the segment to text files</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122341Z" creationid="DSS" creationdate="20200419T122341Z">
-        <seg>将片段导出到文本文件(&amp;X)</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="DSS" creationdate="20200419T122341Z">
+        <seg>将句段导出到文本文件(&amp;X)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6013,32 +6013,32 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       <tuv lang="en">
         <seg>If checked, non-unique segments will be marked in pale grey.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110203Z" creationid="yangzy" creationdate="20200419T110203Z">
-        <seg>如果勾选， 则非独特片段会被标记为淡灰色。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110203Z">
+        <seg>如果勾选， 则非独特句段会被标记为淡灰色。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If checked, segments with notes will be marked in cyan.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110203Z" creationid="yangzy" creationdate="20200419T110203Z">
-        <seg>如果勾选，含备注的片段将标记为青色。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110203Z">
+        <seg>如果勾选，含备注的句段将标记为青色。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If checked, source segments will be shown and marked in green.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110202Z" creationid="yangzy" creationdate="20200419T110202Z">
-        <seg>如果勾选，将会显示原文片段并将其标记为绿色。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110202Z">
+        <seg>如果勾选，将会显示原文句段并将其标记为绿色。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If checked, the background of all segments where the target segment has been auto-populated (from TMXs placed in &lt;f0&gt;/tm/auto&lt;/f0&gt; for example) are displayed in colour.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110206Z" creationid="yangzy" creationdate="20200419T110206Z">
-        <seg>如果勾选，所有译文部分已被自动填充（例如，来自放在 &lt;f0&gt;/tm/auto&lt;/f0&gt; 下的 TMX）的片段的背景将以彩色显示。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110206Z">
+        <seg>如果勾选，所有译文部分已被自动填充（例如，来自放在 &lt;f0&gt;/tm/auto&lt;/f0&gt; 下的 TMX）的句段的背景将以彩色显示。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6069,16 +6069,16 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       <tuv lang="en">
         <seg>If checked, the translated segments will be marked in yellow.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T111024Z" creationid="yangzy" creationdate="20200419T105226Z">
-        <seg>如果勾选，已译片段将会标记为黄色。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T105226Z">
+        <seg>如果勾选，已译句段将会标记为黄色。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If checked, the untranslated segments will be marked in violet.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110201Z" creationid="yangzy" creationdate="20200419T110201Z">
-        <seg>如果勾选，未译片段将会标记为紫色。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110201Z">
+        <seg>如果勾选，未译句段将会标记为紫色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6119,8 +6119,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If no text has been selected, the current source segment is written to this file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110509Z" creationid="yangzy" creationdate="20200419T110051Z">
-        <seg>如果未选择任何文本，则将当前原文片段写入该文件。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110051Z">
+        <seg>如果未选择任何文本，则将当前原文句段写入该文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6135,16 +6135,16 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If not checked, source segments will not be shown.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110202Z" creationid="yangzy" creationdate="20200419T110202Z">
-        <seg>如果未勾选，则不显示原文片段。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110202Z">
+        <seg>如果未勾选，则不显示原文句段。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If part of the target segment has been selected, this function overwrites the selected portion.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110438Z" creationid="yangzy" creationdate="20200419T110048Z">
-        <seg>如果已经选择了译文片段的一部分，则此功能会覆盖所选部分。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110048Z">
+        <seg>如果已经选择了译文句段的一部分，则此功能会覆盖所选部分。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6167,8 +6167,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If some texts are selected within the fuzzy match, only this selection will replace the whole target segment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110442Z" creationid="yangzy" creationdate="20200419T110048Z">
-        <seg>如果在模糊匹配内选择了部分文本，那么只有被选中的部分替换掉整个译文片段。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110048Z">
+        <seg>如果在模糊匹配内选择了部分文本，那么只有被选中的部分替换掉整个译文句段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6191,16 +6191,16 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If the current segment is the first one in a file, it moves to the last segment of the previous file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110119Z" creationid="yangzy" creationdate="20200419T110119Z">
-        <seg>如果当前片段是文件中的第一个片段，则会移动到上一个文件的最后一个片段。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110119Z">
+        <seg>如果当前句段是文件中的第一个句段，则会移动到上一个文件的最后一个句段。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>If the current segment is the last segment in a file, it moves to the first segment of the next file.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110117Z" creationid="yangzy" creationdate="20200419T110117Z">
-        <seg>如果当前片段是文件中的最后一个片段，则会移动到下一个文件的第一个片段。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110117Z">
+        <seg>如果当前句段是文件中的最后一个句段，则会移动到下一个文件的第一个句段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6303,8 +6303,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If there's several alternative translations available for the active segment, you can label the alternative selected as the default translation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110056Z" creationid="yangzy" creationdate="20200419T110056Z">
-        <seg>如果当前片段有多个替代译文，您可以将所选择的译文标记为默认译文。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110056Z">
+        <seg>如果当前句段有多个替代译文，您可以将所选择的译文标记为默认译文。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6776,8 +6776,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>In the target document, nothing will appear for this segment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110536Z" creationid="yangzy" creationdate="20200419T110057Z">
-        <seg>此片段在译文文档中不会显示任何东西。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110057Z">
+        <seg>此句段在译文文档中不会显示任何东西。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6840,8 +6840,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122823Z" creationid="DSS" creationdate="20200419T122823Z">
-        <seg>标记非独特片段时包含首个非独特片段(&amp;F)</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="DSS" creationdate="20200419T122823Z">
+        <seg>标记非独特句段时包含首个非独特句段(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6880,8 +6880,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>Initially load this many segments:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122516Z" creationid="DSS" creationdate="20200419T122516Z">
-        <seg>初始载入片段数量：</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="DSS" creationdate="20200419T122516Z">
+        <seg>初始载入句段数量：</seg>
       </tuv>
     </tu>
     <tu>
@@ -7889,8 +7889,8 @@ inside the configuration folder.</seg>
       <tuv lang="en">
         <seg>Mark &amp;Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100953Z" creationid="yangzy" creationdate="20200419T100953Z">
-        <seg>标记自动填充片段(&amp;A)</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T100953Z">
+        <seg>标记自动填充句段(&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7921,8 +7921,8 @@ inside the configuration folder.</seg>
       <tuv lang="en">
         <seg>Mark Auto-Populated Segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110205Z" creationid="yangzy" creationdate="20200419T110205Z">
-        <seg>标记自动填充片段</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110205Z">
+        <seg>标记自动填充句段</seg>
       </tuv>
     </tu>
     <tu>
@@ -7953,16 +7953,16 @@ inside the configuration folder.</seg>
       <tuv lang="en">
         <seg>Mark Non-Unique Se&amp;gments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100948Z" creationid="yangzy" creationdate="20200419T100948Z">
-        <seg>标记非独特片段(&amp;G)</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T100948Z">
+        <seg>标记非独特句段(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Mark Non-Unique Segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110203Z" creationid="yangzy" creationdate="20200419T110203Z">
-        <seg>标记非独特片段</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110203Z">
+        <seg>标记非独特句段</seg>
       </tuv>
     </tu>
     <tu>
@@ -7985,32 +7985,32 @@ inside the configuration folder.</seg>
       <tuv lang="en">
         <seg>Mark Segments &amp;with Notes</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100949Z" creationid="yangzy" creationdate="20200419T100949Z">
-        <seg>标记含备注的片段(&amp;W)</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T100949Z">
+        <seg>标记含备注的句段(&amp;W)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Mark Segments with Notes</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110203Z" creationid="yangzy" creationdate="20200419T110203Z">
-        <seg>标记含备注的片段</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110203Z">
+        <seg>标记含备注的句段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Mark Translated Segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110201Z" creationid="yangzy" creationdate="20200419T110201Z">
-        <seg>标记已译片段</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110201Z">
+        <seg>标记已译句段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Mark Untranslated Segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110201Z" creationid="yangzy" creationdate="20200419T110201Z">
-        <seg>标记未译片段</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110201Z">
+        <seg>标记未译句段</seg>
       </tuv>
     </tu>
     <tu>
@@ -8113,8 +8113,8 @@ inside the configuration folder.</seg>
       <tuv lang="en">
         <seg>Matches can be found in your current translation or in the TMX files that you have put in the /tm/ folder.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T093749Z" creationid="yangzy" creationdate="20200419T093749Z">
-        <seg>显示与原文片段匹配的翻译记忆片段。匹配结果可来自当前翻译或放在 /tm/ 文件夹中的 TMX 文件。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T093749Z">
+        <seg>显示与原文句段匹配的翻译记忆句段。匹配结果可来自当前翻译或放在 /tm/ 文件夹中的 TMX 文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8377,40 +8377,40 @@ inside the configuration folder.</seg>
       <tuv lang="en">
         <seg>Moves to the next already translated segment, ignoring untranslated segments.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110115Z" creationid="yangzy" creationdate="20200419T110115Z">
-        <seg>移动到下一个已译片段，忽略未译片段。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110115Z">
+        <seg>移动到下一个已译句段，忽略未译句段。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Moves to the next segment that has no equivalent in the translation memory.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110114Z" creationid="yangzy" creationdate="20200419T110114Z">
-        <seg>移动到下一个在翻译记忆库中无相同内容的片段。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110114Z">
+        <seg>移动到下一个在翻译记忆库中无相同内容的句段。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Moves to the next segment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110116Z" creationid="yangzy" creationdate="20200419T110116Z">
-        <seg>移动到下一个片段。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110116Z">
+        <seg>移动到下一个句段。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Moves to the previous segment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110118Z" creationid="yangzy" creationdate="20200419T110118Z">
-        <seg>移动到上一个片段。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110118Z">
+        <seg>移动到上一个句段。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Moves to the segment that does correspond to the current selected match in the &lt;g0&gt;Fuzzy matches&lt;/g0&gt; pane.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110123Z" creationid="yangzy" creationdate="20200419T110123Z">
-        <seg>移动到&lt;g0&gt;模糊匹配&lt;/g0&gt;窗格中当前选择的匹配相对应的片段。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110123Z">
+        <seg>移动到&lt;g0&gt;模糊匹配&lt;/g0&gt;窗格中当前选择的匹配相对应的句段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8505,8 +8505,8 @@ inside the configuration folder.</seg>
       <tuv lang="en">
         <seg>New translation memories placed in the &lt;f0&gt;/tm&lt;/f0&gt; folder while translating are loaded automatically as soon as the cursor moves from one segment to another.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110142Z" creationid="yangzy" creationdate="20200419T110142Z">
-        <seg>在翻译过程中新放入 &lt;f0&gt;/tm&lt;/f0&gt; 文件夹的翻译记忆库会在光标从一个片段移动到另一个片段时立即自动载入。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110142Z">
+        <seg>在翻译过程中新放入 &lt;f0&gt;/tm&lt;/f0&gt; 文件夹的翻译记忆库会在光标从一个句段移动到另一个句段时立即自动载入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8537,24 +8537,24 @@ inside the configuration folder.</seg>
       <tuv lang="en">
         <seg>Next Segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110115Z" creationid="yangzy" creationdate="20200419T110115Z">
-        <seg>下一个片段</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110115Z">
+        <seg>下一个句段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Next Translated Segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110114Z" creationid="yangzy" creationdate="20200419T110114Z">
-        <seg>下一个已译片段</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110114Z">
+        <seg>下一个已译句段</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Next Untranslated Segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110113Z" creationid="yangzy" creationdate="20200419T110113Z">
-        <seg>下一个未译片段</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110113Z">
+        <seg>下一个未译句段</seg>
       </tuv>
     </tu>
     <tu>
@@ -8953,48 +8953,48 @@ inside the configuration folder.</seg>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Comments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094051Z" creationid="yangzy" creationdate="20200419T094051Z">
-        <seg>片段有注释时通知我</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T094051Z">
+        <seg>句段有注释时通知我</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Dictionary Entries</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094000Z" creationid="yangzy" creationdate="20200419T094000Z">
-        <seg>片段有词典条目时通知我</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T094000Z">
+        <seg>句段有词典条目时通知我</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Fuzzy Matches</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T093755Z" creationid="yangzy" creationdate="20200419T093755Z">
-        <seg>片段有模糊匹配时通知我</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T093755Z">
+        <seg>句段有模糊匹配时通知我</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Glossary Hits</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T094956Z" creationid="yangzy" creationdate="20200419T093912Z">
-        <seg>片段有术语表命中时通知我</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T093912Z">
+        <seg>句段有术语表命中时通知我</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Multiple Translations</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101800Z" creationid="yangzy" creationdate="20200419T101800Z">
-        <seg>片段有多重译文时通知我</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T101800Z">
+        <seg>句段有多重译文时通知我</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Notify Me When a Segment Has Notes</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094038Z" creationid="yangzy" creationdate="20200419T094038Z">
-        <seg>片段有备注时通知我</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T094038Z">
+        <seg>句段有备注时通知我</seg>
       </tuv>
     </tu>
     <tu>
@@ -9009,16 +9009,16 @@ inside the configuration folder.</seg>
       <tuv lang="en">
         <seg>Nr of matching segments: {0}</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052538Z" creationid="hp" creationdate="20200420T052538Z">
-        <seg>匹配的片段数：{0}</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="hp" creationdate="20200420T052538Z">
+        <seg>匹配的句段数：{0}</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Number of matching segments:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050801Z" creationid="hp" creationdate="20200420T050801Z">
-        <seg>匹配的片段数：</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="hp" creationdate="20200420T050801Z">
+        <seg>匹配的句段数：</seg>
       </tuv>
     </tu>
     <tu>
@@ -9551,8 +9551,8 @@ your home folder.</seg>
       <tuv lang="en">
         <seg>Orphan segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050211Z" creationid="hp" creationdate="20200420T050211Z">
-        <seg>孤立片段</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T054902Z" creationid="hp" creationdate="20200420T050211Z">
+        <seg>孤立句段</seg>
       </tuv>
     </tu>
     <tu>
@@ -9948,8 +9948,8 @@ additional steps need to be taken.</seg>
       <tuv lang="en">
         <seg>Please select what text you would like to be inserted into the segment that is not translated yet, when you move to it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122242Z" creationid="DSS" creationdate="20200419T122242Z">
-        <seg>请选择进入未翻译片段时你所希望插入的文本。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="DSS" creationdate="20200419T122242Z">
+        <seg>请选择进入未翻译句段时你所希望插入的文本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10061,8 +10061,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Press &lt;k0&gt;Ctrl+M&lt;/k0&gt; to replace the translation of the current segment with the suggested translation.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T053254Z" creationid="Liliu" creationdate="20200419T053228Z">
-        <seg>按下 &lt;k0&gt;Ctrl+M&lt;/k0&gt; 可将当前片段的译文替换为建议译文。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="Liliu" creationdate="20200419T053228Z">
+        <seg>按下 &lt;k0&gt;Ctrl+M&lt;/k0&gt; 可将当前句段的译文替换为建议译文。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10133,8 +10133,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Previous Segment</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110118Z" creationid="yangzy" creationdate="20200419T110118Z">
-        <seg>上一个片段</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110118Z">
+        <seg>上一个句段</seg>
       </tuv>
     </tu>
     <tu>
@@ -10533,8 +10533,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Regular expression for fragments that should be removed from translation:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T093735Z" creationid="yangzy" creationdate="20200419T093735Z">
-        <seg>表示应从翻译中删除的文本片段的正则表达式：</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T093735Z">
+        <seg>表示应从翻译中删除的文本句段的正则表达式：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10581,8 +10581,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Remaining Segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050244Z" creationid="hp" creationdate="20200420T050244Z">
-        <seg>剩余片段数</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="hp" creationdate="20200420T050244Z">
+        <seg>剩余句段数</seg>
       </tuv>
     </tu>
     <tu>
@@ -10597,8 +10597,8 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Remaining:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050231Z" creationid="hp" creationdate="20200420T050231Z">
-        <seg>剩余片段：</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="hp" creationdate="20200420T050231Z">
+        <seg>剩余句段：</seg>
       </tuv>
     </tu>
     <tu>
@@ -10839,24 +10839,24 @@ project without team functionality.</seg>
       <tuv lang="en">
         <seg>Replaces the target segment with the translation, provided by the selected Machine Translation service.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110433Z" creationid="yangzy" creationdate="20200419T110049Z">
-        <seg>用所选机器翻译服务提供的译文替换掉译文片段。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110049Z">
+        <seg>用所选机器翻译服务提供的译文替换掉译文句段。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Replaces the whole target segment with the currently selected fuzzy match (by default the first match is selected).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110048Z" creationid="yangzy" creationdate="20200419T110048Z">
-        <seg>用当前选中的模糊匹配（默认情况下会选中第一个匹配）替换掉整个译文片段。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110048Z">
+        <seg>用当前选中的模糊匹配（默认情况下会选中第一个匹配）替换掉整个译文句段。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Replaces the whole target segment with the source.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110502Z" creationid="yangzy" creationdate="20200419T110050Z">
-        <seg>用原文替换掉整个目标片段。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110050Z">
+        <seg>用原文替换掉整个目标句段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11537,8 +11537,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Segment number...</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110120Z" creationid="yangzy" creationdate="20200419T110120Z">
-        <seg>片段序号...</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110120Z">
+        <seg>句段序号...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11601,8 +11601,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050226Z" creationid="hp" creationdate="20200420T050226Z">
-        <seg>片段数</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="hp" creationdate="20200420T050226Z">
+        <seg>句段数</seg>
       </tuv>
     </tu>
     <tu>
@@ -11729,16 +11729,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Selecting one of them will insert it at the current cursor position into the target segment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052747Z" creationid="Liliu" creationdate="20200419T052747Z">
-        <seg>选择其中之一会将其插入到译文片段中的当前光标位置处。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="Liliu" creationdate="20200419T052747Z">
+        <seg>选择其中之一会将其插入到译文句段中的当前光标位置处。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Selects the previous, the next or the Nth fuzzy match displayed in the fuzzy match pane to replace or insert it to the segment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110055Z" creationid="yangzy" creationdate="20200419T110055Z">
-        <seg>选择显示在模糊匹配窗格中的上一个、下一个或第 N 个模糊匹配来将其替换或插入到片段中。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110055Z">
+        <seg>选择显示在模糊匹配窗格中的上一个、下一个或第 N 个模糊匹配来将其替换或插入到句段中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11833,16 +11833,16 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Setting it to &lt;g1&gt;All segments&lt;/g1&gt; shows this information for all segments and &lt;g2&gt;None&lt;/g2&gt; turns this option off.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110208Z" creationid="yangzy" creationdate="20200419T110208Z">
-        <seg>将其设置为&lt;g1&gt;所有片段&lt;/g1&gt;会在所有片段上显示此信息，而&lt;g2&gt;不显示&lt;/g2&gt;则会关闭此选项。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110208Z">
+        <seg>将其设置为&lt;g1&gt;所有句段&lt;/g1&gt;会在所有句段上显示此信息，而&lt;g2&gt;不显示&lt;/g2&gt;则会关闭此选项。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Setting the Display Modification option to &lt;g0&gt;Current segment&lt;/g0&gt; will display the time and the author of the last change in the current segment.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110208Z" creationid="yangzy" creationdate="20200419T110208Z">
-        <seg>将显示修订选项设置为&lt;g0&gt;当前片段&lt;/g0&gt;会显示当前片段的最后一次更改的时间和作者。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110208Z">
+        <seg>将显示修订选项设置为&lt;g0&gt;当前句段&lt;/g0&gt;会显示当前句段的最后一次更改的时间和作者。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12217,8 +12217,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Source segment could not be located for certain translation units.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052831Z" creationid="hp" creationdate="20200420T052831Z">
-        <seg>无法定位某些翻译单元的原文片段。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="hp" creationdate="20200420T052831Z">
+        <seg>无法定位某些翻译单元的原文句段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13347,16 +13347,16 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="en">
         <seg>The next segment with a note attached to it, will open.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110121Z" creationid="yangzy" creationdate="20200419T110121Z">
-        <seg>会打开下一个带有备注的片段。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110121Z">
+        <seg>会打开下一个带有备注的句段。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>The one and the same segment may, depending on the context, require different translations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110056Z" creationid="yangzy" creationdate="20200419T110056Z">
-        <seg>一个片段和另一个相同的片段可能会因为上下文而需要不同的译文。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110056Z">
+        <seg>一个句段和另一个相同的句段可能会因为上下文而需要不同的译文。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13379,8 +13379,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="en">
         <seg>The previous segment with a note will open.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110122Z" creationid="yangzy" creationdate="20200419T110122Z">
-        <seg>会打开上一个带有备注的片段。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110122Z">
+        <seg>会打开上一个带有备注的句段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13491,8 +13491,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="en">
         <seg>The segment is opened when either its segment call-out or segment number is entered.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110659Z" creationid="yangzy" creationdate="20200419T110120Z">
-        <seg>在输入片段的序号或编号后就会打开该片段</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110120Z">
+        <seg>在输入句段的序号或编号后就会打开该句段</seg>
       </tuv>
     </tu>
     <tu>
@@ -13982,8 +13982,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This command does not work once the modified segment has been validated.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110046Z" creationid="yangzy" creationdate="20200419T110046Z">
-        <seg>如果修改后的片段已经确认，则该命令不起作用。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110046Z">
+        <seg>如果修改后的句段已经确认，则该命令不起作用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14118,8 +14118,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>This marking has priority over &lt;g0&gt;Mark Translated Segments&lt;/g0&gt; and &lt;g1&gt;Mark Untranslated Segments&lt;/g1&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110204Z" creationid="yangzy" creationdate="20200419T110204Z">
-        <seg>此标记行为优先于&lt;g0&gt;标记已译片段&lt;/g0&gt;和&lt;g1&gt;标记未译片段&lt;/g1&gt;。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110204Z">
+        <seg>此标记行为优先于&lt;g0&gt;标记已译句段&lt;/g0&gt;和&lt;g1&gt;标记未译句段&lt;/g1&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14560,8 +14560,8 @@ the server.</seg>
       <tuv lang="en">
         <seg>Total Segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050243Z" creationid="hp" creationdate="20200420T050243Z">
-        <seg>总片段数</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="hp" creationdate="20200420T050243Z">
+        <seg>总句段数</seg>
       </tuv>
     </tu>
     <tu>
@@ -15058,8 +15058,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>Unique Remaining Segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050246Z" creationid="hp" creationdate="20200420T050246Z">
-        <seg>剩余独特片段数</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="hp" creationdate="20200420T050246Z">
+        <seg>剩余独特句段数</seg>
       </tuv>
     </tu>
     <tu>
@@ -15074,16 +15074,16 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>Unique Remaining:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050232Z" creationid="hp" creationdate="20200420T050232Z">
-        <seg>剩余独特片段：</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="hp" creationdate="20200420T050232Z">
+        <seg>剩余独特句段：</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Unique Segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050245Z" creationid="hp" creationdate="20200420T050245Z">
-        <seg>独特片段数</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="hp" creationdate="20200420T050245Z">
+        <seg>独特句段数</seg>
       </tuv>
     </tu>
     <tu>
@@ -15098,8 +15098,8 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>Unique:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050233Z" creationid="hp" creationdate="20200420T050233Z">
-        <seg>独特片段：</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="hp" creationdate="20200420T050233Z">
+        <seg>独特句段：</seg>
       </tuv>
     </tu>
     <tu>
@@ -15582,8 +15582,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>When a single file has more segments than this, additional segments will be loaded on-demand as you scroll.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122529Z" creationid="DSS" creationdate="20200419T122529Z">
-        <seg>当单个文件的片段数量多于此数字时，多出来的片段会随着滚动按需载入。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="DSS" creationdate="20200419T122529Z">
+        <seg>当单个文件的句段数量多于此数字时，多出来的句段会随着滚动按需载入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15831,16 +15831,16 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="en">
         <seg>With this command you can move backward one segment at a time, to return later to the current segment using &lt;g0&gt;Forward in history...&lt;/g0&gt;command below.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110355Z" creationid="yangzy" creationdate="20200419T110355Z">
-        <seg>使用此命令，你一次可以退后一个片段，稍后可以用下面的&lt;g0&gt;在历史中前进...&lt;/g0&gt;命令回到当前片段。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110355Z">
+        <seg>使用此命令，你一次可以退后一个句段，稍后可以用下面的&lt;g0&gt;在历史中前进...&lt;/g0&gt;命令回到当前句段。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>With this command you can step forward to the segment, you have previously left by the &lt;g1&gt;Back in history&lt;/g1&gt;... command.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110125Z" creationid="yangzy" creationdate="20200419T110125Z">
-        <seg>使用此命令你可以前进到之前用&lt;g1&gt;在历史中后退&lt;/g1&gt;...命令所离开的拿个片段。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110125Z">
+        <seg>使用此命令你可以前进到之前用&lt;g1&gt;在历史中后退&lt;/g1&gt;...命令所离开的拿个句段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15983,8 +15983,8 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       <tuv lang="en">
         <seg>You are going to modify {0} segments.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050800Z" creationid="hp" creationdate="20200420T050800Z">
-        <seg>你将修改 {0} 个片段。确定要继续吗？</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="hp" creationdate="20200420T050800Z">
+        <seg>你将修改 {0} 个句段。确定要继续吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -16240,8 +16240,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>all matching segments</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050754Z" creationid="hp" creationdate="20200420T050754Z">
-        <seg>所有匹配的片段</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="hp" creationdate="20200420T050754Z">
+        <seg>所有匹配的句段</seg>
       </tuv>
     </tu>
     <tu>
@@ -16336,8 +16336,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>double-clicking a row activates the corresponding segment in the Editor pane,</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110153Z" creationid="yangzy" creationdate="20200419T110153Z">
-        <seg>在一行上双击将在编辑器窗格中激活相应的片段。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110153Z">
+        <seg>在一行上双击将在编辑器窗格中激活相应的句段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16752,8 +16752,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>source</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110209Z" creationid="yangzy" creationdate="20200419T110209Z">
-        <seg>用原文替换掉整个目标片段。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110209Z">
+        <seg>用原文替换掉整个目标句段。</seg>
       </tuv>
     </tu>
     <tu>
