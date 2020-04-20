@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Jump To Segment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042220Z" creationid="qinxun" creationdate="20200420T042220Z">
+        <seg>跳转至片段(&amp;J)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Language Checker</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101747Z" creationid="yangzy" creationdate="20200419T101747Z">
@@ -486,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Refresh</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042222Z" creationid="qinxun" creationdate="20200420T042222Z">
+        <seg>刷新(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Remove</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094937Z" creationid="yangzy" creationdate="20200419T094937Z">
@@ -562,6 +578,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T113749Z" creationid="DSS" creationdate="20200419T113749Z">
         <seg>工作表名称(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Show All</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042221Z" creationid="qinxun" creationdate="20200420T042221Z">
+        <seg>显示全部(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -895,6 +919,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;html&gt;&lt;center&gt;Loading...&lt;br&gt;&lt;br&gt;Tip: Enable/disable checks at any time from the Options menu.&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042228Z" creationid="qinxun" creationdate="20200420T042228Z">
+        <seg>&lt;html&gt;&lt;center&gt;载入中...&lt;br&gt;&lt;br&gt;提示：可以随时从选项菜单中启用/禁用检查。&lt;/center&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;html&gt;&lt;i&gt;Preferences&lt;/i&gt; &amp;gt; &lt;i&gt;General&lt;/i&gt; &amp;gt; &lt;i&gt;Use TAB to Advance&lt;/i&gt; is checked&lt;/html&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T132211Z" creationid="Liliu" creationdate="20200419T132211Z">
@@ -907,6 +939,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T130624Z" creationid="Liliu" creationdate="20200419T130624Z">
         <seg>&lt;html&gt;用通配符（Apache Ant 风格）添加模式：&lt;code&gt;*&lt;/code&gt;、&lt;code&gt;?&lt;/code&gt;、&lt;code&gt;**&lt;/code&gt;&lt;br&gt;例如：&lt;code&gt;**/.svn/**&lt;/code&gt;&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;html&gt;Place the caret at the location where you want to split the text.&lt;/html&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042142Z" creationid="qinxun" creationdate="20200420T042142Z">
+        <seg>&lt;html&gt;将脱字符（^）放在要拆分文本的位置。&lt;/html&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1303,6 +1343,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Algorithm:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042018Z" creationid="qinxun" creationdate="20200420T042018Z">
+        <seg>算法：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Align</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042016Z" creationid="qinxun" creationdate="20200420T042016Z">
+        <seg>对齐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Align Files</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T041844Z" creationid="qinxun" creationdate="20200420T041844Z">
@@ -1527,6 +1583,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred when saving the TMX.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042113Z" creationid="qinxun" creationdate="20200420T042113Z">
+        <seg>保存 TMX 时发生错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred when trying to detect the project file.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T111356Z" creationid="Liliu" creationdate="20200419T111356Z">
@@ -1632,6 +1696,14 @@
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T041441Z" creationid="qinxun" creationdate="20200420T041441Z">
+        <seg>名为“{0}”的内容已存在于此位置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An item of the name "{0}" already exists at this location.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042047Z" creationid="qinxun" creationdate="20200420T042047Z">
         <seg>名为“{0}”的内容已存在于此位置。</seg>
       </tuv>
     </tu>
@@ -1863,6 +1935,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Average Score: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042024Z" creationid="qinxun" creationdate="20200420T042024Z">
+        <seg>平均得分：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Back in history...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110126Z" creationid="yangzy" creationdate="20200419T110126Z">
@@ -1987,6 +2067,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T114210Z" creationid="Liliu" creationdate="20200419T114210Z">
         <seg>清除(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Calculator:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042020Z" creationid="qinxun" creationdate="20200420T042020Z">
+        <seg>计算器：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2123,6 +2211,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T030005Z" creationid="hp" creationdate="20200418T041640Z">
         <seg>更改此标志不会影响现有翻译记忆库中的句段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Character</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042215Z" creationid="qinxun" creationdate="20200420T042215Z">
+        <seg>字符</seg>
       </tuv>
     </tu>
     <tu>
@@ -2482,10 +2578,26 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Comparison Mode:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042023Z" creationid="qinxun" creationdate="20200420T042023Z">
+        <seg>比较模式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Compress whitespace in translated document</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T122035Z" creationid="DSS" creationdate="20200419T122035Z">
         <seg>在译文文档中压缩空白字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042156Z" creationid="qinxun" creationdate="20200420T042156Z">
+        <seg>确认</seg>
       </tuv>
     </tu>
     <tu>
@@ -2542,6 +2654,30 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T050406Z" creationid="Liliu" creationdate="20200419T050406Z">
         <seg>包含在 &lt;l0&gt;Project properties&lt;/l0&gt; 对话框中定义的项目参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042032Z" creationid="qinxun" creationdate="20200420T042032Z">
+        <seg>继续</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue anyway?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042154Z" creationid="qinxun" creationdate="20200420T042154Z">
+        <seg>是否继续？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Continue?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042124Z" creationid="qinxun" creationdate="20200420T042124Z">
+        <seg>是否继续？</seg>
       </tuv>
     </tu>
     <tu>
@@ -2664,6 +2800,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093743Z" creationid="yangzy" creationdate="20200419T093743Z">
         <seg>在统计数据中计入受保护文本和自定义标签(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Counter:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042022Z" creationid="qinxun" creationdate="20200420T042022Z">
+        <seg>计数器：</seg>
       </tuv>
     </tu>
     <tu>
@@ -3284,6 +3428,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Distance</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042040Z" creationid="qinxun" creationdate="20200420T042040Z">
+        <seg>距离</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do not allow creating translated documents with tag &amp;issues</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093742Z" creationid="yangzy" creationdate="20200419T093742Z">
@@ -3328,6 +3480,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T100022Z" creationid="yangzy" creationdate="20200419T100022Z">
         <seg>您真的想退出吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to overwrite it?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042111Z" creationid="qinxun" creationdate="20200420T042111Z">
+        <seg>您是否选择覆盖该处？</seg>
       </tuv>
     </tu>
     <tu>
@@ -3550,10 +3710,26 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit Highlight Pattern</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042138Z" creationid="qinxun" creationdate="20200420T042138Z">
+        <seg>编辑高亮模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit Pattern</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T121421Z" creationid="DSS" creationdate="20200419T121421Z">
         <seg>编辑模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit Text</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042136Z" creationid="qinxun" creationdate="20200420T042136Z">
+        <seg>编辑文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -4126,6 +4302,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filters...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042030Z" creationid="qinxun" creationdate="20200420T042030Z">
+        <seg>过滤器...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Finished</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T101838Z" creationid="Liliu" creationdate="20200419T101838Z">
@@ -4274,6 +4458,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110124Z" creationid="yangzy" creationdate="20200419T110124Z">
         <seg>在历史中前进...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Forward-Backward</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042207Z" creationid="qinxun" creationdate="20200420T042201Z">
+        <seg>前向-向后（Forward-Backward）</seg>
       </tuv>
     </tu>
     <tu>
@@ -4643,6 +4835,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T114546Z" creationid="DSS" creationdate="20200419T114546Z">
         <seg>页眉(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Heapwise</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042157Z" creationid="qinxun" creationdate="20200420T042157Z">
+        <seg>按堆（Heapwise）</seg>
       </tuv>
     </tu>
     <tu>
@@ -5858,6 +6058,46 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Issues</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042223Z" creationid="qinxun" creationdate="20200420T042223Z">
+        <seg>问题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Issues ({0} of {1})</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042226Z" creationid="qinxun" creationdate="20200420T042226Z">
+        <seg>问题 ({0} / {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Issues ({0})</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042224Z" creationid="qinxun" creationdate="20200420T042224Z">
+        <seg>问题 ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Issues for {0} ({1} of {2})</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042226Z" creationid="qinxun" creationdate="20200420T042226Z">
+        <seg>{0} 的问题 ({1} / {2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Issues for {0} ({1})</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042225Z" creationid="qinxun" creationdate="20200420T042225Z">
+        <seg>{0} 的问题 ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It also contains installation instructions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T031854Z" creationid="qinxun" creationdate="20200419T025018Z">
@@ -6087,6 +6327,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T030252Z" creationid="hp" creationdate="20200418T064752Z">
         <seg>原文与译文句段的对齐方式取决于项目的语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Keep</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042042Z" creationid="qinxun" creationdate="20200420T042042Z">
+        <seg>保留</seg>
       </tuv>
     </tu>
     <tu>
@@ -7179,6 +7427,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No Issues Found</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042229Z" creationid="qinxun" creationdate="20200420T042229Z">
+        <seg>没找到问题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>No Suggestions</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094931Z" creationid="yangzy" creationdate="20200419T094931Z">
@@ -7295,6 +7551,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T050108Z" creationid="hp" creationdate="20200418T050108Z">
         <seg>不可见的格式信息（即不会在 OmegaT 编辑器中显示为标签的那些）在译文文档中会得已保留。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042203Z" creationid="qinxun" creationdate="20200420T042203Z">
+        <seg>正态分布（Normal）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8201,6 +8465,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Parsewise</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042158Z" creationid="qinxun" creationdate="20200420T042158Z">
+        <seg>按段（Parsewise）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Password-protected PDF files are not supported: {0}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T112859Z" creationid="DSS" creationdate="20200419T112859Z">
@@ -8257,6 +8529,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pattern...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042031Z" creationid="qinxun" creationdate="20200420T042031Z">
+        <seg>模式...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Penalty for matches in other languages:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T122712Z" creationid="DSS" creationdate="20200419T122712Z">
@@ -8269,6 +8549,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T103219Z" creationid="Liliu" creationdate="20200419T102223Z">
         <seg>可能它已经在另一个 OmegaT 实例中打开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pinpoint Align: Select corresponding cell</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042039Z" creationid="qinxun" creationdate="20200420T042039Z">
+        <seg>精确对齐：选择相应的单元格</seg>
       </tuv>
     </tu>
     <tu>
@@ -8390,6 +8678,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T100025Z" creationid="yangzy" creationdate="20200419T100025Z">
         <seg>下载字典时发生错误。请再试一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Poisson</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042209Z" creationid="qinxun" creationdate="20200420T042209Z">
+        <seg>泊松分布（Poisson）</seg>
       </tuv>
     </tu>
     <tu>
@@ -9197,6 +9493,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Row</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042040Z" creationid="qinxun" creationdate="20200420T042040Z">
+        <seg>行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Rule ID can only contain Latin letters, underscores, and periods.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T100146Z" creationid="yangzy" creationdate="20200419T100146Z">
@@ -9209,6 +9513,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T100146Z" creationid="yangzy" creationdate="20200419T100146Z">
         <seg>规则</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rules...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042028Z" creationid="qinxun" creationdate="20200420T042028Z">
+        <seg>规则...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9309,6 +9621,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save Alignment Results</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042043Z" creationid="qinxun" creationdate="20200420T042043Z">
+        <seg>保存对齐结果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save Current Set...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T095527Z" creationid="Liliu" creationdate="20200419T095527Z">
@@ -9337,6 +9657,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T122513Z" creationid="DSS" creationdate="20200419T122513Z">
         <seg>保存自动填充状态(&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save changes to filter settings?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042148Z" creationid="qinxun" creationdate="20200420T042148Z">
+        <seg>保存对过滤器设置的更改？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save changes to segmentation rules?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042147Z" creationid="qinxun" creationdate="20200420T042147Z">
+        <seg>保存对分隔规则的更改？</seg>
       </tuv>
     </tu>
     <tu>
@@ -9589,6 +9925,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042244Z" creationid="qinxun" creationdate="20200420T042013Z">
+        <seg>句段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Segment Properties</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T041727Z" creationid="qinxun" creationdate="20200420T041727Z">
@@ -9625,6 +9969,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T112944Z" creationid="DSS" creationdate="20200419T112944Z">
         <seg>将原文文本分割成段落时依据：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segmentation Rules...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042015Z" creationid="qinxun" creationdate="20200420T042015Z">
+        <seg>分割规则...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10037,6 +10389,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Some alignments still need review.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042153Z" creationid="qinxun" creationdate="20200420T042153Z">
+        <seg>一些对齐依然需要审查。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some of the file formats, specialized for translation work, for instance PO, allow the inclusion of comments.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T142013Z" creationid="Liliu" creationdate="20200418T142007Z">
@@ -10269,6 +10629,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Split Text</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042139Z" creationid="qinxun" creationdate="20200420T042139Z">
+        <seg>拆分文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Standard</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T112813Z" creationid="DSS" creationdate="20200419T112813Z">
@@ -10355,6 +10723,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T122726Z" creationid="DSS" creationdate="20200419T122726Z">
         <seg>词干分析，不考虑标签和数字</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Step 1: Adjust alignment parameters</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042036Z" creationid="qinxun" creationdate="20200420T042036Z">
+        <seg>第1步：调整对齐参数</seg>
       </tuv>
     </tu>
     <tu>
@@ -12030,6 +12406,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This will discard all changes you have made so far.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042133Z" creationid="qinxun" creationdate="20200420T042118Z">
+        <seg>这将放弃您目前所做的所有更改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This will effectively return them to the "untranslated" status, as they will no longer match segments recorded in the project memory, even though their original translation is still there.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T030024Z" creationid="hp" creationdate="20200418T041714Z">
@@ -12488,6 +12872,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T043045Z" creationid="qinxun" creationdate="20200420T043045Z">
+        <seg>类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Type in new rule ID</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T100141Z" creationid="yangzy" creationdate="20200419T100141Z">
@@ -12912,6 +13304,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Viterbi</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042200Z" creationid="qinxun" creationdate="20200420T042200Z">
+        <seg>维特比（Viterbi）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>WARNING: all unsaved data will be lost
 4.</seg>
       </tuv>
@@ -13198,6 +13598,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110125Z" creationid="yangzy" creationdate="20200419T110125Z">
         <seg>使用此命令你可以前进到之前用&lt;g1&gt;在历史中后退&lt;/g1&gt;...命令所离开的拿个片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Word</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042218Z" creationid="qinxun" creationdate="20200420T042218Z">
+        <seg>单词</seg>
       </tuv>
     </tu>
     <tu>
