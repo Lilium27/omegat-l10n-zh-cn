@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Apply to all</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T041540Z" creationid="qinxun" creationdate="20200420T041540Z">
+        <seg>应用到全部(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Automatically Fetch Translations</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101112Z" creationid="yangzy" creationdate="20200419T101112Z">
@@ -490,6 +498,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T112909Z" creationid="DSS" creationdate="20200419T112909Z">
         <seg>删除译文文件中的未翻译字符串(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Replace</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T041532Z" creationid="qinxun" creationdate="20200420T041532Z">
+        <seg>替换(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1511,6 +1527,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An error occurred while opening the item.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T041606Z" creationid="qinxun" creationdate="20200420T041606Z">
+        <seg>打开此内容时发生错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An error occurred while processing a font changed event:
 {0}</seg>
       </tuv>
@@ -1573,10 +1597,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An existing translation was changed to something different from what you chose.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T041702Z" creationid="qinxun" creationdate="20200420T041628Z">
+        <seg>现有的翻译已从您选择的内容中更改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An ignored file or folder:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T144921Z" creationid="hp" creationdate="20200418T051844Z">
         <seg>不被处理的文件或文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An item named "{0}" already exists in this location.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T041441Z" creationid="qinxun" creationdate="20200420T041441Z">
+        <seg>名为“{0}”的内容已存在于此位置。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3200,6 +3240,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T100022Z" creationid="yangzy" creationdate="20200419T100022Z">
         <seg>您真的想退出吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to replace it with the one you're moving?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T041530Z" creationid="qinxun" creationdate="20200420T041530Z">
+        <seg>您是否要用正在移动中的文件覆盖它？</seg>
       </tuv>
     </tu>
     <tu>
@@ -8817,6 +8865,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T132057Z" creationid="Liliu" creationdate="20200419T132057Z">
         <seg>重置所有颜色(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Resolve Conflicts</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T041611Z" creationid="qinxun" creationdate="20200420T041611Z">
+        <seg>解决冲突</seg>
       </tuv>
     </tu>
     <tu>
