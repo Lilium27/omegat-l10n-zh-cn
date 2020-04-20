@@ -5268,8 +5268,8 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       <tuv lang="en">
         <seg>For .docx files, a number of changes are however done automatically:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070551Z" creationid="hp" creationdate="20200418T070551Z">
-        <seg>不过，对于 .docx 文件会自动完成许多更改：</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055829Z" creationid="hp" creationdate="20200418T070551Z">
+        <seg>不过， .docx 文件会自动完成许多更改：</seg>
       </tuv>
     </tu>
     <tu>
@@ -5901,8 +5901,8 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       <tuv lang="en">
         <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T145705Z" creationid="hp" creationdate="20200418T070806Z">
-        <seg>然而，就像使用任何其他应用程序一样，使用 OmegaT 时您需要预防数据丢失</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055846Z" creationid="hp" creationdate="20200418T070806Z">
+        <seg>然而，就像使用任何其他应用程序一样，使用 OmegaT 时您需要预防数据丢失。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7777,8 +7777,8 @@ inside the configuration folder.</seg>
       <tuv lang="en">
         <seg>Mac OS X users, note: use &lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; shortcut and &lt;e4&gt;not &lt;/e4&gt;cmd+Ctrl+O.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065738Z" creationid="hp" creationdate="20200418T065738Z">
-        <seg>对于 Mac OS X 用户，请注意：使用 </seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055729Z" creationid="hp" creationdate="20200418T065738Z">
+        <seg>对于 Mac OS X 用户，请注意：使用&lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; 快捷键， &lt;e4&gt;不要使用 &lt;/e4&gt;cmd+Ctrl+O. </seg>
       </tuv>
     </tu>
     <tu>
@@ -12974,8 +12974,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The &lt;k4&gt; &lt;k5&gt;Shift&lt;/k5&gt; &lt;k6&gt;Ctrl&lt;/k6&gt; &lt;k7&gt;O&lt;/k7&gt; &lt;/k4&gt; toggle has three states:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065321Z" creationid="hp" creationdate="20200418T065321Z">
-        <seg> 有三种切换状态：</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055627Z" creationid="hp" creationdate="20200418T065321Z">
+        <seg>有三种切换状态：</seg>
       </tuv>
     </tu>
     <tu>
@@ -15412,8 +15412,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Using &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; causes both text input and display in &lt;a6&gt;OmegaT&lt;/a6&gt; to change.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T065719Z" creationid="hp" creationdate="20200418T065719Z">
-        <seg>使用 &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; 会改变文本的输入与显示方式.</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055642Z" creationid="hp" creationdate="20200418T065719Z">
+        <seg>使用 &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; 会改变文本的输入与显示方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15638,8 +15638,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>When translating between RTL and LTR languages, correctly reading the tags from the source and entering them properly in the target may require the translator to toggle between LTR and RTL modes numerous times.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070333Z" creationid="hp" creationdate="20200418T070333Z">
-        <seg>当在从右向左和从左向右的语言间进行翻译时，要正确地读取原文中的标签并在译文中正确输入它们可能需要译者在从左向右和从右向左模式之间多次切换。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055813Z" creationid="hp" creationdate="20200418T070333Z">
+        <seg>当在从右向左和从左向右的语言间进行翻译时，要正确地读取原文中的标签并在译文中正确输入它们，可能需要译者在从左向右和从右向左模式之间多次切换。</seg>
       </tuv>
     </tu>
     <tu>
