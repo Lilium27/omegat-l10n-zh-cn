@@ -1473,6 +1473,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Added {0} glossary entries from {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T053237Z" creationid="hp" creationdate="20200420T053237Z">
+        <seg>已添加来自 {1} 的 {0} 个词汇表条目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Added: {1}, Deleted: {2}, Modified: {3} (Conflicts: {0})</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114925Z" creationid="Liliu" creationdate="20200419T114925Z">
@@ -3224,6 +3232,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Could not initialize OS look and feel!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T053239Z" creationid="hp" creationdate="20200420T053239Z">
+        <seg>无法初始化操作系统界面外观！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Could not save credentials to text file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T111235Z" creationid="Liliu" creationdate="20200419T111235Z">
@@ -4546,6 +4562,22 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Error initializing marker '{0}'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T053242Z" creationid="hp" creationdate="20200420T053242Z">
+        <seg>初始化标记器“{0}”时出错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error load plugin from class '{0}': {1}: {2}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T053245Z" creationid="hp" creationdate="20200420T053245Z">
+        <seg>从类“{0}”中加载插件出错：{1}：{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error monitoring external command!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050224Z" creationid="hp" creationdate="20200420T050224Z">
@@ -4558,6 +4590,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101103Z" creationid="yangzy" creationdate="20200419T101103Z">
         <seg>应用程序启动错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error reading TMX level2 at line {0} column {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T053220Z" creationid="hp" creationdate="20200420T053220Z">
+        <seg>读取 TMX level2 第 {0} 行 第 {1} 列时出错</seg>
       </tuv>
     </tu>
     <tu>
@@ -4598,6 +4638,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050214Z" creationid="hp" creationdate="20200420T050214Z">
         <seg>启动外部命令时发生错误：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error unload plugin from class '{0}': {1}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T053246Z" creationid="hp" creationdate="20200420T053246Z">
+        <seg>从类“{0}”中卸载插件出错：{1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5110,6 +5158,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T045712Z" creationid="Liliu" creationdate="20200418T145720Z">
         <seg>&lt;f7&gt;source&lt;/f7&gt; 文件夹下的文件，无论是否翻译，之后都会在此处生成，与 source 子文件夹有着相同的层次结构。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filter '{0}' could not be loaded from '{1}'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T053250Z" creationid="hp" creationdate="20200420T053250Z">
+        <seg>无法从“{1}”载入过滤器“{0}”</seg>
       </tuv>
     </tu>
     <tu>
@@ -7263,6 +7319,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Jar used for plugins: {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T053247Z" creationid="hp" creationdate="20200420T053247Z">
+        <seg>Jar 用于插件：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java Resource Bundles Filter Options</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113050Z" creationid="DSS" creationdate="20200419T113050Z">
@@ -7627,6 +7691,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T045941Z" creationid="hp" creationdate="20200420T045941Z">
         <seg>载入词汇表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Loading glossary {0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T053228Z" creationid="hp" creationdate="20200420T053228Z">
+        <seg>载入术语表{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -9186,6 +9258,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will try to resegment the TMX file...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T053042Z" creationid="hp" creationdate="20200420T053042Z">
+        <seg>OmegaT 将尝试分割 TMX 文件...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T030301Z" creationid="DSS" creationdate="20200418T123718Z">
@@ -9894,6 +9974,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100025Z" creationid="yangzy" creationdate="20200419T100025Z">
         <seg>下载字典时发生错误。请再试一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugin successfully loaded from class '{0}'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T053247Z" creationid="hp" creationdate="20200420T053247Z">
+        <seg>成功从类“{0}”中载入插件</seg>
       </tuv>
     </tu>
     <tu>
@@ -11871,6 +11959,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skipping previously loaded plugin from class '{0}'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T053248Z" creationid="hp" creationdate="20200420T053248Z">
+        <seg>正在跳过之前已经从类“{0}”中载入的插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skipping.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T112321Z" creationid="Liliu" creationdate="20200419T112321Z">
@@ -12491,8 +12587,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>TMX file was created by OmegaT 1.4.x or earlier.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052921Z" creationid="hp" creationdate="20200420T052921Z">
-        <seg>OmETMX file was created by OmegaT 1.4.x or earlier.</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T053005Z" creationid="hp" creationdate="20200420T052921Z">
+        <seg>OmegaT 1.4 或之前的版本创建了 TMX 文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14574,6 +14670,15 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translated file path cannot be identical to the source file path:
+{0}</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T053258Z" creationid="hp" creationdate="20200420T053258Z">
+        <seg>译文文件路径不能与原文文件路径相同：\n{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translated files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050623Z" creationid="hp" creationdate="20200420T050623Z">
@@ -14815,6 +14920,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unable to parse filters configuration file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T053249Z" creationid="hp" creationdate="20200420T053249Z">
+        <seg>无法解析过滤器配置文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unable to read file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052559Z" creationid="hp" creationdate="20200420T052559Z">
@@ -14835,6 +14948,14 @@ Exact searches match the whole search string.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T113927Z" creationid="Liliu" creationdate="20200419T113927Z">
         <seg>无法保存数据。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to save filters configuration file</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T053249Z" creationid="hp" creationdate="20200420T053249Z">
+        <seg>无法保存过滤器配置文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -14967,6 +15088,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unknown plugin type '{0}' in '{1}'</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T053241Z" creationid="hp" creationdate="20200420T053241Z">
+        <seg>“{1}”中出现未知的插件类型“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Unrecoverable error while parsing TMX file
 {0}
 on line {1}, column {2}.</seg>
@@ -15053,6 +15182,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T115047Z" creationid="Liliu" creationdate="20200419T115047Z">
         <seg>已更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Upgrading...</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T053021Z" creationid="hp" creationdate="20200420T053021Z">
+        <seg>升级...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16024,6 +16161,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113634Z" creationid="DSS" creationdate="20200419T113634Z">
         <seg>YouTube 字幕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your current project uses sentence segmentation, but TMX file was created using paragraph segmentation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T053037Z" creationid="hp" creationdate="20200420T053037Z">
+        <seg>你的当前项目使用的是语句分割，但 TMX 文件创建时用的是段落分割。</seg>
       </tuv>
     </tu>
     <tu>
