@@ -6391,8 +6391,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>If you have a PDF file made of scanned pages (sometimes such files are referred to as ‘dead’ PDFs), you need to use an OCR (optical character recognition) program to recognize the text and convert it to a format that can be handled by OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T034040Z" creationid="hp" creationdate="20200418T075437Z">
-        <seg>如果您有一个由扫描页面组成的 PDF 文件（此类文件有时被称为“死”PDF），您需要用 OCR（光学字符识别）程序识别文本并将其转换为 OmegaT 可以处理的格式。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T061312Z" creationid="hp" creationdate="20200418T075437Z">
+        <seg>如果您有一个由扫描页面组成的 PDF 文件（此类文件有时被称为“死” PDF），您需要用 OCR（光学字符识别）程序识别文本并将其转换为 OmegaT 可以处理的格式。</seg>
       </tuv>
     </tu>
     <tu>
