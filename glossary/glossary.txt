@@ -1,1 +1,2 @@
 URL	URL 地址
+Segment	句段
