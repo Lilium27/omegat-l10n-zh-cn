@@ -7115,6 +7115,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keyword searches match all the space-separated keywords regardless of their order.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T051148Z" creationid="hp" creationdate="20200420T051148Z">
+        <seg>选择关键字查找来以任意顺序查找任意数量的单个完整单词。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Language Checker</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131550Z" creationid="Liliu" creationdate="20200419T131550Z">
@@ -9929,6 +9937,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094924Z" creationid="yangzy" creationdate="20200419T094924Z">
         <seg>项目保存开始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project searches are by default performed on the source and target, reference TMs, glossaries, notes and comments of the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T051142Z" creationid="hp" creationdate="20200420T051142Z">
+        <seg>项目搜索的默认范围包括这些项目文件夹：源文件、目标文件、参考、翻译记忆库、术语表、标记和评论。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14245,6 +14261,15 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Types:
+Exact searches match the whole search string.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T051146Z" creationid="hp" creationdate="20200420T051146Z">
+        <seg>无论是精确查找还是关键字查找，都可以使用通配符“*”和“?”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Typing any text will open a &lt;g0&gt;Filter&lt;/g0&gt; field where parts of filenames can be entered.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052430Z" creationid="qinxun" creationdate="20200419T033119Z">
@@ -15035,6 +15060,15 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113131Z" creationid="DSS" creationdate="20200419T113131Z">
         <seg>WiX 本地化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wildcards:
+Both exact and keyword searches support the wildcard characters * and ?.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T051251Z" creationid="hp" creationdate="20200420T051251Z">
+        <seg>无论是精确查找还是关键字查找，都可以使用通配符“*”和“?”。</seg>
       </tuv>
     </tu>
     <tu>
