@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050757Z" creationid="hp" creationdate="20200420T050757Z">
+        <seg>文件(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Find...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095500Z" creationid="Liliu" creationdate="20200419T095500Z">
@@ -312,8 +320,8 @@
       <tuv lang="en">
         <seg>&amp;Glossaries</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050647Z" creationid="hp" creationdate="20200420T050647Z">
-        <seg>词汇表(&amp;G)</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050742Z" creationid="hp" creationdate="20200420T050647Z">
+        <seg>术语表(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -346,6 +354,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114452Z" creationid="DSS" creationdate="20200419T114452Z">
         <seg>创建&lt;ph&gt;标签快捷键时，忽略 type 与 ctype 属性(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;In translation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050752Z" creationid="hp" creationdate="20200420T050752Z">
+        <seg>在译文中(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3660,6 +3676,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Display:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050753Z" creationid="hp" creationdate="20200420T050753Z">
+        <seg>显示：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Displays &lt;l0&gt;Project properties&lt;/l0&gt; dialog to edit project languages and folder locations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110147Z" creationid="yangzy" creationdate="20200419T110147Z">
@@ -3816,6 +3840,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T125352Z" creationid="DSS" creationdate="20200418T125352Z">
         <seg>是否有与 Oracle 的 Java 8 JRE 相兼容的 Java 实现?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to continue?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050801Z" creationid="hp" creationdate="20200420T050801Z">
+        <seg>您是否选择覆盖该处？</seg>
       </tuv>
     </tu>
     <tu>
@@ -6346,6 +6378,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In so&amp;urce</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050751Z" creationid="hp" creationdate="20200420T050751Z">
+        <seg>在原文中(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In some operating systems, this folder is not displayed by default.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T050531Z" creationid="Liliu" creationdate="20200419T050531Z">
@@ -7359,6 +7399,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T110910Z" creationid="Liliu" creationdate="20200419T110910Z">
         <seg>本地翻译没有与远程版本库同步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Location</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050756Z" creationid="hp" creationdate="20200420T050756Z">
+        <seg>位置</seg>
       </tuv>
     </tu>
     <tu>
@@ -8595,6 +8643,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Number of matching segments:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050801Z" creationid="hp" creationdate="20200420T050801Z">
+        <seg>匹配的片段数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>O&amp;ptions...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T121355Z" creationid="DSS" creationdate="20200419T121355Z">
@@ -9669,6 +9725,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050758Z" creationid="hp" creationdate="20200420T050758Z">
+        <seg>项目(&amp;J)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Problem encountered loading project file!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050206Z" creationid="hp" creationdate="20200420T050206Z">
@@ -9961,6 +10025,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200420T041945Z" creationid="qinxun" creationdate="20200420T041945Z">
         <seg>重新对齐剩余部分</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Recursi&amp;ve search</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050758Z" creationid="hp" creationdate="20200420T050758Z">
+        <seg>递归查找(&amp;V)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10719,6 +10791,16 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scope:
+The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050927Z" creationid="hp" creationdate="20200420T050927Z">
+        <seg>范围：
+搜索范围默认为此项目文件夹内，也可以选择在特定文件夹内搜索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Script "{0}" bound to slot #{1}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T102507Z" creationid="yangzy" creationdate="20200419T102436Z">
@@ -11051,6 +11133,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110132Z" creationid="yangzy" creationdate="20200419T110132Z">
         <seg>选择&lt;g0&gt;Taas 术语查询&lt;/g0&gt;以激活该查询。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Fol&amp;der</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050756Z" creationid="hp" creationdate="20200420T050756Z">
+        <seg>选择文件夹(&amp;D)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12229,6 +12319,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T112942Z" creationid="DSS" creationdate="20200419T112942Z">
         <seg>纯文本过滤器选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Replace</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050800Z" creationid="hp" creationdate="20200420T050800Z">
+        <seg>文本替换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text Search</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050759Z" creationid="hp" creationdate="20200420T050759Z">
+        <seg>文本查找</seg>
       </tuv>
     </tu>
     <tu>
@@ -13899,6 +14005,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Trans&amp;lated or untranslated</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050753Z" creationid="hp" creationdate="20200420T050753Z">
+        <seg>已译或未译(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate a PDF file</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075027Z" creationid="hp" creationdate="20200418T075027Z">
@@ -14135,6 +14249,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052430Z" creationid="qinxun" creationdate="20200419T033119Z">
         <seg>输入任何文本都会打开一个&lt;g0&gt;过滤器&lt;/g0&gt;，可以输入文件名句段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>U&amp;ntranslated</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050746Z" creationid="hp" creationdate="20200420T050746Z">
+        <seg>未译(&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15101,6 +15223,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You are going to modify {0} segments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050800Z" creationid="hp" creationdate="20200420T050800Z">
+        <seg>你将修改 {0} 个片段。确定要继续吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You are trying to use the HunspellTokenizer with the language {0}, but no spelling dictionaries are installed for this language.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114239Z" creationid="Liliu" creationdate="20200419T114239Z">
@@ -15342,6 +15472,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>all matching segments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050754Z" creationid="hp" creationdate="20200420T050754Z">
+        <seg>所有匹配的片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>are created and used by the spell checker.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T045503Z" creationid="Liliu" creationdate="20200419T045503Z">
@@ -15450,6 +15588,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T132426Z" creationid="Liliu" creationdate="20200419T132426Z">
         <seg>扩展名：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>file names</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050755Z" creationid="hp" creationdate="20200420T050755Z">
+        <seg>文件名</seg>
       </tuv>
     </tu>
     <tu>
