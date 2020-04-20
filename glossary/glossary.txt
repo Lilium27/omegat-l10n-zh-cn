@@ -1,2 +1,3 @@
 URL	URL 地址
 Segment	句段
+Glossaries	术语表
