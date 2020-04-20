@@ -2389,8 +2389,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>By default, the /tm folder is below the project's root folder (e.g. ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;), but you can choose a different folder in the project properties dialog if you wish.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071951Z" creationid="hp" creationdate="20200418T071951Z">
-        <seg>默认情况下，/tm 文件夹位于项目的根文件夹下（例如 ...</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T060746Z" creationid="hp" creationdate="20200418T071951Z">
+        <seg>默认情况下，/tm 文件夹位于项目的根文件夹下（例如 ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;），但如果你愿意也可以在项目的属性对话框中选择其他文件夹。</seg>
       </tuv>
     </tu>
     <tu>
