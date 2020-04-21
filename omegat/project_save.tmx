@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2680,8 +2680,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T053237Z" creationid="hp" creationdate="20200420T053237Z">
-        <seg>已添加来自 {1} 的 {0} 个词汇表条目</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200421T112436Z" creationid="hp" creationdate="20200420T053237Z">
+        <seg>已添加来自{1}  的 {0}个词汇表条目</seg>
       </tuv>
     </tu>
     <tu>
@@ -3208,8 +3208,8 @@ The current setting is {0}MB;</seg>
 {0}
 The TMX file will not be loaded.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052611Z" creationid="hp" creationdate="20200420T052611Z">
-        <seg>解析以下 TMX 文件时出现异常：\n{0}\n此 TMX 文件不会被载入。请浏览日志\n（{1}）\n来确定错误原因后重新尝试。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200421T112340Z" creationid="hp" creationdate="20200420T052611Z">
+        <seg>解析以下 TMX 文件时出现异常：\n{0}\n此 TMX 文件不会被载入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7073,16 +7073,16 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Exit code {0}: "{1}"</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050218Z" creationid="hp" creationdate="20200420T050218Z">
-        <seg>退出项目</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200421T112239Z" creationid="hp" creationdate="20200420T050218Z">
+        <seg>退出项目{0}：“{1}”</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>Exit code: {0}</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050217Z" creationid="hp" creationdate="20200420T050217Z">
-        <seg>退出项目</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200421T112150Z" creationid="hp" creationdate="20200420T050217Z">
+        <seg>退出项目{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -13450,8 +13450,8 @@ a description of how this error was produced.</seg>
 ({1})
 to determine the source of the error and try again.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052611Z" creationid="hp" creationdate="20200420T052611Z">
-        <seg>下载字典时发生错误。请再试一次。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200421T112248Z" creationid="hp" creationdate="20200420T052611Z">
+        <seg>下载字典时发生错误。请再试一次。{1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -14232,8 +14232,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Reading TMX file {0}</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052605Z" creationid="hp" creationdate="20200420T052605Z">
-        <seg>TMX 文件读取完毕</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200421T112239Z" creationid="hp" creationdate="20200420T052605Z">
+        <seg>TMX 文件读取完毕{0}</seg>
       </tuv>
     </tu>
     <tu>
