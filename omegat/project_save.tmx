@@ -21927,8 +21927,8 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>You must then press &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T071123Z" creationid="seiga" creationdate="20200421T071123Z">
-        <seg>以插入建议。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200421T094715Z" creationid="seiga" creationdate="20200421T071123Z">
+        <seg>您需再次按下 &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; 以插入建议。</seg>
       </tuv>
     </tu>
     <tu>
