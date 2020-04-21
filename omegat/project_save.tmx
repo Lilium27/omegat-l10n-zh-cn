@@ -1499,6 +1499,22 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>... matches the following</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065431Z" creationid="seiga" creationdate="20200421T065431Z">
+        <seg>……匹配以下内容：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>...matches the following</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065635Z" creationid="seiga" creationdate="20200421T065635Z">
+        <seg>...匹配下列内容</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1 conflict</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T114707Z" creationid="Liliu" creationdate="20200419T114707Z">
@@ -1818,6 +1834,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T114006Z" creationid="DSS" creationdate="20200419T114006Z">
         <seg>&lt;翻译单元&gt; I&amp;D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A character in the Greek block (simple &lt;u0&gt; block&lt;/u0&gt;)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065649Z" creationid="seiga" creationdate="20200421T065649Z">
+        <seg>希腊字母区中的字符（单</seg>
       </tuv>
     </tu>
     <tu>
@@ -5323,6 +5347,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065434Z" creationid="seiga" creationdate="20200421T065434Z">
+        <seg>启用不区分大小写的匹配（默认情况下，模式区分大小写）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Encoding</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T063237Z" creationid="seiga" creationdate="20200421T063237Z">
@@ -6395,6 +6427,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T145544Z" creationid="hp" creationdate="20200418T145401Z">
         <seg>例如，在 OmegaT 标签中，必须维持使用从左向右的原文语言的产品名称、本地化文件中的占位符、以及文本中的数字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, this is the backslash character</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065644Z" creationid="seiga" creationdate="20200421T065644Z">
+        <seg>比如，这是反斜杠字符</seg>
       </tuv>
     </tu>
     <tu>
@@ -10290,6 +10330,30 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Nothing, but ends quoting started by \Q</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065646Z" creationid="seiga" creationdate="20200421T065646Z">
+        <seg>不匹配任何内容，但结束由 \Q 开始的转义</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nothing, but quotes all characters until \E</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065645Z" creationid="seiga" creationdate="20200421T065645Z">
+        <seg>不匹配任何内容，但转义后继 \E 之前的所有字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Nothing, but quotes the following character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065641Z" creationid="seiga" creationdate="20200421T065641Z">
+        <seg>不匹配任何内容，但会转义后继的字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Notification (flash)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T132016Z" creationid="Liliu" creationdate="20200419T132016Z">
@@ -12134,6 +12198,38 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex - Character</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065436Z" creationid="seiga" creationdate="20200421T065436Z">
+        <seg>正则表达式 - 字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regex - Classes for Unicode blocks and categories</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065647Z" creationid="seiga" creationdate="20200421T065647Z">
+        <seg>正则表达式 - Unicode 字区与分类类别</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regex - Flags</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065429Z" creationid="seiga" creationdate="20200421T065429Z">
+        <seg>正则表达式 - 标志</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Regex - Quotation</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065634Z" creationid="seiga" creationdate="20200421T065634Z">
+        <seg>正则表达式 - 转义</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Register Identical Translation</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101803Z" creationid="yangzy" creationdate="20200419T101803Z">
@@ -13202,6 +13298,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See additional references and examples below.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065413Z" creationid="seiga" creationdate="20200421T065413Z">
+        <seg>参见以下的参考和范例。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See below for details.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064246Z" creationid="seiga" creationdate="20200421T064246Z">
@@ -13686,6 +13790,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T134340Z" creationid="Liliu" creationdate="20200418T134340Z">
         <seg>如果您忘记了对用户界面所做过的更改，随时都可以用 &lt;g0&gt; 选项 → 恢复主窗口&lt;/g0&gt; 回到原始布局状态</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Should you need more specific information, consult the &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065406Z" creationid="seiga" creationdate="20200421T065406Z">
+        <seg>如果你需要更多详细信息，请参阅 </seg>
       </tuv>
     </tu>
     <tu>
@@ -14929,6 +15041,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The alert (bell) character ('\u0007')</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065616Z" creationid="seiga" creationdate="20200421T065616Z">
+        <seg>告警（响铃）（'\u0007'）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The background is restored to normal when the segment is left.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T043924Z" creationid="Liliu" creationdate="20200419T043924Z">
@@ -14945,10 +15065,66 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The carriage-return character ('\u000D')</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065613Z" creationid="seiga" creationdate="20200421T065613Z">
+        <seg>回车（'\u000D'）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The changes are displayed.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T041454Z" creationid="Liliu" creationdate="20200419T041454Z">
         <seg>更改会显示出来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The character with hexadecimal value 0xhh</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065633Z" creationid="seiga" creationdate="20200421T065633Z">
+        <seg>十六进制值为 0xhh 的字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The character with hexadecimal value 0xhhhh</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065444Z" creationid="seiga" creationdate="20200421T065444Z">
+        <seg>十六进制值为 0xhhhh 的字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The character with octal value 0mnn (0 &lt;= m &lt;= 3, 0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065631Z" creationid="seiga" creationdate="20200421T065631Z">
+        <seg>八进制值为 0mnn（0 &lt;= m &lt;= 3, 0 &lt;= n &lt;= 7）的字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The character with octal value 0n (0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065622Z" creationid="seiga" creationdate="20200421T065622Z">
+        <seg>八进制值为 0n（0 &lt;= n &lt;= 7）的字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The character with octal value 0nn (0 &lt;= n &lt;= 7)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065629Z" creationid="seiga" creationdate="20200421T065629Z">
+        <seg>八进制值为 0n（0 &lt;= n &lt;= 7）的字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The character x, except the following...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065438Z" creationid="seiga" creationdate="20200421T065438Z">
+        <seg>字符 x，除了以下情况……</seg>
       </tuv>
     </tu>
     <tu>
@@ -14970,6 +15146,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The construct</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065430Z" creationid="seiga" creationdate="20200421T065430Z">
+        <seg>结构</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The contents of the target subfolder will reflect the current state of the translation, as present in the project translation memory, saved in the current &lt;e8&gt;/omegat/project_save.tmx&lt;/e8&gt;.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T025318Z" creationid="Liliu" creationdate="20200419T025318Z">
@@ -14982,6 +15166,14 @@ instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T034747Z" creationid="Liliu" creationdate="20200419T034747Z">
         <seg>tm 子文件夹中的翻译记忆库为生成待翻译文本提供建议。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The control character corresponding to x</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065619Z" creationid="seiga" creationdate="20200421T065619Z">
+        <seg>对应于 x 的控制字符</seg>
       </tuv>
     </tu>
     <tu>
@@ -15059,6 +15251,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The escape character ('\u001B')</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065618Z" creationid="seiga" creationdate="20200421T065618Z">
+        <seg>Esc（退出）（'\u001B'）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The exported contents are copied to the file &lt;f1&gt;selection.txt&lt;/f1&gt; located in the User's preference files folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110111Z" creationid="yangzy" creationdate="20200419T110111Z">
@@ -15087,6 +15287,14 @@ instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T072419Z" creationid="hp" creationdate="20200418T072419Z">
         <seg>以下方案只是其中一种方法，不过足够简单、容易操作且没有危险性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The form-feed character ('\u000C')</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065614Z" creationid="seiga" creationdate="20200421T065614Z">
+        <seg>换页（'\u000C'）</seg>
       </tuv>
     </tu>
     <tu>
@@ -15210,6 +15418,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T050328Z" creationid="hp" creationdate="20200418T050328Z">
         <seg>新的规则集将与项目一起存储，不会干扰到通用的分割规则集。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The newline (line feed) character ('\u000A')</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065610Z" creationid="seiga" creationdate="20200421T065610Z">
+        <seg>新行（换行）（'\u000A'）</seg>
       </tuv>
     </tu>
     <tu>
@@ -15514,6 +15730,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T111007Z" creationid="yangzy" creationdate="20200419T111007Z">
         <seg>所支持的文件格式是&lt;m0&gt; &lt;g1&gt;项目&lt;/g1&gt; &lt;g2&gt;属性&lt;/g2&gt; &lt;g3&gt;文件格式&lt;/g3&gt; &lt;/m0&gt;中所列的那些。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The tab character ('\u0009')</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065518Z" creationid="seiga" creationdate="20200421T065518Z">
+        <seg>Tab（制表符）（'\u0009'）</seg>
       </tuv>
     </tu>
     <tu>
@@ -15867,6 +16091,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This chapter is intended for advanced users, who need to define their own variants of segmentation rules or devise more complex and powerful key search items.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065425Z" creationid="seiga" creationdate="20200421T065425Z">
+        <seg>本章内容是为高级用户准备的，用于定义自己的分割规则变体或设计更复杂更强大的关键字查找内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This command does not work once the modified segment has been validated.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110046Z">
@@ -15967,6 +16199,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T030104Z" creationid="hp" creationdate="20200418T042143Z">
         <seg>这在处理内联格式并不真正有用的文本（如 OCRed PDF、转换不良的 .odt 或 .docx 等）时特别有用。正常情况下译文文档应当都能打开，因为只移除了内联标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is required if you would like to enter any of the meta characters !$()*+.&lt;&gt;?[\]^{|} to match as themselves.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065642Z" creationid="seiga" creationdate="20200421T065642Z">
+        <seg>需要输入元字符 !$()*+.&lt;&gt;?[\]^{|} 之一来匹配其自身时就必须这样。</seg>
       </tuv>
     </tu>
     <tu>
