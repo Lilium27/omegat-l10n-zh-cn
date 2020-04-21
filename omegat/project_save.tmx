@@ -16196,8 +16196,8 @@ The scope of a search is by default the project and can be set to be any files l
       <tuv lang="en">
         <seg>Should you need more specific information, consult the &lt;u0&gt;Java Regex documentation&lt;/u0&gt;.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T065406Z" creationid="seiga" creationdate="20200421T065406Z">
-        <seg>如果你需要更多详细信息，请参阅 </seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200421T094354Z" creationid="seiga" creationdate="20200421T065406Z">
+        <seg>如果您需要更多详细信息，请参阅&lt;u0&gt;Java Regex documentation&lt;/u0&gt;。 </seg>
       </tuv>
     </tu>
     <tu>
