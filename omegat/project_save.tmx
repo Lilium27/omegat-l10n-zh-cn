@@ -1638,6 +1638,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; can be: &lt;e1&gt;shift&lt;/e1&gt;, &lt;e2&gt;control&lt;/e2&gt;, &lt;e3&gt;ctrl&lt;/e3&gt;, &lt;e4&gt;meta&lt;/e4&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070756Z" creationid="seiga" creationdate="20200421T070756Z">
+        <seg>projectOpenMenuItem=shift ctrl O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Adding files to the project: &lt;/e0&gt;You can add source files to the project by clicking on the "&lt;g1&gt;Import Source Files..."&lt;/g1&gt; button.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T034659Z" creationid="qinxun" creationdate="20200419T034659Z">
@@ -1818,6 +1826,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T074415Z" creationid="hp" creationdate="20200418T074409Z">
         <seg>.repositories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070741Z" creationid="seiga" creationdate="20200421T070741Z">
+        <seg>&lt;shortcut&gt;必须是如下格式：0 个或更多</seg>
       </tuv>
     </tu>
     <tu>
@@ -4541,6 +4557,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T122132Z" creationid="DSS" creationdate="20200419T122132Z">
         <seg>默认</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Default shortcut</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070839Z" creationid="seiga" creationdate="20200421T070839Z">
+        <seg>默认快捷键</seg>
       </tuv>
     </tu>
     <tu>
@@ -7718,6 +7742,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If they do not conflict with system shortcuts, they should be available from within OmegaT.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070835Z" creationid="seiga" creationdate="20200421T070835Z">
+        <seg>如果它们与系统快捷键不冲突，则它们在 OmegaT 中应当可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you already have collected words you wish the spell checker to ignore / accept, you just need to copy the corresponding two files into the &lt;f0&gt;omegat&lt;/f0&gt;subfolder of your current project.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T045950Z" creationid="Liliu" creationdate="20200419T045703Z">
@@ -9688,6 +9720,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Menu Item</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070839Z" creationid="seiga" creationdate="20200421T070839Z">
+        <seg>菜单项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Menu Item Code</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070840Z" creationid="seiga" creationdate="20200421T070840Z">
+        <seg>菜单项代码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Menus</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T134031Z" creationid="Liliu" creationdate="20200418T134031Z">
@@ -10048,6 +10096,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101657Z" creationid="yangzy" creationdate="20200419T101657Z">
         <seg>神经机器翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>New</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070841Z" creationid="seiga" creationdate="20200421T070841Z">
+        <seg>新建</seg>
       </tuv>
     </tu>
     <tu>
@@ -11024,6 +11080,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110152Z" creationid="yangzy" creationdate="20200419T110152Z">
         <seg>仅当安装了拼写字典时才有效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070851Z" creationid="seiga" creationdate="20200421T070851Z">
+        <seg>打开</seg>
       </tuv>
     </tu>
     <tu>
@@ -12046,6 +12110,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110147Z" creationid="yangzy" creationdate="20200419T110147Z">
         <seg>项目文件...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project Menu</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070837Z" creationid="seiga" creationdate="20200421T070837Z">
+        <seg>项目菜单</seg>
       </tuv>
     </tu>
     <tu>
@@ -15643,6 +15715,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The full syntax for keystrokes (shortcuts) is defined in the following Java 1.6 documentation from Oracle (bottom of page): &lt;u0&gt;Java 1.6 keystrokes shortcuts&lt;/u0&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070720Z" creationid="seiga" creationdate="20200421T070720Z">
+        <seg>按键（快捷键）的完整语法在来自 Oracle 的 Java 1.6 文档中定义（页面底部） &lt;u0&gt;Java 1.6 按键（快捷键）&lt;/u0&gt;：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The help page you seek
 Lies beyond our perception
 But others await</seg>
@@ -18921,6 +19001,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T053037Z" creationid="hp" creationdate="20200420T053037Z">
         <seg>你的当前项目使用的是语句分割，但 TMX 文件创建时用的是段落分割。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your new shortcuts should now appear next to the menu items you have modified.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070828Z" creationid="seiga" creationdate="20200421T070828Z">
+        <seg>您的新快捷键现在应该会显示在已修改的菜单项旁边。</seg>
       </tuv>
     </tu>
     <tu>
