@@ -1442,6 +1442,15 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--pseudotranslatetype=[equal|empty]
+		What to fill the pseudotranslated TMX with.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064601Z" creationid="seiga" creationdate="20200421T064601Z">
+        <seg>--pseudotranslatetype=[equal|empty]\n\t\t用什么来填充伪翻译的 TMX。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--remote-project
 		Download an omegat.project file from the URL given as &lt;project
 		path&gt; and load the project.</seg>
@@ -1459,6 +1468,24 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064310Z" creationid="seiga" creationdate="20200421T064310Z">
         <seg>--resource-bundle=&lt;path&gt;\n\t\t用于界面文本的 Java .properties 文件\n\t--config-dir=&lt;path&gt;\n\t\t用于读取/写入 OmegaT 配置文件的目录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--script=&lt;path&gt;
+		A script file to be executed on project events.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064446Z" creationid="seiga" creationdate="20200421T064446Z">
+        <seg>--script=&lt;path&gt;\n\t\t在项目事件时执行的脚本文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--tag-validation=[abort|warn]
+		Validate tags.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064501Z" creationid="seiga" creationdate="20200421T064501Z">
+        <seg>--tag-validation=[abort|warn]\n\t\t校验标签。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1895,6 +1922,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T115314Z" creationid="DSS" creationdate="20200419T115314Z">
         <seg>Aaron Madlon-Kay 是 OmegaT 项目经理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Abort: Exit with an error if tags invalid.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064513Z" creationid="seiga" creationdate="20200421T064513Z">
+        <seg>Abort：当标签无效时退出并显示错误。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3610,6 +3645,16 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Commands:
+	-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064701Z" creationid="seiga" creationdate="20200421T064701Z">
+        <seg>命令：\n\t-h, --help\n\t\t显示用法信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comme&amp;nts</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T114636Z" creationid="DSS" creationdate="20200419T114636Z">
@@ -3766,6 +3811,36 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T104457Z" creationid="Liliu" creationdate="20200419T104457Z">
         <seg>连接可用，项目处于团队项目模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console-align mode:
+	--alignDir=&lt;path&gt;
+		A directory containing the translated files.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064615Z" creationid="seiga" creationdate="20200421T064615Z">
+        <seg>Console-align 模式:\n\t--alignDir=&lt;path&gt;\n\t\t包含译文文件的目录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console-pseudotranslatetmx mode:
+	--pseudotranslatetmx=&lt;path&gt;
+		The output pseudotranslated TMX file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064548Z" creationid="seiga" creationdate="20200421T064548Z">
+        <seg>Console-pseudotranslatetmx 模式:\n\t--pseudotranslatetmx=&lt;path&gt;\n\t\t输出伪翻译的 TMX 文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Console-translate mode:
+	--source-pattern=&lt;pattern&gt;
+		A regex whitelist of source files to process.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064531Z" creationid="seiga" creationdate="20200421T064531Z">
+        <seg>Console-translate 模式:\n\t--source-pattern=&lt;模式&gt;\n\t\t要处理的原文文件的正则表达式白名单。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9925,6 +10000,16 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Non-GUI mode options:
+	--quiet
+		Reduce output to command line stdout.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064433Z" creationid="seiga" creationdate="20200421T064433Z">
+        <seg>非图形界面模式选项：\n\t--quiet\n\t\t减少输出到命令行 stdout 的输出量。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Non-breakable space</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T113040Z" creationid="Liliu" creationdate="20200419T113040Z">
@@ -13061,10 +13146,26 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See Help &gt; User's Manual for more information.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064627Z" creationid="seiga" creationdate="20200421T064627Z">
+        <seg>更多信息，参阅 帮助 &gt; 用户手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See OmegaT manual for instructions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101217Z" creationid="yangzy" creationdate="20200419T101217Z">
         <seg>有关说明，请参阅 OmegaT 手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See OmegaT.jar/META-INF/MANIFEST.MF for valid values.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064414Z" creationid="seiga" creationdate="20200421T064414Z">
+        <seg>有关所有有效的值，参见 OmegaT.jar/META-INF/MANIFEST.MF。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17378,6 +17479,14 @@ on line {1}, column {2}.</seg>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T103253Z" creationid="Liliu" creationdate="20200419T103253Z">
         <seg>警告：所有未保存数据都将会丢失。
 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warn: Report invalid tags to stdout.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064521Z" creationid="seiga" creationdate="20200421T064521Z">
+        <seg>Warn：将无效的标签记录到 stdout。</seg>
       </tuv>
     </tu>
     <tu>
