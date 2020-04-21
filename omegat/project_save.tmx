@@ -2680,7 +2680,7 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Added {0} glossary entries from {1}</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200421T112436Z" creationid="hp" creationdate="20200420T053237Z">
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200421T112619Z" creationid="hp" creationdate="20200420T053237Z">
         <seg>已添加来自{1}  的 {0}个词汇表条目</seg>
       </tuv>
     </tu>
@@ -13450,8 +13450,8 @@ a description of how this error was produced.</seg>
 ({1})
 to determine the source of the error and try again.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200421T112248Z" creationid="hp" creationdate="20200420T052611Z">
-        <seg>下载字典时发生错误。请再试一次。{1}</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200421T112602Z" creationid="hp" creationdate="20200420T052611Z">
+        <seg>请浏览日志\n（{1}）\n来确定错误原因后重新尝试。</seg>
       </tuv>
     </tu>
     <tu>
