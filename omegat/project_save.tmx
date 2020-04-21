@@ -5555,8 +5555,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Dictionaries in &lt;a0&gt;OmegaT&lt;/a0&gt; are based on the StarDict or on the Lingvo DSL format.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T065145Z" creationid="seiga" creationdate="20200421T065145Z">
-        <seg>请注意，除了“原文-译文”类型的词典之外，你还可以通过词典功能访问以下信息：</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200421T094625Z" creationid="seiga" creationdate="20200421T065145Z">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; 中的词典基于 StarDict 或 Lingvo DSL 格式。</seg>
       </tuv>
     </tu>
     <tu>
