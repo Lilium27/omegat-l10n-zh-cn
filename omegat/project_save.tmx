@@ -14,6 +14,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;About...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062747Z" creationid="seiga" creationdate="20200421T062747Z">
+        <seg>关于(&amp;A)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Access Project Contents</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062457Z" creationid="seiga" creationdate="20200421T062457Z">
+        <seg>访问项目内容(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Add</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T130634Z" creationid="Liliu" creationdate="20200419T130634Z">
@@ -26,6 +42,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061402Z" creationid="seiga" creationdate="20200421T061402Z">
         <seg>添加(&amp;A)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Align Files...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062710Z" creationid="seiga" creationdate="20200421T062710Z">
+        <seg>对齐文件(&amp;A)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Always Confirm Quit</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062743Z" creationid="seiga" creationdate="20200421T062743Z">
+        <seg>退出前确认(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Apply to all</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T041540Z" creationid="qinxun" creationdate="20200420T041540Z">
@@ -102,10 +134,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062732Z" creationid="seiga" creationdate="20200421T062732Z">
+        <seg>自动在词典中查找片段文本(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Back</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061308Z" creationid="seiga" creationdate="20200421T061308Z">
         <seg>后退(&amp;B)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Back in History</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062700Z" creationid="seiga" creationdate="20200421T062700Z">
+        <seg>在历史中后退(&amp;B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Check for Updates...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062749Z" creationid="seiga" creationdate="20200421T062749Z">
+        <seg>检查更新(&amp;C)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Clear Menu</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062341Z" creationid="seiga" creationdate="20200421T062341Z">
@@ -198,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Current Source Document</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062504Z" creationid="seiga" creationdate="20200421T062504Z">
+        <seg>当前原文文档(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Cycle</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T100945Z" creationid="yangzy" creationdate="20200419T100945Z">
@@ -210,6 +274,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T115908Z" creationid="DSS" creationdate="20200419T115908Z">
         <seg>默认(&amp;D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Dictionaries</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062500Z" creationid="seiga" creationdate="20200421T062500Z">
+        <seg>词典(&amp;D)</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Editor...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062718Z" creationid="seiga" creationdate="20200421T062718Z">
+        <seg>编辑器(&amp;E)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Empty lines</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T112949Z" creationid="DSS" creationdate="20200419T112949Z">
@@ -290,6 +370,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T113755Z" creationid="Liliu" creationdate="20200419T113755Z">
         <seg>允许术语表建议(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Enable history completion</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062741Z" creationid="seiga" creationdate="20200421T062741Z">
+        <seg>启用历史完成(&amp;E)</seg>
       </tuv>
     </tu>
     <tu>
@@ -374,10 +462,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Forward in History</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062659Z" creationid="seiga" creationdate="20200421T062659Z">
+        <seg>在历史中前进(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Glossaries</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T050742Z" creationid="hp" creationdate="20200420T050647Z">
         <seg>术语表(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Glossary</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062721Z" creationid="seiga" creationdate="20200421T062721Z">
+        <seg>词汇表(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Go To</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062650Z" creationid="seiga" creationdate="20200421T062650Z">
+        <seg>转到(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -402,6 +514,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T055043Z" creationid="DSS" creationdate="20200419T121417Z">
         <seg>识别有可选翻译的句段时忽略文件上下文(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062727Z" creationid="seiga" creationdate="20200421T062727Z">
+        <seg>忽略大小写不同的命中（例如 FOO 和 foo）(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Insert Match or Selection</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062512Z" creationid="seiga" creationdate="20200421T062512Z">
+        <seg>插入匹配或所选内容(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Install new dictionary...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094936Z" creationid="yangzy" creationdate="20200419T094936Z">
@@ -466,6 +594,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101747Z" creationid="yangzy" creationdate="20200419T101747Z">
         <seg>语言检查器(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Last Changes...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062748Z" creationid="seiga" creationdate="20200421T062748Z">
+        <seg>最近变更(&amp;L)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Match Statistics</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062707Z" creationid="seiga" creationdate="20200421T062707Z">
+        <seg>匹配统计数据(&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Minimal similarity:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T122319Z" creationid="DSS" creationdate="20200419T122319Z">
@@ -590,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Next Segment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062651Z" creationid="seiga" creationdate="20200421T062651Z">
+        <seg>下一个片段(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Notes</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T113734Z" creationid="DSS" creationdate="20200419T113734Z">
@@ -622,6 +774,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Options</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062712Z" creationid="seiga" creationdate="20200421T062712Z">
+        <seg>选项(&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Preferences...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062746Z" creationid="seiga" creationdate="20200421T062746Z">
+        <seg>首选项(&amp;P)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Prefix:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T122320Z" creationid="DSS" creationdate="20200419T122320Z">
@@ -646,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Previous Segment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062656Z" creationid="seiga" creationdate="20200421T062656Z">
+        <seg>上一个片段(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Project</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062333Z" creationid="seiga" creationdate="20200421T062333Z">
@@ -654,10 +830,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Properties...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062453Z" creationid="seiga" creationdate="20200421T062453Z">
+        <seg>属性(&amp;P)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Quit</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101815Z" creationid="yangzy" creationdate="20200419T101815Z">
         <seg>退出(&amp;Q)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Redo Last Action</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062509Z" creationid="seiga" creationdate="20200421T062509Z">
+        <seg>恢复前一操作(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -750,6 +942,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Restore Main Window</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062744Z" creationid="seiga" creationdate="20200421T062744Z">
+        <seg>恢复主窗口(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Root</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062458Z" creationid="seiga" creationdate="20200421T062458Z">
+        <seg>根目录(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Run</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101810Z" creationid="yangzy" creationdate="20200419T101810Z">
@@ -790,10 +998,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Search Project...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062511Z" creationid="seiga" creationdate="20200421T062511Z">
+        <seg>在项目中查找(&amp;S)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Search for Selection</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T052541Z" creationid="hp" creationdate="20200420T052541Z">
         <seg>查找转选区(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Segment Number...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062658Z" creationid="seiga" creationdate="20200421T062658Z">
+        <seg>片段序号(&amp;S)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Segmentation...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062719Z" creationid="seiga" creationdate="20200421T062719Z">
+        <seg>片段分割(&amp;S)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -830,6 +1062,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062733Z" creationid="seiga" creationdate="20200421T062733Z">
+        <seg>自动显示相关建议(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Show relevant suggestions automatically</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062735Z" creationid="seiga" creationdate="20200421T062735Z">
+        <seg>自动显示相关建议(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Skip</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061422Z" creationid="seiga" creationdate="20200421T061422Z">
@@ -854,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Source Files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062501Z" creationid="seiga" creationdate="20200421T062501Z">
+        <seg>原文文件(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Source Files Language:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T050324Z" creationid="hp" creationdate="20200420T050324Z">
@@ -866,6 +1122,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T050325Z" creationid="hp" creationdate="20200420T050325Z">
         <seg>原文语种分词器(&amp;S)：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Statistics</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062706Z" creationid="seiga" creationdate="20200421T062706Z">
+        <seg>统计数据(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -886,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Target Files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062503Z" creationid="seiga" creationdate="20200421T062503Z">
+        <seg>译文文件(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Target Language Tokenizer:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T050326Z" creationid="hp" creationdate="20200420T050326Z">
@@ -898,6 +1170,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T100943Z" creationid="yangzy" creationdate="20200419T100943Z">
         <seg>标题式大小写(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Tools</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062703Z" creationid="seiga" creationdate="20200421T062703Z">
+        <seg>工具(&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -918,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Undo Last Action</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062508Z" creationid="seiga" creationdate="20200421T062508Z">
+        <seg>撤销前一操作(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Untranslated Segments Only</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T101113Z">
@@ -934,6 +1222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;User's Manual...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062746Z" creationid="seiga" creationdate="20200421T062746Z">
+        <seg>用户手册(&amp;U)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Validate tags when leaving a segment</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T055043Z" creationid="DSS" creationdate="20200419T122512Z">
@@ -946,6 +1242,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T100947Z" creationid="yangzy" creationdate="20200419T100947Z">
         <seg>视图(&amp;V)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Writeable Glossary</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062507Z" creationid="seiga" creationdate="20200421T062507Z">
+        <seg>可写词汇表(&amp;W)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1461,6 +1765,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A&amp;uto-completion</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062734Z" creationid="seiga" creationdate="20200421T062734Z">
+        <seg>自动完成(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>ANTLR (ANTLR 3 License)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T120329Z" creationid="DSS" creationdate="20200419T120329Z">
@@ -1513,6 +1825,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110129Z" creationid="yangzy" creationdate="20200419T110129Z">
         <seg>关于...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Configurat&amp;ion Folder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062745Z" creationid="seiga" creationdate="20200421T062745Z">
+        <seg>访问配置文件夹(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2327,6 +2647,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Auto-Completion</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062738Z" creationid="seiga" creationdate="20200421T062738Z">
+        <seg>自动完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Auto-completion</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110133Z" creationid="yangzy" creationdate="20200419T110133Z">
@@ -2623,6 +2951,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>C&amp;urrent Target Document</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062505Z" creationid="seiga" creationdate="20200421T062505Z">
+        <seg>当前译文文档(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Calculator:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042020Z" creationid="qinxun" creationdate="20200420T042020Z">
@@ -2855,6 +3191,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check &amp;Issues...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062704Z" creationid="seiga" creationdate="20200421T062704Z">
+        <seg>检查问题(&amp;I)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check &amp;all printf-variables (e.g., %s, %-s)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093637Z" creationid="yangzy" creationdate="20200419T093637Z">
@@ -2883,6 +3227,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110133Z" creationid="yangzy" creationdate="20200419T110133Z">
         <seg>勾选&lt;g0&gt;历史预测&lt;/g0&gt;以显示通常跟在刚输入的单词之后的建议单词。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check Issues for &amp;Current Document</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062705Z" creationid="seiga" creationdate="20200421T062705Z">
+        <seg>检查当前文档问题(&amp;C)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3476,10 +3828,34 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create &amp;Glossary Entry...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062524Z" creationid="seiga" creationdate="20200421T062524Z">
+        <seg>创建词汇表条目(&amp;G)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create &amp;Translated Documents</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062449Z" creationid="seiga" creationdate="20200421T062449Z">
+        <seg>创建译文文档(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create Alternative Translation</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101754Z" creationid="yangzy" creationdate="20200419T101754Z">
         <seg>创建替代译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create Current Translated &amp;Document</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062451Z" creationid="seiga" creationdate="20200421T062451Z">
+        <seg>创建当前译文文档(&amp;D)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3496,6 +3872,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110512Z" creationid="yangzy" creationdate="20200419T110052Z">
         <seg>创建词汇表条目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Create MED Project...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062452Z" creationid="seiga" creationdate="20200421T062452Z">
+        <seg>创建 MED 项目...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3876,6 +4260,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Dictionar&amp;y</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062729Z" creationid="seiga" creationdate="20200421T062729Z">
+        <seg>词典(&amp;Y)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Dictionaries already installed:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094935Z" creationid="yangzy" creationdate="20200419T094935Z">
@@ -4024,6 +4416,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T055043Z" creationid="DSS" creationdate="20200419T122749Z">
         <seg>以粗体显示所有原文句段(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display context description for TBX &amp;glossaries</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062722Z" creationid="seiga" creationdate="20200421T062722Z">
+        <seg>显示 TBX 词汇表的上下文描述(&amp;G)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4462,6 +4862,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>E&amp;xport Selection</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062519Z" creationid="seiga" creationdate="20200421T062519Z">
+        <seg>导出所选部分(&amp;X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>E&amp;xport the segment to text files</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T055043Z" creationid="DSS" creationdate="20200419T122341Z">
@@ -4618,6 +5026,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T041608Z" creationid="hp" creationdate="20200418T041608Z">
         <seg>启用语句级别分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enable history &amp;prediction</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062742Z" creationid="seiga" creationdate="20200421T062742Z">
+        <seg>启用历史预测(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5306,6 +5722,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T095437Z" creationid="Liliu" creationdate="20200419T095437Z">
         <seg>文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File &amp;Filters...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062455Z" creationid="seiga" creationdate="20200421T062455Z">
+        <seg>文件过滤器(&amp;F)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6111,10 +6535,34 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>History</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062743Z" creationid="seiga" creationdate="20200421T062743Z">
+        <seg>历史</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History Completion</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062739Z" creationid="seiga" creationdate="20200421T062739Z">
+        <seg>历史完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>History Completions</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T113500Z" creationid="Liliu" creationdate="20200419T113500Z">
         <seg>历史完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>History Prediction</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062740Z" creationid="seiga" creationdate="20200421T062740Z">
+        <seg>历史预测</seg>
       </tuv>
     </tu>
     <tu>
@@ -6163,6 +6611,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T131800Z" creationid="Liliu" creationdate="20200419T131800Z">
         <seg>超链接</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I&amp;nsert Source</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062517Z" creationid="seiga" creationdate="20200421T062517Z">
+        <seg>插入原文(&amp;N)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7170,6 +7626,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Insert Missing Source &amp;Tags</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062520Z" creationid="seiga" creationdate="20200421T062520Z">
+        <seg>插入缺失的原文标签(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Insert Missing Source Tags</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110504Z" creationid="yangzy" creationdate="20200419T110050Z">
@@ -7198,6 +7662,22 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110502Z" creationid="yangzy" creationdate="20200419T110050Z">
         <seg>插入原文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Tag {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062523Z" creationid="seiga" creationdate="20200421T062523Z">
+        <seg>插入标签 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Unicode Control Character</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062535Z" creationid="seiga" creationdate="20200421T062535Z">
+        <seg>插入 Unicode 控制字符</seg>
       </tuv>
     </tu>
     <tu>
@@ -7707,6 +8187,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>L&amp;og...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062748Z" creationid="seiga" creationdate="20200421T062748Z">
+        <seg>日志(&amp;O)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Language Checker</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T131550Z" creationid="Liliu" creationdate="20200419T131550Z">
@@ -8051,6 +8539,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mac&amp;hine Translate</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062720Z" creationid="seiga" creationdate="20200421T062720Z">
+        <seg>机器翻译(&amp;H)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Machine Translate</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110132Z" creationid="yangzy" creationdate="20200419T110132Z">
@@ -8179,6 +8675,30 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mark &amp;Paragraph Delimitations</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062717Z" creationid="seiga" creationdate="20200421T062717Z">
+        <seg>标记段落界定(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark &amp;Translated Segments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062714Z" creationid="seiga" creationdate="20200421T062714Z">
+        <seg>标记已译片段(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark &amp;Untranslated Segments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062715Z" creationid="seiga" creationdate="20200421T062715Z">
+        <seg>标记未译片段(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mark Accepted</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T041941Z" creationid="qinxun" creationdate="20200420T041941Z">
@@ -8303,6 +8823,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110156Z" creationid="yangzy" creationdate="20200419T110156Z">
         <seg>匹配统计数据</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match Statistics per &amp;File</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062708Z" creationid="seiga" creationdate="20200421T062708Z">
+        <seg>每个文件的匹配统计数据(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8795,6 +9323,30 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Next &amp;Translated Segment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062655Z" creationid="seiga" creationdate="20200421T062655Z">
+        <seg>下一个已译片段(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next &amp;Untranslated Segment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062653Z" creationid="seiga" creationdate="20200421T062653Z">
+        <seg>下一个未译片段(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next N&amp;ote</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062652Z" creationid="seiga" creationdate="20200421T062652Z">
+        <seg>下一个备注(&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Next Note</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110121Z" creationid="yangzy" creationdate="20200419T110121Z">
@@ -8815,6 +9367,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110114Z">
         <seg>下一个已译句段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Next Uni&amp;que Segment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062702Z" creationid="seiga" creationdate="20200421T062702Z">
+        <seg>下一个独特片段(&amp;Q)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10431,6 +10991,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Previous No&amp;te</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062657Z" creationid="seiga" creationdate="20200421T062657Z">
+        <seg>上一个备注(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Previous Note</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110122Z" creationid="yangzy" creationdate="20200419T110122Z">
@@ -10491,6 +11059,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110138Z" creationid="yangzy" creationdate="20200419T110138Z">
         <seg>项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project &amp;Files...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062456Z" creationid="seiga" creationdate="20200421T062456Z">
+        <seg>项目文件(&amp;F)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10767,6 +11343,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>R&amp;eplace with Match or Selection</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062513Z" creationid="seiga" creationdate="20200421T062513Z">
+        <seg>替换为匹配或所选内容(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Re&amp;move Filter</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061244Z" creationid="seiga" creationdate="20200421T044530Z">
@@ -10779,6 +11363,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061256Z" creationid="seiga" creationdate="20200421T061256Z">
         <seg>全部替换(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re&amp;place with Source</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062518Z" creationid="seiga" creationdate="20200421T062518Z">
+        <seg>替换为原文(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11119,6 +11711,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace &amp;glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062726Z" creationid="seiga" creationdate="20200421T062726Z">
+        <seg>插入原文文本时替换命中的词汇表条目(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Replace &lt;project&gt;/omegat/project_save.tmx in the newly downloaded project with the file saved in a safe location
 6.</seg>
       </tuv>
@@ -11149,6 +11749,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110047Z" creationid="yangzy" creationdate="20200419T110047Z">
         <seg>用匹配或所选内容替换译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace with &amp;Machine Translation</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062515Z" creationid="seiga" creationdate="20200421T062515Z">
+        <seg>替换为机器翻译(&amp;M)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11659,6 +12267,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Scriptin&amp;g...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062711Z" creationid="seiga" creationdate="20200421T062711Z">
+        <seg>脚本(&amp;G)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scripting</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101807Z" creationid="yangzy" creationdate="20200419T101807Z">
@@ -11995,6 +12611,22 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select &amp;Next Match</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062526Z" creationid="seiga" creationdate="20200421T062526Z">
+        <seg>选择下一个匹配(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select &amp;Previous Match</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062528Z" creationid="seiga" creationdate="20200421T062528Z">
+        <seg>选择上一个匹配(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select &lt;g0&gt;Taas Terminology Lookup&lt;/g0&gt; to activate this lookup.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110132Z" creationid="yangzy" creationdate="20200419T110132Z">
@@ -12011,10 +12643,58 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select Mat&amp;ch</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062525Z" creationid="seiga" creationdate="20200421T062525Z">
+        <seg>选择匹配(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select Match</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110055Z" creationid="yangzy" creationdate="20200419T110055Z">
         <seg>选择匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #&amp;1</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062529Z" creationid="seiga" creationdate="20200421T062529Z">
+        <seg>选择第一个匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #&amp;2</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062531Z" creationid="seiga" creationdate="20200421T062531Z">
+        <seg>选择第一个匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #&amp;3</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062532Z" creationid="seiga" creationdate="20200421T062532Z">
+        <seg>选择第一个匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #&amp;4</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062533Z" creationid="seiga" creationdate="20200421T062533Z">
+        <seg>选择第一个匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Match #&amp;5</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062534Z" creationid="seiga" creationdate="20200421T062534Z">
+        <seg>选择第一个匹配</seg>
       </tuv>
     </tu>
     <tu>
@@ -12579,6 +13259,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source of Selected &amp;Match</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062701Z" creationid="seiga" creationdate="20200421T062701Z">
+        <seg>所选匹配的来源(&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source of Selected Match</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110123Z" creationid="yangzy" creationdate="20200419T110123Z">
@@ -12905,6 +13593,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110054Z" creationid="yangzy" creationdate="20200419T110054Z">
         <seg>转换大小写为</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Switch views with {0} and {1}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062736Z" creationid="seiga" creationdate="20200421T062736Z">
+        <seg>交换 {0} 和 {1} 视图</seg>
       </tuv>
     </tu>
     <tu>
@@ -15614,10 +16310,42 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use &amp;Fuzzy Matching for Dictionary Entries</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062730Z" creationid="seiga" creationdate="20200421T062730Z">
+        <seg>对词典条目使用模糊匹配(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;TAB to Advance</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062713Z" creationid="seiga" creationdate="20200421T062713Z">
+        <seg>用 Tab 前进(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use &amp;XML for standalone tags (e.g., &lt;i/&gt;)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T122658Z" creationid="DSS" creationdate="20200419T122658Z">
         <seg>对独立标签使用 XML（例如&lt;i/&gt;）(&amp;X)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062731Z" creationid="seiga" creationdate="20200421T062731Z">
+        <seg>对词典条目使用模糊匹配(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use &amp;stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062725Z" creationid="seiga" creationdate="20200421T062725Z">
+        <seg>对词汇表条目使用词干分析(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15706,6 +16434,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T122945Z" creationid="DSS" creationdate="20200419T122945Z">
         <seg>使用修订信息自定义模板(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use terms &amp;appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062724Z" creationid="seiga" creationdate="20200421T062724Z">
+        <seg>使用分开出现在原文文本中的词条(&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
