@@ -6900,8 +6900,8 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>Here you may also specify custom location of project folders.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050526Z" creationid="hp" creationdate="20200420T050526Z">
-        <seg>你应当指定它们的新位置或重新创建它们。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200421T065215Z" creationid="hp" creationdate="20200420T050526Z">
+        <seg>您应当指定它们的新位置或重新创建它们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18177,8 +18177,8 @@ Your page is not found</seg>
       <tuv lang="en">
         <seg>You should specify their new location or recreate them.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050441Z" creationid="hp" creationdate="20200420T050441Z">
-        <seg>你应当指定它们的新位置或重新创建它们。</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200421T065219Z" creationid="hp" creationdate="20200420T050441Z">
+        <seg>您应当指定它们的新位置或重新创建它们。</seg>
       </tuv>
     </tu>
     <tu>
