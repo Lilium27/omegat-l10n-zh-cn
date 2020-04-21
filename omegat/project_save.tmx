@@ -1049,6 +1049,17 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>2) Increase the amount of memory available to OmegaT, by
+specifying "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" on the
+command line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061610Z" creationid="seiga" creationdate="20200421T061610Z">
+        <seg>2) 在命令行或 OmegaT 启动脚本中指定\n“java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar”\n来增加 OmegaT 的可用内存量；\n当前设置为 {0}MB；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>27/27</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T112114Z" creationid="yangzy" creationdate="20200419T112114Z">
@@ -1117,6 +1128,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T030342Z" creationid="hp" creationdate="20200418T070322Z">
         <seg>从右向左句段中的 &lt;a0&gt;OmegaT&lt;/a0&gt; 标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061740Z" creationid="seiga" creationdate="20200421T061740Z">
+        <seg>&lt;自动&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3604,6 +3623,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T114823Z" creationid="Liliu" creationdate="20200419T114823Z">
         <seg>创建者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Current memory usage by the VM: {0}MB; of which free memory: {1}MB; maximum available: {2}MB</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061736Z" creationid="seiga" creationdate="20200421T061736Z">
+        <seg>虚拟机当前内存使用量：{0}MB；其中可用内存：{1}MB；最大可用：{2}MB；</seg>
       </tuv>
     </tu>
     <tu>
@@ -7142,6 +7169,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installing and running OmegaT" in the User Manual.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061709Z" creationid="seiga" creationdate="20200421T061709Z">
+        <seg>安装与运行 OmegaT”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Instant Start</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094102Z" creationid="yangzy" creationdate="20200419T094102Z">
@@ -9378,6 +9413,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will now terminate.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061716Z" creationid="seiga" creationdate="20200421T061716Z">
+        <seg>OmegaT 现在将终止。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will present one segment at a time for you to translate.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T030559Z" creationid="DSS" creationdate="20200418T123235Z">
@@ -11229,6 +11272,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Running on Java {0} ({1}-bit)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061726Z" creationid="seiga" creationdate="20200421T061726Z">
+        <seg>运行于 Java {0} ({1}-bit)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Runs (text elements) are set to RTL</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T070559Z" creationid="hp" creationdate="20200418T070559Z">
@@ -11563,6 +11614,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T112913Z" creationid="Liliu" creationdate="20200419T112913Z">
         <seg>秒数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See "Chapter 3.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061701Z" creationid="seiga" creationdate="20200421T061701Z">
+        <seg>参见用户手册的“第三章:</seg>
       </tuv>
     </tu>
     <tu>
@@ -16394,6 +16453,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094752Z" creationid="yangzy" creationdate="20200419T094716Z">
         <seg>你的操作系统拒绝在此位置创建 OmegaT 配置文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Your project does not contain any files in a supported file format.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061907Z" creationid="seiga" creationdate="20200421T061907Z">
+        <seg>您的项目不包含任何所支持格式的文件。</seg>
       </tuv>
     </tu>
     <tu>
