@@ -5096,6 +5096,16 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Emptiness of soul
+Forever aching blackness
+Your help page not found</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064035Z" creationid="seiga" creationdate="20200421T064035Z">
+        <seg>灵魂的空虚无界\n永世痛苦的暗夜\n找不到你的帮助页</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Empty repository URL in the mapping</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T050600Z" creationid="hp" creationdate="20200420T050600Z">
@@ -5236,6 +5246,16 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T094946Z" creationid="yangzy" creationdate="20200419T093857Z">
         <seg>来自可写术语表的条目会以粗体显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ephemeral page
+I am the Blue Screen of Death
+No one hears your screams</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064036Z" creationid="seiga" creationdate="20200421T064036Z">
+        <seg>页面昙花一现\n死亡蓝屏在你面前\n你的尖叫无人听见</seg>
       </tuv>
     </tu>
     <tu>
@@ -6695,6 +6715,16 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T113107Z" creationid="DSS" creationdate="20200419T113107Z">
         <seg>帮助与手册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Help you are seeking
+From your path it is fleeing
+Its winter has come</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064041Z" creationid="seiga" creationdate="20200421T064041Z">
+        <seg>你苦苦寻觅的帮助\n正逃离你要走的路\n寒冬已将它逮住</seg>
       </tuv>
     </tu>
     <tu>
@@ -9399,6 +9429,16 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Mourning and sorrow
+404 not with us now
+Lost to paradise</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064039Z" creationid="seiga" creationdate="20200421T064039Z">
+        <seg>悲痛又哀伤\n404 不再陪伴我们身旁\n迷失在天堂路上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Move &amp;Down</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T063242Z" creationid="seiga" creationdate="20200421T063242Z">
@@ -11769,6 +11809,16 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062513Z" creationid="seiga" creationdate="20200421T062513Z">
         <seg>替换为匹配或所选内容(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Rather than beep
+Or a rude error message
+These words: 'Page not found'</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064037Z" creationid="seiga" creationdate="20200421T064037Z">
+        <seg>不会哔哔哔\n也没有粗鲁的出错讯息\n“页面找不到”就是全部的东西</seg>
       </tuv>
     </tu>
     <tu>
@@ -14790,6 +14840,16 @@ instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T072419Z" creationid="hp" creationdate="20200418T072419Z">
         <seg>以下方案只是其中一种方法，不过足够简单、容易操作且没有危险性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The help page you seek
+Lies beyond our perception
+But others await</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064034Z" creationid="seiga" creationdate="20200421T064034Z">
+        <seg>你所寻找的页面\n超越我们的观念\n但其余仍待你发现</seg>
       </tuv>
     </tu>
     <tu>
