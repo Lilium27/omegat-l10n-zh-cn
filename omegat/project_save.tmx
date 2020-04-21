@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Clear Menu</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062341Z" creationid="seiga" creationdate="20200421T062341Z">
+        <seg>清空菜单(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Close</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T095520Z" creationid="Liliu" creationdate="20200419T095520Z">
@@ -574,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;New...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062334Z" creationid="seiga" creationdate="20200421T062334Z">
+        <seg>新建(&amp;N)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Notes</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T113734Z" creationid="DSS" creationdate="20200419T113734Z">
@@ -594,6 +610,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101809Z" creationid="yangzy" creationdate="20200419T101809Z">
         <seg>打开脚本(&amp;O)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Open...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062338Z" creationid="seiga" creationdate="20200421T062338Z">
+        <seg>打开(&amp;O)...</seg>
       </tuv>
     </tu>
     <tu>
@@ -622,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Project</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062333Z" creationid="seiga" creationdate="20200421T062333Z">
+        <seg>项目(&amp;P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Quit</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101815Z" creationid="yangzy" creationdate="20200419T101815Z">
@@ -642,6 +674,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T050632Z" creationid="hp" creationdate="20200420T050632Z">
         <seg>正则表达式(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Reload</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062445Z" creationid="seiga" creationdate="20200421T062445Z">
+        <seg>重新载入(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -714,6 +754,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101810Z" creationid="yangzy" creationdate="20200419T101810Z">
         <seg>运行(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Save</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062447Z" creationid="seiga" creationdate="20200421T062447Z">
+        <seg>保存(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3290,6 +3338,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cop&amp;y Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062344Z" creationid="seiga" creationdate="20200421T062344Z">
+        <seg>将文件复制到原文文件夹(&amp;Y)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copies the selected files to the &lt;f0&gt;source&lt;/f0&gt; folder and reloads the project to load the new files.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110906Z" creationid="yangzy" creationdate="20200419T110140Z">
@@ -4224,6 +4280,30 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T114731Z" creationid="Liliu" creationdate="20200419T114731Z">
         <seg>已完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download &amp;Team Project...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062336Z" creationid="seiga" creationdate="20200421T062336Z">
+        <seg>下载团队项目(&amp;T)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download Media&amp;Wiki Page...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062345Z" creationid="seiga" creationdate="20200421T062345Z">
+        <seg>下载 MediaWiki 页面(&amp;W)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062346Z" creationid="seiga" creationdate="20200421T062346Z">
+        <seg>下载 MediaWiki 页面...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5234,6 +5314,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T115916Z" creationid="DSS" creationdate="20200419T115916Z">
         <seg>文件格式(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File Copy Failed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062443Z" creationid="seiga" creationdate="20200421T062443Z">
+        <seg>文件复制失败</seg>
       </tuv>
     </tu>
     <tu>
@@ -6693,6 +6781,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T075410Z" creationid="hp" creationdate="20200418T075410Z">
         <seg>导入源文件到 &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;，将其保存为 ODG 文件，翻译，然后按需要导出为 PDF。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Importing Wiki Page Failed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062349Z" creationid="seiga" creationdate="20200421T062349Z">
+        <seg>导入 Wiki 页面失败</seg>
       </tuv>
     </tu>
     <tu>
@@ -9553,6 +9649,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Open Recent Pro&amp;ject</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062339Z" creationid="seiga" creationdate="20200421T062339Z">
+        <seg>打开最近的项目(&amp;J)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Open Recent Project</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110139Z" creationid="yangzy" creationdate="20200419T110139Z">
@@ -10170,6 +10274,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T100025Z" creationid="yangzy" creationdate="20200419T100025Z">
         <seg>下载字典时发生错误。请再试一次。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please type or paste the URL of the mediawiki page</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062348Z" creationid="seiga" creationdate="20200421T062348Z">
+        <seg>请输入或者粘贴 MediaWiki 页面的网址</seg>
       </tuv>
     </tu>
     <tu>
