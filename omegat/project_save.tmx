@@ -936,6 +936,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
+To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062006Z" creationid="seiga" creationdate="20200421T062006Z">
+        <seg>（在用户手册中，参见“待翻译文件” &gt; “文件格式”来了解支持的文件格式。）\n要添加文件到项目中，在项目文件窗口中点击复制文件到源文件夹...按钮或从项目菜单中调用此功能，并选定你想要复制的源文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(Leave the Password empty if you are using an API Key.)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101647Z" creationid="yangzy" creationdate="20200419T101647Z">
@@ -9290,6 +9299,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT has chosen option 'Yes' automatically.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062331Z" creationid="seiga" creationdate="20200421T062331Z">
+        <seg>OmegaT 已自动选择“是”选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has detected a 3.6-style team project.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T105204Z" creationid="Liliu" creationdate="20200419T105204Z">
@@ -10474,6 +10491,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T143524Z" creationid="Liliu" creationdate="20200418T143524Z">
         <seg>项目文件夹</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project is Empty</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062014Z" creationid="seiga" creationdate="20200421T062014Z">
+        <seg>项目为空</seg>
       </tuv>
     </tu>
     <tu>
@@ -16388,6 +16413,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T110838Z" creationid="yangzy" creationdate="20200419T101719Z">
         <seg>您已达到每日翻译文本量限制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may also copy the files to your project's 'source' folder using your favorite file manager and reload the project by calling Reload from the Project menu.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062011Z" creationid="seiga" creationdate="20200421T062011Z">
+        <seg>你也可以用偏爱的文件管理器将文件复制到项目的“source”文件夹然后通过调用项目菜单中的重新载入项目命令来重新载入项目。</seg>
       </tuv>
     </tu>
     <tu>
