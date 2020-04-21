@@ -3006,6 +3006,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Allows the user select the interval - in minutes and seconds - between consecutive automatic saves of the project.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071511Z" creationid="seiga" creationdate="20200421T071511Z">
+        <seg>允许用户选择自动保存项目的间隔——以分钟和秒为单位。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Allows to view, add, remove or edit a note in the active segment.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T094017Z">
@@ -3018,6 +3026,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110132Z" creationid="yangzy" creationdate="20200419T110132Z">
         <seg>允许您激活/停用提供的机器翻译工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Also allow per-project external commands</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071514Z" creationid="seiga" creationdate="20200421T071514Z">
+        <seg>同时允许每个项目自有外部命令</seg>
       </tuv>
     </tu>
     <tu>
@@ -3176,6 +3192,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T102042Z" creationid="Liliu" creationdate="20200419T102042Z">
         <seg>试图运行控制台进程时出错：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An example of the use of this feature would be to send translated documents automatically to the client's FTP server.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071513Z" creationid="seiga" creationdate="20200421T071513Z">
+        <seg>命令之后需要执行的命令。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3852,6 +3876,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By default, OmegaT does not execute the commands specified in the project-specific settings (the &lt;f0&gt;omegat.project&lt;/f0&gt; file), because they may have a critical impact on the machine's security.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071514Z" creationid="seiga" creationdate="20200421T071514Z">
+        <seg>默认情况下，OmegaT 不会执行项目专有设置（</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default, it is not possible to select words in the source segment using the keyboard rather than the mouse.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T134615Z" creationid="Liliu" creationdate="20200418T134615Z">
@@ -4048,6 +4080,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071454Z" creationid="seiga" creationdate="20200421T071454Z">
         <seg>决定如何处理外来 TMX 文件（即并非由 OmegaT 所生成的）中的标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Change the default interval (3 minutes) depending on the characteristics of the project:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071512Z" creationid="seiga" creationdate="20200421T071512Z">
+        <seg>根据项目的特征更改默认间隔（3 分钟）：</seg>
       </tuv>
     </tu>
     <tu>
@@ -4312,6 +4352,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071446Z" creationid="seiga" creationdate="20200421T071446Z">
         <seg>取消勾选此选项可防止在编辑期间损坏标签（即，部分删除）。在这种情况下，依然可以通过使用 Ctrl + Backspace / Delete 或完整选择（Ctrl + Shift +左/右）标签然后删除它（Delete 或 Ctrl + X）来整个删除标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check this option to display all non-unique segments (repetitions) in grey.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071510Z" creationid="seiga" creationdate="20200421T071510Z">
+        <seg>如果勾选， 则非独特句段会被标记为淡灰色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4771,6 +4819,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064531Z" creationid="seiga" creationdate="20200421T064531Z">
         <seg>Console-translate 模式:\n\t--source-pattern=&lt;模式&gt;\n\t\t要处理的原文文件的正则表达式白名单。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contains options for displaying texts and modification information in different ways.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071510Z" creationid="seiga" creationdate="20200421T071510Z">
+        <seg>包含以不同方式显示文本和修订信息的选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6407,6 +6463,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enables automatic notification of &lt;a0&gt;OmegaT&lt;/a0&gt; updates.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071521Z" creationid="seiga" creationdate="20200421T071521Z">
+        <seg>启用 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enables case-insensitive matching (by default, the pattern is case-sensitive).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065434Z" creationid="seiga" creationdate="20200421T065434Z">
@@ -8008,6 +8072,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Gives access to the list of plugins available.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071519Z" creationid="seiga" creationdate="20200421T071519Z">
+        <seg>可以访问可用插件列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Gives access to the project folders.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110148Z" creationid="yangzy" creationdate="20200419T110148Z">
@@ -8292,6 +8364,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Here you can redefine the master password used to protect login details and access keys for machine translation services.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071518Z" creationid="seiga" creationdate="20200421T071518Z">
+        <seg>您可以在此处重新定义用于保护登录详细信息和机器翻译服务访问密钥的主密码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Here you can select different subfolders, for instance the subfolder with source files, subfolder for target files etc.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T144745Z" creationid="hp" creationdate="20200418T051706Z">
@@ -8520,6 +8600,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T121559Z" creationid="DSS" creationdate="20200419T121502Z">
         <seg>如果 HTML 文件中有编码声明，则将使用并忽略您在对话框中设置的值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If OmegaT needs to use an authenticated proxy server to access the Internet, enter the details provided by the proxy administrator here.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071517Z" creationid="seiga" creationdate="20200421T071517Z">
+        <seg>如果 OmegaT 需要使用要身份验证的代理服务器来访问因特网，请在此处输入代理服务器管理员所提供的详细信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9650,6 +9738,14 @@ their defaults as a result of the location change.</seg>
         <seg>Include the &amp;first non-unique segment when marking non-unique segments</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T055043Z" creationid="DSS" creationdate="20200419T122823Z">
+        <seg>标记非独特句段时包含首个非独特句段(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Include the first non-unique segment when marking non-unique segments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071510Z" creationid="seiga" creationdate="20200421T071510Z">
         <seg>标记非独特句段时包含首个非独特句段(&amp;F)</seg>
       </tuv>
     </tu>
@@ -13521,6 +13617,22 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plugins</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071519Z" creationid="seiga" creationdate="20200421T071519Z">
+        <seg>插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Plugins are installed in the &lt;f0&gt;/plugins&lt;/f0&gt; folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071520Z" creationid="seiga" creationdate="20200421T071520Z">
+        <seg>插件安装在 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Poisson</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042209Z" creationid="qinxun" creationdate="20200420T042209Z">
@@ -15330,6 +15442,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Secure store</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071518Z" creationid="seiga" creationdate="20200421T071518Z">
+        <seg>安全存储</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See "Chapter 3.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061701Z" creationid="seiga" creationdate="20200421T061701Z">
@@ -16570,6 +16690,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Specify commands that are executed after the &lt;g0&gt;Create Translated Documents&lt;/g0&gt; command.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071513Z" creationid="seiga" creationdate="20200421T071513Z">
+        <seg>在创建译文文档后将执行此命令。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Specify tag handling behaviour</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T113811Z" creationid="DSS" creationdate="20200419T113811Z">
@@ -17048,6 +17176,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T131421Z" creationid="Liliu" creationdate="20200419T131421Z">
         <seg>标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Take care to make a note of all these details before creating a new password, because they will all be deleted and will need to be re-entered.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071519Z" creationid="seiga" creationdate="20200421T071519Z">
+        <seg>在创建新密码之前，请务必记下所有这些详细信息，因为它们都将被删除，需要重新输入。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20397,6 +20533,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Updates</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071521Z" creationid="seiga" creationdate="20200421T071521Z">
+        <seg>更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Upgrading...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T053021Z" creationid="hp" creationdate="20200420T053021Z">
@@ -20971,6 +21115,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T030203Z" creationid="hp" creationdate="20200418T042039Z">
         <seg>启用后，将从原文句段中移除所有格式化标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When the option is unchecked, all non-unique segments are shown in grey except the first occurrence.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071511Z" creationid="seiga" creationdate="20200421T071511Z">
+        <seg>通过使用预配置变量来更改模糊匹配的显示方式：</seg>
       </tuv>
     </tu>
     <tu>
@@ -22230,6 +22382,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>long intervals for team projects hosted on external servers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071512Z" creationid="seiga" creationdate="20200421T071512Z">
+        <seg>对于托管在外部服务器上的团队项目使用较长的间隔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>mALIGNa (MIT License)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T120623Z" creationid="DSS" creationdate="20200419T120623Z">
@@ -22482,6 +22642,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T073920Z" creationid="hp" creationdate="20200418T073826Z">
         <seg>发送项目网址并要求译者用 &lt;g1&gt;项目&lt;/g1&gt; 中的&lt;g2&gt;下载团队项目&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>short intervals (minimum: 10 seconds) for synchronised projects on an internal server.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071512Z" creationid="seiga" creationdate="20200421T071512Z">
+        <seg>对于内部服务器上的同步项目使用较短的间隔（最小值：10 秒）。</seg>
       </tuv>
     </tu>
     <tu>
