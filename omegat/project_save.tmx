@@ -3554,6 +3554,22 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Committing source files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062831Z" creationid="seiga" creationdate="20200421T062831Z">
+        <seg>正在提交原文文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Committing target files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062832Z" creationid="seiga" creationdate="20200421T062832Z">
+        <seg>正在提交译文文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Comparison Mode:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042023Z" creationid="qinxun" creationdate="20200420T042023Z">
@@ -4080,6 +4096,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061736Z" creationid="seiga" creationdate="20200421T061736Z">
         <seg>虚拟机当前内存使用量：{0}MB；其中可用内存：{1}MB；最大可用：{2}MB；</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cursor locked</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062842Z" creationid="seiga" creationdate="20200421T062842Z">
+        <seg>光标锁定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cursor unlocked</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062843Z" creationid="seiga" creationdate="20200421T062843Z">
+        <seg>光标解锁</seg>
       </tuv>
     </tu>
     <tu>
@@ -4612,6 +4644,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do you really want to quit?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062905Z" creationid="seiga" creationdate="20200421T062905Z">
+        <seg>您真的想退出吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you want to continue?</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T050801Z" creationid="hp" creationdate="20200420T050801Z">
@@ -4808,6 +4848,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T114621Z" creationid="DSS" creationdate="20200419T114621Z">
         <seg>复制备用文本(&amp;K)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Duplicate segments: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062836Z" creationid="seiga" creationdate="20200421T062836Z">
+        <seg>重复片段：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -5126,6 +5174,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enter the segment number:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062834Z" creationid="seiga" creationdate="20200421T062834Z">
+        <seg>输入片段序号：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Entries</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T113907Z" creationid="Liliu" creationdate="20200419T113907Z">
@@ -5330,6 +5386,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101121Z" creationid="yangzy" creationdate="20200419T101121Z">
         <seg>读取机器翻译结果时出错</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error while trying to edit the project!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062839Z" creationid="seiga" creationdate="20200421T062839Z">
+        <seg>尝试编辑项目时出错！</seg>
       </tuv>
     </tu>
     <tu>
@@ -5686,10 +5750,58 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Failed to commit source files!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062829Z" creationid="seiga" creationdate="20200421T062829Z">
+        <seg>无法提交原文文件！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to commit target files!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062830Z" creationid="seiga" creationdate="20200421T062830Z">
+        <seg>无法提交译文文件！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to compile project files!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062826Z" creationid="seiga" creationdate="20200421T062826Z">
+        <seg>无法编译项目文件！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to create project!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T050158Z" creationid="hp" creationdate="20200420T050158Z">
         <seg>无法创建项目！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load specified project!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062753Z" creationid="seiga" creationdate="20200421T062753Z">
+        <seg>无法载入指定项目！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to load translation memory {0} for project!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062817Z" creationid="seiga" creationdate="20200421T062817Z">
+        <seg>无法载入项目翻译记忆！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to update project properties</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062834Z" creationid="seiga" creationdate="20200421T062834Z">
+        <seg>无法更新项目属性</seg>
       </tuv>
     </tu>
     <tu>
@@ -5810,6 +5922,22 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T050314Z" creationid="hp" creationdate="20200420T050314Z">
         <seg>文件 {0}：{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File: translated / number of segments (project: unique translated / unique, total number of segments)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062912Z" creationid="seiga" creationdate="20200421T062912Z">
+        <seg>文件: 已译片段数 / 片段数 (项目: 已译独特片段数 / 独特片段数, 片段总数)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File: unique translated % (unique left) / project: unique translated % (unique left), total number of segments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T063201Z" creationid="seiga" creationdate="20200421T062912Z">
+        <seg>文件: 已译独特片段数 % (剩余独特片段数) / 项目: 已译独特片段数 % 剩余 独特片段数, 片段总数)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6351,6 +6479,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Go To Segment</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062835Z" creationid="seiga" creationdate="20200421T062835Z">
+        <seg>转到片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Go To Segment Source</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101053Z" creationid="yangzy" creationdate="20200419T101053Z">
@@ -6635,6 +6771,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T113653Z" creationid="DSS" creationdate="20200419T113653Z">
         <seg>ILIAS 语言文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>INS</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062848Z" creationid="seiga" creationdate="20200421T062848Z">
+        <seg>插入</seg>
       </tuv>
     </tu>
     <tu>
@@ -7394,6 +7538,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In order for the changes to take effect OmegaT needs to close and then open the project.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062750Z" creationid="seiga" creationdate="20200421T062750Z">
+        <seg>为了使更改生效，OmegaT 需要关闭然后打开项目。\n是否现在重新打开项目？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In so&amp;urce</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T050751Z" creationid="hp" creationdate="20200420T050751Z">
@@ -7638,6 +7790,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110504Z" creationid="yangzy" creationdate="20200419T110050Z">
         <seg>插入缺失的原文标签</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Insert Mode</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062844Z" creationid="seiga" creationdate="20200421T062844Z">
+        <seg>插入模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -8011,6 +8171,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It was not possible to create translated documents, because some tags are missing or damaged.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062828Z" creationid="seiga" creationdate="20200421T062828Z">
+        <seg>无法创建译文文档，因为某些标签丢失或损坏。在再次创建译文文档前请修正标签问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It will contain glossaries you will be using in the project.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T045027Z" creationid="Liliu" creationdate="20200419T045027Z">
@@ -8191,6 +8359,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062748Z" creationid="seiga" creationdate="20200421T062748Z">
         <seg>日志(&amp;O)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>LCK</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062845Z" creationid="seiga" creationdate="20200421T062845Z">
+        <seg>锁定</seg>
       </tuv>
     </tu>
     <tu>
@@ -9107,6 +9283,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>More</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062837Z" creationid="seiga" creationdate="20200421T062837Z">
+        <seg>更多</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Moses Server URL:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101725Z" creationid="yangzy" creationdate="20200419T101725Z">
@@ -9867,6 +10051,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OVR</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062847Z" creationid="seiga" creationdate="20200421T062847Z">
+        <seg>覆盖</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Of course, pressing &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;5&lt;/k3&gt; &lt;/k1&gt; will have no effect, if there is no match #5.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T054504Z" creationid="Liliu" creationdate="20200419T051132Z">
@@ -10497,6 +10689,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Overwrite Mode</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062843Z" creationid="seiga" creationdate="20200421T062843Z">
+        <seg>覆盖模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>PDF Input</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T112824Z" creationid="DSS" creationdate="20200419T112824Z">
@@ -10706,6 +10906,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T105430Z" creationid="Liliu" creationdate="20200419T105430Z">
         <seg>请联系项目管理员，查看是否需采取要额外步骤。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please correct the tag issues before using again Create Translated Documents.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062829Z" creationid="seiga" creationdate="20200421T062829Z">
+        <seg>无法创建译文文档，因为某些标签丢失或损坏。在再次创建译文文档前请修正标签问题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11231,6 +11439,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project saved</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062841Z" creationid="seiga" creationdate="20200421T062841Z">
+        <seg>项目已保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project saving end</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094925Z" creationid="yangzy" creationdate="20200419T094925Z">
@@ -11675,6 +11891,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101802Z" creationid="yangzy" creationdate="20200419T101802Z">
         <seg>移除译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reopen the project now?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062752Z" creationid="seiga" creationdate="20200421T062752Z">
+        <seg>是否重新打开项目？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reopen the project?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062840Z" creationid="seiga" creationdate="20200421T062840Z">
+        <seg>是否重新打开项目？</seg>
       </tuv>
     </tu>
     <tu>
@@ -12217,6 +12449,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Saving project...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062841Z" creationid="seiga" creationdate="20200421T062841Z">
+        <seg>正在保存项目...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Scope:
 The scope of a search is by default the project and can be set to be any files located in a specified folder hierarchy.</seg>
       </tuv>
@@ -12535,6 +12775,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T112944Z" creationid="DSS" creationdate="20200419T112944Z">
         <seg>将原文文本分割成段落时依据：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segment {0,number,#}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062837Z" creationid="seiga" creationdate="20200421T062837Z">
+        <seg>句段序号...</seg>
       </tuv>
     </tu>
     <tu>
@@ -13235,6 +13483,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source files committed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062831Z" creationid="seiga" creationdate="20200421T062831Z">
+        <seg>原文文件已提交</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source files folder entered does not exist!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T050622Z" creationid="hp" creationdate="20200420T050622Z">
@@ -13303,6 +13559,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T122959Z" creationid="DSS" creationdate="20200419T122959Z">
         <seg>原文词汇：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source/translation lengths (characters)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062907Z" creationid="seiga" creationdate="20200421T062907Z">
+        <seg>原文/译文长度（字符数）</seg>
       </tuv>
     </tu>
     <tu>
@@ -13801,6 +14065,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T115022Z" creationid="Liliu" creationdate="20200419T115022Z">
         <seg>译文数量</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Target files committed</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062833Z" creationid="seiga" creationdate="20200421T062833Z">
+        <seg>译文文件已提交</seg>
       </tuv>
     </tu>
     <tu>
@@ -15940,6 +16212,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>UNL</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062846Z" creationid="seiga" creationdate="20200421T062846Z">
+        <seg>解锁</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>URL</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T050552Z" creationid="hp" creationdate="20200420T050552Z">
@@ -17297,6 +17577,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You must enter a number between 1 and {0}.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062838Z" creationid="seiga" creationdate="20200421T062838Z">
+        <seg>您必须输入 1 到 {0} 之间的数字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You need to update your JDK 1.6 to the latest version, or just remove the jaxb-*.jar files from the OmegaT /lib dir</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101104Z" creationid="yangzy" creationdate="20200419T101104Z">
@@ -18014,6 +18302,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T122032Z" creationid="DSS" creationdate="20200419T122032Z">
         <seg>value（button 控件，包括 &amp;submit input 和 reset input，的 value 属性）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} ({1} left) / {2} ({3} left), {4}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062910Z" creationid="seiga" creationdate="20200421T062910Z">
+        <seg>\ {0} (剩余 {1}) / {2} (剩余 {3}), {4}</seg>
       </tuv>
     </tu>
     <tu>
