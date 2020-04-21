@@ -2110,6 +2110,62 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Access Project Contents/Current Source Document</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070917Z" creationid="seiga" creationdate="20200421T070917Z">
+        <seg>访问项目内容/当前原文文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Current Target Document</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070920Z" creationid="seiga" creationdate="20200421T070920Z">
+        <seg>访问项目内容/当前译文文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Dictionaries</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070908Z" creationid="seiga" creationdate="20200421T070908Z">
+        <seg>访问项目内容/词典</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Glossaries</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070912Z" creationid="seiga" creationdate="20200421T070912Z">
+        <seg>访问项目内容/词汇表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Source Files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070914Z" creationid="seiga" creationdate="20200421T070914Z">
+        <seg>访问项目内容/原文文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Target Files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070915Z" creationid="seiga" creationdate="20200421T070915Z">
+        <seg>访问项目内容/译文文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Access Project Contents/Writeable Glossary</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070922Z" creationid="seiga" creationdate="20200421T070922Z">
+        <seg>访问项目内容/可写词汇表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Access Scripts Folder</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T095452Z" creationid="Liliu" creationdate="20200419T095452Z">
@@ -2542,6 +2598,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Always Confirm Quit</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070939Z" creationid="seiga" creationdate="20200421T070939Z">
+        <seg>退出前确认</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An OmegaT project is a folder containing files and subfolders.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T144237Z" creationid="Liliu" creationdate="20200418T144237Z">
@@ -2964,6 +3028,38 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110133Z" creationid="yangzy" creationdate="20200419T110133Z">
         <seg>自动完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-completion/Auto-text...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070950Z" creationid="seiga" creationdate="20200421T070950Z">
+        <seg>自动完成/自动文本...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-completion/Character Table...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070951Z" creationid="seiga" creationdate="20200421T070951Z">
+        <seg>自动完成/字符表...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-completion/Glossary...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070948Z" creationid="seiga" creationdate="20200421T070948Z">
+        <seg>自动完成/词汇表...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto-completion/Show Relevant Suggestions Automatically</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070946Z" creationid="seiga" creationdate="20200421T070946Z">
+        <seg>自动完成/自动显示相关建议</seg>
       </tuv>
     </tu>
     <tu>
@@ -4497,6 +4593,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Custom Colours...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070954Z" creationid="seiga" creationdate="20200421T070954Z">
+        <seg>自定义颜色...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Custom server URL</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101128Z" creationid="yangzy" creationdate="20200419T101128Z">
@@ -5379,6 +5483,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Edit Menu</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070925Z" creationid="seiga" creationdate="20200421T070925Z">
+        <seg>编辑菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Edit Pattern</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T121421Z" creationid="DSS" creationdate="20200419T121421Z">
@@ -5407,6 +5519,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T050318Z" creationid="hp" creationdate="20200420T050318Z">
         <seg>在此编辑项目属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Editing Behavior...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070958Z" creationid="seiga" creationdate="20200421T070958Z">
+        <seg>编辑行为...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6175,6 +6295,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External TMXs...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071003Z" creationid="seiga" creationdate="20200421T071003Z">
+        <seg>外部 TMX ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External command completed.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T050215Z" creationid="hp" creationdate="20200420T050215Z">
@@ -6579,6 +6707,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T063230Z" creationid="seiga" creationdate="20200421T063230Z">
         <seg>字体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Font...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070952Z" creationid="seiga" creationdate="20200421T070952Z">
+        <seg>字体...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7012,6 +7148,22 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T094735Z" creationid="Liliu" creationdate="20200418T134413Z">
         <seg>术语表窗格：拖入的带有已知术语表扩展名（&lt;f0&gt;.txt&lt;/f0&gt;、 &lt;f1&gt;.tab&lt;/f1&gt;等）的文件将会复制到 &lt;f2&gt;glossary&lt;/f2&gt; 文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary/Display Context Description for TBX Glossaries</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070941Z" creationid="seiga" creationdate="20200421T070941Z">
+        <seg>词汇表/显示 TBX 词汇表的上下文描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Glossary/Use Stemming for Glossary Entries</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070943Z" creationid="seiga" creationdate="20200421T070943Z">
+        <seg>词汇表/对词汇表条目使用词干分析</seg>
       </tuv>
     </tu>
     <tu>
@@ -13408,6 +13560,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Saving and Output...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071006Z" creationid="seiga" creationdate="20200421T071006Z">
+        <seg>保存和输出...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Saving project...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062841Z" creationid="seiga" creationdate="20200421T062841Z">
@@ -14626,6 +14786,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Spell checking...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070957Z" creationid="seiga" creationdate="20200421T070957Z">
+        <seg>拼写检查...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Spellcheck</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T131650Z" creationid="Liliu" creationdate="20200419T131650Z">
@@ -15036,6 +15204,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Tag Processing...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071000Z" creationid="seiga" creationdate="20200421T071000Z">
+        <seg>标签处理...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Tag name:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T052548Z" creationid="hp" creationdate="20200420T052548Z">
@@ -15160,6 +15336,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T110931Z" creationid="Liliu" creationdate="20200419T110931Z">
         <seg>团队同步：等待您完成此句段...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Team...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071001Z" creationid="seiga" creationdate="20200421T071001Z">
+        <seg>团队...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17185,6 +17369,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>TransTips/Enable Transtips</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070944Z" creationid="seiga" creationdate="20200421T070944Z">
+        <seg>翻译提示/启用翻译提示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate a PDF file</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T075027Z" creationid="hp" creationdate="20200418T075027Z">
@@ -17949,6 +18141,22 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use TAB To Advance</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070938Z" creationid="seiga" creationdate="20200421T070938Z">
+        <seg>用 Tab 前进</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use Terms Appearing Separately in the Source Text</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070942Z" creationid="seiga" creationdate="20200421T070942Z">
+        <seg>使用分开出现在原文文本中的词条</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use a Team Project</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200418T115510Z" creationid="DSS" creationdate="20200418T112128Z">
@@ -18193,6 +18401,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T121250Z" creationid="DSS" creationdate="20200419T121250Z">
         <seg>查看或编辑文件过滤器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>View...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071004Z" creationid="seiga" creationdate="20200421T071004Z">
+        <seg>视图...</seg>
       </tuv>
     </tu>
     <tu>
@@ -19506,6 +19722,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T030924Z" creationid="DSS" creationdate="20200418T121510Z">
         <seg>或者使用命令行 &lt;c0&gt;--no-team&lt;/c0&gt; 打开项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>projectAccessSourceMenuItem</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070914Z" creationid="seiga" creationdate="20200421T070914Z">
+        <seg>projectAccessSourceMenuItem </seg>
       </tuv>
     </tu>
     <tu>
