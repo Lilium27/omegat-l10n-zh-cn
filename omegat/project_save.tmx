@@ -2831,6 +2831,16 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bartender yells loud:
+Your page cannot be found, boy
+Buy another drink</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T063414Z" creationid="seiga" creationdate="20200421T063414Z">
+        <seg>调酒师大声叫：\n你的页面找不到，\n小子再买杯饮料！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bear in mind that changing the languages may render the currently used translation memories useless since their language pair may not longer match the new languages.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T041315Z" creationid="hp" creationdate="20200418T041315Z">
@@ -10899,6 +10909,16 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Page slips through fingers
+Pulse pounding hard and frantic
+Vanishing like mist</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T063419Z" creationid="seiga" creationdate="20200421T063419Z">
+        <seg>心脏狂跳似要冲出嗓子\n页面自指缝中流逝\n如迷雾般消失</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pane widgets</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T134244Z" creationid="Liliu" creationdate="20200418T134244Z">
@@ -15372,6 +15392,16 @@ configuration folder cannot be reliably determined.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110134Z" creationid="yangzy" creationdate="20200419T110134Z">
         <seg>这些设置是应用到 OmegaT 级别的，对所有项目生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>These three are certain:
+Death, taxes, and page not found
+You, victim of one</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064026Z" creationid="seiga" creationdate="20200421T064026Z">
+        <seg>世间三事确定无疑：\n死亡、税收、和找不到页面的问题。\n你，受害于其中之一。</seg>
       </tuv>
     </tu>
     <tu>
