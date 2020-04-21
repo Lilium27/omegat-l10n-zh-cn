@@ -1386,6 +1386,92 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--ITokenizer=&lt;classname&gt;
+	--ITokenizerTarget=&lt;classname&gt;
+		Source- or target-language tokenizer to use (overrides project
+		settings).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064403Z" creationid="seiga" creationdate="20200421T064403Z">
+        <seg>--ITokenizer=&lt;类名&gt;\n\t--ITokenizerTarget=&lt;类名&gt;\n\t\t原文语言或译文语言所使用的分词器（会覆盖项目设置）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--config-file=&lt;path&gt;
+		A Java .properties file from which to load default settings.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064258Z" creationid="seiga" creationdate="20200421T064258Z">
+        <seg>--config-file=&lt;path&gt;\n\t\t用于加载默认设置的 Java .properties 文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-location-save
+		Do not remember the last directory opened in the file picker.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064332Z" creationid="seiga" creationdate="20200421T064332Z">
+        <seg>--disable-location-save\n\t\t不要记忆最后一次在文件选择器中打开的目录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--disable-project-locking
+		Do not attempt to lock the project's omegat.project file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064322Z" creationid="seiga" creationdate="20200421T064322Z">
+        <seg>--disable-project-locking\n\t\t不要尝试锁定项目的 omegat.project 文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]
+		Specify a mode other than default (GUI).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064242Z" creationid="seiga" creationdate="20200421T064242Z">
+        <seg>--mode=[console-translate|console-pseudotranslatetmx|console-align]\n\t\t指定默认模式（图形界面）之外的其他模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--no-team
+		Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064350Z" creationid="seiga" creationdate="20200421T064350Z">
+        <seg>--no-team\n\t\t禁用团队项目功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--remote-project
+		Download an omegat.project file from the URL given as &lt;project
+		path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064230Z" creationid="seiga" creationdate="20200421T064230Z">
+        <seg>--remote-project\n\t\t从作为&lt;项目路径&gt;给出的网址下载 omegat.project 文件并载入此项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--resource-bundle=&lt;path&gt;
+		A Java .properties file to use for interface text
+	--config-dir=&lt;path&gt;
+		The directory to read/write OmegaT configuration files from/to.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064310Z" creationid="seiga" creationdate="20200421T064310Z">
+        <seg>--resource-bundle=&lt;path&gt;\n\t\t用于界面文本的 Java .properties 文件\n\t--config-dir=&lt;path&gt;\n\t\t用于读取/写入 OmegaT 配置文件的目录。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>-h, --help
+		Show usage information.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064218Z" creationid="seiga" creationdate="20200421T064218Z">
+        <seg>-h, --help\n\t\t显示用法信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>1 conflict</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T114707Z" creationid="Liliu" creationdate="20200419T114707Z">
@@ -8084,6 +8170,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Invoke `team -h` for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064200Z" creationid="seiga" creationdate="20200421T064200Z">
+        <seg>有关详细信息，请调用 `team -h`。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Is alternative</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T041840Z" creationid="qinxun" creationdate="20200420T041840Z">
@@ -10821,6 +10915,18 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Options:
+	None: Launch GUI
+	Project path only: Launch GUI and load specified project
+	team
+		Team project tool.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064146Z" creationid="seiga" creationdate="20200421T064146Z">
+        <seg>选项：\n\t无：启动图形界面\n\t仅有项目路径：启动图形界面并载入指定项目\n\tteam\n\t\t团队项目工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Orphan segments</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T054902Z" creationid="hp" creationdate="20200420T050211Z">
@@ -12959,6 +13065,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101217Z" creationid="yangzy" creationdate="20200419T101217Z">
         <seg>有关说明，请参阅 OmegaT 手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See below for details.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064246Z" creationid="seiga" creationdate="20200421T064246Z">
+        <seg>请参阅下文了解详情。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16910,6 +17024,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110144Z" creationid="yangzy" creationdate="20200419T110144Z">
         <seg>将 &lt;f0&gt;target&lt;/f0&gt; 目录中本地创建的文件上传到存储库。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: java -jar OmegaT.jar [&lt;options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064129Z" creationid="seiga" creationdate="20200421T064129Z">
+        <seg>用法：java -jar OmegaT.jar [&lt;选项&gt;] [&lt;项目路径&gt;]</seg>
       </tuv>
     </tu>
     <tu>
