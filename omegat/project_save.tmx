@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Add...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061402Z" creationid="seiga" creationdate="20200421T061402Z">
+        <seg>添加(&amp;A)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Allow blank translations in the target files</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T112741Z" creationid="DSS" creationdate="20200419T112741Z">
@@ -90,6 +98,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094935Z" creationid="yangzy" creationdate="20200419T094935Z">
         <seg>自动检查文本的拼写(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Back</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061308Z" creationid="seiga" creationdate="20200421T061308Z">
+        <seg>后退(&amp;B)</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Edit...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061405Z" creationid="seiga" creationdate="20200421T061405Z">
+        <seg>编辑(&amp;E)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Empty lines</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T112949Z" creationid="DSS" creationdate="20200419T112949Z">
@@ -310,6 +334,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Finish</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061428Z" creationid="seiga" creationdate="20200421T061428Z">
+        <seg>结束(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Fix All</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061419Z" creationid="seiga" creationdate="20200421T061419Z">
+        <seg>全部修复(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Footnotes</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T114541Z" creationid="DSS" creationdate="20200419T114541Z">
@@ -378,6 +418,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T113703Z" creationid="DSS" creationdate="20200419T113703Z">
         <seg>索引条目(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Insert</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061415Z" creationid="seiga" creationdate="20200421T061415Z">
+        <seg>插入(&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -606,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Remove Filter</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061432Z" creationid="seiga" creationdate="20200421T061432Z">
+        <seg>删除过滤器(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Remove untranslated strings in the target files</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T112909Z" creationid="DSS" creationdate="20200419T112909Z">
@@ -618,6 +674,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T041532Z" creationid="qinxun" creationdate="20200420T041532Z">
         <seg>替换(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Replace Next</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061425Z" creationid="seiga" creationdate="20200421T061425Z">
+        <seg>替换下一个(&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -654,10 +718,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Save As...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061441Z" creationid="seiga" creationdate="20200421T061441Z">
+        <seg>另存为(&amp;S)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Save...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T113909Z" creationid="Liliu" creationdate="20200419T113909Z">
         <seg>保存(&amp;S)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Search</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061354Z" creationid="seiga" creationdate="20200421T061354Z">
+        <seg>查找(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -698,6 +778,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042221Z" creationid="qinxun" creationdate="20200420T042221Z">
         <seg>显示全部(&amp;S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Skip</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061422Z" creationid="seiga" creationdate="20200421T061422Z">
+        <seg>跳过(&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -941,6 +1029,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T114658Z" creationid="Liliu" creationdate="20200419T114658Z">
         <seg>1 个句段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1) Reduce the number of source files and translate in batches;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061536Z" creationid="seiga" creationdate="20200421T061536Z">
+        <seg>1) 减少原文文件数量，分批翻译；</seg>
       </tuv>
     </tu>
     <tu>
@@ -1269,6 +1365,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200418T120928Z" creationid="DSS" creationdate="20200418T120928Z">
         <seg>团队项目可以离线打开并翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A&amp;dd</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061407Z" creationid="seiga" creationdate="20200421T061407Z">
+        <seg>添加(&amp;D)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3034,6 +3138,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T122035Z" creationid="DSS" creationdate="20200419T122035Z">
         <seg>在译文文档中压缩空白字符</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Con&amp;tents</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061303Z" creationid="seiga" creationdate="20200421T061303Z">
+        <seg>内容(&amp;T)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9201,6 +9313,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT ran out of memory, and will quit when you press OK.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061515Z" creationid="seiga" creationdate="20200421T061515Z">
+        <seg>OmegaT 耗尽了内存，点击确定后将会退出。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT supports imported tmx versions 1.1-1.4b (both level 1 and level 2).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T025816Z" creationid="hp" creationdate="20200418T072146Z">
@@ -10459,10 +10579,26 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>R&amp;emove</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061358Z" creationid="seiga" creationdate="20200421T061358Z">
+        <seg>删除(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Re&amp;move Filter</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T044530Z" creationid="seiga" creationdate="20200421T044530Z">
-        <seg>取消过滤(&amp;R)</seg>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061244Z" creationid="seiga" creationdate="20200421T044530Z">
+        <seg>删除过滤器(&amp;M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re&amp;place All</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061256Z" creationid="seiga" creationdate="20200421T061256Z">
+        <seg>全部替换(&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10985,6 +11121,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094059Z" creationid="yangzy" creationdate="20200419T094059Z">
         <seg>还原</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restore De&amp;faults</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061412Z" creationid="seiga" creationdate="20200421T061412Z">
+        <seg>恢复默认值(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
@@ -11643,6 +11787,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T131335Z" creationid="Liliu" creationdate="20200419T131335Z">
         <seg>含备注文本的句段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061313Z" creationid="seiga" creationdate="20200421T061313Z">
+        <seg>选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -16193,6 +16345,14 @@ Both exact and keyword searches support the wildcard characters * and ?.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T051052Z" creationid="Liliu" creationdate="20200419T051030Z">
         <seg>您可以通过按下 &lt;g0&gt;Ctrl+2, 3, 4, or 5&lt;/g0&gt; 来选择其他匹配项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You may try to solve this problem in one of the following ways:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061527Z" creationid="seiga" creationdate="20200421T061527Z">
+        <seg>您可以尝试使用下列方法之一来解决此问题：</seg>
       </tuv>
     </tu>
     <tu>
