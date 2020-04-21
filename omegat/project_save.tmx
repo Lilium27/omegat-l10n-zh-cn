@@ -296,8 +296,8 @@
       <tuv lang="en">
         <seg>&amp;Filter</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T044417Z" creationid="seiga" creationdate="20200421T044417Z">
-        <seg>过滤(&amp;F)</seg>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061236Z" creationid="seiga" creationdate="20200421T044417Z">
+        <seg>过滤器(&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
