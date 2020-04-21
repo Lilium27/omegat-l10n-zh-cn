@@ -1590,6 +1590,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;/e2&gt;The '*' character matches zero or more characters.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071246Z" creationid="seiga" creationdate="20200421T071246Z">
+        <seg>中所用的。“*”字符匹配零个或多个字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;EMPTY&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101806Z" creationid="yangzy" creationdate="20200419T101806Z">
@@ -1602,6 +1610,22 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T113357Z" creationid="Liliu" creationdate="20200419T113357Z">
         <seg>&lt;无建议&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; first parses the text for structure-level segmentation.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071321Z" creationid="seiga" creationdate="20200421T071321Z">
+        <seg> 首先解析文本以进行结构级分割。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; has two ways to segment a text: by paragraph or by sentence segmentation (also referred to as “rule-based segmentation”).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071314Z" creationid="seiga" creationdate="20200421T071314Z">
+        <seg> 有两种方式来分割文本：按段落或按语句分割（亦称为“基于规则的分割”）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1630,10 +1654,26 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; uses the following sequence of steps:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071319Z" creationid="seiga" creationdate="20200421T071319Z">
+        <seg> 使用以下步骤：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061740Z" creationid="seiga" creationdate="20200421T061740Z">
         <seg>&lt;自动&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;auto&gt; leaves the choice of encoding to &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071252Z" creationid="seiga" creationdate="20200421T071252Z">
+        <seg>&lt;自动&gt;则会让 </seg>
       </tuv>
     </tu>
     <tu>
@@ -1646,10 +1686,74 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;e0&gt;Add or rewrite encoding declaration in HTML and XHTML files&lt;/e0&gt;: the target files often need to have a different character set encoding from the one in the source file (whether it is explicitly defined or implied).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071232Z" creationid="seiga" creationdate="20200421T071232Z">
+        <seg>：译文文件通常需要具有与原文文件（无论是显式定义还是隐含）不同的字符集编码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;e0&gt;Adding files to the project: &lt;/e0&gt;You can add source files to the project by clicking on the "&lt;g1&gt;Import Source Files..."&lt;/g1&gt; button.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T034659Z" creationid="qinxun" creationdate="20200419T034659Z">
         <seg>&lt;e0&gt;向项目中添加文件：&lt;/e0&gt;您可以单击“&lt;g1&gt;导入原文文件...”&lt;/g1&gt;按钮，向项目中添加原文文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Aggregate tags&lt;/e0&gt;: if checked, tags with no translatable text between them will be aggregated into a single tag.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071230Z" creationid="seiga" creationdate="20200421T071230Z">
+        <seg>：如果选中，其间没有可翻译文本的多个标签将被聚合成单个标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Allow blank translations in the target file&lt;/e0&gt;:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071211Z" creationid="seiga" creationdate="20200421T071211Z">
+        <seg>允许译文文件中存在空译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Compress whitespace in translated document&lt;/e0&gt;: multiple continuous whitespace characters will be converted into one single whitespace in the translated document.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071235Z" creationid="seiga" creationdate="20200421T071235Z">
+        <seg>：在译文文档中，多个连续的空白字符会被转换成单个空白字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Do not translate the content attribute of meta-tags ...:&lt;/e0&gt; The meta-tags in the box will not be translated.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071223Z" creationid="seiga" creationdate="20200421T071223Z">
+        <seg>不翻译带有以下属性键值对的 meta 标签的 content 属性（以逗号分隔）：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Do not translate the content of tags with the following attribute key-value pairs (separate with commas)&lt;/e0&gt;: if a tag matches the list of key-value pairs, its content will be ignored.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071224Z" creationid="seiga" creationdate="20200421T071224Z">
+        <seg>不翻译带有以下属性键值对的标签的内容（以逗号分隔）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Excel: &lt;/e0&gt;comments, sheet names</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071229Z" creationid="seiga" creationdate="20200421T071229Z">
+        <seg>批注、工作表名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Global:&lt;/e0&gt; charts, diagrams, drawings, WordArt</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071230Z" creationid="seiga" creationdate="20200421T071230Z">
+        <seg>数据图表、图表、绘图和艺术字</seg>
       </tuv>
     </tu>
     <tu>
@@ -1690,6 +1794,70 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T075432Z" creationid="hp" creationdate="20200418T075432Z">
         <seg>&lt;e0&gt;注意：&lt;/e0&gt;以上信息仅适用于带有文本层的 PDF 文件。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Power Point&lt;/e0&gt;: slide comments, slide masters, slide layouts</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071229Z" creationid="seiga" creationdate="20200421T071229Z">
+        <seg>：幻灯片批注、幻灯片母版和幻灯片版式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Preserve spaces for all tags&lt;/e0&gt;: if checked, "white space" (i.e. spaces and newlines) will be preserved, even if this option is not defined in the document.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071231Z" creationid="seiga" creationdate="20200421T071231Z">
+        <seg>：如果选中，会保留“空白字符”（即空格和换行符），即使在文档中并未定义此选项也是如此。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Remove HTML comments in translated document&lt;/e0&gt;: commented parts (between &lt;!-- and --&gt;) will not be copied into the translated document.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071236Z" creationid="seiga" creationdate="20200421T071236Z">
+        <seg>：注释部分（&lt;!-- 和 --&gt; 之间的部分）不会被复制到译文文档中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Skip text matching regular expression&lt;/e0&gt;: any text matching the regular expression is skipped.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071221Z" creationid="seiga" creationdate="20200421T071221Z">
+        <seg>：跳过所有匹配此正则表达式的文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Start a new paragraph on&lt;/e0&gt;: the &lt;br&gt; HTML tag will constitute a paragraph break for segmentation purposes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071221Z" creationid="seiga" creationdate="20200421T071221Z">
+        <seg>：对于分割而言，将 &lt;br&gt; HTML 标签视为段落分隔。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Translate the following attributes&lt;/e0&gt;: the selected attributes will appear as segments in the Editor window.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071219Z" creationid="seiga" creationdate="20200421T071219Z">
+        <seg>：所选属性会作为片段出现在编辑器窗口中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Warning: &lt;/e0&gt;because the text will segment differently after filter options have been changed, so you may have to start translating from scratch.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071317Z" creationid="seiga" creationdate="20200421T071317Z">
+        <seg>由于在更改过滤器选项后文本将以不同的方式进行分割，因此您可能需要从头开始翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;e0&gt;Word:&lt;/e0&gt; non-visible instruction text, comments, footnotes, endnotes, footers</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071228Z" creationid="seiga" creationdate="20200421T071228Z">
+        <seg>不可见说明性文本、批注、脚注、尾注、页脚</seg>
       </tuv>
     </tu>
     <tu>
@@ -1778,6 +1946,158 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T105554Z" creationid="Liliu" creationdate="20200419T105554Z">
         <seg>&lt;html&gt;仓库 URL：&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-0}&lt;/l0&gt; docx</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071312Z" creationid="seiga" creationdate="20200421T071312Z">
+        <seg>${extension-0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-1}&lt;/l0&gt; xx.docx</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071313Z" creationid="seiga" creationdate="20200421T071313Z">
+        <seg>${extension-0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${extension-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071313Z" creationid="seiga" creationdate="20200421T071313Z">
+        <seg>${nameOnly-0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${extension} &lt;/l0&gt;- the original file extension</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071259Z" creationid="seiga" creationdate="20200421T071259Z">
+        <seg>——原始文件的扩展名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${file-source-encoding}&lt;/l0&gt; - source file encoding</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071307Z" creationid="seiga" creationdate="20200421T071307Z">
+        <seg>原文文件和译文文件编码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${file-target-encoding}&lt;/l0&gt; - target file encoding</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071307Z" creationid="seiga" creationdate="20200421T071307Z">
+        <seg>原文文件和译文文件编码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-0}&lt;/l0&gt; Document</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071310Z" creationid="seiga" creationdate="20200421T071310Z">
+        <seg>${nameOnly-0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-1}&lt;/l0&gt; Document.xx</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071311Z" creationid="seiga" creationdate="20200421T071311Z">
+        <seg>${nameOnly-0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly-2}&lt;/l0&gt; Document.xx.docx</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071311Z" creationid="seiga" creationdate="20200421T071311Z">
+        <seg>${nameOnly-0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${nameOnly}&lt;/l0&gt;– allows you to insert only the name of the source file without the extension.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071258Z" creationid="seiga" creationdate="20200421T071258Z">
+        <seg>——允许您只插入原文文件的主文件名，不包括扩展名。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${system-host-name}&lt;/l0&gt; - system host name</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071306Z" creationid="seiga" creationdate="20200421T071306Z">
+        <seg>——系统主机名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${system-os-name}&lt;/l0&gt; - operating system of the computer used</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071303Z" creationid="seiga" creationdate="20200421T071303Z">
+        <seg>——系统用户名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${system-user-name}&lt;/l0&gt; - system user name</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071306Z" creationid="seiga" creationdate="20200421T071306Z">
+        <seg>——系统主机名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${targetCountryCode}&lt;/l0&gt;– the target country - only "YY"</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071301Z" creationid="seiga" creationdate="20200421T071301Z">
+        <seg>——译文的国家/地区——仅“YY”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${targetLanguageCode}&lt;/l0&gt; – the target language - only "XX"</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071300Z" creationid="seiga" creationdate="20200421T071300Z">
+        <seg>——译文语言——仅“XX”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${targetLanguage}&lt;/l0&gt;– the target language and country code together (of a form "XX-YY").</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071300Z" creationid="seiga" creationdate="20200421T071300Z">
+        <seg>——译文语言和国家/地区代码（格式为“XX-YY”）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${targetLocaleLCID}&lt;/l0&gt; - Microsoft target locale</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071308Z" creationid="seiga" creationdate="20200421T071308Z">
+        <seg> Document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${targetLocale}&lt;/l0&gt;– target locale code (of a form "xx_YY").</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071259Z" creationid="seiga" creationdate="20200421T071259Z">
+        <seg>——译文区域设置代码（格式为“xx_YY”）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;l0&gt;${timestamp-????}&lt;/l0&gt; – system date time at generation time in various patterns</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071301Z" creationid="seiga" creationdate="20200421T071301Z">
+        <seg>——生成时的系统日期时间，有各种格式</seg>
       </tuv>
     </tu>
     <tu>
@@ -1954,6 +2274,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065743Z" creationid="seiga" creationdate="20200421T065743Z">
         <seg>有许多交互式工具可用于开发和测试正则表达式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A script bundled with OmegaT called Switch Colour Themes provides a default "Dark" theme.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071157Z" creationid="seiga" creationdate="20200421T071157Z">
+        <seg>随同 OmegaT 有一个叫做 Switch Colour Themes 的脚本提供了一套默认的“深色”主题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2326,6 +2654,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Additional variants are available for variables ${nameOnly} and ${Extension}.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071309Z" creationid="seiga" creationdate="20200421T071309Z">
+        <seg>对于变量 ${nameOnly} 和 ${Extension} 还有其他变体可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>After segmenting the source file into structural units, &lt;a0&gt;OmegaT&lt;/a0&gt; will segment these blocks further into sentences.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071325Z" creationid="seiga" creationdate="20200421T071325Z">
+        <seg>在将源文件分割为结构单元之后，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After several of these operations, select &lt;m0&gt; &lt;g1&gt;Edit&lt;/g1&gt; &lt;g2&gt;Realign pending&lt;/g2&gt; &lt;/m0&gt; to update the alignment of the other segments.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T031347Z" creationid="qinxun" creationdate="20200419T030922Z">
@@ -2482,6 +2826,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T115102Z" creationid="Liliu" creationdate="20200419T115102Z">
         <seg>所有领域</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>All other characters represent themselves.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071247Z" creationid="seiga" creationdate="20200421T071247Z">
+        <seg>所有其他字符代表其自身。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2862,6 +3214,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Appearance</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071151Z" creationid="seiga" creationdate="20200421T071151Z">
+        <seg>外观</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Appendices</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T105539Z" creationid="yangzy" creationdate="20200419T105539Z">
@@ -2944,6 +3304,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As this is the standard behaviour for PO files, it is selected by default.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071213Z" creationid="seiga" creationdate="20200421T071213Z">
+        <seg>由于这是 PO 文件的标准行为，因此它在默认情况下是选中的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>At the beginning of the installation you can select the language to be used during the installation.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T121655Z" creationid="DSS" creationdate="20200419T111624Z">
@@ -2964,6 +3332,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T034502Z" creationid="DSS" creationdate="20200418T124404Z">
         <seg>在翻译结束后，OmegaT 会导出名称分别为 &lt;f0&gt;level1&lt;/f0&gt;, &lt;f1&gt;level2&lt;/f1&gt; 和 &lt;f2&gt;omegat&lt;/f2&gt;  的三种翻译记忆文件到项目文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>At the same time the previous valid segments in the project translation memory will turn into orphan segments.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071318Z" creationid="seiga" creationdate="20200421T071318Z">
+        <seg>同时，项目的翻译记忆库中之前的那些有效片段会变为孤立片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3011,6 +3387,14 @@ may experience unexpected, but correct behaviour.</seg>
         <seg>Auto replace 'nplurals=INTEGER; &amp;plural=EXPRESSION;' in header</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T112807Z" creationid="DSS" creationdate="20200419T112807Z">
+        <seg>自动替换头中的“nplurals=INTEGER; &amp;plural=EXPRESSION;”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Auto replace 'nplurals=INTEGER; plural=EXPRESSION;' in header</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071215Z" creationid="seiga" creationdate="20200421T071215Z">
         <seg>自动替换头中的“nplurals=INTEGER; &amp;plural=EXPRESSION;”</seg>
       </tuv>
     </tu>
@@ -3100,6 +3484,22 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200418T115545Z" creationid="DSS" creationdate="20200418T112413Z">
         <seg>自动保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Automatically fetch translations</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071117Z" creationid="seiga" creationdate="20200421T071117Z">
+        <seg>自动获取翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Automatically search segment text in dictionary</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071148Z" creationid="seiga" creationdate="20200421T071148Z">
+        <seg>自动在词典中查找片段文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -3268,6 +3668,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Break rule</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071335Z" creationid="seiga" creationdate="20200421T071335Z">
+        <seg>断句规则</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Break/Exception</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T122109Z" creationid="DSS" creationdate="20200419T122109Z">
@@ -3300,6 +3708,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Browse TaaS Collections...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071144Z" creationid="seiga" creationdate="20200421T071144Z">
+        <seg>浏览 TaaS 词库...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Browse...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T041846Z" creationid="qinxun" creationdate="20200420T041846Z">
@@ -3328,6 +3744,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T060746Z" creationid="hp" creationdate="20200418T071951Z">
         <seg>默认情况下，/tm 文件夹位于项目的根文件夹下（例如 ...&lt;e0&gt;/MyProject/tm&lt;/e0&gt;），但如果你愿意也可以在项目的属性对话框中选择其他文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By default, the translated file encoding is the same as the source file encoding.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071251Z" creationid="seiga" creationdate="20200421T071251Z">
+        <seg>默认情况下，已译文件的编码与原文文件编码相同。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3708,6 +4132,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check this box to send only untranslated segments to the machine translation services.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071124Z" creationid="seiga" creationdate="20200421T071124Z">
+        <seg>勾选此框可使得仅有未翻译的片段会被发送至机器翻译服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check this option in case &lt;a0&gt;OmegaT&lt;/a0&gt; does not display some glyphs properly (even if the fonts containing the relevant glyphs are installed on your machine).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110207Z" creationid="yangzy" creationdate="20200419T110207Z">
@@ -3796,10 +4228,26 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Clear this option to deactivate automatic searching – if dictionaries are too long, for example.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071149Z" creationid="seiga" creationdate="20200421T071149Z">
+        <seg>清除此选项可停用自动搜索——例如词典过长的情况。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Clic on &lt;g0&gt;Exclusions...&lt;/g0&gt; to define the files or folders that will be ignored by &lt;a1&gt;OmegaT&lt;/a1&gt;.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T144952Z" creationid="hp" creationdate="20200418T051828Z">
         <seg>点击 &lt;g0&gt;排除...&lt;/g0&gt; 选择&lt;a1&gt;OmegaT&lt;/a1&gt;不会处理的文件或文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click &lt;e0&gt;Defaults&lt;/e0&gt; to reset the file filters to the default settings.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071201Z" creationid="seiga" creationdate="20200421T071201Z">
+        <seg>无法将过滤器重置为默认模式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3840,6 +4288,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110141Z" creationid="yangzy" creationdate="20200419T110141Z">
         <seg>点击 Wikipedia 页面上的&lt;g0&gt;编辑&lt;/g0&gt;标签卡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Click this button to access the &lt;u0&gt;TaaS&lt;/u0&gt; project site and create a user account.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071137Z" creationid="seiga" creationdate="20200421T071137Z">
+        <seg> 项目网站并创建用户帐户。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4665,6 +5121,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Default is &lt;l0&gt;${filename}&lt;/l0&gt;– full filename of the source file with extension: in this case the name of the translated file is the same as that of the source file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071258Z" creationid="seiga" creationdate="20200421T071258Z">
+        <seg>——带有扩展名的原文文件的完整文件名：在这种情况下，已译文件的文件名和原文文件的文件名相同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Default shortcut</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070839Z" creationid="seiga" creationdate="20200421T070839Z">
@@ -4709,6 +5173,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200418T120907Z" creationid="DSS" creationdate="20200418T120907Z">
         <seg>删除原文文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Dependable segmentation rules are already available for many languages, so it is likely that you will not need to get involved with writing your own segmentation rules.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071316Z" creationid="seiga" creationdate="20200421T071316Z">
+        <seg>许多语言都已经有了可靠的分割规则，因此您很可能并不需要参与编写自己的分割规则。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4957,6 +5429,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062722Z" creationid="seiga" creationdate="20200421T062722Z">
         <seg>显示 TBX 词汇表的上下文描述(&amp;G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Display context description for TBX glossaries</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071127Z" creationid="seiga" creationdate="20200421T071127Z">
+        <seg>显示 TBX 词汇表的上下文描述</seg>
       </tuv>
     </tu>
     <tu>
@@ -5371,6 +5851,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>During this process it is only the structure of the source file that is used to produce segments.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071321Z" creationid="seiga" creationdate="20200421T071321Z">
+        <seg>在此过程中，只使用原文文件的结构来生成片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>During translation additional files may get created in this subfolder as follows</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T045334Z" creationid="Liliu" creationdate="20200419T045334Z">
@@ -5511,6 +5999,14 @@ project_save.tmx 没有真正上传，SVN 转换到了不稳定状态。</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042136Z" creationid="qinxun" creationdate="20200420T042136Z">
         <seg>编辑文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Edit filter dialog</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071239Z" creationid="seiga" creationdate="20200421T071239Z">
+        <seg>编辑过滤器对话框</seg>
       </tuv>
     </tu>
     <tu>
@@ -6511,6 +7007,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>File formats that do not specify their encoding will use the encoding you set up for the extension that matches their name.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071249Z" creationid="seiga" creationdate="20200421T071249Z">
+        <seg>未指定编码的文件格式将使用您为其文件扩展名所设置的编码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>File locations</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T051700Z" creationid="hp" creationdate="20200418T051700Z">
@@ -6567,6 +7071,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files containing formatting (ODF documents, HTML documents, etc.) are segmented on the block-level (paragraph) tags.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071323Z" creationid="seiga" creationdate="20200421T071323Z">
+        <seg>包含格式的文件（ODF 文档、HTML 文档等）则在块级（段落）标签上分割。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files must be deleted first by the project manager, and then locally.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200418T120913Z" creationid="DSS" creationdate="20200418T120913Z">
@@ -6595,6 +7107,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T053250Z" creationid="hp" creationdate="20200420T053250Z">
         <seg>无法从“{1}”载入过滤器“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Filter options</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071207Z" creationid="seiga" creationdate="20200421T071207Z">
+        <seg>过滤器选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -6759,6 +7279,22 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For confidentiality reasons, you may want to not send all the segments to the Machine Translation engine.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071118Z" creationid="seiga" creationdate="20200421T071118Z">
+        <seg>出于保密原因，您可能不想将所有片段发送给机器翻译引擎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, "&lt;e0&gt;Did it make sense?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071336Z" creationid="seiga" creationdate="20200421T071336Z">
+        <seg>Did it make sense? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, &lt;e0&gt;a+&lt;/e0&gt; will match the aaa in &lt;e1&gt;aaabbb&lt;/e1&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065733Z" creationid="seiga" creationdate="20200421T065733Z">
@@ -6775,6 +7311,30 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, &lt;l0&gt;&lt;div class="hide"&gt; &lt;span translate="no"&gt;&lt;/l0&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071225Z" creationid="seiga" creationdate="20200421T071225Z">
+        <seg>&lt;div class="hide"&gt; &lt;span translate="no"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071250Z" creationid="seiga" creationdate="20200421T071250Z">
+        <seg> 文件会使用操作系统的默认编码加载。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, by default, the XHTML filter is used to process files with the .xhtml extension.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071244Z" creationid="seiga" creationdate="20200421T071244Z">
+        <seg>例如，默认情况下，XHTML 过滤器用于处理扩展名为 .xhtml 的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, if you have an outdated Microsoft Word version, that does not handle the ODT format, here's a round trip for Word files with the DOC extension:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T034042Z" creationid="hp" creationdate="20200418T075449Z">
@@ -6783,10 +7343,34 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, if you wish the text filter to handle readme files (&lt;l3&gt;readme, read.me&lt;/l3&gt;, and &lt;l4&gt;readme.txt&lt;/l4&gt;) you should use the pattern &lt;l5&gt;read*&lt;/l5&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071247Z" creationid="seiga" creationdate="20200421T071247Z">
+        <seg>例如，如果您希望文本过滤器处理 readme 文件（</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, in OmegaT tags, product names that must be left in the LTR source language, place holders in localization files, and numbers in text.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T145544Z" creationid="hp" creationdate="20200418T145401Z">
         <seg>例如，在 OmegaT 标签中，必须维持使用从左向右的原文语言的产品名称、本地化文件中的占位符、以及文本中的数字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, text files may be segmented on line breaks, empty lines, or not be segmented at all.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071322Z" creationid="seiga" creationdate="20200421T071322Z">
+        <seg>例如，文本文件可能会在断行、空行处分割，或者完全不分割。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For example, the pattern &lt;l0&gt;*.xhtml &lt;/l0&gt;matches any file with the &lt;l1&gt;.xhtml&lt;/l1&gt; extension.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071243Z" creationid="seiga" creationdate="20200421T071243Z">
+        <seg>例如，默认情况下，XHTML 过滤器用于处理扩展名为 .xhtml 的文件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6807,6 +7391,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For instance, if the file filter specifies UTF8 as the encoding scheme for the target files, selecting Always will ensure that this information is included in the translated files.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071233Z" creationid="seiga" creationdate="20200421T071233Z">
+        <seg>例如，如果文件过滤器指定 UTF8 作为译文文件的编码方案，则勾选本选项将始终确保此信息包含在已译文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For technical details, see the &lt;u3&gt;Request For Enhancement&lt;/u3&gt;.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110207Z" creationid="yangzy" creationdate="20200419T110207Z">
@@ -6819,6 +7411,22 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110207Z" creationid="yangzy" creationdate="20200419T110207Z">
         <seg>因此，它在默认情况下是关闭的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For the example above, the field would contain: &lt;l1&gt;class=hide, translate=no &lt;/l1&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071226Z" creationid="seiga" creationdate="20200421T071226Z">
+        <seg>对于上面这个例子，这个字段应当包含：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For this to happen, there should be a break rule for "?", when followed by spaces and a capitalized word.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071338Z" creationid="seiga" creationdate="20200421T071338Z">
+        <seg>要做到这一点，应该有一个断句规则，针对“?”，同时后面要跟着空格和一个首字母大写的单词。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6988,6 +7596,22 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T134409Z" creationid="Liliu" creationdate="20200418T134409Z">
         <seg>模糊匹配窗格：拖进去的 &lt;f0&gt;.tmx&lt;/f0&gt; 文件会复制到 &lt;f1&gt;tm&lt;/f1&gt; 文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071109Z" creationid="seiga" creationdate="20200421T071109Z">
+        <seg>通用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>General Preferences</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071055Z" creationid="seiga" creationdate="20200421T071055Z">
+        <seg>通用首选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -7256,6 +7880,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HTML and XHTML files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071231Z" creationid="seiga" creationdate="20200421T071231Z">
+        <seg>HTML 和 XHTML 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTML, XHTML, ODF and Infix segmentation</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T122136Z" creationid="DSS" creationdate="20200419T122136Z">
@@ -7468,6 +8100,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I was not sure&lt;/e0&gt;." should be split into two segments.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071337Z" creationid="seiga" creationdate="20200421T071337Z">
+        <seg>.”应当分割为两个片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>I&amp;nsert Source</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062517Z" creationid="seiga" creationdate="20200421T062517Z">
@@ -7572,6 +8212,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If both this option and the &lt;l0&gt;&lt;g1&gt;Insert the source text&lt;/g1&gt;&lt;/l0&gt; option are selected, all words with a corresponding glossary entry will be translated automatically when the source text is inserted.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071134Z" creationid="seiga" creationdate="20200421T071134Z">
+        <seg>选项，当插入原文文本时，所有有着相应词汇表条目的词汇都会被自动翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If checked, non-breakable spaces will be displayed with a grey background.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110204Z" creationid="yangzy" creationdate="20200419T110204Z">
@@ -7668,6 +8316,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If for example the original file is named Document.xx.docx, the following variables will give the following results:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071310Z" creationid="seiga" creationdate="20200421T071310Z">
+        <seg>。例如，如果原始文件名为 Document.xx.docx，以下变量相应的结果如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If it is clear from the very start, that translations in a given TM (or TMs) are all correct, one can put them into the&lt;e0&gt; tm/auto&lt;/e0&gt; folder and avoid confirming a lot of&lt;e1&gt; [fuzzy]&lt;/e1&gt; cases.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T041428Z" creationid="Liliu" creationdate="20200419T041428Z">
@@ -7682,6 +8338,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T095933Z" creationid="yangzy" creationdate="20200419T095625Z">
         <seg>之后若获得目标位置的访问许可，将改用该位置为配置文件夹。\n同时，由于位置更改，所有的配置将还原为默认值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If necessary, you can select a specific domain to limit the volume of data sent and received.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071148Z" creationid="seiga" creationdate="20200421T071148Z">
+        <seg>如有必要，你可以选择特定领域以限制发送与接受的数据量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7714,6 +8378,22 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110048Z">
         <seg>如果已经选择了译文句段的一部分，则此功能会覆盖所选部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If selected, when a segment in a PO file (which may be a whole paragraph) is not translated, the translation will be empty in the target file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071212Z" creationid="seiga" creationdate="20200421T071212Z">
+        <seg>如果选择了此选项，当 PO 文件中的某个片段（可能是整个段落）未翻译时，其在译文文件中的翻译将为空。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If sentence segmentation has been selected, you can setup the rules by selecting &lt;m4&gt; &lt;g5&gt;Options&lt;/g5&gt; &lt;g6&gt;Segmentation...&lt;/g6&gt; &lt;/m4&gt;from the main menu.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071316Z" creationid="seiga" creationdate="20200421T071316Z">
+        <seg>如果选用了语句分割，你可以通过从主菜单中选择</seg>
       </tuv>
     </tu>
     <tu>
@@ -7754,6 +8434,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T025651Z" creationid="qinxun" creationdate="20200419T025057Z">
         <seg>如果对齐效果看起来还能改进，可尝试调整参数。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the appropriate filter is found, the file is assigned to it for processing.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071244Z" creationid="seiga" creationdate="20200421T071244Z">
+        <seg>如果找到了合适的过滤器，则将文件分配给它进行处理。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7814,6 +8502,22 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If the option is checked, the source file name will not be used, and alternative translations will take effect in any file as long as the other context (previous/next segments or some sort of segment identifier, depending on the file format) matches.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071206Z" creationid="seiga" creationdate="20200421T071206Z">
+        <seg>如果勾选了此选项，则不使用原文文件名，而只要其他上下文（上一个/下一个片段或依赖于文件格式的某种片段标识）匹配，替代翻译会在任意文件中生效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the option is off, the source text will be copied to the target segment.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071213Z" creationid="seiga" creationdate="20200421T071213Z">
+        <seg>如果关闭了此选项，原文文本将被复制到译文段落。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If the original document was LTR, the display direction of the target document must be changed manually to RTL in its viewing application.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T070542Z" creationid="hp" creationdate="20200418T070542Z">
@@ -7826,6 +8530,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T030527Z" creationid="hp" creationdate="20200418T073645Z">
         <seg>如果项目使用专用过滤器和句段分割参数， &lt;f0&gt;filters.xml&lt;/f0&gt; 和 &lt;f1&gt;segmentation.conf&lt;/f1&gt; 文件必须要添加到版本控制系统，并发布到服务器上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the rule matches, either the cursor moves on without inserting a segment break (for an exception rule) or a new segment break is created at the current cursor position (for the break rule).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071330Z" creationid="seiga" creationdate="20200421T071330Z">
+        <seg>如果规则匹配，则光标会移动而不插入片段分割符（对于例外规则）或者在当前光标位置创建新的片段分割符（对于断句规则）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7902,6 +8614,22 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If this option is checked, the glossary will only display one entry, even if the same word exists in several forms (e.g. with and without capital letters) in the glossary.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071136Z" creationid="seiga" creationdate="20200421T071136Z">
+        <seg>勾选此选项后，词汇表中只会显示一个条目，即使此词汇在词汇表中存在有多种形式（例如，有和没有字母是大写的）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If this option is selected, OmegaT will not remember the access key between sessions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071143Z" creationid="seiga" creationdate="20200421T071143Z">
+        <seg>勾选此选项后，OmegaT 在不同会话之间不会记住访问密钥。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you already have collected words you wish the spell checker to ignore / accept, you just need to copy the corresponding two files into the &lt;f0&gt;omegat&lt;/f0&gt;subfolder of your current project.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T045950Z" creationid="Liliu" creationdate="20200419T045703Z">
@@ -7938,6 +8666,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T134238Z" creationid="Liliu" creationdate="20200418T134238Z">
         <seg>如果无法看到所有窗格（已打开或最小化），按下 &lt;g0&gt; 选项 &gt; 恢复主窗口 &lt;/g0&gt;将其恢复为安装时定义的状态。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you change segmentation options when a project is open, you must reload the project in order for the changes to take effect.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071318Z" creationid="seiga" creationdate="20200421T071318Z">
+        <seg>如果在项目开启状态下更改分割规则，则必须重新加载项目才能使更改生效。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8022,6 +8758,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you prefer not to use OmegaT to translate files of a certain type, you can turn off the corresponding filter by deactivating the check box beside its name.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071159Z" creationid="seiga" creationdate="20200421T071159Z">
+        <seg>可以将文件过滤器重置为默认设置。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you right click on the Editor pane, a pop-up menu opens, offering&lt;e0&gt; Cut, Copy, Paste&lt;/e0&gt; (i.e. same functions as &lt;k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;X&lt;/k3&gt; &lt;/k1&gt;, &lt;k4&gt; &lt;k5&gt;Ctrl&lt;/k5&gt; &lt;k6&gt;C&lt;/k6&gt; &lt;/k4&gt; and &lt;k7&gt; &lt;k8&gt;Ctrl&lt;/k8&gt; &lt;k9&gt;V&lt;/k9&gt; &lt;/k7&gt;), &lt;e10&gt;GoTo segment&lt;/e10&gt; and &lt;e11&gt;Add glossary entry&lt;/e11&gt; functions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T134555Z" creationid="Liliu" creationdate="20200418T134555Z">
@@ -8054,10 +8798,26 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you uncheck this option, machine translations will be fetched only when you press &lt;k0&gt; &lt;k1&gt;Ctrl&lt;/k1&gt; &lt;k2&gt;M&lt;/k2&gt; &lt;/k0&gt; (&lt;k3&gt; &lt;k4&gt;Cmd&lt;/k4&gt; &lt;k5&gt;M&lt;/k5&gt; &lt;/k3&gt; on OS X) in the current segment.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071120Z" creationid="seiga" creationdate="20200421T071120Z">
+        <seg>如果你取消此选项的勾选，则仅当你在当前片段中按下 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you want the translation to be the same as the source, simply make the editing field empty by removing all the text (select all with &lt;k0&gt;Ctrl+A&lt;/k0&gt; and delete with &lt;k1&gt;Del&lt;/k1&gt;).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T134531Z" creationid="Liliu" creationdate="20200418T134531Z">
         <seg>如果您想要让译文与原文相同，只需删除编辑区中的所有文本（用 &lt;k0&gt;Ctrl+A&lt;/k0&gt; 选中所有内容并用 &lt;k1&gt;Del&lt;/k1&gt; 删除。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you want to revert to the filter's default configuration, click &lt;e1&gt;Defaults.&lt;/e1&gt; You can also modify the name directly in the target filename pattern field of the file filters dialog.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071257Z" creationid="seiga" creationdate="20200421T071257Z">
+        <seg>。你还可以在文件过滤器对话框的译文文件名模式字段中直接修改名称。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8082,6 +8842,22 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094933Z" creationid="yangzy" creationdate="20200419T094933Z">
         <seg>全部忽略</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore file context when identifying segments with alternate translations: by default, OmegaT uses the source file name as part of the identification of an alternative translation.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071205Z" creationid="seiga" creationdate="20200421T071205Z">
+        <seg>识别有替代翻译的片段时忽略文件上下文：默认情况下，OmegaT 用原文文件名作为替代翻译的识别信息的一部分。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Ignore hits with very different case (e.g. FOO vs foo)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071135Z" creationid="seiga" creationdate="20200421T071135Z">
+        <seg>忽略大小写不同的命中（例如 FOO 和 foo）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8191,6 +8967,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In case the file name has ambivalent name, one can apply variables of the form &lt;l0&gt;${name only&lt;/l0&gt;&lt;e1&gt;-extension number&lt;/e1&gt;} and &lt;l2&gt;${extension&lt;/l2&gt;-&lt;e3&gt;extension number} &lt;/e3&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071309Z" creationid="seiga" creationdate="20200421T071309Z">
+        <seg>如果文件名存在疑义，可以用如下形式的变量名： </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In case there are non-unique segments in source documents, the Auto-propagation check box offers the user the following two possibilities as regards automatic translation: if checked, the first translated segment will be assumed as the default translation and its target text will be automatically used for later hits during the translation process.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T030145Z" creationid="hp" creationdate="20200418T041719Z">
@@ -8255,6 +9039,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In non-segmented projects, it is possible to keep it by unchecking this option.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071204Z" creationid="seiga" creationdate="20200421T071204Z">
+        <seg>删除非分割项目中开头和末尾的空白字符：默认情况下，OmegaT 会删除开头和末尾的空白字符。在非分割项目中，可以通过取消勾选此项选来保留之。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In notes</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T050632Z" creationid="hp" creationdate="20200420T050632Z">
@@ -8267,6 +9059,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062750Z" creationid="seiga" creationdate="20200421T062750Z">
         <seg>为了使更改生效，OmegaT 需要关闭然后打开项目。\n是否现在重新打开项目？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In order to select the type of segmentation, select &lt;m1&gt; &lt;g2&gt;Project&lt;/g2&gt; &lt;g3&gt;Properties...&lt;/g3&gt; &lt;/m1&gt; from the main menu and tick or untick the check box provided.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071315Z" creationid="seiga" creationdate="20200421T071315Z">
+        <seg>，然后勾选或取消勾选所提供的复选框。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8767,6 +9567,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It allows parameters to be set for all translation projects.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071109Z" creationid="seiga" creationdate="20200421T071109Z">
+        <seg>来进入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It also contains installation instructions.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T031854Z" creationid="qinxun" creationdate="20200419T025018Z">
@@ -8795,6 +9603,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T145304Z" creationid="hp" creationdate="20200418T065734Z">
         <seg>它也适用于在所有的输入字段中使用——搜索窗口中、分割规则等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It can also be used when panes do not appear as expected following an OmegaT upgrade.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071153Z" creationid="seiga" creationdate="20200421T071153Z">
+        <seg>更新 OmegaT 后窗格未按预期显示时也可以使用它。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8835,6 +9651,22 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T145016Z" creationid="hp" creationdate="20200418T052034Z">
         <seg>允许使用通配符 &lt;u0&gt;和 ant 语法&lt;/u0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is shown in red in the tag validator.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071222Z" creationid="seiga" creationdate="20200421T071222Z">
+        <seg>在标签验证器中它会显示为红色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is sometimes useful to be able make certain tags untranslatable based on the values of their attributes.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071224Z" creationid="seiga" creationdate="20200421T071224Z">
+        <seg>能够根据属性的值来将某些标签标记为不可翻译在某些时候会很有用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -9904,6 +10736,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Microsoft Office Open XML files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071226Z" creationid="seiga" creationdate="20200421T071226Z">
+        <seg>Microsoft Office Open XML 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Microsoft Translator</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T102726Z" creationid="yangzy" creationdate="20200419T102726Z">
@@ -10052,6 +10892,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062837Z" creationid="seiga" creationdate="20200421T062837Z">
         <seg>更多</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>More precisely, OmegaT attempts to match each filter's source filename patterns against the filename.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071243Z" creationid="seiga" creationdate="20200421T071243Z">
+        <seg>更确切地说，OmegaT 尝试将每个过滤器的原文文件名模式与文件名进行匹配。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11006,6 +11854,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT identifies the source file encoding by using its encoding declaration, if present (HTML files, XML based files).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071253Z" creationid="seiga" creationdate="20200421T071253Z">
+        <seg>OmegaT 使用其编码声明（如果存在）来识别原文文件的编码（HTML 文件、基于 XML 的文件）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT interfaces to SVN and Git, two common team software versioning and revision control systems (RCS), available under an open source license.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T072833Z" creationid="hp" creationdate="20200418T072833Z">
@@ -11026,6 +11882,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T134537Z" creationid="Liliu" creationdate="20200418T134537Z">
         <seg>OmegaT 能保存与原文完全相同的译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071254Z" creationid="seiga" creationdate="20200421T071254Z">
+        <seg>OmegaT 被设置为对某些文件格式使用强制编码（Java 属性等）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11096,6 +11960,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT uses the default encoding of the operating system for text files.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071255Z" creationid="seiga" creationdate="20200421T071255Z">
+        <seg>OmegaT 使用操作系统的默认编码来处理文本文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT uses the following libraries:
 {1}</seg>
       </tuv>
@@ -11145,6 +12017,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will then omit the corresponding files when loading projects, and will copy them unmodified to the target folder when creating target documents.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071200Z" creationid="seiga" creationdate="20200421T071200Z">
+        <seg>要编辑过滤器所针对的文件和编码，请在列表中选中此过滤器然后点击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT will try to resegment the TMX file...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T053042Z" creationid="hp" creationdate="20200420T053042Z">
@@ -11159,6 +12039,14 @@ your home folder.</seg>
         <seg>但 OmegaT 会把该语句以下面的样式呈现：
 
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>On the other hand this functionality can be very useful in special cases, where you can increase your productivity by tuning the segmentation rules to the text to be translated.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071317Z" creationid="seiga" creationdate="20200421T071317Z">
+        <seg>另一方面，此功能在特殊情况下会非常有用，可以针对要翻译的文本调整分割规则来提高工作效率。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11204,6 +12092,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Only a limited number of file formats specify a mandatory encoding.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071249Z" creationid="seiga" creationdate="20200421T071249Z">
+        <seg>仅有少量文件格式指定强制编码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Only if (X)HTML file has a &amp;header</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T121857Z" creationid="DSS" creationdate="20200419T121857Z">
@@ -11240,6 +12136,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070851Z" creationid="seiga" creationdate="20200421T070851Z">
         <seg>打开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Document Format (ODF) files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071236Z" creationid="seiga" creationdate="20200421T071236Z">
+        <seg>开放文件格式（ODF）文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -11664,6 +12568,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>PO files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071210Z" creationid="seiga" creationdate="20200421T071210Z">
+        <seg>PO 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Page slips through fingers
 Pulse pounding hard and frantic
 Vanishing like mist</seg>
@@ -11704,6 +12616,22 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T122628Z" creationid="DSS" creationdate="20200419T122628Z">
         <seg>段落界定格式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph segmentation is advantageous in certain cases, such as highly creative or stylistic translations in which the translator may wish to change the order of entire sentences; for the majority of projects, however, sentence segmentation is a choice to be preferred, since it delivers better matches from previous translations.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071315Z" creationid="seiga" creationdate="20200421T071315Z">
+        <seg>段落分割在某些情况下是有利的，例如在高度创造性或讲究文体的翻译中，译者可能想要整个改变语句的顺序；然而，对于大多数项目而言，语句分割是首选的选择，因为它能更好地与之前的翻译相匹配。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paragraph segmentation on line breaks, empty lines or never:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071209Z" creationid="seiga" creationdate="20200421T071209Z">
+        <seg>在断行、空行处进行段落分割或不分割：</seg>
       </tuv>
     </tu>
     <tu>
@@ -12033,6 +12961,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Pre-defined themes can be set using scripts.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071157Z" creationid="seiga" creationdate="20200421T071157Z">
+        <seg>可以用脚本设置预定义主题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Predefined credentials was not passed.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T112049Z" creationid="Liliu" creationdate="20200419T112041Z">
@@ -12069,6 +13005,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T121415Z" creationid="DSS" creationdate="20200419T121415Z">
         <seg>为所有标签保留空格(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Preserve spaces for all tags: check this option if the source documents contain significant spaces used to control the layout that must not be ignored.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071205Z" creationid="seiga" creationdate="20200421T071205Z">
+        <seg>为所有标签保留空格：如果原文文档包含用于控制布局的不可忽略的重要空格，请勾选此选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12182,6 +13126,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T114001Z" creationid="DSS" creationdate="20200419T114001Z">
         <seg>前后段落(&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Private collections are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071145Z" creationid="seiga" creationdate="20200421T071145Z">
+        <seg>私有词库显示为粗体。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12966,6 +13918,22 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Remove leading and trailing tags: uncheck this option to display all the tags, including tags at the beginning and end of the segment.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071202Z" creationid="seiga" creationdate="20200421T071202Z">
+        <seg>删除开头和末尾的标签：取消勾选此选项可以显示所有标签，包括在片段开头和结尾处的标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove leading and trailing whitespace in non-segmented projects: by default, OmegaT removes leading and trailing whitespace.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071204Z" creationid="seiga" creationdate="20200421T071204Z">
+        <seg>删除非分割项目中开头和末尾的空白字符：默认情况下，OmegaT 会删除开头和末尾的空白字符。在非分割项目中，可以通过取消勾选此项选来保留之。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Remove pattern?</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T120754Z" creationid="DSS" creationdate="20200419T120754Z">
@@ -13084,6 +14052,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110047Z" creationid="yangzy" creationdate="20200419T110047Z">
         <seg>用匹配或所选内容替换译文</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace glossary hits when inserting source text</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071134Z" creationid="seiga" creationdate="20200421T071134Z">
+        <seg>插入原文文本时替换命中的词汇表条目</seg>
       </tuv>
     </tu>
     <tu>
@@ -13252,6 +14228,22 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T061412Z" creationid="seiga" creationdate="20200421T061412Z">
         <seg>恢复默认值(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restore Main Window</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071151Z" creationid="seiga" creationdate="20200421T071151Z">
+        <seg>恢复主窗口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restores the components of the main OmegaT window to their default state.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071152Z" creationid="seiga" creationdate="20200421T071152Z">
+        <seg>将 OmegaT 窗口的组件恢复到默认状态。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13810,6 +14802,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See &lt;u0&gt;Oracle documentation&lt;/u0&gt; for examples of the "SimpleDateFormat" patterns</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071303Z" creationid="seiga" creationdate="20200421T071303Z">
+        <seg>——电脑所使用的操作系统</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>See &lt;u0&gt;The Regex Coach&lt;/u0&gt; for Windows,Linux, FreeBSD versions of a stand-alone tool.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065745Z" creationid="seiga" creationdate="20200421T065745Z">
@@ -13854,6 +14854,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T064246Z" creationid="seiga" creationdate="20200421T064246Z">
         <seg>请参阅下文了解详情。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See font settings in Miscellanea</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071155Z" creationid="seiga" creationdate="20200421T071155Z">
+        <seg>请参阅杂记中的字体设置部分</seg>
       </tuv>
     </tu>
     <tu>
@@ -13966,6 +14974,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T052608Z" creationid="hp" creationdate="20200420T052608Z">
         <seg>分割方法：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Segmentation rules</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071325Z" creationid="seiga" creationdate="20200421T071325Z">
+        <seg>片段分割规则</seg>
       </tuv>
     </tu>
     <tu>
@@ -14122,6 +15138,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select TaaS Terminology Lookup Domain...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071147Z" creationid="seiga" creationdate="20200421T071147Z">
+        <seg>选择 TaaS 术语查询领域...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select TaaS domain</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T115107Z" creationid="Liliu" creationdate="20200419T115107Z">
@@ -14134,6 +15158,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T102128Z" creationid="yangzy" creationdate="20200419T102128Z">
         <seg>选择脚本文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select a supplier from the list and, if necessary, click &lt;g0&gt;Configure&lt;/g0&gt; to enter the identification details provided by the supplier.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071125Z" creationid="seiga" creationdate="20200421T071125Z">
+        <seg>从列表中选择供应商，如有必要，点击</seg>
       </tuv>
     </tu>
     <tu>
@@ -14178,6 +15210,22 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select this option if you want dictionaries to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071150Z" creationid="seiga" creationdate="20200421T071150Z">
+        <seg>如果希望词典中显示有着相同词根的词汇，请选择此选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select this option if you want the glossary to display words that have the same root.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071133Z" creationid="seiga" creationdate="20200421T071133Z">
+        <seg>如果希望词汇表中显示有着相同词根的词汇，请选择此选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Selected Engine: {0}</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101826Z" creationid="yangzy" creationdate="20200419T101826Z">
@@ -14198,6 +15246,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110055Z">
         <seg>选择显示在模糊匹配窗格中的上一个、下一个或第 N 个模糊匹配来将其替换或插入到句段中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sentence level segmentation</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071324Z" creationid="seiga" creationdate="20200421T071324Z">
+        <seg>语句级分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Separates the source text into segments.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071336Z" creationid="seiga" creationdate="20200421T071336Z">
+        <seg>将原文文本分割为片段。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14290,6 +15354,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sets the segment validation key to Tab instead of the default Enter.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071111Z" creationid="seiga" creationdate="20200421T071111Z">
+        <seg>将片段验证键设置为 Tab 来代替默认的 Enter。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Setting it to &lt;g1&gt;All segments&lt;/g1&gt; shows this information for all segments and &lt;g2&gt;None&lt;/g2&gt; turns this option off.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110208Z">
@@ -14310,6 +15382,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T073214Z" creationid="hp" creationdate="20200418T073214Z">
         <seg>建立团队项目需要一些关于服务器和 SVN 或 Git 版本控制系统的知识。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Several filters (text files, XHTML files, HTML and XHTML files, OpenDocument files and Microsoft Open XML files) have one or more specific options.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071207Z" creationid="seiga" creationdate="20200421T071207Z">
+        <seg>好些过滤器（文本文件、XHTML 文件、HTML 和 XHTML 文件、OpenDocument 文件和 Microsoft Open XML 文件）有一个或多个特定选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14426,6 +15506,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shows the dialog to modify the text display font.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071154Z" creationid="seiga" creationdate="20200421T071154Z">
+        <seg>显示用于修改文本显示字体的对话框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Simplify &amp;tooltips on protected parts</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T122832Z" creationid="DSS" creationdate="20200419T122832Z">
@@ -14438,6 +15526,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T063231Z" creationid="seiga" creationdate="20200421T063231Z">
         <seg>大小</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Skip PO header</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071214Z" creationid="seiga" creationdate="20200421T071214Z">
+        <seg>跳过 PO 头</seg>
       </tuv>
     </tu>
     <tu>
@@ -14534,6 +15630,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T115500Z" creationid="Liliu" creationdate="20200419T115500Z">
         <seg>出错了，请访问 Tilde Terminology 了解详情。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sometimes you may wish to rename the files you translate automatically, for example adding a language code after the file name.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071256Z" creationid="seiga" creationdate="20200421T071256Z">
+        <seg>有时候你可能希望自动重命名所翻译的文件，例如在文件名后添加语言代码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14650,6 +15754,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Source and Translated file encoding</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071248Z" creationid="seiga" creationdate="20200421T071248Z">
+        <seg>原文文件和译文文件编码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Source count</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T115021Z" creationid="Liliu" creationdate="20200419T115021Z">
@@ -14662,6 +15774,22 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T050145Z" creationid="hp" creationdate="20200420T050145Z">
         <seg>原文文件载入完成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source file type, filename pattern</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071242Z" creationid="seiga" creationdate="20200421T071242Z">
+        <seg>原文文件类型、文件名模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Source filename patterns use wild card characters similar to those used in &lt;e2&gt;Searches.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071245Z" creationid="seiga" creationdate="20200421T071245Z">
+        <seg>原文文件名模式使用的通配符类似于</seg>
       </tuv>
     </tu>
     <tu>
@@ -14988,6 +16116,22 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Store for this session only</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071142Z" creationid="seiga" creationdate="20200421T071142Z">
+        <seg>仅为本次会话保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Structure level segmentation</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071320Z" creationid="seiga" creationdate="20200421T071320Z">
+        <seg>结构级分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SubRip Subtitles</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T113307Z" creationid="DSS" creationdate="20200419T113307Z">
@@ -15268,6 +16412,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Target files can also be written in any encoding.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071251Z" creationid="seiga" creationdate="20200421T071251Z">
+        <seg>译文文件也可以用任意编码编码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Target files committed</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062833Z" creationid="seiga" creationdate="20200421T062833Z">
@@ -15344,6 +16496,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071001Z" creationid="seiga" creationdate="20200421T071001Z">
         <seg>团队...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Technically speaking, the &lt;c0&gt;msgstr&lt;/c0&gt; segment in the PO target file, if created, will be left empty.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071212Z" creationid="seiga" creationdate="20200421T071212Z">
+        <seg> 片段（如果已创建）将保留为空。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15429,10 +16589,26 @@ The scope of a text replacement is the target segments of the project, whether t
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Text files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071209Z" creationid="seiga" creationdate="20200421T071209Z">
+        <seg>文本文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Text files segmentation</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T122134Z" creationid="DSS" creationdate="20200419T122134Z">
         <seg>文本文件分割</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Text in source segments that matches is shown in italics.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071223Z" creationid="seiga" creationdate="20200421T071223Z">
+        <seg>在原文文本中相匹配的文本会显示为斜体。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15459,6 +16635,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094805Z" creationid="yangzy" creationdate="20200419T094342Z">
         <seg>将改用当前文件夹为配置文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The '?' character matches exactly one character.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071246Z" creationid="seiga" creationdate="20200421T071246Z">
+        <seg>“?”字符只匹配一个字符。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15527,6 +16711,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The Edit Pattern Dialog offers among others the following options:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071257Z" creationid="seiga" creationdate="20200421T071257Z">
+        <seg>编辑模式对话框提供了以下选项：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Editor pane displays the text of the partially translated document: the text already translated is displayed in translation while the untranslated text is displayed in the original language.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T134426Z" creationid="Liliu" creationdate="20200418T134426Z">
@@ -15583,6 +16775,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The PO header will be skipped and left unchanged if this option is checked.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071214Z" creationid="seiga" creationdate="20200421T071214Z">
+        <seg>如果选中此选项，则将跳过 PO 头并保持其不变。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Project Manager should check with the translator that the statistics are identical on both sides (server side and translator side).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T074110Z" creationid="hp" creationdate="20200418T074110Z">
@@ -15621,6 +16821,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065616Z" creationid="seiga" creationdate="20200421T065616Z">
         <seg>告警（响铃）（'\u0007'）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The available options are:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071208Z" creationid="seiga" creationdate="20200421T071208Z">
+        <seg>。可用选项包括：</seg>
       </tuv>
     </tu>
     <tu>
@@ -15713,6 +16921,14 @@ Please try to correct the error and reload the project.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The collections are downloaded as TBX glossaries and stored in the current glossary folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071146Z" creationid="seiga" creationdate="20200421T071146Z">
+        <seg>词库将下载为 TBX 词汇表并存放在当前词汇表文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The colours are displayed as long as the &lt;l1&gt;&lt;g2&gt;Save auto-populated status&lt;/g2&gt;&lt;/l1&gt; option is checked.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110206Z" creationid="yangzy" creationdate="20200419T110206Z">
@@ -15783,6 +16999,22 @@ instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T094814Z" creationid="yangzy" creationdate="20200419T094720Z">
         <seg>将改用当前文件夹为配置文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dialog allows you to enable or disable the following options:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071202Z" creationid="seiga" creationdate="20200421T071202Z">
+        <seg>该对话框允许您启用或禁用以下选项：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The dialog includes a special target filename pattern editor, which you can use to customize the names of output files.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071241Z" creationid="seiga" creationdate="20200421T071241Z">
+        <seg>该对话框包含一个专门的译文文件名模式编辑器，您可以使用它来自定义输出文件的名称。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15863,6 +17095,14 @@ instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T041914Z" creationid="qinxun" creationdate="20200420T041852Z">
         <seg>该文件“{0}”不支持。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The filters used by the current project are displayed in bold.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071158Z" creationid="seiga" creationdate="20200421T071158Z">
+        <seg>私有词库显示为粗体。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16080,10 +17320,34 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The procedures for configuring access to the Microsoft Translator and Google Translate services are described &lt;u0&gt;here&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071126Z" creationid="seiga" creationdate="20200421T071126Z">
+        <seg>描述了配置对 Microsoft Translator 和 Google Translate 服务的访问的过程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The process above describes the usual case, where the project manager wants to have full control of the project and where the files (and the statistics) are identical on both sides (server side and translator side).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T074206Z" creationid="hp" creationdate="20200418T074206Z">
         <seg>上面的流程是通常的情况，其中项目经理希望完全控制项目，文件（与统计数据）在两侧（服务器侧与译者侧）是一样的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The process of segmenting can be pictured as follows: the cursor moves along the text, one character at a time.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071326Z" creationid="seiga" creationdate="20200421T071326Z">
+        <seg>分割过程可描绘如下：光标沿着文本移动，每次一个字符。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The program will seek confirmation before closing down.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071116Z" creationid="seiga" creationdate="20200421T071116Z">
+        <seg>程序将在关闭前要求确认。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16184,6 +17448,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The same dialog is used to add a pattern or to edit a particular pattern.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071241Z" creationid="seiga" creationdate="20200421T071241Z">
+        <seg>。添加模式和编辑特定模式使用相同的对话框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The script "{0}" is running...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101812Z" creationid="yangzy" creationdate="20200419T101812Z">
@@ -16260,6 +17532,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T072859Z" creationid="hp" creationdate="20200418T072859Z">
         <seg>在这个例子中，解决方案是将已有的翻译记忆库复制到 tm/tmx2source/ 子文件夹中并将其重命名为 ZH_CN.tmx 来指示此 tmx 的译文语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The source and target encoding fields use drop-down menus containing all the supported encodings.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071252Z" creationid="seiga" creationdate="20200421T071252Z">
+        <seg>原文与译文的编码字段使用的是包含所有支持的编码的下拉菜单。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16368,6 +17648,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The target filename pattern uses a special syntax, so if you want to edit this field, you must click &lt;e0&gt;Edit...&lt;/e0&gt;and use the Edit Pattern Dialog.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071256Z" creationid="seiga" creationdate="20200421T071256Z">
+        <seg>译文文件名模式使用特殊的语法，因此如果要编辑此字段，你必须点击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The target text entered after that will be treated as an alternative translation of the source segment.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T053918Z" creationid="Liliu" creationdate="20200419T053918Z">
@@ -16444,6 +17732,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T030500Z" creationid="hp" creationdate="20200418T072904Z">
         <seg>这样荷兰语的原文句段会以英文翻译的形式显示给译者，译者就能用它们来创建中文翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The two types of rules behave as follows:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071335Z" creationid="seiga" creationdate="20200421T071335Z">
+        <seg>这两种规则的行为如下：</seg>
       </tuv>
     </tu>
     <tu>
@@ -16597,6 +17893,14 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>They will appear as separate segments in the translation.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071227Z" creationid="seiga" creationdate="20200421T071227Z">
+        <seg>在翻译中它们将显示为单独的片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This
 will delete your local data and re-download the project contents from
 the server.</seg>
@@ -16667,6 +17971,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T134719Z" creationid="Liliu" creationdate="20200418T134719Z">
         <seg>它把正在进行的特定操作信息反馈给用户。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This button enables you to browse and download the collections that exist for the project's source and target languages.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071145Z" creationid="seiga" creationdate="20200421T071145Z">
+        <seg>此按钮让你能够浏览并下载已有的那些针对项目原文语言与译文语言的词库。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16751,10 +18063,34 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This dialog enables you to specify the source filename patterns for files to be processed by the filter, customize the filenames of translated files and select which encodings should be used for loading the source file and saving the translation.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071239Z" creationid="seiga" creationdate="20200421T071239Z">
+        <seg>此对话框让您能够指定要由过滤器处理的原文文件的文件名模式、自定义已译文件的文件名和选择用什么编码来加载原文文件和保存翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Options&lt;/g1&gt; &lt;g2&gt;Preferences...&lt;/g2&gt; &lt;/m0&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071056Z" creationid="seiga" creationdate="20200421T071056Z">
+        <seg>此对话框可通过选择&lt;g1&gt;项目&lt;/g1&gt; &lt;g2&gt;属性...&lt;/g2&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This dialog is accessible by selecting &lt;m0&gt; &lt;g1&gt;Project&lt;/g1&gt; &lt;g2&gt;Properties...&lt;/g2&gt; &lt;/m0&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T143202Z" creationid="hp" creationdate="20200418T041553Z">
         <seg>此对话框可通过选择&lt;g1&gt;项目&lt;/g1&gt; &lt;g2&gt;属性...&lt;/g2&gt; </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This dialog lists the file filters available.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071158Z" creationid="seiga" creationdate="20200421T071158Z">
+        <seg>查看或编辑文件过滤器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16827,6 +18163,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T030104Z" creationid="hp" creationdate="20200418T042143Z">
         <seg>这在处理内联格式并不真正有用的文本（如 OCRed PDF、转换不良的 .odt 或 .docx 等）时特别有用。正常情况下译文文档应当都能打开，因为只移除了内联标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is how it works:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071253Z" creationid="seiga" creationdate="20200421T071253Z">
+        <seg> 来选择编码。这是它的工作原理：</seg>
       </tuv>
     </tu>
     <tu>
@@ -16935,10 +18279,26 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This option allows OmegaT to override the specification in the PO file header and use the default for the selected target language.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071215Z" creationid="seiga" creationdate="20200421T071215Z">
+        <seg>此选项允许 OmegaT 覆盖 PO 文件头中的规范，并使用所选译文语言的默认值。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This option displays &lt;u0&gt;bidirectional control characters&lt;/u0&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110205Z" creationid="yangzy" creationdate="20200419T110205Z">
         <seg>此选项显示&lt;u0&gt;双向控制字符&lt;/u0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This option is useful for some Chinese, Japanese or Korean character input systems.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071115Z" creationid="seiga" creationdate="20200421T071115Z">
+        <seg>此选项对某些中文、日文或韩文字符输入系统很有用。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16955,6 +18315,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T111530Z" creationid="DSS" creationdate="20200419T111530Z">
         <seg>这个包捆绑有 Oracle 的 Java 运行时环境（JRE）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This page allows you to choose different colours for each part of the user interface.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071156Z" creationid="seiga" creationdate="20200421T071156Z">
+        <seg>此页面让您可以为用户界面的各个部分选择不同的颜色。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17067,6 +18435,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T025045Z" creationid="qinxun" creationdate="20200419T025045Z">
         <seg>要访问此窗口，请选择</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To add a new file filter pattern, click &lt;e1&gt;Add&lt;/e1&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071240Z" creationid="seiga" creationdate="20200421T071240Z">
+        <seg>。要添加新的文件过滤器模式，点击</seg>
       </tuv>
     </tu>
     <tu>
@@ -17193,6 +18569,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To edit the files and encodings a filter is used for, select the filter in the list and click &lt;e1&gt;Edit.&lt;/e1&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071201Z" creationid="seiga" creationdate="20200421T071201Z">
+        <seg>要编辑过滤器将处理的文件及使用的编码，请从列表中选中该过滤器然后点击编辑按钮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To edit what files in what encodings the filter will process, select the filter from the list and click Edit.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T121322Z" creationid="DSS" creationdate="20200419T121322Z">
@@ -17205,6 +18589,22 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T112024Z" creationid="DSS" creationdate="20200419T112024Z">
         <seg>只需双击已下载的程序就可以安装 &lt;a0&gt;OmegaT&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify a file filter pattern, either modify the fields directly or click &lt;e0&gt;Edit&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071240Z" creationid="seiga" creationdate="20200421T071240Z">
+        <seg>要修改文件过滤器模式，请直接修改字段名或点击</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To modify the options, select the filter in the list and click &lt;e0&gt;Options&lt;/e0&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071208Z" creationid="seiga" creationdate="20200421T071208Z">
+        <seg>要修改这些选项，在列表中选定此过滤器并点击</seg>
       </tuv>
     </tu>
     <tu>
@@ -17377,6 +18777,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translatable object attributes in XHTML or HTML files can be extracted as separate segments.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071323Z" creationid="seiga" creationdate="20200421T071323Z">
+        <seg>在 XHTML 或 HTML 文件中的可翻译对象属性可以提取为单独的片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translate a PDF file</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T075027Z" creationid="hp" creationdate="20200418T075027Z">
@@ -17470,6 +18878,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T053258Z" creationid="hp" creationdate="20200420T053258Z">
         <seg>译文文件路径不能与原文文件路径相同：\n{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translated filename</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071255Z" creationid="seiga" creationdate="20200421T071255Z">
+        <seg>译文文件名</seg>
       </tuv>
     </tu>
     <tu>
@@ -17582,6 +18998,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T102117Z" creationid="Liliu" creationdate="20200419T102117Z">
         <seg>翻译记忆库文件夹 {0} 不存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translation memory tools work with textual units called segments.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071314Z" creationid="seiga" creationdate="20200421T071314Z">
+        <seg>翻译记忆工具使用称为片段的文本单元。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17803,6 +19227,22 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Uncheck this option if the context description shown for each glossary entry is unnecessary or too long.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071128Z" creationid="seiga" creationdate="20200421T071128Z">
+        <seg>如果为每个词汇表条目所显示的上下文描述不必要或者太长，请取消对此选项的勾选。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Uncheck this option if the glossary displays too many false positives.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071132Z" creationid="seiga" creationdate="20200421T071132Z">
+        <seg>如果词汇表中显示了过多误报，请取消对此选项的勾选。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Undo Last Action</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110045Z" creationid="yangzy" creationdate="20200419T110045Z">
@@ -17997,6 +19437,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Untranslated segments only</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071124Z" creationid="seiga" creationdate="20200421T071124Z">
+        <seg>仅限未译片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Untranslated segments text</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T131348Z" creationid="Liliu" creationdate="20200419T131348Z">
@@ -18149,6 +19597,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use TAB to Advance</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071110Z" creationid="seiga" creationdate="20200421T071110Z">
+        <seg>用 Tab 前进</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use Terms Appearing Separately in the Source Text</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070942Z" creationid="seiga" creationdate="20200421T070942Z">
@@ -18213,10 +19669,34 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use fuzzy matching for dictionary entries</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071150Z" creationid="seiga" creationdate="20200421T071150Z">
+        <seg>对词典条目使用模糊匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use stemming for glossary entries</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071133Z" creationid="seiga" creationdate="20200421T071133Z">
+        <seg>对词汇表条目使用词干分析</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use terms &amp;appearing separately in the source text</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062724Z" creationid="seiga" creationdate="20200421T062724Z">
         <seg>使用分开出现在原文文本中的词条(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use terms appearing separately in the source text</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071128Z" creationid="seiga" creationdate="20200421T071128Z">
+        <seg>使用分开出现在原文文本中的词条</seg>
       </tuv>
     </tu>
     <tu>
@@ -18261,6 +19741,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use this feature when you have undocked, moved or hidden one or more components and you are unable to restore the desired arrangement.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071153Z" creationid="seiga" creationdate="20200421T071153Z">
+        <seg>当你分离、移动或隐藏了一个或多个组件后无法恢复到所需的排列时可以使用此功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User denied credentials</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T111224Z" creationid="Liliu" creationdate="20200419T111224Z">
@@ -18293,6 +19781,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Users of old computers who feel window resizing is very slow can try changing the font.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071155Z" creationid="seiga" creationdate="20200421T071155Z">
+        <seg>使用老电脑的用户如果觉得改变窗口大小非常慢可以尝试更改字体。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Using &lt;k2&gt; &lt;k3&gt;Shift&lt;/k3&gt; &lt;k4&gt;Ctrl&lt;/k4&gt; &lt;k5&gt;O&lt;/k5&gt; &lt;/k2&gt; causes both text input and display in &lt;a6&gt;OmegaT&lt;/a6&gt; to change.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T055642Z" creationid="hp" creationdate="20200418T065719Z">
@@ -18313,6 +19809,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T065621Z" creationid="hp" creationdate="20200418T065621Z">
         <seg>在OmegaT中使用 RTL 模式不会影响翻译后的文档的显示模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Using this option, the translator can specify whether the target files should have the encoding declaration included.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071232Z" creationid="seiga" creationdate="20200421T071232Z">
+        <seg>使用此选项，译者可以指定译文文件是否应当包含编码声明。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18471,10 +19975,26 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Warning: in Microsoft Open XML formats (docx, xlsx, etc.), if all tags are displayed, DO NOT place any text before the first tag – it is a technical tag that must always begin the segment.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071203Z" creationid="seiga" creationdate="20200421T071203Z">
+        <seg>警告：在 Microsoft Open XML 格式中（docx、xlsx 等等），如果显示所有标签，不要在第一个标签之前放置任何文本——它是个技术性标签，必须始终是开启段落的标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>WebVTT Subtitles</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T113636Z" creationid="DSS" creationdate="20200419T113636Z">
         <seg>WebVTT 字幕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file's extension.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071242Z" creationid="seiga" creationdate="20200421T071242Z">
+        <seg>当 OmegaT 在其原文文件夹中遇到文件时，它会尝试根据文件的扩展名选择过滤器。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18531,6 +20051,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T134321Z" creationid="Liliu" creationdate="20200418T134321Z">
         <seg>如果这样操作，窗格将在顶部显示标签卡。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When this option is checked, the glossary will display pairs or groups of words (expressions) even if the words within them appear separately in the source text.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071129Z" creationid="seiga" creationdate="20200421T071129Z">
+        <seg>勾选此选项后，对于由一对或一组单词（表达式）所组成的条目，即使其中的单词在原文文本中是分开出现的，词汇表中也会显示此条目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18627,6 +20155,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T055907Z" creationid="hp" creationdate="20200418T070925Z">
         <seg>当翻译文档时，&lt;a2&gt;OmegaT&lt;/a2&gt;  将所有进度存储在项目的 翻译记忆库中&lt;l3&gt;project_save.tmx&lt;/l3&gt; 翻译记忆库位于项目的&lt;l4&gt;/omegat&lt;/l4&gt; 子文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>When you wish to use the filter again, just tick the check box.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071200Z" creationid="seiga" creationdate="20200421T071200Z">
+        <seg>要编辑过滤器所针对的文件和编码，请在列表中选中此过滤器然后点击</seg>
       </tuv>
     </tu>
     <tu>
@@ -18900,6 +20436,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>XHTML Files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071216Z" creationid="seiga" creationdate="20200421T071216Z">
+        <seg>XHTML 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>XHTML Filter Options</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T122057Z" creationid="DSS" creationdate="20200419T122057Z">
@@ -19028,6 +20572,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can change or add filename patterns for files to be handled by each file filter.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071245Z" creationid="seiga" creationdate="20200421T071245Z">
+        <seg>您可以更改或添加由每个文件过滤器处理的文件的文件名模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can change the already assigned shortcuts and add new shortcuts by putting a shortcut definition file in your &lt;a0&gt;OmegaT&lt;/a0&gt; preferences folder (accessible by &lt;m1&gt; &lt;g2&gt;Options&lt;/g2&gt; &lt;g3&gt;Access Configuration Folder&lt;/g3&gt; &lt;/m1&gt; menu).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065807Z" creationid="seiga" creationdate="20200421T065807Z">
@@ -19044,6 +20596,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can change the source encoding for each different source filename pattern.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071250Z" creationid="seiga" creationdate="20200421T071250Z">
+        <seg>你可以更改每个不同的原文文件名模式的原文编码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can create a new project for each new job, and you can add new source files to a project at anytime.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T034405Z" creationid="DSS" creationdate="20200418T124158Z">
@@ -19056,6 +20616,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T094939Z" creationid="yangzy" creationdate="20200419T093826Z">
         <seg>可以用编辑菜单中的创建术语表条目功能来创建术语表条目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can define key-value pairs for tags to be left untranslated.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071225Z" creationid="seiga" creationdate="20200421T071225Z">
+        <seg>。你可以为标签定义要维持不翻译的键值对。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19113,6 +20681,30 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T033149Z" creationid="qinxun" creationdate="20200419T033149Z">
         <seg>可以用&lt;k1&gt;上&lt;/k1&gt;和&lt;k2&gt;下&lt;/k2&gt;方向键来选择文件，并按 &lt;k3&gt;Enter&lt;/k3&gt; 键打开，进行翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select which elements are to be translated.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071227Z" creationid="seiga" creationdate="20200421T071227Z">
+        <seg>您可以选择要翻译的元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can select which of the following items are to be translated:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071237Z" creationid="seiga" creationdate="20200421T071237Z">
+        <seg>您可以选择要翻译下列哪些项：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can then create an access key on the page &lt;u0&gt;https://term.tilde.com/account/keys/create?system=omegaT&lt;/u0&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071138Z" creationid="seiga" creationdate="20200421T071138Z">
+        <seg>https://term.tilde.com/account/keys/create?system=omegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -19185,6 +20777,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062838Z" creationid="seiga" creationdate="20200421T062838Z">
         <seg>您必须输入 1 到 {0} 之间的数字。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must then press &lt;k6&gt; &lt;k7&gt;Ctrl&lt;/k7&gt; &lt;k8&gt;M&lt;/k8&gt; &lt;/k6&gt; again to insert the suggestion.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071123Z" creationid="seiga" creationdate="20200421T071123Z">
+        <seg>以插入建议。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19518,6 +21118,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>if sentence segmentation rules are active, the text will be segmented further according to the option selected here.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071210Z" creationid="seiga" creationdate="20200421T071210Z">
+        <seg>如果激活了语句分割规则，文本会根据此处所选择的选项进行进一步分割。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>import the file into ODF writer</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T075450Z" creationid="hp" creationdate="20200418T075450Z">
@@ -19530,6 +21138,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T074330Z" creationid="hp" creationdate="20200418T074330Z">
         <seg>包含（includes）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>index entries, bookmarks, bookmark references, notes, comments, presentation notes, links (URL), sheet names</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071238Z" creationid="seiga" creationdate="20200421T071238Z">
+        <seg>索引条目、书签、书签引用、备注、批注、演讲备注、链接（URL）、工作表名称</seg>
       </tuv>
     </tu>
     <tu>
