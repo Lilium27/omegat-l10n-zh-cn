@@ -20429,7 +20429,7 @@ Exact searches match the whole search string.</seg>
       <tuv lang="en">
         <seg>Unknown plugin type '{0}' in '{1}'</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T053241Z" creationid="hp" creationdate="20200420T053241Z">
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200421T112644Z" creationid="hp" creationdate="20200420T053241Z">
         <seg>“{1}”中出现未知的插件类型“{0}”</seg>
       </tuv>
     </tu>
