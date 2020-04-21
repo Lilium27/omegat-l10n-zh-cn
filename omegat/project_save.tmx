@@ -7481,8 +7481,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Filter '{0}' could not be loaded from '{1}'</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200420T053250Z" creationid="hp" creationdate="20200420T053250Z">
-        <seg>无法从“{1}”载入过滤器“{0}”</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200421T112730Z" creationid="hp" creationdate="20200420T053250Z">
+        <seg>无法从'{1}”载入过滤器“{0}{1}”</seg>
       </tuv>
     </tu>
     <tu>
