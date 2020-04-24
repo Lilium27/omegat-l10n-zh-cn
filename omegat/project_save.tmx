@@ -1662,6 +1662,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Follow this link to apply to Google&lt;/a0&gt; for the Google Translate API v2 key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T101036Z" creationid="hp" creationdate="20200424T101036Z">
+        <seg>&lt;a0&gt;点击链接申请&lt;/a0&gt; 谷歌翻译 API 的密钥</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;OmegaT&lt;/a0&gt; first parses the text for structure-level segmentation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T071321Z" creationid="seiga" creationdate="20200421T071321Z">
@@ -3444,6 +3452,14 @@ may experience unexpected, but correct behaviour.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074333Z" creationid="hp" creationdate="20200418T074333Z">
         <seg>同上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>As of December 2011, Google has required payment from users for use of this service.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T100820Z" creationid="hp" creationdate="20200424T100820Z">
+        <seg>在2011年12月，谷歌要求用户必须付费才能使用此服务。&lt;片段0862&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9310,6 +9326,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you don't already have one, open an account with google.com.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T100946Z" creationid="hp" creationdate="20200424T100946Z">
+        <seg>如果您没有谷歌账号，请在 google.com 申请账号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you enter names of folders that do not exist yet, &lt;a0&gt;OmegaT&lt;/a0&gt; creates them for you.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T051746Z" creationid="hp" creationdate="20200418T051746Z">
@@ -11132,6 +11156,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071215Z" creationid="hp" creationdate="20200418T071215Z">
         <seg>定期将 /omegat/project_save.tmx 复制到备份媒介上，例如 CD 或 DVD。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure that you have your credit card details handy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T101110Z" creationid="hp" creationdate="20200424T101110Z">
+        <seg>确保您知道自己的信用卡信息</seg>
       </tuv>
     </tu>
     <tu>
@@ -19195,6 +19227,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101716Z" creationid="yangzy" creationdate="20200419T101716Z">
         <seg>此 API 密钥已被封</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This HowTo describes how to configure the function in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T100911Z" creationid="hp" creationdate="20200424T100911Z">
+        <seg>本文档将介绍如何在 OmegaT 中配置机器翻译。</seg>
       </tuv>
     </tu>
     <tu>
