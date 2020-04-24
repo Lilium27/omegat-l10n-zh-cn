@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1406,6 +1406,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110200Z" creationid="yangzy" creationdate="20200419T110200Z">
         <seg>(外部搜索命令)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>(where "xxxxx" is the API key provided by Google).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T111724Z" creationid="hp" creationdate="20200424T111724Z">
+        <seg>(在 "xxxxx" 处填入谷歌提供的 API</seg>
       </tuv>
     </tu>
     <tu>
@@ -3346,6 +3354,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T045929Z" creationid="hp" creationdate="20200420T045929Z">
         <seg>分析字符串 - 已完成 {0} / {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>And remove "#" at the line head of -Dgoogle.api.key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T111657Z" creationid="hp" creationdate="20200424T111657Z">
+        <seg>删除 -Dgoogle.api.key 前面的 “#”</seg>
       </tuv>
     </tu>
     <tu>
@@ -7727,6 +7743,22 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find the file OmegaT.app/Contents/MacOS/OmegaT.sh and select your preferred editor to open the file.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T112013Z" creationid="hp" creationdate="20200424T112013Z">
+        <seg>找到 OmegaT.app/Contents/MacOS/OmegaT.sh  文件，选择熟悉的编辑器打开文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find the following lines;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T111541Z" creationid="hp" creationdate="20200424T111541Z">
+        <seg>查找以下行：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Finds the following:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T065749Z" creationid="seiga" creationdate="20200421T065749Z">
@@ -11300,6 +11332,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055729Z" creationid="hp" creationdate="20200418T065738Z">
         <seg>对于 Mac OS X 用户，请注意：使用&lt;k0&gt; &lt;k1&gt;Shift&lt;/k1&gt; &lt;k2&gt;Ctrl&lt;/k2&gt; &lt;k3&gt;O&lt;/k3&gt; &lt;/k0&gt; 快捷键， &lt;e4&gt;不要使用 &lt;/e4&gt;cmd+Ctrl+O. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mac users:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T111821Z" creationid="hp" creationdate="20200424T111821Z">
+        <seg>Mac 用户：</seg>
       </tuv>
     </tu>
     <tu>
@@ -15592,6 +15632,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Right-click on OmegaT.app and select "Show Package Contents".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T111940Z" creationid="hp" creationdate="20200424T111940Z">
+        <seg>右击 OmegaT 图标，选择 “显示包内容".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Right-clicking on a filename opens a popup that allows to open the source file and (if it exists) the target file.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200419T033517Z" creationid="qinxun" creationdate="20200419T033517Z">
@@ -15772,6 +15820,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095527Z" creationid="Liliu" creationdate="20200419T095527Z">
         <seg>保存当前集合...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Save OmegaT.l4J.ini (and if necessary, move it back to the OmegaT folder).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T111812Z" creationid="hp" creationdate="20200424T111812Z">
+        <seg>保存 OmegaT.l4J.ini （如有必要，把该文件放回  OmegaT 文件夹下）。</seg>
       </tuv>
     </tu>
     <tu>
