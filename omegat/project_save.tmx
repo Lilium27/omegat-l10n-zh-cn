@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9326,6 +9326,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are confused about which version to download, you can use the &lt;a0&gt;Download selector&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T110502Z" creationid="DSS" creationdate="20200424T110502Z">
+        <seg>如果你不确定应当下载哪个版本，可以使用&lt;a0&gt;下载选择器&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are interested in other settings of this dialog, you can return to it any time by pressing &lt;k0&gt;Ctrl+E.&lt;/k0&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T033938Z" creationid="DSS" creationdate="20200418T122809Z">
@@ -10215,6 +10223,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Installation Type</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T110534Z" creationid="DSS" creationdate="20200424T110534Z">
+        <seg>安装类型</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Installing OmegaT</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T111601Z" creationid="DSS" creationdate="20200419T111601Z">
@@ -10996,6 +11012,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113745Z" creationid="DSS" creationdate="20200419T113745Z">
         <seg>链接(&amp;URL)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Links are provided below to the various versions of OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T110431Z" creationid="DSS" creationdate="20200424T110431Z">
+        <seg>下面提供了各种版本的 OmegaT 的链接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12678,6 +12702,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Download Selector</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T110508Z" creationid="DSS" creationdate="20200424T110508Z">
+        <seg>OmegaT 下载选择器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT Project Files</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050545Z" creationid="hp" creationdate="20200420T050545Z">
@@ -13416,6 +13448,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110129Z" creationid="yangzy" creationdate="20200419T110129Z">
         <seg>在默认浏览器中打开本手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Operating System</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T110543Z" creationid="DSS" creationdate="20200424T110543Z">
+        <seg>操作系统</seg>
       </tuv>
     </tu>
     <tu>
@@ -19144,6 +19184,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The version for installation by the user, familiar to existing OmegaT users.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T110728Z" creationid="DSS" creationdate="20200424T110728Z">
+        <seg>用户安装的版本为现有用户所熟悉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The whole process can be steered and controlled via Tck/Tcl-based scripting.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T071441Z" creationid="seiga" creationdate="20200421T071441Z">
@@ -20325,6 +20373,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050225Z" creationid="hp" creationdate="20200420T050225Z">
         <seg>总共：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Traditional</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T110552Z" creationid="DSS" creationdate="20200424T110552Z">
+        <seg>传统</seg>
       </tuv>
     </tu>
     <tu>
@@ -21553,6 +21609,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095427Z" creationid="hp" creationdate="20200424T095257Z">
         <seg>Velior 撰写</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T110540Z" creationid="DSS" creationdate="20200424T110540Z">
+        <seg>版本</seg>
       </tuv>
     </tu>
     <tu>
