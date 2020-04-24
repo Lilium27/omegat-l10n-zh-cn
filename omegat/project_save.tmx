@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12854,6 +12854,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT currently requires version 1.6 of the JRE or later.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T111525Z" creationid="DSS" creationdate="20200424T111525Z">
+        <seg>OmegaT 目前需要 JRE 1.6 或更高版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT does not have read and write permissions to this folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050629Z" creationid="hp" creationdate="20200420T050629Z">
@@ -20245,6 +20253,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T071350Z" creationid="seiga" creationdate="20200421T071350Z">
         <seg>要检查其语法和适用性，建议使用能直接查看其效果的工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To check what version of the JRE, if any, is installed on your Linux system, open a console (command-line window) and type:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T111701Z" creationid="DSS" creationdate="20200424T111701Z">
+        <seg>如果你的 Linux 系统上安装了 JRE，要检查安装的是哪个版本，请打开控制台（命令行窗口）并输入：</seg>
       </tuv>
     </tu>
     <tu>
