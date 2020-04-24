@@ -3956,6 +3956,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Before proceeding</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T125518Z" creationid="DSS" creationdate="20200424T125518Z">
+        <seg>在往后阅读之前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Before proceeding with such conversions, be sure to test all options.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075503Z" creationid="hp" creationdate="20200418T075503Z">
@@ -8760,6 +8768,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Have you considered donating to OmegaT?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T125552Z" creationid="DSS" creationdate="20200424T125552Z">
+        <seg>你有没有考虑捐赠向 OmegaT 捐赠？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He&amp;aders</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114546Z" creationid="DSS" creationdate="20200419T114546Z">
@@ -9714,6 +9730,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T061312Z" creationid="hp" creationdate="20200418T075437Z">
         <seg>如果您有一个由扫描页面组成的 PDF 文件（此类文件有时被称为“死” PDF），您需要用 OCR（光学字符识别）程序识别文本并将其转换为 OmegaT 可以处理的格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have a natural aversion to reading instructions, and your approach to new software is to click on every button you see until something resembling the desired effect occurs, then OmegaT is probably not suitable for you.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T125454Z" creationid="DSS" creationdate="20200424T125454Z">
+        <seg>如果您天生厌倦阅读声明，并且您对新软件的使用方法是点击您看到的每个按钮，直到出现类似所需效果的东西，那么 OmegaT 可能不适合您。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13306,6 +13330,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T071254Z" creationid="seiga" creationdate="20200421T071254Z">
         <seg>OmegaT 被设置为对某些文件格式使用强制编码（Java 属性等）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is not particularly difficult to install or use, but it does require a willingness to read and follow the instructions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T125337Z" creationid="DSS" creationdate="20200424T125337Z">
+        <seg>OmegaT 的安装使用并不是特别困难，但确实需要阅读并遵循说明使用。</seg>
       </tuv>
     </tu>
     <tu>
