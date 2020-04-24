@@ -8161,16 +8161,16 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>For installation on Mac OS X.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T111037Z" creationid="DSS" creationdate="20200424T111037Z">
-        <seg>用于在 Mac OS X 上安装。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T130417Z" creationid="DSS" creationdate="20200424T111037Z">
+        <seg>用于在 Mac OS X 系统上安装。</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>For installation on Windows System.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T111029Z" creationid="DSS" creationdate="20200424T111029Z">
-        <seg>用于在 Windows 上系统安装。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T130457Z" creationid="DSS" creationdate="20200424T111029Z">
+        <seg>用于在 Windows 系统上安装。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18449,8 +18449,8 @@ current folder will be used instead.</seg>
       <tuv lang="en">
         <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T124602Z" creationid="DSS" creationdate="20200424T124602Z">
-        <seg>OmegaT 的“标准”版本包含完整的用户手册（至少有英语版本）并且通常已经过一段时间测试来消除各种故障。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T130648Z" creationid="DSS" creationdate="20200424T124602Z">
+        <seg>OmegaT 的“标准”版本包含完整的用户手册（至少有英语版本），并且通常已经经过一段时间的测试来消除各种故障。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18667,8 +18667,8 @@ Please try to correct the error and reload the project.</seg>
       <tuv lang="en">
         <seg>The Web Start version is the "install and forget" version.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T110816Z" creationid="DSS" creationdate="20200424T110816Z">
-        <seg>Web Start 版本是“安装后可以不管的（install and forget）”版本。&lt;br0/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T130412Z" creationid="DSS" creationdate="20200424T110816Z">
+        <seg>Web Start 版本是“安装后可以不用再操心的（install and forget）”版本。&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
