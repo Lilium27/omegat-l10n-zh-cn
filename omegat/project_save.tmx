@@ -3868,6 +3868,38 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By Sheila Gomes (in Brasilian Portuguese).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094858Z" creationid="hp" creationdate="20200424T094858Z">
+        <seg>作者：Sheila Gomes（巴西葡萄牙语）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By Susan Welsh (Open Document Format).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094817Z" creationid="hp" creationdate="20200424T094817Z">
+        <seg>作者：Susan Welsh（OpenDocument 格式）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By Susan Welsh (PDF format).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094822Z" creationid="hp" creationdate="20200424T094822Z">
+        <seg>作者：Susan Welsh（PDF 格式）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By Vladimir Zhdanov (in Russian).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094831Z" creationid="hp" creationdate="20200424T094831Z">
+        <seg>作者：Vladimir Zhdanov（俄语）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By default the editor displays 2,000 of initial segments, and progressively loads more as you scroll up or down.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T071447Z" creationid="seiga" creationdate="20200421T071447Z">
@@ -7207,6 +7239,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>External documentation</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094901Z" creationid="hp" creationdate="20200424T094901Z">
+        <seg>外部文档</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>External tools can be used to convert files to supported formats.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075444Z" creationid="hp" creationdate="20200418T075444Z">
@@ -8304,6 +8344,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HTML user manual online</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094751Z" creationid="hp" creationdate="20200424T094751Z">
+        <seg>在线 HTML 用户手册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>HTML, XHTML, ODF and Infix segmentation</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122136Z" creationid="DSS" creationdate="20200419T122136Z">
@@ -8488,6 +8536,22 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T065141Z" creationid="seiga" creationdate="20200421T065141Z">
         <seg>如何下载并安装词典</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How to translate Magento</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094926Z" creationid="hp" creationdate="20200424T094926Z">
+        <seg>如何翻译 Magento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>How to translate Wordpress XLIFF files</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094940Z" creationid="hp" creationdate="20200424T094940Z">
+        <seg>如何翻译 Wordpress XLIFF 文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -9771,6 +9835,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T095814Z" creationid="yangzy" creationdate="20200419T095814Z">
         <seg>信息</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Information on procedures and features of OmegaT for advanced users which can be found on other sites.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094913Z" creationid="hp" creationdate="20200424T094913Z">
+        <seg>可在其他网站上找到针对高级用户的 OmegaT 操作和功能的信息。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12470,6 +12542,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT for Beginners tutorial</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094813Z" creationid="hp" creationdate="20200424T094813Z">
+        <seg>OmegaT 初学者教程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT has a built-in spell checker based on the &lt;l0&gt;spelling checker&lt;/l0&gt; used in Apache OpenOffice, LibreOffice, Firefox and Thunderbird.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T071408Z" creationid="seiga" creationdate="20200421T071408Z">
@@ -13866,6 +13946,30 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Procedure for using OmegaT to localize Magento.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094927Z" creationid="hp" creationdate="20200424T094927Z">
+        <seg>用 OmegaT 本地化 Magento 的流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Procedure for using OmegaT to localize XLIFF files exported from Wordpress.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094949Z" creationid="hp" creationdate="20200424T094949Z">
+        <seg>用 OmegaT 本地化从 Wordpress 导出 XLIFF 文件的流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Procedure for using OmegaT to localize the NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094922Z" creationid="hp" creationdate="20200424T094922Z">
+        <seg>用 OmegaT 本地化 Netbeans IDE 的流程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Proceed?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094958Z" creationid="yangzy" creationdate="20200419T094958Z">
@@ -14290,6 +14394,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050758Z" creationid="hp" creationdate="20200420T050758Z">
         <seg>递归查找(&amp;V)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Recursos do OmegaT: primeiros passos</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094842Z" creationid="hp" creationdate="20200424T094842Z">
+        <seg>OmegaT 功能：入门</seg>
       </tuv>
     </tu>
     <tu>
@@ -17559,6 +17671,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The HTML user manual for OmegaT standard version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094800Z" creationid="hp" creationdate="20200424T094800Z">
+        <seg>HTML 格式的 OmegaT 标准版用户手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The Java Resource Bundles filter threw an exception:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113059Z" creationid="DSS" creationdate="20200419T113059Z">
@@ -18023,6 +18143,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072419Z" creationid="hp" creationdate="20200418T072419Z">
         <seg>以下方案只是其中一种方法，不过足够简单、容易操作且没有危险性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The following tutorials are available online/for download:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094807Z" creationid="hp" creationdate="20200424T094807Z">
+        <seg>以下教程可供在线查阅或下载：</seg>
       </tuv>
     </tu>
     <tu>
@@ -18708,6 +18836,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134500Z" creationid="Liliu" creationdate="20200418T134500Z">
         <seg>上半部分以原语言显示，为带绿色背景色的粗体字符；下半部分是编辑区域，以标记结尾：标记格式为 &lt;l0&gt;&lt;segment nnnn&gt;&lt;/l0&gt;， 其中 nnnn 是项目中的一些句段。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The user manual for OmegaT in PDF format ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094742Z" creationid="hp" creationdate="20200424T094742Z">
+        <seg>PDF 格式的 OmegaT 用户手册（{{ site.data.versions.standard.name }}）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20018,10 +20154,26 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Translating NetBeans IDE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094919Z" creationid="hp" creationdate="20200424T094919Z">
+        <seg>翻译 NetBeans IDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Translating Project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T101835Z" creationid="Liliu" creationdate="20200419T101835Z">
         <seg>正在翻译项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Translating with Rainbow and OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095001Z" creationid="hp" creationdate="20200424T094953Z">
+        <seg>使用 Rainbow 和 OmegaT 进行翻译</seg>
       </tuv>
     </tu>
     <tu>
@@ -20142,6 +20294,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T143247Z" creationid="Liliu" creationdate="20200418T143247Z">
         <seg>故障排除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tutorials</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094803Z" creationid="hp" creationdate="20200424T094803Z">
+        <seg>教程</seg>
       </tuv>
     </tu>
     <tu>
@@ -20857,6 +21017,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T111224Z" creationid="Liliu" creationdate="20200419T111224Z">
         <seg>用户拒绝凭证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User manual online</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094735Z" creationid="hp" creationdate="20200424T094735Z">
+        <seg>在线用户手册</seg>
       </tuv>
     </tu>
     <tu>
@@ -22286,10 +22454,34 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://www.magenshop.com/magento-wiki/how-to-translate-magento-using-omegat-software.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094924Z" creationid="hp" creationdate="20200424T094924Z">
+        <seg>https://term.tilde.com/taas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://www.w3.org/International/questions/qa-bidi-controls</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T111919Z" creationid="yangzy" creationdate="20200419T111919Z">
         <seg>http://www.w3.org/International/questions/qa-bidi-controls</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://blog.wtigga.com/omegat/</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094824Z" creationid="hp" creationdate="20200424T094824Z">
+        <seg>https://term.tilde.com/taas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://www.multitude.trd.br/omegat-2/</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094836Z" creationid="hp" creationdate="20200424T094836Z">
+        <seg>https://term.tilde.com/taas</seg>
       </tuv>
     </tu>
     <tu>
