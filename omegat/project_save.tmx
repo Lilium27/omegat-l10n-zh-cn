@@ -5225,6 +5225,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copyright Milan Hubacek and Marc Prior 2011</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T113856Z" creationid="hp" creationdate="20200424T113856Z">
+        <seg>版权所有 Milan Hubacek ， Marc Prior 2011</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copyright © 2000-2019 Keith Godfrey, Maxym Mykhalchuk and others</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114803Z" creationid="DSS" creationdate="20200419T114803Z">
@@ -8594,8 +8602,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Google Machine Translation is a paid service (US$20.00 per million characters).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T112643Z" creationid="hp" creationdate="20200424T112643Z">
-        <seg>谷歌机器翻译是收费服务（每百万字符 20 美元）</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T113710Z" creationid="hp" creationdate="20200424T112643Z">
+        <seg>谷歌机器翻译是收费服务（每百万字符 20 美元）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10161,8 +10169,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>In the upper menu:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T112728Z" creationid="hp" creationdate="20200424T112728Z">
-        <seg>上层菜单</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T113727Z" creationid="hp" creationdate="20200424T112728Z">
+        <seg>打开上层菜单</seg>
       </tuv>
     </tu>
     <tu>
@@ -12090,8 +12098,8 @@ inside the configuration folder.</seg>
       <tuv lang="en">
         <seg>More &gt; Even More &gt; Innovation/Code &gt; APIs Console &gt; Service/Translate API</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T113339Z" creationid="hp" creationdate="20200424T113339Z">
-        <seg>更多 &gt; 更多选项 &gt; Innovation/Code &gt; APIs 控制台 &gt; 服务 / 翻译 </seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T113816Z" creationid="hp" creationdate="20200424T113339Z">
+        <seg>更多 &gt; 更多选项 &gt; 更新 / 代码 &gt; APIs 控制台 &gt; 服务 / 翻译 </seg>
       </tuv>
     </tu>
     <tu>
