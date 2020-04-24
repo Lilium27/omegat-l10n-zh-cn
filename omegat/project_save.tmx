@@ -3278,6 +3278,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An important aspect of this freedom is that users may also modify the program's code.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T105513Z" creationid="Liliu" creationdate="20200424T105513Z">
+        <seg>这种自由的一个重要方面是用户也可以修改程序的代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An introductory video to OmegaT in English by John Moran.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095147Z" creationid="hp" creationdate="20200424T095147Z">
@@ -9919,6 +9927,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In turn, they are free, and indeed encouraged (but not obliged in any way) to contribute back to the project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T105845Z" creationid="Liliu" creationdate="20200424T105845Z">
+        <seg>反过来，虽然用户没有任何义务，他们可以自由且确受鼓励地为项目做出贡献。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In view of the flexibility, you may consider defining more exception rules for your source language in order to provide more meaningful and coherent segments.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T071342Z" creationid="seiga" creationdate="20200421T071342Z">
@@ -12238,6 +12254,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Not only may it be used free of charge, users are also free to make copies of it and distribute them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T105507Z" creationid="Liliu" creationdate="20200424T105507Z">
+        <seg>它不仅可以免费使用，而且用户还可以自由地对其复制和分发。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Not present</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114743Z" creationid="Liliu" creationdate="20200419T114743Z">
@@ -12778,6 +12802,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134537Z" creationid="Liliu" creationdate="20200418T134537Z">
         <seg>OmegaT 能保存与原文完全相同的译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is an open-source application and project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T105452Z" creationid="Liliu" creationdate="20200424T105452Z">
+        <seg>OmegaT是开源的应用程序和项目。</seg>
       </tuv>
     </tu>
     <tu>
@@ -17911,6 +17943,14 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OmegaT project philosophy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T105630Z" creationid="Liliu" creationdate="20200424T105630Z">
+        <seg>OmegaT 项目理念</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The PO filter threw an exception:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T112819Z" creationid="DSS" creationdate="20200419T112819Z">
@@ -18538,8 +18578,8 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       <tuv lang="en">
         <seg>The open-source philosophy</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T105415Z" creationid="Liliu" creationdate="20200424T105415Z">
-        <seg>开源的理念</seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T105446Z" creationid="Liliu" creationdate="20200424T105415Z">
+        <seg>开源理念</seg>
       </tuv>
     </tu>
     <tu>
@@ -18724,6 +18764,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T071241Z" creationid="seiga" creationdate="20200421T071241Z">
         <seg>。添加模式和编辑特定模式使用相同的对话框。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The same spirit can be found within the OmegaT project.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T105643Z" creationid="Liliu" creationdate="20200424T105643Z">
+        <seg>在 OmegaT 项目中可以找到相同的精神。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19527,6 +19575,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is described as "free as in speech", in contrast to "free as in beer".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T105627Z" creationid="Liliu" creationdate="20200424T105627Z">
+        <seg>这被称为“free as in speech（指“自由”，即 free speech（言论自由）中 free 的含义）”，与此相对的是“free as in beer（指“免费”，即 free beer（免费啤酒）中 free 的含义）”。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is especially useful when dealing with texts where inline formatting is not really useful (e.g., OCRed PDF, bad converted .odt or .docx, etc.) In a normal case it should always be possible to open the target documents, as only inline tags are removed.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T030104Z" creationid="hp" creationdate="20200418T042143Z">
@@ -19627,6 +19683,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T070258Z" creationid="hp" creationdate="20200418T070258Z">
         <seg>这意味着如果原文语言是从左向右的而目标语言是从右向左的，或反之，就可能必须在从右向左和从左向右模式之间来回切换，以便在各自的模式下查看原文并输入译文。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This means that the source code of the OmegaT program is freely available, and that OmegaT's license gives its users considerable freedom in its use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T105501Z" creationid="Liliu" creationdate="20200424T105501Z">
+        <seg>这意味着 OmegaT 的源代码是免费提供的，且 OmegaT 的许可证为其用户提供了极大的使用自由。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20117,6 +20181,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T033817Z" creationid="DSS" creationdate="20200418T122507Z">
         <seg>开始使用 OmegaT 时首先要创建项目，用来保存您的所有文件，例如源文件、翻译记忆、术语表及您要翻译的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To the open-source movement, the freedom that users have to change the program to suit their own needs is more important than the fact that they do not have to pay for it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T105538Z" creationid="Liliu" creationdate="20200424T105538Z">
+        <seg>对开源运动来说，用户拥有按需修改程序的自由比无需付费更加重要。</seg>
       </tuv>
     </tu>
     <tu>
@@ -21321,6 +21393,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101347Z" creationid="yangzy" creationdate="20200419T101347Z">
         <seg>用户名或 API 密钥：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Users are free to download and use the program.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T105651Z" creationid="Liliu" creationdate="20200424T105651Z">
+        <seg>用户可以自由地下载和使用该程序。</seg>
       </tuv>
     </tu>
     <tu>
