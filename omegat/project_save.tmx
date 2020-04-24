@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9458,6 +9458,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T033938Z" creationid="DSS" creationdate="20200418T122809Z">
         <seg>如果对该对话框中的其他设置感兴趣，则随时都可以按 &lt;k0&gt;Ctrl+E&lt;/k0&gt; 返回。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T111838Z" creationid="DSS" creationdate="20200424T111838Z">
+        <seg>如果你不确定系统上是否已经安装有合适的 JRE，你依然可以下载并安装带 JRE 版本的 OmegaT。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20111,6 +20119,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This version of the JRE will only be used locally for OmegaT, will not conflict with, override or uninstall any other JRE installations, and is therefore safe to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T111911Z" creationid="DSS" creationdate="20200424T111911Z">
+        <seg>此版本的 JRE 将仅由 OmegaT 局部使用，不会出现冲突、覆盖、或卸载任何其他 JRE 的情况，因此可以放心使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This way the translator can be provided the context about the segment to be translated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T095742Z" creationid="Liliu" creationdate="20200418T142824Z">
@@ -22304,6 +22320,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200424T101441Z" creationid="hp" creationdate="20200424T101441Z">
         <seg>Windows 用户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>With JRE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T111916Z" creationid="DSS" creationdate="20200424T111916Z">
+        <seg>带 JRE</seg>
       </tuv>
     </tu>
     <tu>
