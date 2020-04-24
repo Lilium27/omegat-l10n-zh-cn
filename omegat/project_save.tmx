@@ -4172,6 +4172,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Certain program functions have however been commissioned by commercial sponsors who have then donated the features back to the community.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095749Z" creationid="hp" creationdate="20200424T095749Z">
+        <seg>但是，某些程序功能是由商业赞助商委托的，他们随后又将这些功能回赠给了社区。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Change date</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114817Z" creationid="Liliu" creationdate="20200419T114817Z">
@@ -17018,6 +17026,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sponsorship</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095741Z" creationid="hp" creationdate="20200424T095741Z">
+        <seg>赞助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Standard</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T112813Z" creationid="DSS" creationdate="20200419T112813Z">
@@ -18279,6 +18295,14 @@ instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T070720Z" creationid="seiga" creationdate="20200421T070720Z">
         <seg>按键（快捷键）的完整语法在来自 Oracle 的 Java 1.6 文档中定义（页面底部） &lt;u0&gt;Java 1.6 按键（快捷键）&lt;/u0&gt;：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The great majority of work on the OmegaT project has been completed on a voluntary basis.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095744Z" creationid="hp" creationdate="20200424T095744Z">
+        <seg>OmegaT 项目的大部分工作是在自愿的基础上完成的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19861,6 +19885,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T071419Z" creationid="seiga" creationdate="20200421T071419Z">
         <seg>要创建空译文，在片段中点击右键并选择“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To date, these sponsors are:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095751Z" creationid="hp" creationdate="20200424T095751Z">
+        <seg>迄今为止，这些赞助商有：</seg>
       </tuv>
     </tu>
     <tu>
