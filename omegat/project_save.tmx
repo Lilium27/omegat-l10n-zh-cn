@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1412,8 +1412,8 @@ To add files to the project, click on the Copy Files to Source Folder... button 
       <tuv lang="en">
         <seg>(where "xxxxx" is the API key provided by Google).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T111724Z" creationid="hp" creationdate="20200424T111724Z">
-        <seg>(在 "xxxxx" 处填入谷歌提供的 API</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T113558Z" creationid="hp" creationdate="20200424T111724Z">
+        <seg>(在 "xxxxx" 处填入谷歌提供的 API）</seg>
       </tuv>
     </tu>
     <tu>
@@ -3578,8 +3578,8 @@ may experience unexpected, but correct behaviour.</seg>
       <tuv lang="en">
         <seg>Assign the key to OmegaT's launch procedure as follows, depending upon whether you are using Windows, Mac, or launching OmegaT from the command line or by means of a script:</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T101437Z" creationid="hp" creationdate="20200424T101437Z">
-        <seg>根据以下步骤部署密钥到 OmegaT，您也可以使用命令行或脚本来部署密钥。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T113503Z" creationid="hp" creationdate="20200424T101437Z">
+        <seg>根据以下步骤添加密钥到 OmegaT，您也可以使用命令行或脚本来添加密钥。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3950,8 +3950,8 @@ Buy another drink</seg>
       <tuv lang="en">
         <seg>Besides the web page into which users can simply paste text for translation, Google Translate also provides an interface (API) which can be used by CAT tools to access the service.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T100739Z" creationid="hp" creationdate="20200424T100739Z">
-        <seg>除了使用网页版机器翻译，用户还可以使用谷歌翻译的接口（API），CAT 工具可以使用该接口来访问谷歌提供的服务。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T113400Z" creationid="hp" creationdate="20200424T100739Z">
+        <seg>除了使用网页版机器翻译，用户还可以使用谷歌翻译接口（API），CAT 工具可以使用该接口来访问谷歌提供的服务。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8610,8 +8610,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Google will generate your API key, a string with approximately 39 characters.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T101208Z" creationid="hp" creationdate="20200424T101208Z">
-        <seg>谷歌会为您生成 API 密钥，密钥为大约 39 个字符的字符串。</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T113430Z" creationid="hp" creationdate="20200424T101208Z">
+        <seg>谷歌会自动为您生成 API 密钥，密钥为大约 39 个字符的字符</seg>
       </tuv>
     </tu>
     <tu>
@@ -11546,8 +11546,8 @@ inside the configuration folder.</seg>
       <tuv lang="en">
         <seg>Make sure that you have your credit card details handy.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T101110Z" creationid="hp" creationdate="20200424T101110Z">
-        <seg>确保您知道自己的信用卡信息</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T113408Z" creationid="hp" creationdate="20200424T101110Z">
+        <seg>请确保您知道自己的信用卡信息</seg>
       </tuv>
     </tu>
     <tu>
@@ -15786,8 +15786,8 @@ These words: 'Page not found'</seg>
       <tuv lang="en">
         <seg>Right-click on OmegaT.app and select "Show Package Contents".</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T111940Z" creationid="hp" creationdate="20200424T111940Z">
-        <seg>右击 OmegaT 图标，选择 “显示包内容".</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T113620Z" creationid="hp" creationdate="20200424T111940Z">
+        <seg>右击 OmegaT 图标，选择 “显示套餐".</seg>
       </tuv>
     </tu>
     <tu>
@@ -24128,8 +24128,8 @@ create its configuration folder.</seg>
       <tuv lang="en">
         <seg>where "XXXXXXXX" is your Google Translate API key.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T112120Z" creationid="hp" creationdate="20200424T112120Z">
-        <seg>在 "XXXXXXXX" 处填入谷歌提供的 API.</seg>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T113650Z" creationid="hp" creationdate="20200424T112120Z">
+        <seg>在 "XXXXXXXX" 处填入谷歌提供的 API。</seg>
       </tuv>
     </tu>
     <tu>
