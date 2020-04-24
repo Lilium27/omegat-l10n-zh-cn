@@ -1726,6 +1726,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Sponsorship of development has already resulted in the addition of certain features.&lt;/a0&gt; If you are willing to finance the work of implementing your desired feature, please contact the development team privately for a quotation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T112234Z" creationid="Liliu" creationdate="20200424T112234Z">
+        <seg>&lt;a0&gt;赞助开发已经促成了一些功能的添加。&lt;/a0&gt;如果您愿意对实现您所需功能的工作进行资助，请私下与开发团队联系来获取报价。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;auto&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T061740Z" creationid="seiga" creationdate="20200421T061740Z">
