@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3488,6 +3488,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As elsewhere in the OmegaT project, the work of programming OmegaT is done by volunteers, and in keeping with the project philosophy, the developments and improvements they make to OmegaT are ultimately at their discretion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T111534Z" creationid="Liliu" creationdate="20200424T111534Z">
+        <seg>与 OmegaT 项目的其他地方一样，OmegaT 的编程工作由志愿者完成，并且根据项目理念，他们对 OmegaT 的开发和改进最终由他们自己决定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As of December 2011, Google has required payment from users for use of this service.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200424T100820Z" creationid="hp" creationdate="20200424T100820Z">
@@ -5689,6 +5697,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Development of OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T111223Z" creationid="Liliu" creationdate="20200424T111223Z">
+        <seg>OmegaT 开发</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>DictZip from JDict (GPL)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T120614Z" creationid="DSS" creationdate="20200419T120614Z">
@@ -7879,6 +7895,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For example, anyone is free to make changes to OmegaT's program code and to submit these changes to the development team.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T110826Z" creationid="Liliu" creationdate="20200424T110826Z">
+        <seg>例如，任何人都可以自由地对 OmegaT 的程序代码做出更改，并将这些更改提交给开发团队。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For example, by default &lt;l0&gt;.txt&lt;/l0&gt; files will be loaded using the default encoding of your operating system.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T071250Z" creationid="seiga" creationdate="20200421T071250Z">
@@ -9883,6 +9907,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050751Z" creationid="hp" creationdate="20200420T050751Z">
         <seg>在原文中(&amp;U)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>In some areas, some degree of co-ordination is required.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T110743Z" creationid="Liliu" creationdate="20200424T110743Z">
+        <seg>在某些领域，需要一定程度的协调。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13216,6 +13248,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122002Z" creationid="DSS" creationdate="20200419T122002Z">
         <seg>除非 (X)HTML 文件由编码声明(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Only if they are considered beneficial for OmegaT's users, however, will the development team include them in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T110846Z" creationid="Liliu" creationdate="20200424T110846Z">
+        <seg>然而，只有当认为它们对 OmegaT 用户有益的情况下，开发团队才会将它们接纳入 OmegaT 中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18523,6 +18563,14 @@ instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The first of these is the &lt;a0&gt;OmegaT user group&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T111600Z" creationid="Liliu" creationdate="20200424T111600Z">
+        <seg>其中首要的是  &lt;a0&gt;OmegaT 用户组&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The following list includes expressions you may find useful when searching through the translation memory:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T065747Z" creationid="seiga" creationdate="20200421T065747Z">
@@ -19344,6 +19392,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>There is however considerable scope within the project for users to suggest improvements and influence the course of future development.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T111543Z" creationid="Liliu" creationdate="20200424T111543Z">
+        <seg>但是，用户在项目中有相当大空间可以提出改进建议并影响未来的发展进程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>There may be cases where you have done a project with e.g. Dutch sources, and a translation in say English.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T033955Z" creationid="hp" creationdate="20200418T072848Z">
@@ -19695,6 +19751,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This ensures that the users' interests are protected, and has also resulted in OmegaT being awarded the &lt;a0&gt;Softpedia "100% FREE" guarantee&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T111217Z" creationid="Liliu" creationdate="20200424T111217Z">
+        <seg>这样可以确保用户的利益得到保护，而又让 OmegaT 被授予 &lt;a0&gt;Softpedia“100％ 自由”保证e&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This external command cannot include "pipes", etc., which is why calling a script is recommended.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T050147Z" creationid="hp" creationdate="20200418T050147Z">
@@ -19715,6 +19779,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110144Z" creationid="yangzy" creationdate="20200419T110144Z">
         <seg>此功能是团队项目特有的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This hands-off approach is described by the current OmegaT project co-ordinator as "delegated anarchy".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T110728Z" creationid="Liliu" creationdate="20200424T110728Z">
+        <seg>当前的 OmegaT 项目协调员将这种不干涉的方法称为“授权无政府状态”。</seg>
       </tuv>
     </tu>
     <tu>
