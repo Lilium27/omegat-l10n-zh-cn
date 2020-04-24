@@ -3836,6 +3836,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Besides the web page into which users can simply paste text for translation, Google Translate also provides an interface (API) which can be used by CAT tools to access the service.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T100739Z" creationid="hp" creationdate="20200424T100739Z">
+        <seg>除了使用网页版机器翻译，用户还可以使用谷歌翻译的接口（API），CAT 工具可以使用该接口来访问谷歌提供的服务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bidirectional control characters</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T131432Z" creationid="Liliu" creationdate="20200419T131432Z">
