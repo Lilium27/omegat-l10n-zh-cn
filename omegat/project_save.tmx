@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13273,6 +13273,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT's developers, who are all volunteers, may be more willing to implement an RFE if the development work is funded by the requester.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T112152Z" creationid="Liliu" creationdate="20200424T112152Z">
+        <seg>如果请求者对开发工作进行资助，则 OmegaT 的开发人员（他们全部都是志愿者）可能会更愿意去实现某个 RFE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T030301Z" creationid="DSS" creationdate="20200418T123718Z">
@@ -22353,8 +22361,8 @@ on line {1}, column {2}.</seg>
       <tuv lang="en">
         <seg>Whether or not it is adopted depends firstly upon whether the development team considers it beneficial to OmegaT, and secondly, upon whether one of the developers is willing to do the work of implementing it.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T112048Z" creationid="Liliu" creationdate="20200424T112048Z">
-        <seg>它是否被采纳首先取决于开发团队是否认为其对 OmegaT 有利，其次则是是否有开发人员愿意来完成其实现工作。 </seg>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T112146Z" creationid="Liliu" creationdate="20200424T112048Z">
+        <seg>是否被采纳首先取决于开发团队是否认为其对 OmegaT 有利，其次则是是否有开发人员愿意来完成其实现工作。 </seg>
       </tuv>
     </tu>
     <tu>
