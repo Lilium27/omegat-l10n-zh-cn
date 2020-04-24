@@ -1312,6 +1312,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(In Italian)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095253Z" creationid="hp" creationdate="20200424T095253Z">
+        <seg>（意大利语）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(In the user's manual, see 'Files to translate' &gt; 'File formats' for a list of supported file formats.)
 To add files to the project, click on the Copy Files to Source Folder... button in the Project Files window or call this action from the Project menu and select the source files you want to copy.</seg>
       </tuv>
@@ -2334,6 +2342,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A step-by-step guide on how to use the Text Extraction and the Text Merging utilities from Rainbow to pre- and post-process files to be translated using OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095129Z" creationid="hp" creationdate="20200424T095045Z">
+        <seg>关于如何用 Rainbow 的文本提取和文本合并功能对要用 OmegaT 翻译的文件进行预处理和后处理的详细指南。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A team project can be opened and translated offline.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120928Z" creationid="DSS" creationdate="20200418T120928Z">
@@ -3238,6 +3254,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An introductory video to OmegaT in English by John Moran.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095147Z" creationid="hp" creationdate="20200424T095147Z">
+        <seg>John Moran 的英文 OmegaT 介绍视频。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An item named "{0}" already exists in this location.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200420T041441Z" creationid="qinxun" creationdate="20200420T041441Z">
@@ -3804,10 +3828,26 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Blog pages on OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095324Z" creationid="hp" creationdate="20200424T095324Z">
+        <seg>关于 OmegaT 的博客页面。（英语）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Bookmark &amp;references</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T113726Z" creationid="DSS" creationdate="20200419T113726Z">
         <seg>书签和引用(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Books</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095206Z" creationid="hp" creationdate="20200424T095206Z">
+        <seg>书籍</seg>
       </tuv>
     </tu>
     <tu>
@@ -3864,6 +3904,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200420T041846Z" creationid="qinxun" creationdate="20200420T041846Z">
         <seg>浏览...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By Marco Cevoli and Sergio Alasia.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095233Z" creationid="hp" creationdate="20200424T095233Z">
+        <seg>作者： Marco Cevoli 和 Sergio Alasia。</seg>
       </tuv>
     </tu>
     <tu>
@@ -7984,6 +8032,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>From the YouTube OmegaT series by Miguel Navarro (in Spanish).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095155Z" creationid="hp" creationdate="20200424T095155Z">
+        <seg>Miguel Navarro 的 OmegaT 系列，来自 YouTube（西班牙语）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Full checking can lead to false positives in normal texts.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T093438Z" creationid="yangzy" creationdate="20200419T093438Z">
@@ -8308,6 +8364,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052535Z" creationid="hp" creationdate="20200420T052535Z">
         <seg>查找表达式中不存在组 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Guida completa a OmegaT: tecniche, trucchi e consigli per traduttori e project manager</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095231Z" creationid="hp" creationdate="20200424T095231Z">
+        <seg>OmegaT 完全指南：适用于翻译人员和项目经理的技巧、提示和建议</seg>
       </tuv>
     </tu>
     <tu>
@@ -12598,6 +12662,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT introduction tutorial</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095144Z" creationid="hp" creationdate="20200424T095144Z">
+        <seg>OmegaT 入门教程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is a free and open source multiplatform Computer Assisted Translation tool with fuzzy matching, translation memory, keyword search, glossaries, and translation leveraging into updated projects.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T115412Z" creationid="DSS" creationdate="20200419T115157Z">
@@ -12741,6 +12813,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T114753Z" creationid="DSS" creationdate="20200419T114753Z">
         <seg>OmegaT 版本 {0}, update {1} ({2})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT videos on the Qabiria YouTube channel.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095138Z" creationid="hp" creationdate="20200424T095138Z">
+        <seg>Qabiria YouTube 频道上的 OmegaT 视频。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13528,6 +13608,14 @@ Vanishing like mist</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200420T042039Z" creationid="qinxun" creationdate="20200420T042039Z">
         <seg>精确对齐：选择相应的单元格</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Playlist of OmegaT videos</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095136Z" creationid="hp" creationdate="20200424T095136Z">
+        <seg>OmegaT 视频播放列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -16134,6 +16222,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110055Z">
         <seg>选择显示在模糊匹配窗格中的上一个、下一个或第 N 个模糊匹配来将其替换或插入到句段中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Self-paced online training course in English (for purchase)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095248Z" creationid="hp" creationdate="20200424T095248Z">
+        <seg>英语自学在线培训教程（付费）</seg>
       </tuv>
     </tu>
     <tu>
@@ -18989,6 +19085,14 @@ You, victim of one</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>These utilities enable OmegaT to be used to translate file formats for which XLIFF conversion filters are available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095123Z" creationid="hp" creationdate="20200424T095123Z">
+        <seg>有了这些功能， OmegaT 可处理那些 XLIFF 转换过滤器可用的文件格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>They are displayed as &lt;EMPTY&gt; in the Editor.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T071419Z" creationid="seiga" creationdate="20200421T071419Z">
@@ -19981,6 +20085,22 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050225Z" creationid="hp" creationdate="20200420T050225Z">
         <seg>总共：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Training</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095239Z" creationid="hp" creationdate="20200424T095239Z">
+        <seg>培训</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Training videos</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095132Z" creationid="hp" creationdate="20200424T095132Z">
+        <seg>培训视频</seg>
       </tuv>
     </tu>
     <tu>
@@ -21181,10 +21301,42 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Velior's corporate blog &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095315Z" creationid="hp" creationdate="20200424T095257Z">
+        <seg>Velior 撰写的关于翻译和翻译行业</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Version: {0}</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052607Z" creationid="hp" creationdate="20200420T052607Z">
         <seg>版本：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Video 1</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095151Z" creationid="hp" creationdate="20200424T095151Z">
+        <seg>视频 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Video 2</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095201Z" creationid="hp" creationdate="20200424T095201Z">
+        <seg>视频 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Video 3</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095204Z" creationid="hp" creationdate="20200424T095204Z">
+        <seg>视频 3</seg>
       </tuv>
     </tu>
     <tu>
@@ -22734,6 +22886,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>on translation and the &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095304Z" creationid="hp" creationdate="20200424T095304Z">
+        <seg>的企业博客</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>open the project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071205Z" creationid="hp" creationdate="20200418T071205Z">
@@ -23002,6 +23162,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T075454Z" creationid="hp" creationdate="20200418T075454Z">
         <seg>对它进行翻译并创建译文 ODT 文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>translation industry</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T095320Z" creationid="hp" creationdate="20200424T095320Z">
+        <seg>翻译编辑</seg>
       </tuv>
     </tu>
     <tu>
