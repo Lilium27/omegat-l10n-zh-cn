@@ -7785,8 +7785,8 @@ Gossamer threads hold you back
       <tuv lang="en">
         <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T125012Z" creationid="DSS" creationdate="20200424T125012Z">
-        <seg>Microsoft Office的 XML 格式文件可以是直接使用 OmegaT 翻译的。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T130717Z" creationid="DSS" creationdate="20200424T125012Z">
+        <seg>Microsoft Office的 XML 格式文件可以直接使用 OmegaT 翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8998,8 +8998,8 @@ Its winter has come</seg>
       <tuv lang="en">
         <seg>However, the user manual may no longer be up to date (and therefore possibly confusing), and some minor bugs are possible.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T124726Z" creationid="DSS" creationdate="20200424T124726Z">
-        <seg>但是，用户手册可能不一定是最新的（因此可能会让人困惑），并且可能会出现小故障。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T130743Z" creationid="DSS" creationdate="20200424T124726Z">
+        <seg>但是，用户手册不一定是最新的（因此可能会让人困惑），并且可能会出现小故障。</seg>
       </tuv>
     </tu>
     <tu>
@@ -10857,8 +10857,8 @@ their defaults as a result of the location change.</seg>
       <tuv lang="en">
         <seg>It is the recommended version for first-time users.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T124608Z" creationid="DSS" creationdate="20200424T124608Z">
-        <seg>首次使用的用户推荐使用此版本。</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T130908Z" creationid="DSS" creationdate="20200424T124608Z">
+        <seg>新用户推荐使用此版本。</seg>
       </tuv>
     </tu>
     <tu>
