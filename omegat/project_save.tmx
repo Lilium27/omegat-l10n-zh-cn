@@ -11056,6 +11056,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Locate the configuration file OmegaT.l4J.ini (the default location is C:\Program Files (x86)\OmegaT).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T101515Z" creationid="hp" creationdate="20200424T101515Z">
+        <seg>找到配置文件 OmegaT.l4J.ini（默认位置为C：\ Program Files（x86）\ OmegaT）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Location</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T050756Z" creationid="hp" creationdate="20200420T050756Z">
@@ -13088,6 +13096,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110146Z" creationid="yangzy" creationdate="20200419T110146Z">
         <seg>打开 MED 项目...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open OmegaT.l4J.ini in a plain-text editor</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T101559Z" creationid="hp" creationdate="20200424T101559Z">
+        <seg>在编辑器中打开 OmegaT.l4J.ini </seg>
       </tuv>
     </tu>
     <tu>
@@ -19997,6 +20013,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T071201Z" creationid="seiga" creationdate="20200421T071201Z">
         <seg>要编辑过滤器将处理的文件及使用的编码，请从列表中选中该过滤器然后点击编辑按钮。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>To edit this file, you may need Administrator mode, or to move it temporarily to a different location on your hard drive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T101544Z" creationid="hp" creationdate="20200424T101544Z">
+        <seg>要编辑此文件，您可能需要使用管理员模式或将其临时移动到硬盘驱动器上的其他位置。&lt;片段0877&gt;</seg>
       </tuv>
     </tu>
     <tu>
