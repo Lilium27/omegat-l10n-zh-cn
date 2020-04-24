@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3370,6 +3370,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200424T111657Z" creationid="hp" creationdate="20200424T111657Z">
         <seg>删除 -Dgoogle.api.key 前面的 “#”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>And remove "#" at the line head.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T112032Z" creationid="hp" creationdate="20200424T112032Z">
+        <seg>删除行首的 ”#“。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11216,6 +11224,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Linux users:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T112143Z" creationid="hp" creationdate="20200424T112143Z">
+        <seg>Linux 用户</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>List View</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114744Z" creationid="Liliu" creationdate="20200419T114744Z">
@@ -11452,6 +11468,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T071215Z" creationid="hp" creationdate="20200418T071215Z">
         <seg>定期将 /omegat/project_save.tmx 复制到备份媒介上，例如 CD 或 DVD。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Make sure that you have the Kaptain launcher installed (&lt;a0&gt;refer if necessary to the Linux Howto)&lt;/a0&gt;, then enter the Google Translate API key in the relevant field on the Connectivity tab.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T112306Z" creationid="hp" creationdate="20200424T112306Z">
+        <seg>确保已安装 Kaptain 启动器（&lt;a0&gt;，如有必要，请参考 Linux Howto 教程）&lt;/a0&gt;，在 “连接” 选项卡的相关字段中输入谷歌翻译提供的 API 密钥。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15880,6 +15904,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Save OmegaT.sh.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T112134Z" creationid="hp" creationdate="20200424T112134Z">
+        <seg>保存 OmegaT.sh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save Script</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101828Z" creationid="yangzy" creationdate="20200419T101828Z">
@@ -20095,6 +20127,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This line defines GOOGLE_API_KEY.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T112048Z" creationid="hp" creationdate="20200424T112048Z">
+        <seg>该行定义了谷歌的 API 密钥。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This makes it possible to rename the file to be translated.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074617Z" creationid="hp" creationdate="20200418T074617Z">
@@ -21865,6 +21905,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T105651Z" creationid="Liliu" creationdate="20200424T105651Z">
         <seg>用户可以自由地下载和使用该程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Users launching OmegaT from the command line or by a script:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T112334Z" creationid="hp" creationdate="20200424T112334Z">
+        <seg>使用命令行或脚本启动 OmegaT：&lt;片段0906&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23970,6 +24018,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T122032Z" creationid="DSS" creationdate="20200419T122032Z">
         <seg>value（button 控件，包括 &amp;submit input 和 reset input，的 value 属性）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>where "XXXXXXXX" is your Google Translate API key.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T112120Z" creationid="hp" creationdate="20200424T112120Z">
+        <seg>在 "XXXXXXXX" 处填入谷歌提供的 API.</seg>
       </tuv>
     </tu>
     <tu>
