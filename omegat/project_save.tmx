@@ -2214,6 +2214,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T110913Z" creationid="DSS" creationdate="20200424T110913Z">
+        <seg>&lt;s1&gt;优点&lt;/s1&gt;：一旦启动，Web Start 版本未来的更新都会自动安装到你的计算机上。&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s3&gt;The drawback&lt;/s3&gt;: at present, this version cannot be used in conjunction with plug-ins, so not all functions are available.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T110943Z" creationid="DSS" creationdate="20200424T110943Z">
+        <seg>&lt;s3&gt;缺点&lt;/s3&gt;：目前，这个版本不能和插件一起使用，因此并非所有功能都可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;shortcut&gt; must be of the following form: 0 or more &lt;c0&gt;&lt;modifier&gt;&lt;/c0&gt; followed by 0 or 1 &lt;c1&gt;&lt;event&gt;&lt;/c1&gt; followed by 1 &lt;c2&gt;&lt;key&gt;&lt;/c2&gt;, where:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T070741Z" creationid="seiga" creationdate="20200421T070741Z">
@@ -7951,6 +7967,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For installation on Windows System.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T111029Z" creationid="DSS" creationdate="20200424T111029Z">
+        <seg>用于在 Windows 上系统安装。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For instance (if the default is accepted), the translation from the ancillary TM is accepted and prefixed with&lt;e3&gt; [fuzzy]&lt;/e3&gt;, so that the translator can review the translations at a later stage and check whether the segments tagged this way, have been translated correctly&lt;m4&gt; &lt;g5&gt;.&lt;/g5&gt; &lt;/m4&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T052323Z" creationid="Liliu" creationdate="20200419T035518Z">
@@ -8984,6 +9008,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T071310Z" creationid="seiga" creationdate="20200421T071310Z">
         <seg>。例如，如果原始文件名为 Document.xx.docx，以下变量相应的结果如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If in doubt, select this version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T110735Z" creationid="DSS" creationdate="20200424T110735Z">
+        <seg>如果不确定，请选择此版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18061,6 +18093,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T052847Z" creationid="hp" creationdate="20200420T052847Z">
         <seg>TMX 原文语言（{0}）与项目的原文语言（{1}）不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The Web Start version is the "install and forget" version.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T110816Z" creationid="DSS" creationdate="20200424T110816Z">
+        <seg>Web Start 版本是“安装后可以不管的（install and forget）”版本。&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
