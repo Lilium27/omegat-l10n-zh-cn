@@ -3054,6 +3054,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>An Instant Start Guide, which guides you through the main procedures and functions of OmegaT, is displayed in the OmegaT user interface by default.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094626Z" creationid="hp" creationdate="20200424T094530Z">
+        <seg>默认情况下，OmegaT 用户界面会提供《快速入门指南》，该指南会带您全面了解 OmegaT 的主要操作和功能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>An OmegaT project is a folder containing files and subfolders.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T144237Z" creationid="Liliu" creationdate="20200418T144237Z">
@@ -10159,6 +10167,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It can be found in the "docs" folder in your OmegaT program folder.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094606Z" creationid="hp" creationdate="20200424T094606Z">
+        <seg>您可以在 OmegaT 程序文件夹中的 docs 文件夹内找到用户手册。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It can be used separately for all three panes (Editor, Fuzzy Matches and Glossary) by clicking on the pane and toggling the display mode.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T094708Z" creationid="hp" creationdate="20200418T065727Z">
@@ -12540,6 +12556,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094115Z" creationid="yangzy" creationdate="20200419T094115Z">
         <seg>OmegaT 无法访问包含操作系统名称的系统属性和/或\n包含你的主文件夹的系统属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is supplied with a comprehensive user manual.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094431Z" creationid="hp" creationdate="20200424T094431Z">
+        <seg>OmegaT 附带有全面详细的用户手册。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19529,6 +19553,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094439Z" creationid="hp" creationdate="20200424T094439Z">
+        <seg>要从 OmegaT 中调出手册，只需选择“帮助 &amp;gt; 用户手册”即可，或按 F1。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To check everything is as expected, you may press &lt;k2&gt;Ctrl+D&lt;/k2&gt; to create the target documents and check their contents.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T150550Z" creationid="hp" creationdate="20200418T072659Z">
@@ -20829,6 +20861,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User manuals</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094429Z" creationid="hp" creationdate="20200424T094429Z">
+        <seg>用户手册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User's Manual...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110128Z" creationid="yangzy" creationdate="20200419T110128Z">
@@ -21664,6 +21704,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200419T034858Z" creationid="qinxun" creationdate="20200419T034858Z">
         <seg>还可以单击&lt;g3&gt;“从 MediaWiki 导入”&lt;/g3&gt;按钮并提供相应的网址，添加用 MediaWiki 编写的网页作为原文文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can also call up the user manual supplied with OmegaT without launching OmegaT itself.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094616Z" creationid="hp" creationdate="20200424T094541Z">
+        <seg>您也可以在不启动 OmegaT 的情况下调出附带的用户手册。</seg>
       </tuv>
     </tu>
     <tu>
