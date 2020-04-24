@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2750,6 +2750,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add the following argument to the launch command:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T112357Z" creationid="hp" creationdate="20200424T112357Z">
+        <seg>在启动命令中添加以下参数：&lt;片段0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add the new OmegaT project to the versioning system (&lt;c0&gt;add&lt;/c0&gt; with SVN and Git)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T061142Z" creationid="hp" creationdate="20200418T073332Z">
@@ -4476,6 +4484,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Check Google Translate v2 (leaving the other options unchecked)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T112542Z" creationid="hp" creationdate="20200424T112542Z">
+        <seg>检查谷歌翻译（不选中其他选项）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Check Issues for &amp;Current Document</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T062705Z" creationid="seiga" creationdate="20200421T062705Z">
@@ -4941,6 +4957,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T061303Z" creationid="seiga" creationdate="20200421T061303Z">
         <seg>内容(&amp;T)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Configuration in OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T112448Z" creationid="hp" creationdate="20200424T112448Z">
+        <seg>配置 OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -8560,6 +8584,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Google Machine Translation is a paid service (US$20.00 per million characters).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T112643Z" creationid="hp" creationdate="20200424T112643Z">
+        <seg>谷歌机器翻译是收费服务（每百万字符 20 美元）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Google Translate v2</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T102711Z" creationid="yangzy" creationdate="20200419T102711Z">
@@ -11176,6 +11208,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Launch OmegaT</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T112454Z" creationid="hp" creationdate="20200424T112454Z">
+        <seg>启动OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Launches scripts that have been associated with a number.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110159Z" creationid="yangzy" creationdate="20200419T110159Z">
@@ -12642,6 +12682,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T042548Z" creationid="Liliu" creationdate="20200418T144352Z">
         <seg>注意，source 子文件夹的结构可以按照您的喜好采用任何形式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Note:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T112547Z" creationid="hp" creationdate="20200424T112547Z">
+        <seg>注意：</seg>
       </tuv>
     </tu>
     <tu>
@@ -16602,6 +16650,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select Options &gt; Machine Translate</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T112514Z" creationid="hp" creationdate="20200424T112514Z">
+        <seg>选择 选项 &gt; 机器翻译</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select Scripts Folder</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T101818Z" creationid="yangzy" creationdate="20200419T101818Z">
@@ -18429,6 +18485,14 @@ Please try to correct the error and reload the project.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T043924Z" creationid="Liliu" creationdate="20200419T043924Z">
         <seg>离开此句段后背景恢复正常。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The basic launch command with the Google Translate API added will therefore be:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T112440Z" creationid="hp" creationdate="20200424T112440Z">
+        <seg>添加谷歌翻译 API 的基本启动命令是：&lt;片段0911&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -22896,6 +22960,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T071250Z" creationid="seiga" creationdate="20200421T071250Z">
         <seg>你可以更改每个不同的原文文件名模式的原文编码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can check the daily usage from your Google account.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T112702Z" creationid="hp" creationdate="20200424T112702Z">
+        <seg>你可以在谷歌账号中查看日使用量</seg>
       </tuv>
     </tu>
     <tu>
