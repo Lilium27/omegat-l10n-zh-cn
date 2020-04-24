@@ -30,14 +30,6 @@
     </tu>
     <tu>
       <tuv lang="en">
-        <seg>#download-wizard</seg>
-      </tuv>
-      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T110407Z" creationid="DSS" creationdate="20200424T110407Z">
-        <seg>#下载向导</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="en">
         <seg>&amp;About...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T062747Z" creationid="seiga" creationdate="20200421T062747Z">
@@ -2010,6 +2002,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T105554Z" creationid="Liliu" creationdate="20200419T105554Z">
         <seg>&lt;html&gt;仓库 URL：&lt;/html&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;i1&gt;OmegaT can be installed on any operating system capable of running version 1.6 of the Java runtime environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T111233Z" creationid="DSS" creationdate="20200424T111215Z">
+        <seg>&lt;i1&gt;OmegaT 可以安装在任何能够运行 Java 运行环境 1.6 版的操作系统上。&lt;/i1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7967,10 +7967,34 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For installation on Linux.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T111052Z" creationid="DSS" creationdate="20200424T111052Z">
+        <seg>用于在 Linux 系统上安装。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For installation on Mac OS X.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T111037Z" creationid="DSS" creationdate="20200424T111037Z">
+        <seg>用于在 Mac OS X 上安装。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For installation on Windows System.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T111029Z" creationid="DSS" creationdate="20200424T111029Z">
         <seg>用于在 Windows 上系统安装。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For installation on other operating systems (such as FreeBSD and Solaris).&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T111129Z" creationid="DSS" creationdate="20200424T111129Z">
+        <seg>用于在其他操作系统（例如 FreeBSD 和 Solaris）上安装。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8892,6 +8916,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If a suitable JRE is already installed on your Windows system, select "Without JRE".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T111248Z" creationid="DSS" creationdate="20200424T111248Z">
+        <seg>如果在 Windows 系统上已经安装了合适的 JRE，选择“不带 JRE”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If an error is found in such a file, OmegaT will indicate the position within the defective file at which the error is located.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072304Z" creationid="hp" creationdate="20200418T072304Z">
@@ -9066,6 +9098,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110202Z">
         <seg>如果未勾选，则不显示原文句段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If not, or if you are not sure, select "with JRE".</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T111302Z" creationid="DSS" creationdate="20200424T111302Z">
+        <seg>如果没有安装，或者你不确定，选择“带 JRE”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13081,6 +13121,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT will usually run on any Linux system on which a suitable version of the Java Runtime Environment (JRE) can be be installed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T111520Z" creationid="DSS" creationdate="20200424T111520Z">
+        <seg>OmegaT 通常可以运行在任何安装了合适版本的 Java 运行环境（JRE）的 Linux 系统上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT, however, will present this sentence in the following fashion:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T030301Z" creationid="DSS" creationdate="20200418T123718Z">
@@ -13546,8 +13594,8 @@ your home folder.</seg>
       <tuv lang="en">
         <seg>Other</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="qinxun" changedate="20200420T041719Z" creationid="qinxun" creationdate="20200420T041719Z">
-        <seg>其他人的</seg>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T111122Z" creationid="qinxun" creationdate="20200420T041719Z">
+        <seg>其它系统其他人的</seg>
       </tuv>
     </tu>
     <tu>
@@ -16422,6 +16470,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T071133Z" creationid="seiga" creationdate="20200421T071133Z">
         <seg>如果希望词汇表中显示有着相同词根的词汇，请选择此选项。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select whether to download OmegaT with or without the Java Runtime Environment (JRE) included.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T111228Z" creationid="DSS" creationdate="20200424T111228Z">
+        <seg>选择下载自带 Java 运行环境（JRE）的 OmegaT 还是不带 JRE 的 OmegaT。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23274,6 +23330,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200419T030924Z" creationid="DSS" creationdate="20200418T121510Z">
         <seg>或者使用命令行 &lt;c0&gt;--no-team&lt;/c0&gt; 打开项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>other</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T111115Z" creationid="DSS" creationdate="20200424T111115Z">
+        <seg>其它系统</seg>
       </tuv>
     </tu>
     <tu>
