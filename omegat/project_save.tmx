@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-3.6.0" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8860,6 +8860,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>However, submission of an RFE does not mean that the desired feature or improvement will automatically be implemented.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T112045Z" creationid="Liliu" creationdate="20200424T112045Z">
+        <seg>然而，提交 RFE 并不意味着想要的功能或改进会自动实现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>However, you should take precautions against data loss when using &lt;a1&gt;OmegaT&lt;/a1&gt;, just as with any other application.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055846Z" creationid="hp" creationdate="20200418T070806Z">
@@ -11208,6 +11216,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Literally hundreds of RFEs have already been made, and many of them already implemented.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T112007Z" creationid="Liliu" creationdate="20200424T112007Z">
+        <seg>确切地说，数以百计的 RFE已经建立，其中有许多已实现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Load a project to configure rules for that project's languages.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T100149Z" creationid="yangzy" creationdate="20200419T100149Z">
@@ -13263,6 +13279,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T071317Z" creationid="seiga" creationdate="20200421T071317Z">
         <seg>另一方面，此功能在特殊情况下会非常有用，可以针对要翻译的文本调整分割规则来提高工作效率。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Once a user has formulated a proposed change or enhancement to OmegaT, a defined procedure exists for its submission to the development team for consideration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T111835Z" creationid="Liliu" creationdate="20200424T111835Z">
+        <seg>一旦有用户对 OmegaT 提出了变更或改进建议，便会按一个预定流程将其提交给开发团队进行评估。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18944,6 +18968,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The procedure is termed an &lt;a0&gt;"RFE" (Request for Feature Enhancement) and is managed here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T111908Z" creationid="Liliu" creationdate="20200424T111908Z">
+        <seg>此流程称为&lt;a0&gt;“RFE”（Request for Feature Enhancement，功能改进建议），在此处管理&lt;/a0&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The procedures for configuring access to the Microsoft Translator and Google Translate services are described &lt;u0&gt;here&lt;/u0&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T071126Z" creationid="seiga" creationdate="20200421T071126Z">
@@ -19851,6 +19883,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="qinxun" changedate="20200419T025017Z" creationid="qinxun" creationdate="20200419T025017Z">
         <seg>本文档是免费的计算机辅助翻译工具 OmegaT 的官方用户指南。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This enables the numerous suggestions to be managed more easily.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T111839Z" creationid="Liliu" creationdate="20200424T111839Z">
+        <seg>这样更易于管理大量建议。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22283,6 +22323,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T110627Z" creationid="Liliu" creationdate="20200424T110627Z">
         <seg>在日常任务方面，从事 OmegaT 项目的志愿者通常会有充分地自由来决定其贡献形式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whether or not it is adopted depends firstly upon whether the development team considers it beneficial to OmegaT, and secondly, upon whether one of the developers is willing to do the work of implementing it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T112048Z" creationid="Liliu" creationdate="20200424T112048Z">
+        <seg>它是否被采纳首先取决于开发团队是否认为其对 OmegaT 有利，其次则是是否有开发人员愿意来完成其实现工作。 </seg>
       </tuv>
     </tu>
     <tu>
