@@ -7767,6 +7767,22 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Files in Microsoft Office XML format can be translated directly in OmegaT.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T125012Z" creationid="DSS" creationdate="20200424T125012Z">
+        <seg>Microsoft Office的 XML 格式文件可以是直接使用 OmegaT 翻译的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Files in older MS Word, Excel and Powerpoint formats can be translated following conversion to the equivalent current Microsoft Office formats, or alternatively to the Office Open XML format, which can be done in OpenOffice.org or LibreOffice (also free).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T125212Z" creationid="DSS" creationdate="20200424T125212Z">
+        <seg>Microsoft Word、Excel 和 Powerpoint 的旧格式文件可以在转换到当前对等的 Microsoft Office 格式后翻译，或者也可在 OpenOffice.org 或同样免费的 LibreOffice 中转换成 Office Open XML 格式后进行翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Files must be deleted first by the project manager, and then locally.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200418T120913Z" creationid="DSS" creationdate="20200418T120913Z">
@@ -20873,6 +20889,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To obtain OpenOffice.org or LibreOffice, follow the link from "Third-party software" button on the left.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T125226Z" creationid="DSS" creationdate="20200424T125226Z">
+        <seg>要访问 OpenOffice.org 或 LibreOffice，请点击左方“第三方软件”按钮链接到相应网站。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To obtain more literal matches closer to 100%, select the &lt;g0&gt;Full text, including tags and numbers&lt;/g0&gt; option.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T071452Z" creationid="seiga" creationdate="20200421T071452Z">
@@ -22105,6 +22129,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200424T094429Z" creationid="hp" creationdate="20200424T094429Z">
         <seg>用户手册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User requirements</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T125302Z" creationid="DSS" creationdate="20200424T125302Z">
+        <seg>用户要求</seg>
       </tuv>
     </tu>
     <tu>
