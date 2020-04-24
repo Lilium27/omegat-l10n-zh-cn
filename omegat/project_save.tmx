@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -9128,6 +9128,14 @@ Its winter has come</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T071310Z" creationid="seiga" creationdate="20200421T071310Z">
         <seg>。例如，如果原始文件名为 Document.xx.docx，以下变量相应的结果如下：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If in doubt, select this option.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T111944Z" creationid="DSS" creationdate="20200424T111944Z">
+        <seg>如果不确定，请选择此选项。</seg>
       </tuv>
     </tu>
     <tu>
@@ -18775,6 +18783,14 @@ But others await</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The included JRE is the 64-bit version.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T112001Z" creationid="DSS" creationdate="20200424T112001Z">
+        <seg>内含 64-bit 版本 JRE。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The inclusion rules take priority over the exclusion rules.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T074402Z" creationid="hp" creationdate="20200418T074402Z">
@@ -20219,6 +20235,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T111911Z" creationid="DSS" creationdate="20200424T111911Z">
         <seg>此版本的 JRE 将仅由 OmegaT 局部使用，不会出现冲突、覆盖、或卸载任何其他 JRE 的情况，因此可以放心使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This version will take longer to download and will require more space on your hard drive, but you can be confident that it will run.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T112055Z" creationid="DSS" creationdate="20200424T112055Z">
+        <seg>此版本需要更长下载时间、更多硬盘空间，但它可以正常运行。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22428,6 +22452,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>With 64-bit JRE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T111958Z" creationid="DSS" creationdate="20200424T111958Z">
+        <seg>带 jre64b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>With JRE</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T111916Z" creationid="DSS" creationdate="20200424T111916Z">
@@ -22448,6 +22480,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110125Z">
         <seg>使用此命令你可以前进到之前用&lt;g1&gt;在历史中后退&lt;/g1&gt;...命令所离开的拿个句段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Without JRE</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T112131Z" creationid="DSS" creationdate="20200424T112131Z">
+        <seg>不带 JRE</seg>
       </tuv>
     </tu>
     <tu>
