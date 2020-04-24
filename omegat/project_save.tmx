@@ -9574,6 +9574,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you are sure that a suitable Java Runtime Environment is already installed on your computer at system level, you can select the option without JRE included.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T124320Z" creationid="DSS" creationdate="20200424T124320Z">
+        <seg>如果您的电脑系统上已经安装了合适的 Java 运行环境，您可选择该不包含 JRE 的版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you are unsure whether a suitable JRE is already installed on your system, you can still download and install an OmegaT version with JRE.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T111838Z" creationid="DSS" creationdate="20200424T111838Z">
