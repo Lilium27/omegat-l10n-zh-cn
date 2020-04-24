@@ -12080,6 +12080,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>More &gt; Even More &gt; Innovation/Code &gt; APIs Console &gt; Service/Translate API</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T113339Z" creationid="hp" creationdate="20200424T113339Z">
+        <seg>更多 &gt; 更多选项 &gt; Innovation/Code &gt; APIs 控制台 &gt; 服务 / 翻译 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>More precisely, OmegaT attempts to match each filter's source filename patterns against the filename.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T071243Z" creationid="seiga" creationdate="20200421T071243Z">
