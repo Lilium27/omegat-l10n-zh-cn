@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.1_0_99222d65" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5055,6 +5055,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Convenient alternative functions or solutions may also exist.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T111730Z" creationid="Liliu" creationdate="20200424T111730Z">
+        <seg>也可能已经存在方便的替代功能或解决方案。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Convert Old Team Project</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T105148Z" creationid="Liliu" creationdate="20200419T105148Z">
@@ -5677,6 +5685,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200419T114745Z" creationid="Liliu" creationdate="20200419T114745Z">
         <seg>详情视图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Detailed technical discussion of changes is best conducted directly with OmegaT's developers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T111737Z" creationid="Liliu" creationdate="20200424T111737Z">
+        <seg>关于变更的详细技术讨论则最好直接与 OmegaT 的开发人员沟通。</seg>
       </tuv>
     </tu>
     <tu>
@@ -8059,6 +8075,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T071226Z" creationid="seiga" creationdate="20200421T071226Z">
         <seg>对于上面这个例子，这个字段应当包含：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For this purpose, a dedicated &lt;a0&gt;developers' mailing list&lt;/a0&gt; exists.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T111752Z" creationid="Liliu" creationdate="20200424T111752Z">
+        <seg>为此，有一个专门的&lt;a0&gt;开发者邮件列表&lt;/a0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12140,6 +12164,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>New users of OmegaT are encouraged to make any suggestions here.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T111716Z" creationid="Liliu" creationdate="20200424T111716Z">
+        <seg>鼓励 OmegaT 的新用户将各种建议提在这里。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>New...</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T110138Z" creationid="yangzy" creationdate="20200419T110138Z">
@@ -13224,6 +13256,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134443Z" creationid="Liliu" creationdate="20200418T134443Z">
         <seg>上述句段的其中之一是当前句段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implemented.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T111723Z" creationid="Liliu" creationdate="20200424T111723Z">
+        <seg>原因之一是所需的功能可能已经实现，或者可能由于某些原因而无法实现。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19867,6 +19907,14 @@ the server.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T071435Z" creationid="seiga" creationdate="20200421T071435Z">
         <seg>默认值是 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This is the main focus of the OmegaT user community.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="Liliu" changedate="20200424T111656Z" creationid="Liliu" creationdate="20200424T111656Z">
+        <seg>这是 OmegaT 用户社区的主要关注点。</seg>
       </tuv>
     </tu>
     <tu>
