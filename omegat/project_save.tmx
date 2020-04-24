@@ -3536,6 +3536,14 @@ may experience unexpected, but correct behaviour.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>As its name suggests, the "Latest" version of Omegat is more up to date.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T124620Z" creationid="DSS" creationdate="20200424T124620Z">
+        <seg>顾名思义，Omegat 的“最新”版本要更时新一些。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>As of December 2011, Google has required payment from users for use of this service.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200424T100820Z" creationid="hp" creationdate="20200424T100820Z">
@@ -10767,6 +10775,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It is the recommended version for first-time users.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T124608Z" creationid="DSS" creationdate="20200424T124608Z">
+        <seg>首次使用的用户推荐使用此版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is the segment that is displayed in two parts.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="Liliu" changedate="20200418T134450Z" creationid="Liliu" creationdate="20200418T134450Z">
@@ -11236,6 +11252,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="seiga" changedate="20200421T063227Z" creationid="seiga" creationdate="20200421T063227Z">
         <seg>最近由 {0} 修改</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Latest</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T124614Z" creationid="DSS" creationdate="20200424T124614Z">
+        <seg>最新</seg>
       </tuv>
     </tu>
     <tu>
@@ -18291,6 +18315,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="yangzy" changedate="20200419T094805Z" creationid="yangzy" creationdate="20200419T094342Z">
         <seg>将改用当前文件夹为配置文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The "Standard" version of OmegaT includes a full user manual (at least in English) and will usually have been tested for some time to eliminate any bugs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="DSS" changedate="20200424T124602Z" creationid="DSS" creationdate="20200424T124602Z">
+        <seg>OmegaT 的“标准”版本包含完整的用户手册（至少有英语版本）并且通常已经过一段时间测试来消除各种故障。</seg>
       </tuv>
     </tu>
     <tu>
