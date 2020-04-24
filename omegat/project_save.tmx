@@ -10151,6 +10151,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>In the upper menu:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="hp" changedate="20200424T112728Z" creationid="hp" creationdate="20200424T112728Z">
+        <seg>上层菜单</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>In this case, a useful procedure would be:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="hp" changedate="20200418T072008Z" creationid="hp" creationdate="20200418T072008Z">
