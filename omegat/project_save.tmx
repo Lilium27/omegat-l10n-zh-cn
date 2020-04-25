@@ -1385,6 +1385,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Software that does this is called "machine translation", and you will have to look elsewhere for it.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T075941Z" creationid="yangzy" creationdate="20200425T075941Z">
+        <seg>（那是“机器翻译”工具做的工作，您需要去其他地方获取它们。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T033920Z" creationid="qinxun" creationdate="20200419T033920Z">
@@ -2272,8 +2280,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T075626Z" creationid="yangzy" creationdate="20200425T075507Z">
-        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt;  是一款免费的翻译记忆软件，适用于 Windows、macOS、Linux 等各种操作系统。</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T075702Z" creationid="yangzy" creationdate="20200425T075507Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt;  是一款免费的翻译记忆软件，适用于 Windows、macOS、Linux 等各大操作系统。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11079,10 +11087,18 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It does not translate for you!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T075755Z" creationid="yangzy" creationdate="20200425T075713Z">
+        <seg>注意：它并不会替您自动翻译！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>It is a tool intended for professional translators.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T075617Z" creationid="yangzy" creationdate="20200425T075617Z">
-        <seg>它一款为专业译员设计。</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T075723Z" creationid="yangzy" creationdate="20200425T075617Z">
+        <seg>它为专业译员而设计计算机辅助翻译工具。</seg>
       </tuv>
     </tu>
     <tu>
