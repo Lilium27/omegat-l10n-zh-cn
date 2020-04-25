@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>#get-started</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T075201Z" creationid="yangzy" creationdate="20200425T075140Z">
+        <seg>#入门</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;About...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T062747Z" creationid="seiga" creationdate="20200421T062747Z">
@@ -1690,6 +1698,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T113357Z" creationid="Liliu" creationdate="20200419T113357Z">
         <seg>&lt;无建议&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T075152Z" creationid="yangzy" creationdate="20200425T075152Z">
+        <seg>&lt;a0&gt;下载&lt;/a0&gt; &lt;a1&gt;入门&lt;/a1&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8672,6 +8688,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Get Started with OmegaT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T075400Z" creationid="yangzy" creationdate="20200425T075400Z">
+        <seg>OmegaT 快速入门</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Git '{0}' did nothing because there were no changes</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T103845Z" creationid="Liliu" creationdate="20200419T103845Z">
@@ -13474,6 +13498,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T025014Z" creationid="qinxun" creationdate="20200419T025014Z">
         <seg>OmegaT 4.2 - 用户指南</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT &lt;s0&gt;the free translation memory tool&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T075113Z" creationid="yangzy" creationdate="20200425T075113Z">
+        <seg>OmegaT &lt;s0&gt;一款免费的翻译记忆工具&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24278,6 +24310,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>download</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T075121Z" creationid="yangzy" creationdate="20200425T075121Z">
+        <seg>下载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>en</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T025012Z" creationid="qinxun" creationdate="20200419T025012Z">
@@ -25050,6 +25090,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T095844Z" creationid="yangzy" creationdate="20200419T095844Z">
         <seg>{1}, 从 '{2}' 执行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>×</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T075214Z" creationid="yangzy" creationdate="20200425T075214Z">
+        <seg>×</seg>
       </tuv>
     </tu>
     <tu>
