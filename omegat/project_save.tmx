@@ -3230,6 +3230,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080528Z" creationid="yangzy" creationdate="20200425T080528Z">
+        <seg>如果你已经知道想要下载哪个版本，请点击下方按钮浏览 OmegaT 的各种版本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070939Z" creationid="seiga" creationdate="20200421T070939Z">
