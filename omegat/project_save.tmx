@@ -1353,6 +1353,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>(Not to be confused with the "Text Export" feature, which also enables scripts to be used with OmegaT, but on a more basic level.)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T045707Z" creationid="qinxun" creationdate="20200425T045610Z">
+        <seg>（不要与“文本导出”功能混淆，后者也允许在 OmegaT 中使用脚本，但功能更为基础）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>(The definition of “unique” is case-sensitive: "Run" and "run" are treated as being different)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T033920Z" creationid="qinxun" creationdate="20200419T033920Z">
@@ -4660,6 +4668,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Checks for language errors (style, grammar, etc.).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T045513Z" creationid="qinxun" creationdate="20200425T045513Z">
+        <seg>检查语言错误（文体、语法等）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Checks to see whether a more recent version of &lt;a0&gt;OmegaT&lt;/a0&gt; has been released.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110130Z" creationid="yangzy" creationdate="20200419T110130Z">
@@ -6787,6 +6803,14 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065434Z" creationid="seiga" creationdate="20200421T065434Z">
         <seg>启用不区分大小写的匹配（默认情况下，模式区分大小写）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Enables external scripts to access OmegaT's functionality.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T045614Z" creationid="qinxun" creationdate="20200425T045559Z">
+        <seg>允许外部脚本访问 OmegaT 的功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15042,6 +15066,14 @@ project without team functionality.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Provides recognition of inflected forms in fuzzy matches and glossary hits.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T045503Z" creationid="qinxun" creationdate="20200425T045503Z">
+        <seg>在模糊匹配和词汇表匹配中提供对词形变化的识别。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Proxy Login</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T092839Z" creationid="yangzy" creationdate="20200419T092839Z">
@@ -16326,6 +16358,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101807Z" creationid="yangzy" creationdate="20200419T101807Z">
         <seg>脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scripting plug-in</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T045518Z" creationid="qinxun" creationdate="20200425T045518Z">
+        <seg>脚本插件</seg>
       </tuv>
     </tu>
     <tu>
@@ -21037,6 +21077,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T041323Z" creationid="hp" creationdate="20200418T041323Z">
         <seg>会显示所选语言所对应的分词器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tokenizers plug-in</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T045500Z" creationid="qinxun" creationdate="20200425T045500Z">
+        <seg>分词器插件</seg>
       </tuv>
     </tu>
     <tu>
