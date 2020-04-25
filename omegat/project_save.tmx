@@ -1718,6 +1718,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;a0&gt;Documentation&lt;/a0&gt; is very important.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081726Z" creationid="yangzy" creationdate="20200425T081726Z">
+        <seg>&lt;a0&gt;文档&lt;/a0&gt; 非常重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;a0&gt;Download&lt;/a0&gt; &lt;a1&gt;Get Started&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T075152Z" creationid="yangzy" creationdate="20200425T075152Z">
@@ -3262,6 +3270,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Although many users are aware of this, their reaction is often "But I can't program!".</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081629Z" creationid="yangzy" creationdate="20200425T081629Z">
+        <seg>许多用户意识到了这一点，但他们的反应经常是“可我并不会编程！”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Always Confirm Quit</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070939Z" creationid="seiga" creationdate="20200421T070939Z">
@@ -4116,6 +4132,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Below is a list of areas for which further volunteers would be more than welcome!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081701Z" creationid="yangzy" creationdate="20200425T081701Z">
+        <seg>以下所列的工作领域，欢迎更多志愿者的加入！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Besides the web page into which users can simply paste text for translation, Google Translate also provides an interface (API) which can be used by CAT tools to access the service.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200424T113400Z" creationid="hp" creationdate="20200424T100739Z">
@@ -4216,6 +4240,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T045743Z" creationid="qinxun" creationdate="20200425T045743Z">
         <seg>浏览器插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>But programming isn't the only job needing to be done.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081644Z" creationid="yangzy" creationdate="20200425T081644Z">
+        <seg>但是编程并不是唯一的工作内容。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6537,6 +6569,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Documentation authoring</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081703Z" creationid="yangzy" creationdate="20200425T081703Z">
+        <seg>文档写作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Documents for translation may contain trade marks, names or other proper nouns that will be the same in translated documents.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071433Z" creationid="seiga" creationdate="20200421T071433Z">
@@ -8295,6 +8335,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>For advocates of open-source software, this freedom is even more important than the exemption from having to pay anything.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081600Z" creationid="yangzy" creationdate="20200425T081600Z">
+        <seg>对于开源软件的拥护者来说，这种自由比免于付费更重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>For all files:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T050315Z" creationid="hp" creationdate="20200420T050315Z">
@@ -9124,6 +9172,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200424T125910Z" creationid="DSS" creationdate="20200424T125552Z">
         <seg>您有没有考虑过向 OmegaT 捐赠？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Have you considered writing some user documentation yourself?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081756Z" creationid="yangzy" creationdate="20200425T081756Z">
+        <seg>您有想过自己撰写点用户文档吗？</seg>
       </tuv>
     </tu>
     <tu>
@@ -12136,6 +12192,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Many of you reading this will be translators who have translated a lot of user documentation.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081747Z" creationid="yangzy" creationdate="20200425T081747Z">
+        <seg>正在阅读的各位中有许多都曾翻译过很多用户文档。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mapping of Local Folders to Remote Folders in Repositories</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T050553Z" creationid="hp" creationdate="20200420T050553Z">
@@ -13870,6 +13934,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is free software.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081540Z" creationid="yangzy" creationdate="20200425T081540Z">
+        <seg>OmegaT 是一款自由软件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is instructed to use a mandatory encoding for certain file formats (Java properties etc).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071254Z" creationid="seiga" creationdate="20200421T071254Z">
@@ -13882,6 +13954,14 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200424T125337Z" creationid="DSS" creationdate="20200424T125337Z">
         <seg>OmegaT 的安装使用并不是特别困难，但确实需要阅读并遵循说明使用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT is open-source software.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081554Z" creationid="yangzy" creationdate="20200425T081554Z">
+        <seg>OmegaT 是开源软件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -13908,6 +13988,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T115250Z" creationid="DSS" creationdate="20200419T115250Z">
         <seg>OmegaT 是 Keith Godfrey 的作品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081532Z" creationid="yangzy" creationdate="20200425T081532Z">
+        <seg>OmegaT不仅是一款产品；它是一个激动人心的项目，您可以参与其中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15390,6 +15478,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T075946Z" creationid="yangzy" creationdate="20200425T075946Z">
         <seg>专业功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Programming is certainly the most important function, and without programming, there is no program.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081636Z" creationid="yangzy" creationdate="20200425T081636Z">
+        <seg>编程确实是最重要的，没有编程就不会有程序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -19214,6 +19310,22 @@ The scope of a text replacement is the target segments of the project, whether t
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081622Z" creationid="yangzy" creationdate="20200425T081556Z">
+        <seg>这意味着如果您想，可以自行定制 OmegaT 以满足您的需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That means that users like you are free to download and use it with very little in the way of restrictions.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081548Z" creationid="yangzy" creationdate="20200425T081548Z">
+        <seg>这意味着像您这样的用户可以免费下载并使用，只有极少的限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The
 current folder will be used instead.</seg>
       </tuv>
@@ -19395,6 +19507,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200424T105630Z" creationid="Liliu" creationdate="20200424T105630Z">
         <seg>OmegaT 项目理念</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT project would benefit from greater support from volunteers in almost all areas.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081626Z" creationid="yangzy" creationdate="20200425T081626Z">
+        <seg>OmegaT 项目得益于来自世界各地志愿者的大力支持。</seg>
       </tuv>
     </tu>
     <tu>
@@ -24076,6 +24196,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You are also free to copy it and pass it on to other people.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081551Z" creationid="yangzy" creationdate="20200425T081551Z">
+        <seg>你同样可以自由地将其复制并传给其他人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You are going to modify {0} segments.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T055043Z" creationid="hp" creationdate="20200420T050800Z">
@@ -24602,6 +24730,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110237Z" creationid="yangzy" creationdate="20200419T110237Z">
         <seg>词典</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>documentation</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081704Z" creationid="yangzy" creationdate="20200425T081704Z">
+        <seg>文档写作</seg>
       </tuv>
     </tu>
     <tu>
