@@ -5375,6 +5375,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Continuing Professional Development is the current buzzword!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T082802Z" creationid="yangzy" creationdate="20200425T082802Z">
+        <seg>如今，“持续专业发展” 可是当前的潮流呢！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Contributed by Didier Briel.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051146Z" creationid="qinxun" creationdate="20200425T051146Z">
@@ -10090,6 +10098,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T045950Z" creationid="Liliu" creationdate="20200419T045703Z">
         <seg>如果您收集了希望忽略/接受拼写检查的词汇，您只需复制对应的两个文件到当前项目的 &lt;f0&gt;omegat&lt;/f0&gt; 子文件夹中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you are already reasonably familiar with computers in general and choose a straightforward scripting language like Javascript or Tcl/Tk, you could teach yourself enough to be able to write simple but useful scripts within just a couple of weeks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T082618Z" creationid="yangzy" creationdate="20200425T082618Z">
+        <seg>如果您已对计算机有一定了解，只需选择一种简单易懂的脚本语言（例如 Javascript 或Tcl/Tk），便可以通过自学在几周内来写出简单却有用的脚本。</seg>
       </tuv>
     </tu>
     <tu>
