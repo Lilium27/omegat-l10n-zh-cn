@@ -2270,6 +2270,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T075626Z" creationid="yangzy" creationdate="20200425T075507Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt;  是一款免费的翻译记忆软件，适用于 Windows、macOS、Linux 等各种操作系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s1&gt;The benefit&lt;/s1&gt;: once launched, future updates of the Web Start version will be installed automatically on your computer.&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200424T125736Z" creationid="DSS" creationdate="20200424T110913Z">
@@ -11067,6 +11075,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T094708Z" creationid="hp" creationdate="20200418T065727Z">
         <seg>通过点击窗格并切换显示模式，它可以单独用于所有三个窗格（编辑器、模糊匹配和术语表）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>It is a tool intended for professional translators.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T075617Z" creationid="yangzy" creationdate="20200425T075617Z">
+        <seg>它一款为专业译员设计。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23025,6 +23041,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200424T095204Z" creationid="hp" creationdate="20200424T095204Z">
         <seg>视频 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Video by &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T075421Z" creationid="yangzy" creationdate="20200425T075421Z">
+        <seg>视频提供者：&lt;a0&gt;CATguruEN&lt;/a0&gt;（Dominique Pivard）</seg>
       </tuv>
     </tu>
     <tu>
