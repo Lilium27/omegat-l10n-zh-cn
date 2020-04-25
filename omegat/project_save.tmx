@@ -4252,6 +4252,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>But I can't program at all, I hear you say.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T082351Z" creationid="yangzy" creationdate="20200425T082351Z">
+        <seg>了解，但是我确实不会编程。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>But programming isn't the only job needing to be done.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081644Z" creationid="yangzy" creationdate="20200425T081644Z">
@@ -10142,6 +10150,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If you can program in another language, you can write code to support the core application.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T082317Z" creationid="yangzy" creationdate="20200425T082317Z">
+        <seg>如果你会其他编程语言，可以编写代码来支持核心应用程序。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If you change segmentation options when a project is open, you must reload the project in order for the changes to take effect.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071318Z" creationid="seiga" creationdate="20200421T071318Z">
@@ -10330,6 +10346,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T150401Z" creationid="hp" creationdate="20200418T072311Z">
         <seg>如果您想在 OmegaT 中使用这类文件作为参考译文，则必须对其进行修复，否则 OmegaT 将报错并无法加载它们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you're a programmer and you happen to know Java, please check the documentation in the &lt;a0&gt;source code&lt;/a0&gt; under /docs_devel for information on how to get started.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T082301Z" creationid="yangzy" creationdate="20200425T082301Z">
+        <seg>如果您正好是一位懂 Java 的程序员，您可以查看&lt;a0&gt;源代码&lt;/a0&gt;中 docs_devel 目录下的文档来了解如何参与项目开发。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14056,6 +14080,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT is written in Java.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T082128Z" creationid="yangzy" creationdate="20200425T082128Z">
+        <seg>OmegaT 是用 Java 编写的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT isn't just a product; it's an exciting project, and you can be part of it.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081532Z" creationid="yangzy" creationdate="20200425T081532Z">
@@ -15558,6 +15590,22 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T075946Z" creationid="yangzy" creationdate="20200425T075946Z">
         <seg>专业功能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Programming (Java)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T082116Z" creationid="yangzy" creationdate="20200425T082116Z">
+        <seg>编程（Java）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Programming (not Java)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T082309Z" creationid="yangzy" creationdate="20200425T082305Z">
+        <seg>编程（非 Java）</seg>
       </tuv>
     </tu>
     <tu>
@@ -18872,6 +18920,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101547Z" creationid="yangzy" creationdate="20200419T101547Z">
         <seg>订阅密钥：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Such auxiliary code has already been written in Javascript, Groovy and Tcl/Tk, for instance.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T082321Z" creationid="yangzy" creationdate="20200425T082321Z">
+        <seg>已经有用 Javascript、Groovy 和 Tcl/Tk 等语言所编写的此类辅助性代码。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23679,6 +23735,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Well, have you considered learning?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T082425Z" creationid="yangzy" creationdate="20200425T082425Z">
+        <seg>嗯，要不考虑学习一下编程？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>When OmegaT encounters a file in its source folder, it attempts to select the filter based upon the file's extension.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071242Z" creationid="seiga" creationdate="20200421T071242Z">
@@ -24882,6 +24946,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T075121Z" creationid="yangzy" creationdate="20200425T075121Z">
         <seg>下载</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>download#downloadTrunk</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T082123Z" creationid="yangzy" creationdate="20200425T082123Z">
+        <seg>download#downloadTrunk</seg>
       </tuv>
     </tu>
     <tu>
