@@ -3542,6 +3542,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>And when they find things that don't work, or deficiencies in the documentation, to tell us about them.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T082031Z" creationid="yangzy" creationdate="20200425T082031Z">
+        <seg>当您发现功能故障或者文档中的缺陷时，请告知我们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Android Resources</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T113638Z" creationid="DSS" creationdate="20200419T113638Z">
@@ -6601,6 +6609,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Donations</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T082038Z" creationid="yangzy" creationdate="20200425T082038Z">
+        <seg>捐赠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Done</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T114731Z" creationid="Liliu" creationdate="20200419T114731Z">
@@ -9184,6 +9200,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Have you ever written an article for your professional association's journal?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T082035Z" creationid="yangzy" creationdate="20200425T082035Z">
+        <seg>你曾为你的专业协会期刊写过文章吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>He&amp;aders</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T114546Z" creationid="DSS" creationdate="20200419T114546Z">
@@ -9758,6 +9782,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If not, why not write an article on using OmegaT?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T082037Z" creationid="yangzy" creationdate="20200425T082037Z">
+        <seg>如果还没，为什么不写一篇文章讨论 OmegaT 的使用呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>If part of the target segment has been selected, this function overwrites the selected portion.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110048Z">
@@ -10170,6 +10202,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071448Z" creationid="seiga" creationdate="20200421T071448Z">
         <seg>文件中记录片段已被自动填充的信息，这样在编辑器中就可以用特定的颜色显示出来（如果在视图菜单中已勾选“标记自动填充片段”选项）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If you have found OmegaT useful and would like to express your gratitude by making a &lt;a0&gt;donation&lt;/a0&gt; on our Paypal account.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T082112Z" creationid="yangzy" creationdate="20200425T082112Z">
+        <seg>如果你觉得 OmegaT 很有用，并且想要表达感谢，可以通过 Paypal 向我们&lt;a0&gt;捐赠&lt;/a0&gt;。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11416,6 +11456,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>It's a real eye-opener!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081758Z" creationid="yangzy" creationdate="20200425T081758Z">
+        <seg>这真的会让人大开眼界！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Italian</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T122123Z" creationid="DSS" creationdate="20200419T122123Z">
@@ -12008,6 +12056,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Localization</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081759Z" creationid="yangzy" creationdate="20200425T081759Z">
+        <seg>本地化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Localization TMX repository</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051749Z" creationid="qinxun" creationdate="20200425T051749Z">
@@ -12020,6 +12076,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051744Z" creationid="qinxun" creationdate="20200425T051744Z">
         <seg>本地化资源</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Localizing OmegaT into other languages is also an ongoing task, since new features and functions are being added all the time.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081946Z" creationid="yangzy" creationdate="20200425T081946Z">
+        <seg>为 OmegaT 做其他语言的本地化是一项持续的工作，因为我们一直都在为 OmegaT 增加新的特性和功能。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14244,6 +14308,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>One of the most useful things OmegaT users can do is... to use OmegaT.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081954Z" creationid="yangzy" creationdate="20200425T081954Z">
+        <seg>用户可以做的最有用的事情之一就是……使用 OmegaT。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>One reason for this is that the desired function may already have been implemented, or that there may be reasons why it cannot be implemented.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200424T111723Z" creationid="Liliu" creationdate="20200424T111723Z">
@@ -15040,6 +15112,14 @@ to determine the source of the error and try again.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please contact the &lt;a0&gt;OmegaT Localization Co-ordinator&lt;/a0&gt; for details of what is involved in localizing/translating OmegaT.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081950Z" creationid="yangzy" creationdate="20200425T081950Z">
+        <seg>请联系 &lt;a0&gt;OmegaT 本地化协调人员&lt;/a0&gt;来获取本地化/翻译 OmegaT 所涉及的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please contact your project administrator to find out if any
 additional steps need to be taken.</seg>
       </tuv>
@@ -15766,6 +15846,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T092837Z" creationid="yangzy" creationdate="20200419T092837Z">
         <seg>代理服务器用户和密码</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Publicity</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T082033Z" creationid="yangzy" creationdate="20200425T082033Z">
+        <seg>宣传</seg>
       </tuv>
     </tu>
     <tu>
@@ -19220,6 +19308,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Testing</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081951Z" creationid="yangzy" creationdate="20200425T081951Z">
+        <seg>测试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Testing...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101728Z" creationid="yangzy" creationdate="20200419T101728Z">
@@ -19310,6 +19406,14 @@ The scope of a text replacement is the target segments of the project, whether t
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Thanks to the work of translators in the past, OmegaT's user interface and/or Help texts have been translated into several languages.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081835Z" creationid="yangzy" creationdate="20200425T081835Z">
+        <seg>在过往翻译人员的工作下，OmegaT 的用户界面及帮助文本已经被翻译成多种语言。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>That means that if you feel so inclined, you may modify OmegaT to suit your own requirements.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081622Z" creationid="yangzy" creationdate="20200425T081556Z">
@@ -19322,6 +19426,14 @@ The scope of a text replacement is the target segments of the project, whether t
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081548Z" creationid="yangzy" creationdate="20200425T081548Z">
         <seg>这意味着像您这样的用户可以免费下载并使用，只有极少的限制。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>That means there are only a few thousand left!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081857Z" creationid="yangzy" creationdate="20200425T081857Z">
+        <seg>这意味着只剩下几千种语言还需要翻译了！</seg>
       </tuv>
     </tu>
     <tu>
@@ -24910,6 +25022,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/donate/?source=website</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T082046Z" creationid="yangzy" creationdate="20200425T082046Z">
+        <seg>https://sourceforge.net/p/omegat/donate/?source=website</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://www.multitude.trd.br/omegat-2/</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200424T094836Z" creationid="hp" creationdate="20200424T094836Z">
@@ -25066,6 +25186,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T120623Z" creationid="DSS" creationdate="20200419T120623Z">
         <seg>mALIGNa (MIT 许可)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>mailto:localization@omegat.org</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081802Z" creationid="yangzy" creationdate="20200425T081802Z">
+        <seg>mailto:localization@omegat.org</seg>
       </tuv>
     </tu>
     <tu>
