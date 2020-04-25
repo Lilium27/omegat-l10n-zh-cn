@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>"Aligner" aligner utility</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051133Z" creationid="qinxun" creationdate="20200425T051129Z">
+        <seg>“Aligner” 对齐器工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>"Bligner" aligner utility</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051144Z" creationid="qinxun" creationdate="20200425T051144Z">
+        <seg>“Bligner” 对齐器工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>"\." stands for the period character.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071356Z" creationid="seiga" creationdate="20200421T071356Z">
@@ -5175,6 +5191,22 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contributed by Didier Briel.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051146Z" creationid="qinxun" creationdate="20200425T051146Z">
+        <seg>由 Didier Briel 提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Contributed by Dmitri Gabinski.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051136Z" creationid="qinxun" creationdate="20200425T051136Z">
+        <seg>由 Dmitri Gabinski 提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Convenient alternative functions or solutions may also exist.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200424T111730Z" creationid="Liliu" creationdate="20200424T111730Z">
@@ -9986,6 +10018,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T075410Z" creationid="hp" creationdate="20200418T075410Z">
         <seg>导入源文件到 &lt;u0&gt;LibreOffice Draw&lt;/u0&gt;，将其保存为 ODG 文件，翻译，然后按需要导出为 PDF。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Important: in order to use the plug-ins, you may need to install a more recent version of OmegaT.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051126Z" creationid="qinxun" creationdate="20200425T051126Z">
+        <seg>重要事项：要使用插件，您可能需要安装 OmegaT 的最新版本。 </seg>
       </tuv>
     </tu>
     <tu>
@@ -22381,6 +22421,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Utilities</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051126Z" creationid="qinxun" creationdate="20200425T051126Z">
+        <seg>工具程序</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>VLDocking Framework (LGPL License)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T115703Z" creationid="DSS" creationdate="20200419T115703Z">
@@ -22595,6 +22643,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T113636Z" creationid="DSS" creationdate="20200419T113636Z">
         <seg>WebVTT 字幕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Website support can be scripted in Groovy.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051124Z" creationid="qinxun" creationdate="20200425T051124Z">
+        <seg>网站支持可以用 Groovy 编写脚本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -23016,6 +23072,22 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T050625Z" creationid="hp" creationdate="20200420T050625Z">
         <seg>输入的可写词汇表文件文件夹不存在！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Written in Python.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051131Z" creationid="qinxun" creationdate="20200425T051131Z">
+        <seg>用 Python 编写。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Written in Python/Perl.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051145Z" creationid="qinxun" creationdate="20200425T051145Z">
+        <seg>用 Python/Perl 编写。</seg>
       </tuv>
     </tu>
     <tu>
