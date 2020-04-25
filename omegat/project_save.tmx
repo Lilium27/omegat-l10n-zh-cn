@@ -2518,6 +2518,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A vast range of functions, an uncluttered interface, and, most importantly, constant, regular open-source development!</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081426Z" creationid="yangzy" creationdate="20200425T081426Z">
+        <seg>它有着丰富的功能、整洁的界面，最重要的是持续且正规的开源开发！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A whitespace character: [ \t\n\x0B\f\r]</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065708Z" creationid="seiga" creationdate="20200421T065708Z">
@@ -9372,6 +9380,14 @@ Its winter has come</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>I've been using OmegaT as a professional translator for over 10 years, benefiting in the early days from its ease of use and extremely helpful forum.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081341Z" creationid="yangzy" creationdate="20200425T081341Z">
+        <seg>我作为专业译者已经使用 OmegaT 超过 10 年，在早期因其易用性和极其有用的论坛受益匪浅。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>IBM Watson not available.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101504Z" creationid="yangzy" creationdate="20200419T101504Z">
@@ -13582,6 +13598,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>ODFAuthors and LibreOffice's Italian translators are proud to use such a good tool for their hard work within the LibreOffice Community.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081248Z" creationid="yangzy" creationdate="20200425T081248Z">
+        <seg>ODFAuthors 和 LibreOffice 的意大利语译者很高兴能够使用这样一款优秀的工具为 LibreOffice 社区的工作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OK</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101729Z" creationid="yangzy" creationdate="20200419T101729Z">
@@ -16592,6 +16616,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Robert Corner, Institut Laue-Langevin, France</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081432Z" creationid="yangzy" creationdate="20200425T081432Z">
+        <seg>Robert Corner，Laue-Langevin 研究所，法国</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Row</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042040Z" creationid="qinxun" creationdate="20200420T042040Z">
@@ -19347,6 +19379,14 @@ current folder will be used instead.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T112928Z" creationid="DSS" creationdate="20200419T112928Z">
         <seg>Mozilla DTD 过滤器抛出异常：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT project and you</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081522Z" creationid="yangzy" creationdate="20200425T081522Z">
+        <seg>您与 OmegaT 项目的关系</seg>
       </tuv>
     </tu>
     <tu>
@@ -23197,6 +23237,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Valter Mura - Translator EN &gt; IT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081315Z" creationid="yangzy" creationdate="20200425T081315Z">
+        <seg>Valter Mura - 译者（英语 &gt; 意大利语）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Value</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T041743Z" creationid="qinxun" creationdate="20200420T041743Z">
@@ -25394,6 +25442,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080844Z" creationid="yangzy" creationdate="20200425T080844Z">
         <seg>{{site.baseurl_root}}/img/quote1.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{{site.baseurl_root}}/img/quote3.jpg</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081318Z" creationid="yangzy" creationdate="20200425T081318Z">
+        <seg>{{site.baseurl_root}}/img/quote3.jpg</seg>
       </tuv>
     </tu>
     <tu>
