@@ -3462,6 +3462,14 @@ The TMX file will not be loaded.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Apertium Plugin</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T045722Z" creationid="qinxun" creationdate="20200425T045722Z">
+        <seg>Apertium 插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Appearance</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071151Z" creationid="seiga" creationdate="20200421T071151Z">
@@ -4072,6 +4080,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T041846Z" creationid="qinxun" creationdate="20200420T041846Z">
         <seg>浏览...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Browser plugin</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T045743Z" creationid="qinxun" creationdate="20200425T045743Z">
+        <seg>浏览器插件</seg>
       </tuv>
     </tu>
     <tu>
@@ -7639,6 +7655,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fast access to websites.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051122Z" creationid="qinxun" creationdate="20200425T051122Z">
+        <seg>快速访问网站。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fatal error encountered - saving project file with '.recover' backup extension.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T050015Z" creationid="hp" creationdate="20200420T050015Z">
@@ -10647,6 +10671,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T045740Z" creationid="qinxun" creationdate="20200425T045731Z">
+        <seg>把 Apertium 机器翻译功能集成到 OmegaT 中 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Intention</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071352Z" creationid="seiga" creationdate="20200421T071352Z">
@@ -13166,6 +13198,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Okapi Filters Plugin</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T045711Z" creationid="qinxun" creationdate="20200425T045711Z">
+        <seg>Okapi 过滤器插件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT 4.2 - User's Guide</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T025014Z" creationid="qinxun" creationdate="20200419T025014Z">
@@ -15062,6 +15102,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110147Z" creationid="yangzy" creationdate="20200419T110147Z">
         <seg>属性...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Provides filters for handling further file formats, including Trados TTX.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T045719Z" creationid="qinxun" creationdate="20200425T045719Z">
+        <seg>提供用于处理其他文件格式的过滤器，包括 Trados TTX。</seg>
       </tuv>
     </tu>
     <tu>
