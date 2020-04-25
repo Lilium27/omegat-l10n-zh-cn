@@ -5207,6 +5207,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Contributed by Henry Pijffers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051158Z" creationid="qinxun" creationdate="20200425T051158Z">
+        <seg>由 Henry Pijffers 提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Convenient alternative functions or solutions may also exist.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200424T111730Z" creationid="Liliu" creationdate="20200424T111730Z">
@@ -11112,6 +11120,22 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Java command-line script for merging two or more TMX files.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051157Z" creationid="qinxun" creationdate="20200425T051157Z">
+        <seg>用于合并两个或多个 TMX 文件的 Java 命令行脚本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Java command-line script for removing "superfluous" translation units from a TMX file: deletes all TUs without target segment or in which the target segment is identical to the source segment.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051203Z" creationid="qinxun" creationdate="20200425T051203Z">
+        <seg>用来从 TMX 文件中删除“多余”翻译单元的 Java 命令行脚本：删除没有译文片段或译文片段与原文片段完全相同的翻译单元。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Java(TM) Resource Bundles</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T113035Z" creationid="DSS" creationdate="20200419T113035Z">
@@ -11500,6 +11524,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200424T130235Z" creationid="DSS" creationdate="20200424T110431Z">
         <seg>下面提供了各种版本的 OmegaT 链接。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Linux binary version of Toxic.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051451Z" creationid="qinxun" creationdate="20200425T051451Z">
+        <seg>Toxic 的 Linux 二进制版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14196,6 +14228,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110206Z" creationid="yangzy" creationdate="20200419T110206Z">
         <seg>其他在 TMX 中特别标记的翻译可以用不同的颜色来显示。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Other users are advised to use the &lt;a0&gt;Okapi Filters Plugin&lt;/a0&gt; instead.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051441Z" creationid="qinxun" creationdate="20200425T051441Z">
+        <seg>其他用户则建议改用 Okapi 过滤器插件。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20311,6 +20351,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This collection of scripts may be useful to scripters with a knowledge of tcl/tk.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051435Z" creationid="qinxun" creationdate="20200425T051248Z">
+        <seg>这些脚本可能会对掌握 tcl/tk 知识的脚本开发者有所帮助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This command does not work once the modified segment has been validated.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110046Z">
@@ -21237,6 +21285,38 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T050225Z" creationid="hp" creationdate="20200420T050225Z">
         <seg>总共：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toxic for Linux</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051449Z" creationid="qinxun" creationdate="20200425T051449Z">
+        <seg>适用于 Linux 的 Toxic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toxic for Windows</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051445Z" creationid="qinxun" creationdate="20200425T051445Z">
+        <seg>适用于 Windows 的 Toxic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toxic scripts</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051453Z" creationid="qinxun" creationdate="20200425T051453Z">
+        <seg>Toxic 脚本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toxic was contributed by Marc Prior.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051442Z" creationid="qinxun" creationdate="20200425T051442Z">
+        <seg>Toxic 由 Marc Prior 提供。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22429,6 +22509,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Utility for converting Trados TagEditor (TTX) files to an intermediate format, enabling them to be translated in OmegaT.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051233Z" creationid="qinxun" creationdate="20200425T051233Z">
+        <seg>工具程序，把 Trados TagEditor（TTX）文件转换为一种中间格式，使其可以在 OmegaT 中进行翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>VLDocking Framework (LGPL License)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T115703Z" creationid="DSS" creationdate="20200419T115703Z">
@@ -22968,6 +23056,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T134058Z" creationid="Liliu" creationdate="20200418T134058Z">
         <seg>窗口与对话框</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Windows executable version of Toxic.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051446Z" creationid="qinxun" creationdate="20200425T051446Z">
+        <seg>Toxic 的 Windows 可执行版本。</seg>
       </tuv>
     </tu>
     <tu>
