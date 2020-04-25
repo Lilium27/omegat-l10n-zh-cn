@@ -6153,6 +6153,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Diego Merino - Translator EN &gt; ES</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081154Z" creationid="yangzy" creationdate="20200425T081154Z">
+        <seg>Diego Merino - 译者（英语 &gt; 西班牙语）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Diff (GPL)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T120427Z" creationid="DSS" creationdate="20200419T120427Z">
@@ -20028,6 +20036,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T044746Z" creationid="Liliu" creationdate="20200419T044746Z">
         <seg>三种匹配度百分比都会施加罚分：匹配度 75、80、90 在这个案例中会降为 45、50、60。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The perfect companion for those of us who don't need complexity but efficiency; glossaries, auto-complete and automatic translation makes my work in literary translation so much more efficient</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081123Z" creationid="yangzy" creationdate="20200425T081123Z">
+        <seg>对于我们这些追求高效而非复杂的人来说，它是完美的伙伴；术语表、自动完成和自动翻译使我在文学翻译方面的工作更加高效</seg>
       </tuv>
     </tu>
     <tu>
