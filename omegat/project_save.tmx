@@ -2286,6 +2286,22 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Latest Version</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080831Z" creationid="yangzy" creationdate="20200425T080831Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; 最新版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Standard Version</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080732Z" creationid="yangzy" creationdate="20200425T080732Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; 标准版</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; is a free translation memory application that works on Windows, macOS, Linux...</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T075702Z" creationid="yangzy" creationdate="20200425T075507Z">
@@ -3232,8 +3248,8 @@ The current setting is {0}MB;</seg>
       <tuv lang="en">
         <seg>Alternatively, if you already know which version you wish to download, click on the button to have an overview of the different OmegaT versions available.</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080528Z" creationid="yangzy" creationdate="20200425T080528Z">
-        <seg>如果你已经知道想要下载哪个版本，请点击下方按钮浏览 OmegaT 的各种版本。</seg>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080722Z" creationid="yangzy" creationdate="20200425T080528Z">
+        <seg>如果您已经知道想要下载哪个版本，请点击下方按钮以概览 OmegaT 的各种版本。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6573,6 +6589,22 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110140Z" creationid="yangzy" creationdate="20200419T110140Z">
         <seg>下载 MediaWiki 页面...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download Overview</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080703Z" creationid="yangzy" creationdate="20200425T080703Z">
+        <seg>下载概览</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Download Selector</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080538Z" creationid="yangzy" creationdate="20200425T080538Z">
+        <seg>下载选择器</seg>
       </tuv>
     </tu>
     <tu>
@@ -22989,6 +23021,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User portrait</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080835Z" creationid="yangzy" creationdate="20200425T080835Z">
+        <seg>用户头像</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User requirements</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200424T125302Z" creationid="DSS" creationdate="20200424T125302Z">
@@ -24534,6 +24574,30 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>download#downloads</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080651Z" creationid="yangzy" creationdate="20200425T080651Z">
+        <seg>download#downloads</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>download#latest</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080736Z" creationid="yangzy" creationdate="20200425T080736Z">
+        <seg>download#latest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>download#selector</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080644Z" creationid="yangzy" creationdate="20200425T080644Z">
+        <seg>download#selector</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>en</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T025012Z" creationid="qinxun" creationdate="20200419T025012Z">
@@ -25306,6 +25370,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T095844Z" creationid="yangzy" creationdate="20200419T095844Z">
         <seg>{1}, 从 '{2}' 执行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{{site.baseurl_root}}/img/quote1.jpg</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080844Z" creationid="yangzy" creationdate="20200425T080844Z">
+        <seg>{{site.baseurl_root}}/img/quote1.jpg</seg>
       </tuv>
     </tu>
     <tu>
