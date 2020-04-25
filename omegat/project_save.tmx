@@ -1595,6 +1595,14 @@ To add files to the project, click on the Copy Files to Source Folder... button 
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>...and around 30 other file formats</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080054Z" creationid="yangzy" creationdate="20200425T080054Z">
+        <seg>……和近 30 种其他文件格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>...matches the following</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065635Z" creationid="seiga" creationdate="20200421T065635Z">
@@ -5101,6 +5109,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042023Z" creationid="qinxun" creationdate="20200420T042023Z">
         <seg>比较模式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Compatible with other translation memory applications (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080105Z" creationid="yangzy" creationdate="20200425T080105Z">
+        <seg>兼容其他翻译记忆应用程序（TMX、TTX、TXML、XLIFF、SDLXLIFF）</seg>
       </tuv>
     </tu>
     <tu>
@@ -8656,6 +8672,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fuzzy matching</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T075947Z" creationid="yangzy" creationdate="20200425T075947Z">
+        <seg>模糊匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051912Z" creationid="qinxun" creationdate="20200425T051912Z">
@@ -10903,6 +10927,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Integral spelling checker</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080103Z" creationid="yangzy" creationdate="20200425T080103Z">
+        <seg>完备的拼写检查器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Integrates the Apertium machine translation functionality into OmegaT.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T045740Z" creationid="qinxun" creationdate="20200425T045731Z">
@@ -10915,6 +10947,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071352Z" creationid="seiga" creationdate="20200421T071352Z">
         <seg>目的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Interface to Google Translate</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080139Z" creationid="yangzy" creationdate="20200425T080139Z">
+        <seg>提供连接 Google 翻译的接口</seg>
       </tuv>
     </tu>
     <tu>
@@ -12264,6 +12304,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Match propagation</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T075950Z" creationid="yangzy" creationdate="20200425T075950Z">
+        <seg>扩展传播</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Match type</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T041842Z" creationid="qinxun" creationdate="20200420T041842Z">
@@ -12352,6 +12400,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>MediaWiki (Wikipedia)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080051Z" creationid="yangzy" creationdate="20200425T080051Z">
+        <seg>MediaWiki（维基百科）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Memor&amp;y</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T050646Z" creationid="hp" creationdate="20200420T050646Z">
@@ -12412,6 +12468,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101558Z" creationid="yangzy" creationdate="20200419T101558Z">
         <seg>Microsoft Translator 订阅密钥不可用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Microsoft Word, Excel, Power</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080041Z" creationid="yangzy" creationdate="20200425T080041Z">
+        <seg>Microsoft Word、Excel、Power</seg>
       </tuv>
     </tu>
     <tu>
@@ -13566,6 +13630,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT Screenshot</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080142Z" creationid="yangzy" creationdate="20200425T080142Z">
+        <seg>OmegaT 屏幕截图</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT also backs up the translation memory to project_save.tmx.YEARMMDDHHNN.bak in the same subfolder each time a project is opened or reloaded.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T070942Z" creationid="hp" creationdate="20200418T070942Z">
@@ -14096,6 +14168,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T070851Z" creationid="seiga" creationdate="20200421T070851Z">
         <seg>打开</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Open Document Format (LibreOffice, OpenOffice.org)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080047Z" creationid="yangzy" creationdate="20200425T080047Z">
+        <seg>开放文档格式（LibreOffice、OpenOffice.org）</seg>
       </tuv>
     </tu>
     <tu>
@@ -14748,6 +14828,14 @@ Vanishing like mist</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Plain text</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080052Z" creationid="yangzy" creationdate="20200425T080052Z">
+        <seg>纯文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Platform-independent; require tcl/tk.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051508Z" creationid="qinxun" creationdate="20200425T051508Z">
@@ -14985,6 +15073,14 @@ additional steps need to be taken.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Powerful tools</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080057Z" creationid="yangzy" creationdate="20200425T080057Z">
+        <seg>强大的工具</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Pre-defined themes can be set using scripts.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071157Z" creationid="seiga" creationdate="20200421T071157Z">
@@ -15214,6 +15310,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T114735Z" creationid="Liliu" creationdate="20200419T114735Z">
         <seg>正在处理...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Professional features</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T075946Z" creationid="yangzy" creationdate="20200425T075946Z">
+        <seg>专业功能</seg>
       </tuv>
     </tu>
     <tu>
@@ -17826,6 +17930,22 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Simultaneous processing of multiple-file projects</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080014Z" creationid="yangzy" creationdate="20200425T080014Z">
+        <seg>同时处理多文件项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Simultaneous use of multiple translation memories</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080019Z" creationid="yangzy" creationdate="20200425T080019Z">
+        <seg>同时使用多个翻译记忆库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Size</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T063231Z" creationid="seiga" creationdate="20200421T063231Z">
@@ -18512,6 +18632,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T123437Z" creationid="DSS" creationdate="20200419T123437Z">
         <seg>SuperTMXMerge (Apache许可 2.0)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Support for right-to-left languages</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080101Z" creationid="yangzy" creationdate="20200425T080101Z">
+        <seg>支持从右向左的语言</seg>
       </tuv>
     </tu>
     <tu>
@@ -21497,6 +21625,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To find the version most suitable for you, follow the link below to the Download Selector.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080355Z" creationid="yangzy" creationdate="20200425T080355Z">
+        <seg>请点击以下链接进入下载选择器，寻找最适合您的软件版本，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To install &lt;a0&gt;OmegaT&lt;/a0&gt;, double-click on the program you have downloaded.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T112024Z" creationid="DSS" creationdate="20200419T112024Z">
@@ -22315,6 +22451,14 @@ Exact searches match the whole search string.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unicode (UTF-8) support: can be used with non-Latin alphabets</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080059Z" creationid="yangzy" creationdate="20200425T080059Z">
+        <seg>Unicode（UTF-8）支持：可用于非拉丁字母</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Uninstalling failed</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T100019Z" creationid="yangzy" creationdate="20200419T100019Z">
@@ -22809,6 +22953,14 @@ on line {1}, column {2}.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T111224Z" creationid="Liliu" creationdate="20200419T111224Z">
         <seg>用户拒绝凭证</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>User glossaries with recognition of inflected forms</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080032Z" creationid="yangzy" creationdate="20200425T080032Z">
+        <seg>带词形变化识别的用户词汇表</seg>
       </tuv>
     </tu>
     <tu>
@@ -23588,6 +23740,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Work with more than 30 file formats</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080036Z" creationid="yangzy" creationdate="20200425T080036Z">
+        <seg>可处理超过 30 种文件格式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Working offline</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200418T120925Z" creationid="DSS" creationdate="20200418T120925Z">
@@ -23736,6 +23896,14 @@ Your page is not found</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T122057Z" creationid="DSS" creationdate="20200419T122057Z">
         <seg>XHTML 过滤器选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XHTML and HTML</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080045Z" creationid="yangzy" creationdate="20200425T080045Z">
+        <seg>XHTML 和 HTML</seg>
       </tuv>
     </tu>
     <tu>
@@ -25130,6 +25298,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T095844Z" creationid="yangzy" creationdate="20200419T095844Z">
         <seg>{1}, 从 '{2}' 执行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{{site.baseurl_root}}/img/screenshots/main_window_{{ site.lang }}.png</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080211Z" creationid="yangzy" creationdate="20200425T080211Z">
+        <seg>{{site.baseurl_root}}/img/screenshots/main_window_{{ site.lang }}.png</seg>
       </tuv>
     </tu>
     <tu>
