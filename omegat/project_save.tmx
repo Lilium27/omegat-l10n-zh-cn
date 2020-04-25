@@ -2766,6 +2766,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add numbers to all segments, making them all "unique"</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T052206Z" creationid="qinxun" creationdate="20200425T052206Z">
+        <seg>为所有句段添加编号，使其变为“唯一”句段”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Add or rewrite encoding declaration in HTML and XHTML files:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T121843Z" creationid="DSS" creationdate="20200419T121843Z">
@@ -4648,6 +4656,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T093710Z" creationid="yangzy" creationdate="20200419T093710Z">
         <seg>检查简单的 Java MessageFormat 模式(&amp;J) （例如 {0}）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Check spelling (various procedures)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T052231Z" creationid="qinxun" creationdate="20200425T052231Z">
+        <seg>拼写检查（各种流程）</seg>
       </tuv>
     </tu>
     <tu>
@@ -15906,6 +15922,14 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071451Z" creationid="seiga" creationdate="20200421T071451Z">
         <seg>列出了所有在 OmegaT 中存储了登录详细信息的项目。如果您希望 OmegaT 在每次访问此项目时要求输入登录名和密码，请从此列表中删除该项目。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Remove all text except tags, or all tags except text</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T052225Z" creationid="qinxun" creationdate="20200425T052225Z">
+        <seg>删除标签以外的所有文本，或文本以外的所有标签</seg>
       </tuv>
     </tu>
     <tu>
