@@ -2302,6 +2302,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>A comprehensive suite of utilities for preparing files for translation in a CAT tool.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051853Z" creationid="qinxun" creationdate="20200425T051853Z">
+        <seg>一整套工具程序，用于准备在 CAT 工具中进行翻译的文件。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A copy of the changed filters configuration will be stored with the project.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T064724Z" creationid="hp" creationdate="20200418T064724Z">
@@ -2314,6 +2322,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T065653Z" creationid="seiga" creationdate="20200421T065653Z">
         <seg>货币符号</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A detailed tutorial is available.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051907Z" creationid="qinxun" creationdate="20200425T051907Z">
+        <seg>以下教程可供在线查阅或下载：</seg>
       </tuv>
     </tu>
     <tu>
@@ -2762,6 +2778,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T074301Z" creationid="hp" creationdate="20200418T074301Z">
         <seg>使用通配符（Apache Ant 风格）添加模式：*、?、**</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add terms to a glossary whilst translating in OmegaT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T052115Z" creationid="qinxun" creationdate="20200425T052115Z">
+        <seg>在使用 OmegaT 进行翻译时，向词汇表内添加词汇</seg>
       </tuv>
     </tu>
     <tu>
@@ -3354,6 +3378,14 @@ The TMX file will not be loaded.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200424T105513Z" creationid="Liliu" creationdate="20200424T105513Z">
         <seg>这种自由的一个重要方面是用户也可以修改程序的代码。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>An intelligent command-line alignment tool for producing translation memory files from legacy texts and their translations.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051918Z" creationid="qinxun" creationdate="20200425T051918Z">
+        <seg>智能的命令行对齐工具，用于根据过往文本及其译文生成翻译记忆库。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5497,6 +5529,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Create a TMX file containing all strings, with identical source and target</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T052058Z" creationid="qinxun" creationdate="20200425T052058Z">
+        <seg>创建一个 TMX 文件，其中包含所有字符串且原文文本与译文文本完全相同</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Create a folder (a "repository folder") in a convenient location on your hard drive for the translation memories for a particular customer or subject.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T072019Z" creationid="hp" creationdate="20200418T072019Z">
@@ -5869,6 +5909,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T115020Z" creationid="Liliu" creationdate="20200419T115020Z">
         <seg>描述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Descriptions of and links to Samuel Murray's scripts/procedures.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051923Z" creationid="qinxun" creationdate="20200425T051923Z">
+        <seg>Samuel Murray 的脚本/流程的描述和链接。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6871,6 +6919,14 @@ Your help page not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Enables a number of file formats to be translated which cannot be handled natively in OmegaT.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051905Z" creationid="qinxun" creationdate="20200425T051905Z">
+        <seg>可以让大量 OmegaT 无法直接处理的文件格式变得可以翻译。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Enables automatic notification of &lt;a0&gt;OmegaT&lt;/a0&gt; updates.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071521Z" creationid="seiga" creationdate="20200421T071521Z">
@@ -7635,6 +7691,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T075444Z" creationid="hp" creationdate="20200418T075444Z">
         <seg>可以用外部工具将文件转换为支持的格式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Extract all source text from the project files into a single, large text file</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T052052Z" creationid="qinxun" creationdate="20200425T052052Z">
+        <seg>从项目文件中提取所有原文文本，将其合并为单个大文本文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -8407,6 +8471,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Free (compatible) alternatives to Microsoft Office.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051823Z" creationid="qinxun" creationdate="20200425T051823Z">
+        <seg>Microsoft Office 的免费（兼容）替代产品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>French</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T122122Z" creationid="DSS" creationdate="20200419T122122Z">
@@ -8532,6 +8604,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200418T134409Z" creationid="Liliu" creationdate="20200418T134409Z">
         <seg>模糊匹配窗格：拖进去的 &lt;f0&gt;.tmx&lt;/f0&gt; 文件会复制到 &lt;f1&gt;tm&lt;/f1&gt; 文件夹。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GUI alignment tool for producing translation memory files from legacy texts and their translations.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051912Z" creationid="qinxun" creationdate="20200425T051912Z">
+        <seg>图形界面的对齐工具，用于根据过往文本及其译文生成翻译记忆库。</seg>
       </tuv>
     </tu>
     <tu>
@@ -12440,6 +12520,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Most of these scripts require MS Windows, although some procedures may also work on other platforms.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T052025Z" creationid="qinxun" creationdate="20200425T052025Z">
+        <seg>虽然其中部分流程在其他平台上也可能生效，但大多数脚本都需要在 Microsoft Windows 系统上运行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Mourning and sorrow
 404 not with us now
 Lost to paradise</seg>
@@ -13358,6 +13446,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Okapi Framework</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051825Z" creationid="qinxun" creationdate="20200425T051825Z">
+        <seg>Okapi 框架</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT 4.2 - User's Guide</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200419T025014Z" creationid="qinxun" creationdate="20200419T025014Z">
@@ -13840,6 +13936,14 @@ your home folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200424T111723Z" creationid="Liliu" creationdate="20200424T111723Z">
         <seg>原因之一是所需的功能可能已经实现，或者可能由于某些原因而无法实现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Online repositories of spelling dictionaries for use within OmegaT.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051815Z" creationid="qinxun" creationdate="20200425T051815Z">
+        <seg>可在 OmegaT 中使用的拼写词典的在线存储库。</seg>
       </tuv>
     </tu>
     <tu>
@@ -16408,6 +16512,14 @@ These words: 'Page not found'</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Samuel Murray's scripts and procedures</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051921Z" creationid="qinxun" creationdate="20200425T051921Z">
+        <seg>Samuel Murray 的脚本与流程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Save</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110143Z" creationid="yangzy" creationdate="20200419T110143Z">
@@ -16654,6 +16766,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T101817Z" creationid="yangzy" creationdate="20200419T101817Z">
         <seg>{0} 已加载。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Scripts/procedures are available to enable you to do the following:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T052029Z" creationid="qinxun" creationdate="20200425T052029Z">
+        <seg>这些脚本/流程可以让你做到： </seg>
       </tuv>
     </tu>
     <tu>
@@ -17634,6 +17754,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Skip segments containing a certain set of characters</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T052040Z" creationid="qinxun" creationdate="20200425T052031Z">
+        <seg>跳过包含特定字符集合的句段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Skip text matching regular expression:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T121902Z" creationid="DSS" creationdate="20200419T121902Z">
@@ -18070,6 +18198,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T043120Z" creationid="qinxun" creationdate="20200420T043120Z">
         <seg>拼写问题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Spelling dictionaries</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051812Z" creationid="qinxun" creationdate="20200425T051812Z">
+        <seg>拼写词典</seg>
       </tuv>
     </tu>
     <tu>
@@ -20369,6 +20505,22 @@ You, victim of one</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071227Z" creationid="seiga" creationdate="20200421T071227Z">
         <seg>在翻译中它们将显示为单独的片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Third-party software</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051807Z" creationid="qinxun" creationdate="20200425T051807Z">
+        <seg>第三方软件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Third-party software for use with OmegaT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051809Z" creationid="qinxun" creationdate="20200425T051809Z">
+        <seg>与 OmegaT 一起使用的第三方软件</seg>
       </tuv>
     </tu>
     <tu>
@@ -24162,6 +24314,14 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T122024Z" creationid="DSS" creationdate="20200419T122024Z">
         <seg>hreflang（链接的语言）(&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>howtos/spelling.html#repositories</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051811Z" creationid="qinxun" creationdate="20200425T051811Z">
+        <seg>删除存储库</seg>
       </tuv>
     </tu>
     <tu>
