@@ -2926,6 +2926,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Administration</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034602Z" creationid="seiga" creationdate="20200427T034602Z">
+        <seg>管理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>After</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071353Z" creationid="seiga" creationdate="20200421T071353Z">
@@ -4252,6 +4260,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Bugs, feature requests and documentation issues are handled on Sourceforge by the following tracking systems.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034551Z" creationid="seiga" creationdate="20200427T034551Z">
+        <seg>Bug、功能建议和文档问题是在 Sourceforge 上通过以下跟踪系统处理的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>But I can't program at all, I hear you say.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T082351Z" creationid="yangzy" creationdate="20200425T082351Z">
@@ -4264,6 +4280,22 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081644Z" creationid="yangzy" creationdate="20200425T081644Z">
         <seg>但是编程并不是唯一的工作内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By Arno Peters and Mariëtte van Drunen (in Dutch).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034639Z" creationid="seiga" creationdate="20200427T034639Z">
+        <seg>作者：Arno Peters 和 Mari?tte van Drunen（荷兰语）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By Asier Sarasua Garmendia (in Basque).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034651Z" creationid="seiga" creationdate="20200427T034651Z">
+        <seg>作者：Asier Sarasua Garmendia（巴斯克语）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4300,10 +4332,34 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>By Takashi Miyamoto (in Japanese).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034657Z" creationid="seiga" creationdate="20200427T034657Z">
+        <seg>OmegaT 1.6.1_1 点评。作者：Takashi Miyamoto（日语）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>By Vladimir Zhdanov (in Russian).</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200424T094831Z" creationid="hp" creationdate="20200424T094831Z">
         <seg>作者：Vladimir Zhdanov（俄语）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By Václav Hejda (in Czech).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034643Z" creationid="seiga" creationdate="20200427T034643Z">
+        <seg>OmegaT 2.3.0 点评。作者：Václav Hejda（捷克语）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>By Yutaka Kachi (in Japanese).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034648Z" creationid="seiga" creationdate="20200427T034648Z">
+        <seg>OmegaT 1.6 RC5 点评。作者：Yutaka Kachi（日语）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -6065,6 +6121,14 @@ Buy another drink</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Description of OmegaT (2008).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034650Z" creationid="seiga" creationdate="20200427T034650Z">
+        <seg>OmegaT 说明书（2008）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Descriptions of and links to Samuel Murray's scripts/procedures.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051923Z" creationid="qinxun" creationdate="20200425T051923Z">
@@ -6101,6 +6165,14 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T111237Z" creationid="Liliu" creationdate="20200419T111237Z">
         <seg>检测中...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034527Z" creationid="seiga" creationdate="20200427T034527Z">
+        <seg>开发人员</seg>
       </tuv>
     </tu>
     <tu>
@@ -6597,6 +6669,22 @@ Buy another drink</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081703Z" creationid="yangzy" creationdate="20200425T081703Z">
         <seg>文档写作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Documentation manager</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034525Z" creationid="seiga" creationdate="20200427T034525Z">
+        <seg>文档经理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Documentation tracking system</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034556Z" creationid="seiga" creationdate="20200427T034556Z">
+        <seg>文档跟踪系统</seg>
       </tuv>
     </tu>
     <tu>
@@ -7195,6 +7283,14 @@ Your help page not found</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T122118Z" creationid="DSS" creationdate="20200419T122118Z">
         <seg>英语（English）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>English version translators</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034510Z" creationid="seiga" creationdate="20200427T034510Z">
+        <seg>英语版本译者</seg>
       </tuv>
     </tu>
     <tu>
@@ -7911,6 +8007,14 @@ Gossamer threads hold you back
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Facebook group</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034558Z" creationid="seiga" creationdate="20200427T034558Z">
+        <seg>Facebook 群组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Failed to back up preferences file.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T052603Z" creationid="hp" creationdate="20200420T052603Z">
@@ -7995,6 +8099,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T052613Z" creationid="hp" creationdate="20200420T052613Z">
         <seg>解析时在第 {0} 行第 {1} 列时出现致命错误：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Feature requests tracking system</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034554Z" creationid="seiga" creationdate="20200427T034554Z">
+        <seg>功能建议跟踪系统</seg>
       </tuv>
     </tu>
     <tu>
@@ -8571,6 +8683,14 @@ Gossamer threads hold you back
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071233Z" creationid="seiga" creationdate="20200421T071233Z">
         <seg>例如，如果文件过滤器指定 UTF8 作为译文文件的编码方案，则勾选本选项将始终确保此信息包含在已译文件中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>For support requests, use the &lt;a1&gt;recommended support channel&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034608Z" creationid="seiga" creationdate="20200427T034608Z">
+        <seg>对于支持请求，请使用推荐的支持渠道。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11143,6 +11263,14 @@ their defaults as a result of the location change.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Integration manager</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034523Z" creationid="seiga" creationdate="20200427T034523Z">
+        <seg>集成经理</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Intention</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071352Z" creationid="seiga" creationdate="20200421T071352Z">
@@ -11155,6 +11283,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T080139Z" creationid="yangzy" creationdate="20200425T080139Z">
         <seg>提供连接 Google 翻译的接口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Introduction to OmegaT (2.5.0).</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034631Z" creationid="seiga" creationdate="20200427T034631Z">
+        <seg>OmegaT 简介（2.5.0）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11259,6 +11395,14 @@ their defaults as a result of the location change.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042225Z" creationid="qinxun" creationdate="20200420T042225Z">
         <seg>{0} 的问题 ({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Issues/bugs tracking system</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034553Z" creationid="seiga" creationdate="20200427T034553Z">
+        <seg>问题/Bug 跟踪系统</seg>
       </tuv>
     </tu>
     <tu>
@@ -11516,6 +11660,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T132052Z" creationid="Liliu" creationdate="20200419T132052Z">
         <seg>项目：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034518Z" creationid="seiga" creationdate="20200427T034518Z">
+        <seg>其目的是开发、发行开源翻译记忆软件 OmegaT，并对 OmegaT 的使用提供支持。</seg>
       </tuv>
     </tu>
     <tu>
@@ -11928,6 +12080,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Lead developer</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034522Z" creationid="seiga" creationdate="20200427T034522Z">
+        <seg>首席开发人员</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Learn to use OmegaT in 5 minutes!</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200418T122156Z" creationid="DSS" creationdate="20200418T122156Z">
@@ -12112,6 +12272,14 @@ inside the configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Localization manager, user group owner</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034526Z" creationid="seiga" creationdate="20200427T034526Z">
+        <seg>本地化经理、用户组主管</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Localization resources</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051744Z" creationid="qinxun" creationdate="20200425T051744Z">
@@ -12220,6 +12388,14 @@ inside the configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T113650Z" creationid="DSS" creationdate="20200419T113650Z">
         <seg>Magento CE 语言环境 CSV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mailing lists</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034543Z" creationid="seiga" creationdate="20200427T034543Z">
+        <seg>邮件列表</seg>
       </tuv>
     </tu>
     <tu>
@@ -13886,6 +14062,14 @@ Lost to paradise</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT also has the following mailing lists and trackers, which are hosted on Sourceforge:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034544Z" creationid="seiga" creationdate="20200427T034544Z">
+        <seg>OmegaT还有以下邮件列表与跟踪器，它们托管在 Sourceforge 上：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT automatically saves translations every 3 minutes as well as when you close the project or quit OmegaT.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200419T110143Z" creationid="yangzy" creationdate="20200419T110143Z">
@@ -13946,6 +14130,22 @@ Lost to paradise</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071408Z" creationid="seiga" creationdate="20200421T071408Z">
         <seg>OmegaT内置有拼写检查器，它基于 Apache OpenOffice、LibreOffice、Firefox 和 Thunderbird 中使用的拼写检查器。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT has a presence on various social networks.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034557Z" creationid="seiga" creationdate="20200427T034557Z">
+        <seg>OmegaT 在各种社交网络上都有存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT has a very active, supportive and multilingual user group.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034538Z" creationid="seiga" creationdate="20200427T034538Z">
+        <seg>OmegaT 拥有非常活跃、极为支持的、多语言的用户组。</seg>
       </tuv>
     </tu>
     <tu>
@@ -14776,6 +14976,14 @@ your home folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Original author of the OmegaT application</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034519Z" creationid="seiga" creationdate="20200427T034519Z">
+        <seg>OmegaT 应用程序的原作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Orphan segments</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T054902Z" creationid="hp" creationdate="20200420T050211Z">
@@ -15168,6 +15376,22 @@ to determine the source of the error and try again.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Please contact the &lt;a0&gt;OmegaT project manager&lt;/a0&gt; regarding any point not covered above.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034605Z" creationid="seiga" creationdate="20200427T034605Z">
+        <seg>任何上面未涵盖的点，请联系 OmegaT 项目经理。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please contact the &lt;a3&gt;webmaster&lt;/a3&gt; for any point regarding specifically the website.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034609Z" creationid="seiga" creationdate="20200427T034609Z">
+        <seg>关于网站有任何问题请联系网站管理员。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Please contact your project administrator to find out if any
 additional steps need to be taken.</seg>
       </tuv>
@@ -15181,6 +15405,14 @@ additional steps need to be taken.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200421T065854Z" creationid="seiga" creationdate="20200421T062829Z">
         <seg>请在再次创建译文文档前请修正标签问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please do not use these tracking systems before first raising the issue on the user group and/or mailing lists.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034552Z" creationid="seiga" creationdate="20200427T034552Z">
+        <seg>未在用户组和/或邮件列表上提出问题之前，请不要使用这些跟踪系统。</seg>
       </tuv>
     </tu>
     <tu>
@@ -15822,6 +16054,14 @@ project without team functionality.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T114558Z" creationid="Liliu" creationdate="20200419T102145Z">
         <seg>项目已锁定。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project manager</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034521Z" creationid="seiga" creationdate="20200427T034521Z">
+        <seg>项目经理</seg>
       </tuv>
     </tu>
     <tu>
@@ -16844,6 +17084,38 @@ These words: 'Page not found'</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200418T071540Z" creationid="hp" creationdate="20200418T071540Z">
         <seg>重用翻译记忆库</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Review of OmegaT 1.6 RC5.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034646Z" creationid="seiga" creationdate="20200427T034646Z">
+        <seg>OmegaT 的点评</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Review of OmegaT 1.6.1_1.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034654Z" creationid="seiga" creationdate="20200427T034654Z">
+        <seg>OmegaT 的点评</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Review of OmegaT 2.3.0.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034642Z" creationid="seiga" creationdate="20200427T034642Z">
+        <seg>OmegaT 的点评</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Reviews of OmegaT</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034629Z" creationid="seiga" creationdate="20200427T034629Z">
+        <seg>OmegaT 的点评</seg>
       </tuv>
     </tu>
     <tu>
@@ -18274,6 +18546,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Since the project's inception, it has received the support of dozens of other contributors, too numerous to mention here, but for whose help we are very grateful.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034532Z" creationid="seiga" creationdate="20200427T034532Z">
+        <seg>自项目启动以来，它已经得到了许多其他贡献者的支持，人数太多在此无法全部列出，但我们非常感激他们的帮助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Size</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T063231Z" creationid="seiga" creationdate="20200421T063231Z">
@@ -18354,6 +18634,14 @@ The scope of a search is by default the project and can be set to be any files l
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Social Networks</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034556Z" creationid="seiga" creationdate="20200427T034556Z">
+        <seg>社交网络</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Some alignments still need review.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200420T042153Z" creationid="qinxun" creationdate="20200420T042153Z">
@@ -18406,6 +18694,14 @@ The scope of a search is by default the project and can be set to be any files l
       </tuv>
       <tuv lang="zh-CN" changeid="Liliu" changedate="20200419T044132Z" creationid="Liliu" creationdate="20200419T044132Z">
         <seg>有时，将由于题材、客户、修订状态等原因而不太可靠的翻译记忆库与高质量的翻译记忆库区分开来会很有帮助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Sorry</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034410Z" creationid="seiga" creationdate="20200427T034410Z">
+        <seg>抱歉</seg>
       </tuv>
     </tu>
     <tu>
@@ -19679,10 +19975,34 @@ current folder will be used instead.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The OmegaT developers' list.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034547Z" creationid="seiga" creationdate="20200427T034547Z">
+        <seg>OmegaT 开发人员的邮件列表。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT project</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034517Z" creationid="seiga" creationdate="20200427T034517Z">
+        <seg>OmegaT 项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The OmegaT project and you</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081522Z" creationid="yangzy" creationdate="20200425T081522Z">
         <seg>您与 OmegaT 项目的关系</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT project is maintained by an informal, international group of volunteers.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034517Z" creationid="seiga" creationdate="20200427T034517Z">
+        <seg>OmegaT 项目由非一个正式的国际志愿者小组维护。</seg>
       </tuv>
     </tu>
     <tu>
@@ -20392,6 +20712,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034531Z" creationid="seiga" creationdate="20200427T034531Z">
+        <seg>项目理念在此处有所描述。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The predefined break rules should be sufficient for most European languages and Japanese.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071342Z" creationid="seiga" creationdate="20200421T071342Z">
@@ -20420,6 +20748,14 @@ xx or xxx is the language code and YY is the region or country code (optional).<
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200420T055043Z" creationid="yangzy" creationdate="20200419T110122Z">
         <seg>会打开上一个带有备注的句段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The principal members of the project are:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034519Z" creationid="seiga" creationdate="20200427T034519Z">
+        <seg>该项目的主要成员是：</seg>
       </tuv>
     </tu>
     <tu>
@@ -21487,6 +21823,14 @@ the server.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>This is the &lt;a0&gt;recommended support channel&lt;/a0&gt;, which users are strongly encouraged to join.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034542Z" creationid="seiga" creationdate="20200427T034542Z">
+        <seg>强烈建议用户加入推荐的支持渠道。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>This is the default.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071435Z" creationid="seiga" creationdate="20200421T071435Z">
@@ -21547,6 +21891,22 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200424T112048Z" creationid="hp" creationdate="20200424T112048Z">
         <seg>该行定义了谷歌的 API 密钥。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This list is for more technical discussion of features and development, and is intended for OmegaT developers and other interested parties.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034548Z" creationid="seiga" creationdate="20200427T034548Z">
+        <seg>此邮件列表针对的是关于功能和开发的更技术性的讨论，适用于 OmegaT 的开发人员和其他相关方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>This mailing list is for localizers of OmegaT.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034550Z" creationid="seiga" creationdate="20200427T034550Z">
+        <seg>此邮件列表适用于 OmegaT 的本地化人员。</seg>
       </tuv>
     </tu>
     <tu>
@@ -22277,6 +22637,14 @@ the server.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="qinxun" changedate="20200425T051442Z" creationid="qinxun" creationdate="20200425T051442Z">
         <seg>Toxic 由 Marc Prior 提供。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Tracking system</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034551Z" creationid="seiga" creationdate="20200427T034551Z">
+        <seg>跟踪系统</seg>
       </tuv>
     </tu>
     <tu>
@@ -23365,6 +23733,14 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>User group</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034536Z" creationid="seiga" creationdate="20200427T034536Z">
+        <seg>用户组</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User manual online</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200424T094735Z" creationid="hp" creationdate="20200424T094735Z">
@@ -23735,10 +24111,42 @@ on line {1}, column {2}.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>We could not find the page you are looking for.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034422Z" creationid="seiga" creationdate="20200427T034422Z">
+        <seg>我们找不到您要查找的页面。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>WebVTT Subtitles</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="DSS" changedate="20200419T113636Z" creationid="DSS" creationdate="20200419T113636Z">
         <seg>WebVTT 字幕</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Website content authors</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034457Z" creationid="seiga" creationdate="20200427T034457Z">
+        <seg>网站内容作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Website design</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034506Z" creationid="seiga" creationdate="20200427T034506Z">
+        <seg>网站设计</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Website manager</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034524Z" creationid="seiga" creationdate="20200427T034524Z">
+        <seg>网站经理</seg>
       </tuv>
     </tu>
     <tu>
@@ -24581,6 +24989,14 @@ Your page is not found</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034425Z" creationid="seiga" creationdate="20200427T034425Z">
+        <seg>您可以前往主页，希望在那里能找到您需要的信息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>You can have the source text inserted automatically into the editing field.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="seiga" changedate="20200421T071416Z" creationid="seiga" creationdate="20200421T071416Z">
@@ -25086,6 +25502,14 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>http://www.imasy.or.jp/%7Emiyamoto/rpg/OmegaT/index.html</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034652Z" creationid="seiga" creationdate="20200427T034652Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>http://www.magenshop.com/magento-wiki/how-to-translate-magento-using-omegat-software.html</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200424T094924Z" creationid="hp" creationdate="20200424T094924Z">
@@ -25110,10 +25534,58 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>https://lists.sourceforge.net/lists/listinfo/omegat-development</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034545Z" creationid="seiga" creationdate="20200427T034545Z">
+        <seg>https://term.tilde.com/taas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://lists.sourceforge.net/lists/listinfo/omegat-l10n</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034548Z" creationid="seiga" creationdate="20200427T034548Z">
+        <seg>https://term.tilde.com/taas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034553Z" creationid="seiga" creationdate="20200427T034553Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/documentation/</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034555Z" creationid="seiga" creationdate="20200427T034555Z">
+        <seg>https://sourceforge.net/p/omegat/wiki/Reference%20Material/ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>https://sourceforge.net/p/omegat/donate/?source=website</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T082046Z" creationid="yangzy" creationdate="20200425T082046Z">
         <seg>https://sourceforge.net/p/omegat/donate/?source=website</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034554Z" creationid="seiga" creationdate="20200427T034554Z">
+        <seg>http://sourceforge.net/p/omegat/feature-requests/963/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>https://twitter.com/OmegaTOfficial</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034559Z" creationid="seiga" creationdate="20200427T034559Z">
+        <seg>https://term.tilde.com/taas</seg>
       </tuv>
     </tu>
     <tu>
@@ -25278,9 +25750,25 @@ create its configuration folder.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>mailto:info@omegat.org</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034602Z" creationid="seiga" creationdate="20200427T034602Z">
+        <seg>mailto:localization@omegat.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>mailto:localization@omegat.org</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="yangzy" changedate="20200425T081802Z" creationid="yangzy" creationdate="20200425T081802Z">
+        <seg>mailto:localization@omegat.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>mailto:webmaster@omegat.org</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034604Z" creationid="seiga" creationdate="20200427T034604Z">
         <seg>mailto:localization@omegat.org</seg>
       </tuv>
     </tu>
@@ -25730,6 +26218,62 @@ create its configuration folder.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="hp" changedate="20200424T113650Z" creationid="hp" creationdate="20200424T112120Z">
         <seg>在 "XXXXXXXX" 处填入谷歌提供的 API。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{% endfor %}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034505Z" creationid="seiga" creationdate="20200427T034505Z">
+        <seg> {% endfor %} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{% endif %}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034516Z" creationid="seiga" creationdate="20200427T034516Z">
+        <seg> {% endif %} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{% endif %} {% endfor %}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034529Z" creationid="seiga" creationdate="20200427T034529Z">
+        <seg>{% endif %} {% endfor %} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{% for author in site.data.credits.website %}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034502Z" creationid="seiga" creationdate="20200427T034502Z">
+        <seg> {% for author in site.data.credits.website %} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{% for dev in site.data.contributors %} {% if dev.name.size &gt; 0 %}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034528Z" creationid="seiga" creationdate="20200427T034528Z">
+        <seg> {% for dev in site.data.contributors %} {% if dev.name.size &gt; 0 %}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{% for translator in site.data.credits.translators[site.lang] %}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034512Z" creationid="seiga" creationdate="20200427T034512Z">
+        <seg> {% for translator in site.data.credits.translators[site.lang] %} </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{% if site.lang != "en" %}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="seiga" changedate="20200427T034509Z" creationid="seiga" creationdate="20200427T034509Z">
+        <seg> {% if site.lang != "en" %} </seg>
       </tuv>
     </tu>
     <tu>
